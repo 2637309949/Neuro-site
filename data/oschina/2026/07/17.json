@@ -1,0 +1,173 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T14:54:44.000330+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Kimi K3 全面解读：2.8 万亿参数、48 小时造芯片、以及一个正在被开源模型追上的 AI 竞争格局",
+      "url": "https://www.oschina.net/news/472928",
+      "summary": "7 月 17 日凌晨，月之暗面发布了 Kimi K3。 数字可以快速过一遍：2.8 万亿参数，MoE 架构，896 个 expert 每次激活 16 个，100 万 token 上下文窗口...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "✨ NocoBase 2.2-beta 发布：开源无代码 / 低代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/472911",
+      "summary": "原文链接：https://www.nocobase.com/cn/blog/2.2.0-beta 这是一次围绕 V2 体验的重要升级。这个版本带来了 多工作区、新移动端、新评论区块，同时...",
+      "author": "NocoBase",
+      "comments": 0
+    },
+    {
+      "title": "GOAI 世界人工智能开源大赛官网上线，全球报名正式开启",
+      "url": "https://my.oschina.net/u/4806939/blog/19723480",
+      "summary": "GOAI 世界人工智能开源大赛（Global Open-source AI Challenge）正式上线",
+      "author": "哈哈欧尼OSC",
+      "comments": 0
+    },
+    {
+      "title": "WAIC热点！国家超算互联网招募科学智能体开发者",
+      "url": "https://www.oschina.net/news/472858",
+      "summary": "7月17日，在2026世界人工智能大会（WAIC）上，国家超算互联网发布的科学计算智能体生态共创与开发者招募合作计划（以下简称“智能体共创计划”）受...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：提升大规模数据处理效率",
+      "url": "https://www.oschina.net/news/472848",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。...",
+      "author": "bklitecanway",
+      "comments": 0
+    },
+    {
+      "title": "闸机高效稳跑，通勤提速升级！银河麒麟赋能北京轨交新基建",
+      "url": "https://www.oschina.net/news/472808",
+      "summary": "“我算了算，通勤时间来回能节省一小时！” 7月1日，北京市郊铁路城市副中心线西段整体提升工程（北京西至良乡段）正式开通试运营。线路全长31.5公...",
+      "author": "银河麒麟操作系统",
+      "comments": 0
+    },
+    {
+      "title": "业务集群崩溃迷雾重重！麒麟软件 48 小时绝地破局",
+      "url": "https://www.oschina.net/news/472793",
+      "summary": "2026年某天深夜，某金融客户业务系统集群突发重大故障，部分业务中断。面对多层技术栈耦合、故障表象高度迷惑的复杂现场，麒麟软件凭借标准化排查方...",
+      "author": "银河麒麟操作系统",
+      "comments": 0
+    },
+    {
+      "title": "OpenAI 首款硬件是一个迷你键盘，用于控制 AI 编程 Agent",
+      "url": "https://www.oschina.net/news/472745/openai-releases-a-230-keyboard-for-codex",
+      "summary": "OpenAI 的第一款自有品牌硬件不是手机，不是 AI 伴侣设备，而是一个只有手掌大小的键盘。 7 月 15 日，OpenAI 发布了 Codex Micro——一款与加拿大...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "代码写得多，就一定更好吗？",
+      "url": "https://my.oschina.net/u/2385344/blog/19720553",
+      "summary": "一个开源作者的自白：当 2000 行代码挑战 Netty，当轻量级框架叫板 Spring，我们遭遇的不是技术质疑，而是一种根深蒂固的 \"代码量崇拜\"。...",
+      "author": "白开水不加糖",
+      "comments": 3
+    },
+    {
+      "title": "微软把 Comic Chat 开源了，那个让 Comic Sans 走进千家万户的聊天软件",
+      "url": "https://www.oschina.net/news/472729/microsoft-comic-chat-is-now-open-source",
+      "summary": "Hacker News 今天的流量第一名属于一段 30 岁的 C++ 代码。 7 月 16 日，微软宣布将 Microsoft Comic Chat 以 MIT 协议开源。这个 1996 年随 IE3 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "面壁智能开源企业数字员工平台 StaffDeck",
+      "url": "https://www.oschina.net/news/472705",
+      "summary": "面壁智能联合东北大学-面壁智能数据智能联合实验室、清华大学 THUNLP 实验室、OpenBMB 与 AI9Stars 开源了数字员工全流程构建与管理平台 StaffDec...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "杭州市民政局准予设立杭州市开源人工智能基金会",
+      "url": "https://www.oschina.net/news/472699",
+      "summary": "杭州市民政局正式签发准予行政许可决定书（杭民社许准字〔2026〕成第J-001号），批准设立杭州市开源人工智能基金会，为非公募基金会。 根据规定，该...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "SolonCode v2026.7.17 已经发布，终端智能体",
+      "url": "https://www.oschina.net/news/472677",
+      "summary": "SolonCode v2026.7.17 已经发布，终端智能体 此版本更新内容包括： 添加 soloncode web 皮肤功能（自带生成的 skill），可开启花花世界 优化 solo...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "与全球技术演进同频，openKylin 3.0 从 C 迈向 Rust",
+      "url": "https://www.oschina.net/news/472672",
+      "summary": "为什么要改 使用过 Linux 系统的人大概都遇到过——程序跑着跑着突然崩溃，只丢下一行 \"Segmentation fault（段错误）\"，没有任何具体原因提示。这...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "openKylin 深耕可信计算：X-Kernel 里程碑版本筑牢自主安全根基",
+      "url": "https://www.oschina.net/news/472664",
+      "summary": "X-Kernel v0.1.0-2606 是 openKylin XTeeOS SIG 推出的首个里程碑版本。该版本围绕 Rust 安全可信内核的工程化落地，初步建立了可持续维护、可持续...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "IntelliJ IDEA 2026.2 发布",
+      "url": "https://www.oschina.net/news/472656/intellij-idea-2026-2",
+      "summary": "IntelliJ IDEA 2026.2 版本现已发布，带来了旨在简化用户工作流程并帮助采用 Java 生态系统中最新创新成果的更新。 新增了对 Java 27 和最新 Kotl...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek 估值超 3500 亿元",
+      "url": "https://www.oschina.net/news/472644",
+      "summary": "开润股份（300577.SZ）7月16日晚间发布的一则关联投资进展公告，意外揭示了国内头部大模型企业杭州深度求索人工智能基础技术研究有限公司（DeepSee...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "TimescaleDB 2.28.3 发布，基于 PostgreSQL 的时序数据库",
+      "url": "https://www.oschina.net/news/472550/timescaledb-2-28-3-released",
+      "summary": "TimescaleDB 2.28.3 现已发布，此版本较 2.28.2 版本进行了性能改进和错误修复。官方建议用户尽快升级。 错误修复 #10082 在列式查询执行管道中评...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Suno 源码遭泄露，被曝大规模抓取音乐数据训练 AI 模型",
+      "url": "https://www.oschina.net/news/472544",
+      "summary": "生成式 AI 音乐平台 Suno 遭遇重大安全事件，内部源代码及数据采集信息被泄露，曝光了其用于训练AI音乐模型的大规模数据抓取行为。泄露文件显示，S...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "从 \"机械应答\" 到 \"服务伙伴\"：得物高可控智能客服的 Agent 工程实践",
+      "url": "https://my.oschina.net/u/5783135/blog/19722482",
+      "summary": "听不懂人话、自作聪明： 无法准确理解用户意图，频繁答非所问。人工成本高、排队严重： 高并发场景下人力无法覆盖。问题解决能力弱： 只能处理简...",
+      "author": "白开水不加糖",
+      "comments": 0
+    }
+  ]
+}

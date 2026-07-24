@@ -1,0 +1,448 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T11:19:41.815527+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to normalize complex JSON using pandas?",
+      "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
+      "summary": "",
+      "tags": [
+        "python",
+        "json",
+        "pandas",
+        "normalization"
+      ],
+      "author": "user22099079",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
+      "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "reactjs",
+        "node.js"
+      ],
+      "author": "creative AR Tech",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Is a hand-rolled CASE expression a reasonable way to do relevance-ranked search with JPA Criteria API + MySQL, or is there a better approach?",
+      "url": "https://stackoverflow.com/questions/79985518/is-a-hand-rolled-case-expression-a-reasonable-way-to-do-relevance-ranked-search",
+      "summary": "",
+      "tags": [
+        "java",
+        "mysql",
+        "spring-boot",
+        "jpa",
+        "criteria-api"
+      ],
+      "author": "Dulsara Manakal",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Missing compiler error when installing GMP on Kubuntu",
+      "url": "https://stackoverflow.com/questions/79985511/missing-compiler-error-when-installing-gmp-on-kubuntu",
+      "summary": "",
+      "tags": [
+        "linux",
+        "gcc",
+        "installation",
+        "configure",
+        "gmp"
+      ],
+      "author": "Leonardo Carofiglio",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Replace element in array",
+      "url": "https://stackoverflow.com/questions/79985494/replace-element-in-array",
+      "summary": "",
+      "tags": [
+        "php",
+        "multidimensional-array",
+        "replace"
+      ],
+      "author": "labby",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How to verify that all projects in a solution were fully migrated to .NET 10 (TargetFramework and LangVersion) with Rider IDE?",
+      "url": "https://stackoverflow.com/questions/79985523/how-to-verify-that-all-projects-in-a-solution-were-fully-migrated-to-net-10-ta",
+      "summary": "",
+      "tags": [
+        "advice",
+        ".net-8.0",
+        "rider",
+        "migrate",
+        ".net-10.0"
+      ],
+      "author": "Mi2830",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "UserManager.FindByNameAsync no longer working in .NET Framework application",
+      "url": "https://stackoverflow.com/questions/79985505/usermanager-findbynameasync-no-longer-working-in-net-framework-application",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net",
+        "asp.net-identity",
+        "usermanager"
+      ],
+      "author": "Martin Vaughan",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How do I get Python GEKKO chemical splitter unit operation to propagate mole fractions from input to output streams?",
+      "url": "https://stackoverflow.com/questions/79985489/how-do-i-get-python-gekko-chemical-splitter-unit-operation-to-propagate-mole-fra",
+      "summary": "",
+      "tags": [
+        "python",
+        "gekko"
+      ],
+      "author": "JacquesStrydom",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "MySQL Connector/J 9.5 returns no rows from PreparedStatement (Statement works)",
+      "url": "https://stackoverflow.com/questions/79985499/mysql-connector-j-9-5-returns-no-rows-from-preparedstatement-statement-works",
+      "summary": "",
+      "tags": [
+        "java",
+        "jdbc",
+        "mysql-connector",
+        "oceanbase"
+      ],
+      "author": "jinglan0379",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Reset logic implementation in VHDL",
+      "url": "https://stackoverflow.com/questions/79985483/reset-logic-implementation-in-vhdl",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "vhdl",
+        "fpga",
+        "vivado"
+      ],
+      "author": "Vinay Madapura",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Elysia rate limit plugin",
+      "url": "https://stackoverflow.com/questions/79985475/elysia-rate-limit-plugin",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "rate-limiting",
+        "elysiajs"
+      ],
+      "author": "cancel this",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I express “all backends implement this trait for P” without concrete-type bounds?",
+      "url": "https://stackoverflow.com/questions/79985477/how-can-i-express-all-backends-implement-this-trait-for-p-without-concrete-typ",
+      "summary": "",
+      "tags": [
+        "rust",
+        "traits",
+        "static-dispatch"
+      ],
+      "author": "Alex Vergara",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why Does PolarDB IMCI Storage Remain High After a Large DELETE Is Committed?",
+      "url": "https://stackoverflow.com/questions/79985457/why-does-polardb-imci-storage-remain-high-after-a-large-delete-is-committed",
+      "summary": "",
+      "tags": [
+        "advice",
+        "polardb"
+      ],
+      "author": "wxy",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How do AI coding agents like Codex, Roo Code, and Continue handle sensitive files such as .env or API keys?",
+      "url": "https://stackoverflow.com/questions/79985447/how-do-ai-coding-agents-like-codex-roo-code-and-continue-handle-sensitive-file",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "artificial-intelligence",
+        "vscode-extensions",
+        "user-agent"
+      ],
+      "author": "Alagu sundaram",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Self hosted GitLab mirroring repository with ssl cert/key authorization",
+      "url": "https://stackoverflow.com/questions/79985471/self-hosted-gitlab-mirroring-repository-with-ssl-cert-key-authorization",
+      "summary": "",
+      "tags": [
+        "ssl",
+        "gitlab",
+        "mirroring"
+      ],
+      "author": "Apoth",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "JWT C++ OpenSSL RS256 Signature Verification",
+      "url": "https://stackoverflow.com/questions/79985443/jwt-c-openssl-rs256-signature-verification",
+      "summary": "",
+      "tags": [
+        "c++11",
+        "jwt",
+        "openssl",
+        "rsa",
+        "digital-signature"
+      ],
+      "author": "Nick Reed",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to get a tree of members on construction?",
+      "url": "https://stackoverflow.com/questions/79985435/how-to-get-a-tree-of-members-on-construction",
+      "summary": "",
+      "tags": [
+        "c++",
+        "reflection"
+      ],
+      "author": "KungPhoo",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to iterate over two objects without heap allocations?",
+      "url": "https://stackoverflow.com/questions/79984276/how-to-iterate-over-two-objects-without-heap-allocations",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c#"
+      ],
+      "author": "Thelo",
+      "comments": 3,
+      "score": 4
+    },
+    {
+      "title": "Reading String from File Returns Incorrect String Length, Program Crashes",
+      "url": "https://stackoverflow.com/questions/79985432/reading-string-from-file-returns-incorrect-string-length-program-crashes",
+      "summary": "",
+      "tags": [
+        "c++"
+      ],
+      "author": "Oliver Martin",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Selenium Wire: POST request returns 403 Forbidden although cookies, CSRF token, and payload match browser request",
+      "url": "https://stackoverflow.com/questions/79985434/selenium-wire-post-request-returns-403-forbidden-although-cookies-csrf-token",
+      "summary": "",
+      "tags": [
+        "python",
+        "selenium-chromedriver",
+        "ui-automation"
+      ],
+      "author": "SMM",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "What is best practice for preventing a class attribute from becoming stale data?",
+      "url": "https://stackoverflow.com/questions/79984365/what-is-best-practice-for-preventing-a-class-attribute-from-becoming-stale-data",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "python"
+      ],
+      "author": "Toothpick Anemone",
+      "comments": 2,
+      "score": -3
+    },
+    {
+      "title": "ARKit outdoor BIM overlay: how to keep .scn model aligned on a construction site without drift?",
+      "url": "https://stackoverflow.com/questions/79985433/arkit-outdoor-bim-overlay-how-to-keep-scn-model-aligned-on-a-construction-site",
+      "summary": "",
+      "tags": [
+        "ios",
+        "augmented-reality",
+        "scenekit",
+        "arkit"
+      ],
+      "author": "Apavaiya",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Different kinds of UB are processed differently by GCC",
+      "url": "https://stackoverflow.com/questions/79984359/different-kinds-of-ub-are-processed-differently-by-gcc",
+      "summary": "",
+      "tags": [
+        "c++",
+        "gcc",
+        "clang",
+        "compiler-construction",
+        "undefined-behavior"
+      ],
+      "author": "n.m.is-an-unemployed-ai-agent",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Splitting OpenMP threads into multiple teams over loop",
+      "url": "https://stackoverflow.com/questions/79984403/splitting-openmp-threads-into-multiple-teams-over-loop",
+      "summary": "",
+      "tags": [
+        "c++",
+        "parallel-processing",
+        "openmp"
+      ],
+      "author": "pizzimathy",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Returning the value of the last expression calculated",
+      "url": "https://stackoverflow.com/questions/79984274/returning-the-value-of-the-last-expression-calculated",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "Γιάννης Σωτήρχος",
+      "comments": 2,
+      "score": -4
+    },
+    {
+      "title": "Type-mismatch in my VBA code for output PDF file",
+      "url": "https://stackoverflow.com/questions/79984374/type-mismatch-in-my-vba-code-for-output-pdf-file",
+      "summary": "",
+      "tags": [
+        "excel",
+        "vba",
+        "pdf",
+        "output",
+        "type-mismatch"
+      ],
+      "author": "Light3n",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Problem running the packaged app on Windows",
+      "url": "https://stackoverflow.com/questions/79984399/problem-running-the-packaged-app-on-windows",
+      "summary": "",
+      "tags": [
+        "electron",
+        "electron-builder",
+        "electron-packager"
+      ],
+      "author": "theredfox",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to use an imported library as if local in rust?",
+      "url": "https://stackoverflow.com/questions/79984391/how-to-use-an-imported-library-as-if-local-in-rust",
+      "summary": "",
+      "tags": [
+        "rust",
+        "include",
+        "rename",
+        "code-readability"
+      ],
+      "author": "lilHar",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Why IntelliJ Idea has greyed option to drop, squash commits, etc.?",
+      "url": "https://stackoverflow.com/questions/79984325/why-intellij-idea-has-greyed-option-to-drop-squash-commits-etc",
+      "summary": "",
+      "tags": [
+        "github",
+        "intellij-idea"
+      ],
+      "author": "Nikolas",
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "title": "Sending BLE Advertising Packets from a Python Zero 2WH",
+      "url": "https://stackoverflow.com/questions/79984398/sending-ble-advertising-packets-from-a-python-zero-2wh",
+      "summary": "",
+      "tags": [
+        "bluetooth-lowenergy",
+        "raspberry-pi-zero",
+        "hci",
+        "bluetooth-hci"
+      ],
+      "author": "TheGamerInMyBasement",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

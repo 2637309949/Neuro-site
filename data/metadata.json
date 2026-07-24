@@ -1,0 +1,1118 @@
+{
+  "updated_at": "2026-07-24T11:21:20.674899+00:00",
+  "categories": [
+    {
+      "id": "technology",
+      "title": "科技",
+      "icon": "💻",
+      "description": "科技动态与开源趋势"
+    },
+    {
+      "id": "community",
+      "title": "社区",
+      "icon": "👥",
+      "description": "社区热门讨论与新产品"
+    },
+    {
+      "id": "social",
+      "title": "社交热点",
+      "icon": "🔥",
+      "description": "社交媒体热搜榜"
+    },
+    {
+      "id": "economy",
+      "title": "财经资讯",
+      "icon": "📰",
+      "description": "财经新闻与商业洞察"
+    },
+    {
+      "id": "market",
+      "title": "全球市场",
+      "icon": "📈",
+      "description": "股市行情与加密货币"
+    }
+  ],
+  "sources": [
+    {
+      "source": "36kr",
+      "category": "economy",
+      "title": "36氪",
+      "url": "https://36kr.com/hot-list/catalog",
+      "icon": "🔥",
+      "description": "36氪热门创投商业文章",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "作者",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "阅读数",
+          "key": "reads",
+          "type": "metric",
+          "icon": "Eye"
+        },
+        {
+          "name": "点赞数",
+          "key": "likes",
+          "type": "metric",
+          "icon": "Heart",
+          "hide": true
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "source": "baidu",
+      "category": "social",
+      "title": "百度热搜",
+      "url": "https://top.baidu.com/board?tab=realtime",
+      "icon": "🔵",
+      "description": "百度实时热搜榜",
+      "layout": "list",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "热度",
+          "key": "hotValue",
+          "type": "metric"
+        },
+        {
+          "name": "标签",
+          "key": "label",
+          "type": "text"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ],
+      "pageSize": 13
+    },
+    {
+      "source": "binance_crypto",
+      "category": "market",
+      "title": "加密货币排榜",
+      "url": "https://www.binance.com/zh-CN/markets/overview",
+      "icon": "🪙",
+      "description": "币安 USDT 交易对涨跌幅排行（可切换涨幅/跌幅）",
+      "layout": "table",
+      "columns": [
+        {
+          "name": "币种",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "涨跌幅",
+          "key": "change",
+          "type": "metric",
+          "directionToggle": true
+        },
+        {
+          "name": "最新价",
+          "key": "price",
+          "type": "text"
+        },
+        {
+          "name": "24h成交额",
+          "key": "volume",
+          "type": "metric"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ],
+      "pageSize": 13,
+      "altSuffix": "_alt"
+    },
+    {
+      "source": "cnbc",
+      "category": "economy",
+      "title": "CNBC",
+      "url": "https://www.cnbc.com/",
+      "icon": "🟠",
+      "description": "CNBC 全球财经新闻",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "概要",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "作者",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "标签",
+          "key": "tags",
+          "type": "taglist"
+        }
+      ]
+    },
+    {
+      "source": "douyin",
+      "category": "social",
+      "title": "抖音热点",
+      "url": "https://www.douyin.com/hot",
+      "icon": "🎵",
+      "description": "抖音实时热点榜",
+      "layout": "list",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "热度",
+          "key": "hotValue",
+          "type": "metric"
+        },
+        {
+          "name": "标签",
+          "key": "label",
+          "type": "text"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ],
+      "pageSize": 13
+    },
+    {
+      "source": "fear_greed",
+      "category": "market",
+      "title": "恐惧贪婪指数",
+      "url": "https://alternative.me/crypto/fear-and-greed-index/",
+      "icon": "📊",
+      "description": "加密货币市场恐惧与贪婪指数",
+      "layout": "table",
+      "columns": [
+        {
+          "name": "日期",
+          "key": "title",
+          "type": "text"
+        },
+        {
+          "name": "指数值",
+          "key": "value",
+          "type": "metric",
+          "icon": "Activity"
+        },
+        {
+          "name": "分类",
+          "key": "classification",
+          "type": "text"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ],
+      "pageSize": 13
+    },
+    {
+      "source": "ftchinese",
+      "category": "economy",
+      "title": "FT中文网",
+      "url": "https://www.ftchinese.com/",
+      "icon": "🟤",
+      "description": "FT中文网全球财经洞察",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "概要",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "作者",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "标签",
+          "key": "tags",
+          "type": "taglist"
+        }
+      ]
+    },
+    {
+      "source": "github",
+      "category": "technology",
+      "title": "GitHub Trending",
+      "url": "https://github.com/trending",
+      "icon": "🐱",
+      "description": "GitHub 热门开源项目趋势",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "项目名",
+          "key": "repo",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "描述",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "语言",
+          "key": "language",
+          "type": "text",
+          "placement": "title"
+        },
+        {
+          "name": "总星数",
+          "key": "stars",
+          "type": "metric",
+          "icon": "Star"
+        },
+        {
+          "name": "今日星数",
+          "key": "today_stars",
+          "type": "metric",
+          "icon": "TrendingUp"
+        }
+      ]
+    },
+    {
+      "source": "hackernews",
+      "category": "technology",
+      "title": "Hacker News",
+      "url": "https://news.ycombinator.com/",
+      "icon": "🟤",
+      "description": "Hacker News 前页热门讨论",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "作者",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "评论数",
+          "key": "comments",
+          "type": "metric",
+          "icon": "MessageSquare"
+        },
+        {
+          "name": "点赞数",
+          "key": "score",
+          "type": "metric",
+          "icon": "TrendingUp"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "source": "huggingface",
+      "category": "technology",
+      "title": "HuggingFace",
+      "url": "https://huggingface.co/models?sort=trending",
+      "icon": "🤗",
+      "description": "HuggingFace 热门模型趋势",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "模型名",
+          "key": "model",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "下载量",
+          "key": "downloads",
+          "type": "metric",
+          "icon": "Download"
+        },
+        {
+          "name": "点赞数",
+          "key": "likes",
+          "type": "metric",
+          "icon": "Heart"
+        }
+      ]
+    },
+    {
+      "source": "huxiu",
+      "category": "economy",
+      "title": "虎嗅",
+      "url": "https://www.huxiu.com/",
+      "icon": "🟤",
+      "description": "虎嗅7x24快讯",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "概要",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "来源",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "时间",
+          "key": "time",
+          "type": "text",
+          "hide": true
+        }
+      ]
+    },
+    {
+      "source": "mcp",
+      "category": "technology",
+      "title": "MCP Servers",
+      "url": "https://github.com/topics/mcp-server",
+      "icon": "🔌",
+      "description": "热门 MCP Server 项目",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "项目名",
+          "key": "repo",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "描述",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "语言",
+          "key": "language",
+          "type": "text",
+          "placement": "title"
+        },
+        {
+          "name": "星数",
+          "key": "stars",
+          "type": "metric",
+          "icon": "Star"
+        }
+      ]
+    },
+    {
+      "source": "oschina",
+      "category": "technology",
+      "title": "开源中国",
+      "url": "https://www.oschina.net/",
+      "icon": "🟢",
+      "description": "开源中国热门技术资讯",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "概要",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "作者",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "评论数",
+          "key": "comments",
+          "type": "metric",
+          "icon": "MessageSquare"
+        }
+      ]
+    },
+    {
+      "source": "producthunt",
+      "category": "community",
+      "title": "ProductHunt",
+      "url": "https://www.producthunt.com/feed",
+      "icon": "🚀",
+      "description": "ProductHunt 最新热门产品",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "产品名",
+          "key": "product",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "描述",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "作者",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "标签",
+          "key": "tags",
+          "type": "taglist"
+        }
+      ]
+    },
+    {
+      "source": "reddit",
+      "category": "community",
+      "title": "Reddit",
+      "url": "https://www.reddit.com/r/all/hot.json?limit=25",
+      "icon": "🔴",
+      "description": "Reddit 热门帖子",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "帖子标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "评分",
+          "key": "score",
+          "type": "metric"
+        },
+        {
+          "name": "评论数",
+          "key": "comments",
+          "type": "metric",
+          "icon": "MessageSquare",
+          "hide": true
+        },
+        {
+          "name": "子版块",
+          "key": "subreddit",
+          "type": "text"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "source": "sina",
+      "category": "economy",
+      "title": "新浪财经",
+      "url": "https://finance.sina.com.cn/",
+      "icon": "📰",
+      "description": "新浪财经热门新闻",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "来源",
+          "key": "source",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "时间",
+          "key": "time",
+          "type": "text",
+          "hide": true
+        }
+      ]
+    },
+    {
+      "source": "skill",
+      "category": "technology",
+      "title": "Agent Skills",
+      "url": "https://github.com/topics/claude-skill",
+      "icon": "⚡",
+      "description": "热门 Agent Skill 项目",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "项目名",
+          "key": "repo",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "描述",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "语言",
+          "key": "language",
+          "type": "text",
+          "placement": "title"
+        },
+        {
+          "name": "星数",
+          "key": "stars",
+          "type": "metric",
+          "icon": "Star"
+        }
+      ]
+    },
+    {
+      "source": "sspai",
+      "category": "community",
+      "title": "少数派",
+      "url": "https://sspai.com/",
+      "icon": "🟡",
+      "description": "少数派效率与数字生活社区",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "概要",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "作者",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "标签",
+          "key": "tags",
+          "type": "taglist"
+        }
+      ]
+    },
+    {
+      "source": "stackoverflow",
+      "category": "community",
+      "title": "Stack Overflow",
+      "url": "https://stackoverflow.com/",
+      "icon": "🟧",
+      "description": "Stack Overflow 热门技术问答",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "标签",
+          "key": "tags",
+          "type": "taglist",
+          "placement": "title"
+        },
+        {
+          "name": "作者",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "回答数",
+          "key": "comments",
+          "type": "metric",
+          "icon": "MessageSquare"
+        },
+        {
+          "name": "赞数",
+          "key": "score",
+          "type": "metric",
+          "icon": "TrendingUp"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "source": "techcrunch",
+      "category": "technology",
+      "title": "TechCrunch",
+      "url": "https://techcrunch.com/",
+      "icon": "🅲",
+      "description": "TechCrunch 最新科技创业新闻",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "概要",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "作者",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "标签",
+          "key": "tags",
+          "type": "taglist"
+        }
+      ]
+    },
+    {
+      "source": "tencent_board",
+      "category": "market",
+      "title": "A股板块排榜",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=list&id=hy_second&module=hy&type=second",
+      "icon": "💹",
+      "description": "行业板块涨跌幅排行（可切换涨幅/跌幅）",
+      "layout": "table",
+      "columns": [
+        {
+          "name": "板块名",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "涨跌幅",
+          "key": "change",
+          "type": "metric",
+          "directionToggle": true
+        },
+        {
+          "name": "主力净流入",
+          "key": "netInflow",
+          "type": "metric"
+        },
+        {
+          "name": "领涨股",
+          "key": "leadStock",
+          "type": "text"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ],
+      "pageSize": 13,
+      "altSuffix": "_alt"
+    },
+    {
+      "source": "tencent_stock",
+      "category": "market",
+      "title": "A股排榜",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=list&id=hs_hsj&module=hs&type=hsj",
+      "icon": "💹",
+      "description": "A股每日涨跌幅排行（可切换涨幅/跌幅）",
+      "layout": "table",
+      "columns": [
+        {
+          "name": "股票名",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "涨跌幅",
+          "key": "change",
+          "type": "metric",
+          "directionToggle": true
+        },
+        {
+          "name": "最新价",
+          "key": "price",
+          "type": "text"
+        },
+        {
+          "name": "成交额",
+          "key": "volume",
+          "type": "metric"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ],
+      "pageSize": 13,
+      "altSuffix": "_alt"
+    },
+    {
+      "source": "tmtpost",
+      "category": "economy",
+      "title": "钛媒体",
+      "url": "https://www.tmtpost.com/",
+      "icon": "🟠",
+      "description": "钛媒体科技财经资讯",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "概要",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "作者",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "标签",
+          "key": "tags",
+          "type": "taglist",
+          "hide": true
+        }
+      ]
+    },
+    {
+      "source": "toutiao",
+      "category": "social",
+      "title": "今日头条",
+      "url": "https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc",
+      "icon": "📰",
+      "description": "今日头条热榜",
+      "layout": "list",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "热度",
+          "key": "hotValue",
+          "type": "metric"
+        },
+        {
+          "name": "标签",
+          "key": "label",
+          "type": "text"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ],
+      "pageSize": 13
+    },
+    {
+      "source": "us_stock",
+      "category": "market",
+      "title": "美股排榜",
+      "url": "https://finance.yahoo.com/markets/stocks/gainers/",
+      "icon": "🗽",
+      "description": "美股每日涨跌幅排行（可切换涨幅/跌幅）",
+      "layout": "table",
+      "columns": [
+        {
+          "name": "股票名",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "涨跌幅",
+          "key": "change",
+          "type": "metric",
+          "directionToggle": true
+        },
+        {
+          "name": "最新价",
+          "key": "price",
+          "type": "text"
+        },
+        {
+          "name": "成交额",
+          "key": "volume",
+          "type": "metric"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ],
+      "pageSize": 13,
+      "altSuffix": "_alt"
+    },
+    {
+      "source": "v2ex",
+      "category": "community",
+      "title": "V2EX",
+      "url": "https://www.v2ex.com/?tab=hot",
+      "icon": "🟩",
+      "description": "V2EX 热门话题讨论",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "节点",
+          "key": "node",
+          "type": "text",
+          "placement": "title"
+        },
+        {
+          "name": "作者",
+          "key": "author",
+          "type": "text",
+          "hide": true
+        },
+        {
+          "name": "回复数",
+          "key": "replies",
+          "type": "metric",
+          "icon": "MessageSquare",
+          "hide": true
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ]
+    },
+    {
+      "source": "wallstreet",
+      "category": "economy",
+      "title": "华尔街见闻",
+      "url": "https://wallstreetcn.com/live",
+      "icon": "⚡",
+      "description": "全球宏观市场7x24快讯",
+      "layout": "card",
+      "columns": [
+        {
+          "name": "快讯",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text"
+        },
+        {
+          "name": "时间",
+          "key": "time",
+          "type": "text",
+          "hide": true
+        }
+      ]
+    },
+    {
+      "source": "weibo",
+      "category": "social",
+      "title": "微博热搜",
+      "url": "https://weibo.com/ajax/side/hotSearch",
+      "icon": "🔥",
+      "description": "微博实时热搜榜",
+      "layout": "list",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "热度",
+          "key": "hotValue",
+          "type": "metric"
+        },
+        {
+          "name": "标签",
+          "key": "label",
+          "type": "text"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ],
+      "pageSize": 13
+    },
+    {
+      "source": "zhihu",
+      "category": "social",
+      "title": "知乎热榜",
+      "url": "https://www.zhihu.com/hot",
+      "icon": "🟣",
+      "description": "知乎实时热榜（需配置 ZHIHU_COOKIE）",
+      "layout": "list",
+      "columns": [
+        {
+          "name": "标题",
+          "key": "title",
+          "type": "link",
+          "hrefKey": "url"
+        },
+        {
+          "name": "热度",
+          "key": "hotValue",
+          "type": "metric"
+        },
+        {
+          "name": "标签",
+          "key": "label",
+          "type": "text"
+        },
+        {
+          "name": "摘要",
+          "key": "summary",
+          "type": "text",
+          "optional": true
+        }
+      ],
+      "pageSize": 13
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T15:12:47.998606+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Realtek RTL8111H negotiates only 100 Mbps with FiberHome HG6243C, but another NIC negotiates 1 Gbps",
+      "url": "https://stackoverflow.com/questions/79981340/realtek-rtl8111h-negotiates-only-100-mbps-with-fiberhome-hg6243c-but-another-ni",
+      "summary": "",
+      "tags": [
+        "linux",
+        "hardware",
+        "realtek"
+      ],
+      "author": "Lawliet",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How do you link a specific .py script to an input field, label, and button in Tkinter/Python3?",
+      "url": "https://stackoverflow.com/questions/79981343/how-do-you-link-a-specific-py-script-to-an-input-field-label-and-button-in-tk",
+      "summary": "",
+      "tags": [
+        "python",
+        "tkinter"
+      ],
+      "author": "Jas",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Can&#39;t install keyboard package because pip won&#39;t work",
+      "url": "https://stackoverflow.com/questions/79981335/cant-install-keyboard-package-because-pip-wont-work",
+      "summary": "",
+      "tags": [
+        "python",
+        "ubuntu",
+        "pip",
+        "windows-subsystem-for-linux"
+      ],
+      "author": "King Of Noobs",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How do I set the color of a specific pixel on an SDL3 window in C++?",
+      "url": "https://stackoverflow.com/questions/79981344/how-do-i-set-the-color-of-a-specific-pixel-on-an-sdl3-window-in-c",
+      "summary": "",
+      "tags": [
+        "c++",
+        "sdl",
+        "sdl-3"
+      ],
+      "author": "n0dr4w",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Use [ADSI] in PowerShell to make changes on AD objects with Security, Signing and Sealing enabled",
+      "url": "https://stackoverflow.com/questions/79981332/use-adsi-in-powershell-to-make-changes-on-ad-objects-with-security-signing-an",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "active-directory",
+        "ldap",
+        "adsi"
+      ],
+      "author": "An-dir",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How Framer.com&#39;s editor/main window and canvas/preview of website passes data internally?",
+      "url": "https://stackoverflow.com/questions/79981330/how-framer-coms-editor-main-window-and-canvas-preview-of-website-passes-data-in",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "iframe"
+      ],
+      "author": "Sadhin",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How do I configure an Azure regression test pipeline to run on a VM?",
+      "url": "https://stackoverflow.com/questions/79981341/how-do-i-configure-an-azure-regression-test-pipeline-to-run-on-a-vm",
+      "summary": "",
+      "tags": [
+        "azure-pipelines",
+        "virtual-machine"
+      ],
+      "author": "Kev",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Implement rate limiting for an external API",
+      "url": "https://stackoverflow.com/questions/79981325/implement-rate-limiting-for-an-external-api",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "node.js",
+        "rate-limiting"
+      ],
+      "author": "Mascarpone",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Microsoft Teams Calling Bot answers incoming call successfully but no realtime audio/media is established",
+      "url": "https://stackoverflow.com/questions/79981311/microsoft-teams-calling-bot-answers-incoming-call-successfully-but-no-realtime-a",
+      "summary": "",
+      "tags": [
+        "microsoft-graph-api",
+        "microsoft-teams",
+        "azure-openai"
+      ],
+      "author": "Merve Yolcu",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Can a Perplexity Computer analytics dashboard automatically refresh when the data source changes?",
+      "url": "https://stackoverflow.com/questions/79981321/can-a-perplexity-computer-analytics-dashboard-automatically-refresh-when-the-dat",
+      "summary": "",
+      "tags": [
+        "advice",
+        "tooling-recommendation",
+        "automation",
+        "perplexity"
+      ],
+      "author": "Komal Sharma",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Unable to reproduce SocketReadTimeOut Error for okhttp3",
+      "url": "https://stackoverflow.com/questions/79981310/unable-to-reproduce-socketreadtimeout-error-for-okhttp3",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring-boot",
+        "https"
+      ],
+      "author": "Aditya Mehta",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "DefaultValueAttribute overrides values deserialized by JSON.NET after constructor",
+      "url": "https://stackoverflow.com/questions/79981316/defaultvalueattribute-overrides-values-deserialized-by-json-net-after-constructo",
+      "summary": "",
+      "tags": [
+        "json",
+        "json.net"
+      ],
+      "author": "Konzertheld",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How would I keep a coded popup from affecting two identical web pages?",
+      "url": "https://stackoverflow.com/questions/79981298/how-would-i-keep-a-coded-popup-from-affecting-two-identical-web-pages",
+      "summary": "",
+      "tags": [
+        "duplicates",
+        "shopify",
+        "popupwindow"
+      ],
+      "author": "Shrike",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Office local plugin is unable to be invoked by Declarative Agent",
+      "url": "https://stackoverflow.com/questions/79981313/office-local-plugin-is-unable-to-be-invoked-by-declarative-agent",
+      "summary": "",
+      "tags": [
+        "teams-toolkit"
+      ],
+      "author": "Yash Dhanwantri",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Visual Studio 2022 Winforms - Elevated Admin Permissions Required",
+      "url": "https://stackoverflow.com/questions/79981285/visual-studio-2022-winforms-elevated-admin-permissions-required",
+      "summary": "",
+      "tags": [
+        "c#",
+        "winforms",
+        "telerik"
+      ],
+      "author": "Chris.Mason",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "git fetch --shallow-exclude broken for non-linear history?",
+      "url": "https://stackoverflow.com/questions/79981256/git-fetch-shallow-exclude-broken-for-non-linear-history",
+      "summary": "",
+      "tags": [
+        "git"
+      ],
+      "author": "antak",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Bartender incorrectly determines MSSQL WITH RESULT SETS column count",
+      "url": "https://stackoverflow.com/questions/79981296/bartender-incorrectly-determines-mssql-with-result-sets-column-count",
+      "summary": "",
+      "tags": [
+        "sql-server",
+        "bartender"
+      ],
+      "author": "MrSiezen",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "NHD-1.5-128128G (SSD1351) — completely unresponsive despite verified wiring, timing, and command sequence",
+      "url": "https://stackoverflow.com/questions/79981300/nhd-1-5-128128g-ssd1351-completely-unresponsive-despite-verified-wiring-tim",
+      "summary": "",
+      "tags": [
+        "c",
+        "stm32f3"
+      ],
+      "author": "MES98",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Firebase Realtime Database Android: keepSynced(true) + get() causes &quot;listen() called twice for same QuerySpec&quot; AssertionError",
+      "url": "https://stackoverflow.com/questions/79981289/firebase-realtime-database-android-keepsyncedtrue-get-causes-listen-ca",
+      "summary": "",
+      "tags": [
+        "java",
+        "android",
+        "firebase",
+        "firebase-realtime-database"
+      ],
+      "author": "tester",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Vertex AI data store - Field content.mime_type must be one of [...] got text/markdown",
+      "url": "https://stackoverflow.com/questions/79981288/vertex-ai-data-store-field-content-mime-type-must-be-one-of-got-text-mar",
+      "summary": "",
+      "tags": [
+        "google-cloud-platform",
+        "google-cloud-vertex-ai"
+      ],
+      "author": "Aleks Vujic",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to create prompt version in vertex ai prompt library using python",
+      "url": "https://stackoverflow.com/questions/79981272/how-to-create-prompt-version-in-vertex-ai-prompt-library-using-python",
+      "summary": "",
+      "tags": [
+        "python",
+        "google-cloud-vertex-ai"
+      ],
+      "author": "Subramanian",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Minimum initial Code value in a valid LZMA stream",
+      "url": "https://stackoverflow.com/questions/79981258/minimum-initial-code-value-in-a-valid-lzma-stream",
+      "summary": "",
+      "tags": [
+        "file-format",
+        "lzma"
+      ],
+      "author": "pts",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "What is the best practice for validating cookies when building a Fastify + TypeScript backend?",
+      "url": "https://stackoverflow.com/questions/79981265/what-is-the-best-practice-for-validating-cookies-when-building-a-fastify-types",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "typescript",
+        "backend",
+        "middleware",
+        "fastify"
+      ],
+      "author": "vinay121",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "C# .NET MVC Resources aren&#39;t being used when debugging in VS Code",
+      "url": "https://stackoverflow.com/questions/79981276/c-net-mvc-resources-arent-being-used-when-debugging-in-vs-code",
+      "summary": "",
+      "tags": [
+        "c#",
+        "asp.net-mvc",
+        "vscode-debugger",
+        "asp.net-core-localization"
+      ],
+      "author": "Emvidasch",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "What is a better way to Check The Size Of a char after a fgets()",
+      "url": "https://stackoverflow.com/questions/79981263/what-is-a-better-way-to-check-the-size-of-a-char-after-a-fgets",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c"
+      ],
+      "author": "RobotG The noob",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "EXIT_PROCESS_DEBUG_EVENT silently dropped for emulated x64 debuggee on Windows ARM64 under load",
+      "url": "https://stackoverflow.com/questions/79981280/exit-process-debug-event-silently-dropped-for-emulated-x64-debuggee-on-windows-a",
+      "summary": "",
+      "tags": [
+        "c++",
+        "debugging",
+        "winapi",
+        "arm64"
+      ],
+      "author": "Artem Razin",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "MongoDB Atlas querySrv ECONNREFUSED while connecting with Express.js and Mongoose",
+      "url": "https://stackoverflow.com/questions/79981283/mongodb-atlas-querysrv-econnrefused-while-connecting-with-express-js-and-mongoos",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "database",
+        "mongodb"
+      ],
+      "author": "Harshit",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "ATC Quick Fix / Recommended Quick Fix Options Are Disabled in Eclipse ADT",
+      "url": "https://stackoverflow.com/questions/79981282/atc-quick-fix-recommended-quick-fix-options-are-disabled-in-eclipse-adt",
+      "summary": "",
+      "tags": [
+        "eclipse",
+        "migration",
+        "abap",
+        "adt"
+      ],
+      "author": "jesuismert",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Rider: &quot;Could not load file or assembly ... UnitTests&quot; (FileNotFoundException) even though DLL exists",
+      "url": "https://stackoverflow.com/questions/79981234/rider-could-not-load-file-or-assembly-unittests-filenotfoundexception-e",
+      "summary": "",
+      "tags": [
+        "c#",
+        "mstest",
+        ".net-8.0",
+        "rider"
+      ],
+      "author": "Mi2830",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "SIMD Vector Operations are slower than Normal Vector Operations when using `par_iter_mut`",
+      "url": "https://stackoverflow.com/questions/79981231/simd-vector-operations-are-slower-than-normal-vector-operations-when-using-par",
+      "summary": "",
+      "tags": [
+        "rust",
+        "vector",
+        "game-engine",
+        "bevy"
+      ],
+      "author": "Aniket Das",
+      "comments": 2,
+      "score": 1
+    }
+  ]
+}
