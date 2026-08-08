@@ -1,0 +1,280 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T15:28:34.822037+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/",
+      "summary": "",
+      "author": "xtreak29",
+      "comments": 512,
+      "score": 830
+    },
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "summary": "",
+      "author": "colesantiago",
+      "comments": 811,
+      "score": 751
+    },
+    {
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 292,
+      "score": 606
+    },
+    {
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "summary": "",
+      "author": "ahamez",
+      "comments": 272,
+      "score": 486
+    },
+    {
+      "title": "Crime Pays but Botany Doesn't",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "summary": "",
+      "author": "DarkContinent",
+      "comments": 133,
+      "score": 432
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "summary": "",
+      "author": "moonikakiss",
+      "comments": 102,
+      "score": 370
+    },
+    {
+      "title": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "summary": "",
+      "author": "ExMachina73",
+      "comments": 167,
+      "score": 357
+    },
+    {
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "summary": "",
+      "author": "lladnar",
+      "comments": 384,
+      "score": 343
+    },
+    {
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "summary": "",
+      "author": "theanonymousone",
+      "comments": 63,
+      "score": 335
+    },
+    {
+      "title": "How to Make a Nintendo 64 Game in 2026",
+      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+      "summary": "",
+      "author": "atan2",
+      "comments": 90,
+      "score": 299
+    },
+    {
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "summary": "",
+      "author": "paulkrush",
+      "comments": 192,
+      "score": 292
+    },
+    {
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "summary": "",
+      "author": "hackerBanana",
+      "comments": 115,
+      "score": 268
+    },
+    {
+      "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
+      "url": "https://www.greyblake.com/blog/branchless-rust/",
+      "summary": "",
+      "author": "greyblake",
+      "comments": 80,
+      "score": 248
+    },
+    {
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "summary": "",
+      "author": "Xeophon",
+      "comments": 53,
+      "score": 213
+    },
+    {
+      "title": "GNU Hurd News 2026-Q2",
+      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+      "summary": "",
+      "author": "plaguna",
+      "comments": 139,
+      "score": 204
+    },
+    {
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "summary": "",
+      "author": "pella",
+      "comments": 36,
+      "score": 176
+    },
+    {
+      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+      "summary": "",
+      "author": "microtonal",
+      "comments": 122,
+      "score": 169
+    },
+    {
+      "title": "Pareto Front",
+      "url": "https://en.wikipedia.org/wiki/Pareto_front",
+      "summary": "",
+      "author": "binyu",
+      "comments": 52,
+      "score": 120
+    },
+    {
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "summary": "",
+      "author": "Wirbelwind",
+      "comments": 77,
+      "score": 103
+    },
+    {
+      "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
+      "url": "https://nanochess.org/the_am29000_computer.html",
+      "summary": "",
+      "author": "nanochess",
+      "comments": 11,
+      "score": 75
+    },
+    {
+      "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
+      "url": "https://quantego.org/",
+      "summary": "",
+      "author": "rbanffy",
+      "comments": 24,
+      "score": 56
+    },
+    {
+      "title": "I added a real-time chat to my blog, people used it to attack me",
+      "url": "https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/",
+      "summary": "",
+      "author": "andros",
+      "comments": 63,
+      "score": 53
+    },
+    {
+      "title": "Morioka Shoten",
+      "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
+      "summary": "",
+      "author": "skogstokig",
+      "comments": 13,
+      "score": 41
+    },
+    {
+      "title": "Tiny Black Holes May Be Exploding Stars Across the Milky Way",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
+      "summary": "",
+      "author": "jandrewrogers",
+      "comments": 35,
+      "score": 34
+    },
+    {
+      "title": "Show HN: demake – one source project compiles to any retro game console ROM",
+      "url": "https://geosona.com/demake/",
+      "summary": "",
+      "author": "gste",
+      "comments": 8,
+      "score": 29
+    },
+    {
+      "title": "Degrees of Wealth",
+      "url": "https://jaapgrolleman.com/degrees-of-wealth/",
+      "summary": "",
+      "author": "jxub",
+      "comments": 33,
+      "score": 27
+    },
+    {
+      "title": "Join Me in Jamverse",
+      "url": "https://contraptions.venkateshrao.com/p/join-me-in-jamverse",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 1,
+      "score": 23
+    },
+    {
+      "title": "Taylor Farms Cyclospora outbreak triples in size",
+      "url": "https://efoodalert.com/2026/08/05/taylor-farms-cyclospora-outbreak-triples-in-size/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 7,
+      "score": 17
+    },
+    {
+      "title": "The 11 Types of Washington, DC, Metro Station Architecture (2018)",
+      "url": "https://ggwash.org/view/68565/metro-has-11-types-of-station-architecture.-learn-them-all-with-this-map",
+      "summary": "",
+      "author": "quuxplusone",
+      "comments": 1,
+      "score": 14
+    },
+    {
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "summary": "",
+      "author": "mooreds",
+      "comments": 0,
+      "score": 13
+    }
+  ]
+}

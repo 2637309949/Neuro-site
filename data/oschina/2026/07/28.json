@@ -1,0 +1,173 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T15:32:21.913376+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "印度法院判决：OpenAI 用新闻内容训练 AI 不侵权",
+      "url": "https://www.oschina.net/news/481476",
+      "summary": "印度德里高等法院于当地时间 7 月 24 日裁定，OpenAI利用亚洲国际新闻社（ANI）的内容训练人工智能模型，不构成侵犯版权。 法官Amit Bansal在判决中...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Logback 1.6.1 发布，Java 日志框架",
+      "url": "https://www.oschina.net/news/481462/logback-1-6-1-released",
+      "summary": "Logback 旨在成为广受欢迎的 log4j 项目的继任者，承接 log4j 1.x 版本的发展脉络。Logback 的架构设计高度通用，可适应不同场景需求。目前该框架分...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "山城集结｜MoonBit 开发者 Meetup 重庆站报名开启！",
+      "url": "https://www.oschina.net/news/481450",
+      "summary": "8 月 15 日，MoonBit 开发者 Meetup 将来到重庆！ 本次活动以「AI 时代下的智能体开发」为主题，邀请 MoonBit 团队与行业嘉宾，围绕智能体协同开发...",
+      "author": "MoonBit",
+      "comments": 0
+    },
+    {
+      "title": "阿里 Qoder 上线实时语音智能体 Qoder Voice",
+      "url": "https://www.oschina.net/news/481439",
+      "summary": "阿里AI编程助手Qoder正式推出实时语音交互智能体Qoder Voice，由全双工语音模型Qwen-Audio-3.0-Realtime驱动，支持开发者通过自然语音完成任务创建...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Kimi K3上线超算互联网即爆火，平台推出Token Plan应对多元需求",
+      "url": "https://www.oschina.net/news/481410",
+      "summary": "7月28日，伴随月之暗面开源Kimi K3模型，国家超算互联网AI社区正式上线相关模型及API调用服务，企业和开发者均可快速下载Kimi K3模型文件并进行部署...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "sqltoy-orm 5.6.87 已经发布，ORM 框架",
+      "url": "https://www.oschina.net/news/481399",
+      "summary": "sqltoy-orm 5.6.87 已经发布，ORM 框架。 此版本更新内容包括： 1、数据脱敏增加按比例均匀离散分布方式：secureType = SecureType.DISCRETE_RATE...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "React Native 0.86.2 发布",
+      "url": "https://www.oschina.net/news/481391/react-native-0-86-2-released",
+      "summary": "React Native 0.86.2 现已发布。由于 Maven 存在问题，React Native 0.86.1 尚未发布。 此版本具体更新内容如下： Fixed Layout：修复了display: ...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "夜莺监控发布 V9 正式版，引入 AI",
+      "url": "https://www.oschina.net/news/481363/nightingale-v9-released",
+      "summary": "核心要点 夜莺 v9.0.0 正式版已发布，从 v8.5.1 到 v9.0.0 历时半年、前后端合计上千个提交，是夜莺历史上体量最大的一次大版本迭代。 v9 的头号主...",
+      "author": "巴辉特",
+      "comments": 0
+    },
+    {
+      "title": "Webpack v5.109.1 发布，模块打包器",
+      "url": "https://www.oschina.net/news/481333/webpack-5-109-1-released",
+      "summary": "Webpack 是一个模块打包器，主要目的是在浏览器上打包 JavaScript 文件。Webpack v5.109.1 已发布，具体更新内容如下： Patch Changes 修复导入调用...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "美团正式发布 CatPaw：全场景 AI Agent，从个人提效到企业智能化",
+      "url": "https://my.oschina.net/meituantech/blog/19728543",
+      "summary": "目前，CatPaw 已在美团内部大规模落地：累计覆盖 9 万员工、搭建 Agent 3 万个，并在多个真实业务场景中完成验证。",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "我国启动人工智能大模型 IPv6 能力提升专项行动",
+      "url": "https://www.oschina.net/news/481266",
+      "summary": "“人工智能大模型IPv6能力提升专项行动”由中央网信办联合北京、上海、浙江、深圳四地网信办，会同5家头部大模型企业在雄安新区共同启动，推动生成...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "API 智能开发平台 5.2 发布",
+      "url": "https://www.oschina.net/news/481254/crabc-5-2-released",
+      "summary": "ApiGo 是是一款基于 AI 技术的企业级低代码 API 开发与治理平台。 通过智能化配置快速将数据变成标准 REST API，生成 AI Skill 技能， 实现从设计...",
+      "author": "鲨鱼不刷牙",
+      "comments": 0
+    },
+    {
+      "title": "谷歌 AI 概览出现率一年升至 43%，AI 搜索成为主流入口",
+      "url": "https://www.oschina.net/news/481173",
+      "summary": "Similarweb最新报告显示，人工智能搜索正在快速改变传统搜索模式，谷歌AI概览（AI Overviews）在搜索结果中的出现比例已从一年前的15%提升至43%，A...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Cloudflare 重构 AI 爬虫管控，从一键拦截到三段式分类",
+      "url": "https://www.oschina.net/news/481154",
+      "summary": "Cloudflare 宣布彻底重构 AI 爬虫管控体系。过去那个一键\"拦截所有 AI 机器人\"的开关被拆成了三个独立选项：Search（搜索）、Agent（智能体）、Tra...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Ventoy 1.1.17 发布，创建可启动 U 盘的工具",
+      "url": "https://www.oschina.net/news/481152/ventoy-1-1-17-released",
+      "summary": "Ventoy 是一个可为 ISO / WIM / IMG / VHD (x) / EFI 文件创建可启动 USB 驱动器的工具。虽然 Ventoy 是一个基于 GPLv3 许可的开源软件，但 Ventoy...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "智能知识管理系统 WCP 5.0.2 发布，在知识编辑器中添加图片编辑组件",
+      "url": "https://www.oschina.net/news/481150/wcp-5-0-2-released",
+      "summary": "WCP（智能知识管理系统） 是一款面向企业与团队的一站式知识协作平台。基于 Spring Boot 3 + Vue 3 打造，融合富文本 / Markdown 双引...",
+      "author": "farm",
+      "comments": 0
+    },
+    {
+      "title": "火山引擎开源 Agent 驱动的搜索自迭代技术",
+      "url": "https://my.oschina.net/u/6210722/blog/19728179",
+      "summary": "会调用搜索，只是 Agent 搜索能力的第一步。更难的是：当结果不好时，它能不能找到改进方向，并通过一轮轮实验把搜索变好？",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "TaiXu-Admin V0.1.2 发布，LLM+RAG+Agent 应用技术系统",
+      "url": "https://www.oschina.net/news/481112/taixu-admin-0-1-2-released",
+      "summary": "TaiXu-Admin V0.1.2 发布，LLM+RAG+Agent 应用技术系统 更新日志 1、实现文档的 LLM Wiki 解析，并用 LLM Wiki 搜索； 2、修改文件实现热编译替换（...",
+      "author": "xuesjie",
+      "comments": 0
+    },
+    {
+      "title": "Dario Amodei 发表长文谈开源：Anthropic 从未主张禁止开放权重模型",
+      "url": "https://www.oschina.net/news/481110/anthropic-position-open-weights-models",
+      "summary": "Dario Amodei 昨晚发表了一篇长文，标题叫《我们对开放权重模型的立场》。 这不是 Anthropic 第一次谈开源话题。上一轮争论才过去不到一周——Kim...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "开源独立站 BeikeShop 升级 v2.0 全面开放免费下载!",
+      "url": "https://www.oschina.net/news/481086",
+      "summary": "BeikeShop 是一款基于 Laravel 框架开发的全球领先的开源商城系统，面向外贸/跨境电商行业。系统 100% 开源！系统支持前台/后台多语言、多货币、支...",
+      "author": "成都光大网络",
+      "comments": 0
+    }
+  ]
+}
