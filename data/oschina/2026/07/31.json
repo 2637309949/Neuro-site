@@ -1,0 +1,173 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T15:30:32.746302+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "OpenAI 宣布 GPT-5.6 Luna 价格下降 80%",
+      "url": "https://www.oschina.net/news/484069",
+      "summary": "OpenAI 宣布 GPT-5.6 Luna 价格下降 80%。输入从每百万 token 1 美元砍到 0.2 美元，输出从 6 美元砍到 1.2 美元。GPT-5.6 Terra 降 20%。旗舰 So...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：补丁管理正式上线，助力补丁全生命周期治理",
+      "url": "https://www.oschina.net/news/483964",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。...",
+      "author": "bklitecanway",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek-V4-Flash 官方 API 现已正式上线公测",
+      "url": "https://www.oschina.net/news/483929",
+      "summary": "DeepSeek V4 Flash 正式版今天上线了。模型结构和参数规模没变，还是 MoE 284B、激活 13B、100 万 token 上下文——只重新做了后训练。但改完之后，...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "纳德拉终于想起微软还有个操作系统了",
+      "url": "https://www.oschina.net/news/483871",
+      "summary": "7 月 29 日的 2026 Q4 财报电话会上，微软 CEO 说了一句让 Windows 用户等了十年的话：\"在 Windows 上，我们正在加大投资，以确保它拥有最好的质量...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "深信服Agent挑战赛获奖名单公布！见证生产级AI落地的扎实一步",
+      "url": "https://www.oschina.net/news/483849",
+      "summary": "7月24日，历时三个月的「基于FastGPT深信服商业版Agent实战挑战赛」复赛正式收官！ 由琥珀资本合伙人、微软解决方案总监，以及深信服架构师、产研、...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "英伟达又被开源大佬问候了，但这次不是祖师爷 Linus Torvalds",
+      "url": "https://www.oschina.net/news/483844",
+      "summary": "7 月 20 日，Eric S. Raymond 在 X 上发了一条帖子，核心判断一句话：闭源驱动已死（\"binary-driver secrecy is dead\"，二进制驱动保密的产业均衡态...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": ":fire: Solon AI v4.0.4 发布（智能体开发框架，支持 Java8 到 Java26）",
+      "url": "https://www.oschina.net/news/483694",
+      "summary": "Solon AI Solon AI 是一款面向 Java 开发者 的全栈智能体（Agent）应用开发框架。它秉承 Solon 家族一贯的“克制、高效、开放”理念，向上抽象统一...",
+      "author": "梅子酒好吃",
+      "comments": 0
+    },
+    {
+      "title": "我做了一个支持 CI/CD 流水线部署的床头闹钟",
+      "url": "https://www.oschina.net/news/483672",
+      "summary": "\"我要的闹钟，市面上买不到。\" Ars Technica 高级编辑 Lee Hutchinson 最近被床头闹钟惹毛了。每次断电或夏令时切换，他都要站在柜子旁按住 TIME 键...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "MiniMax H3 正式上线，视频模型也开始玩全模态了",
+      "url": "https://www.oschina.net/news/483640",
+      "summary": "上个月 MiniMax 刚用 M3 在文本模型上刷了一波存在感，今天 H3 来了——一款全模态生成模型，而且承诺几天内开源权重。 先看能力边界。H3 接受文本...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Anthropic 的 AI 摸到了密码学天花板",
+      "url": "https://www.oschina.net/news/483634",
+      "summary": "密码学家 Matthew Green 看完 Anthropic 最新的密码分析成果后，写了篇博客。标题很克制：「一些想法」，但内容不克制。 先说 Anthropic 做了什么。...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Agents-Flex v2.2.6 已经发布，大语言模型应用开发框架",
+      "url": "https://www.oschina.net/news/483595",
+      "summary": "Agents-Flex v2.2.6 已经发布，大语言模型应用开发框架 此版本更新内容包括： chore(deps): update fastjson2 dependency to version 2.0.63 feat(...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "2026上海SEO服务生态观察：从关键词排名到AI答案占位的选型逻辑",
+      "url": "https://www.oschina.net/news/483575",
+      "summary": "在2026年的上海商业版图中,搜索引擎优化早已不是“发外链、堆关键词”那么简单。行业数据显示,2026年上海地区企业数字化营销预算中,SEO与GEO相关投...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "国家人社AI蓝图铺开，东软为何能率先交卷？",
+      "url": "https://www.oschina.net/news/483574",
+      "summary": "在劳动人事争议仲裁中，这样的场景并不少见： 一名劳动者完成工伤认定后，因工伤待遇问题与用人单位产生争议，需要申请劳动仲裁。过去，他可能要请...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "gt-checksum 4.0.2 已经发布，静态数据库校验修复工具",
+      "url": "https://www.oschina.net/news/483557",
+      "summary": "gt-checksum 4.0.2 已经发布，静态数据库校验修复工具 此版本更新内容包括： v4.0.2 关键变化 功能新增：新增 hashAlgorithm 参数，支持选择 xxha...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "EasyGoAdmin 敏捷开发框架 Gin+AntdVue 版本 v3.1.1 发布",
+      "url": "https://www.oschina.net/news/483545",
+      "summary": "v3.1.1 更新内容： 1、修复近期用户反馈的问题； 一款 Go 语言基于 Gin、Vue3、AntDesign、MySQL 等框架精心打造的一款模块化、插件化、高性能的前...",
+      "author": "easygoadmin",
+      "comments": 0
+    },
+    {
+      "title": "Krita 5.3.3 和 6.0.3 发布",
+      "url": "https://www.oschina.net/news/483210/krita-5-3-3-released",
+      "summary": "Krita 5.3.3 和 6.0.3 版本现已发布，其中包含许多错误修复和全面改进。 在 Android 系统上，5.3.3 版本允许用户直接通过应用支持 Krita 的开发。此...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "LibreOffice 26.2.5 发布",
+      "url": "https://www.oschina.net/news/483150/libreoffice-26-2-5-released",
+      "summary": "LibreOffice 26.2.5 现已发布，这是 LibreOffice 26.2 分支的第五次维护更新。此次更新基于 2026 年 2 月 4 日发布的主要功能版本，修复了部分错误...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Jina 全新 6 亿参数列表式重排序模型 reranker 内部揭秘",
+      "url": "https://my.oschina.net/u/3343882/blog/19729991",
+      "summary": "Jina Reranker 3.5 在判例法上的表现比 v3 提升超过 50%，在法律、医疗和金融基准测试中，将与体积大 7 倍模型之间的差距缩小，并且在结构化数据上...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "微软确认开发 Copilot AI 超级应用，整合聊天、编程与智能代理能力",
+      "url": "https://www.oschina.net/news/483111",
+      "summary": "微软正在开发一款整合Copilot聊天、编码助手和智能代理能力的AI“超级应用”，微软首席执行官萨蒂亚·纳德拉在最新财报电话会议中确认，该应用计划...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "数据迁移同步工具 CloudCanal 6.3.0.0 发布，Oracle 目标端写入性能大幅优化",
+      "url": "https://www.oschina.net/news/483086",
+      "summary": "CloudCanal 免费社区版 是 ClouGence 公司推出的一款全自研、可视化、自动化数据迁移同步工具，具备 结构迁移、数据迁移、数据同步、数据校验...",
+      "author": "ClouGence",
+      "comments": 0
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T13:56:00.011825+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Is it possible to update inventory using the Xero API?",
+      "url": "https://stackoverflow.com/questions/79997109/is-it-possible-to-update-inventory-using-the-xero-api",
+      "summary": "",
+      "tags": [
+        "xero-api"
+      ],
+      "author": "ServiceLogic",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Fil-C -static fails with missing Pizlo/Yolo libraries",
+      "url": "https://stackoverflow.com/questions/79997099/fil-c-static-fails-with-missing-pizlo-yolo-libraries",
+      "summary": "",
+      "tags": [
+        "c++",
+        "linker-errors",
+        "static-linking"
+      ],
+      "author": "user2759511",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "I want to make a language for Data Science, is that worth the effort?",
+      "url": "https://stackoverflow.com/questions/79997083/i-want-to-make-a-language-for-data-science-is-that-worth-the-effort",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "Abdelhaleem Yahya",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How to export SQL database from SSMS and be able to use it in my C# application",
+      "url": "https://stackoverflow.com/questions/79997076/how-to-export-sql-database-from-ssms-and-be-able-to-use-it-in-my-c-application",
+      "summary": "",
+      "tags": [
+        "sql",
+        "sql-server",
+        "microsoft-data-sqlclient"
+      ],
+      "author": "Alex",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How do I make the website know when I clicked the click",
+      "url": "https://stackoverflow.com/questions/79997090/how-do-i-make-the-website-know-when-i-clicked-the-click",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "author": "P196hql",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "does creating Idenity column wth primary key constraints makes the table comply with 2NF?",
+      "url": "https://stackoverflow.com/questions/79997094/does-creating-idenity-column-wth-primary-key-constraints-makes-the-table-comply",
+      "summary": "",
+      "tags": [
+        "advice",
+        "database-design",
+        "primary-key",
+        "database-normalization",
+        "functional-dependencies"
+      ],
+      "author": "abd klaib",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "pyttsx3 fails with unknown error code whenever I try to initiate it",
+      "url": "https://stackoverflow.com/questions/79997089/pyttsx3-fails-with-unknown-error-code-whenever-i-try-to-initiate-it",
+      "summary": "",
+      "tags": [
+        "python",
+        "ubuntu",
+        "pyttsx3"
+      ],
+      "author": "ItzSeegy",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "My program exits when incorrect input type entered despite input validation",
+      "url": "https://stackoverflow.com/questions/79997079/my-program-exits-when-incorrect-input-type-entered-despite-input-validation",
+      "summary": "",
+      "tags": [
+        "c++",
+        "validation",
+        "input"
+      ],
+      "author": "Fayyah Mvelase",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Extra non-character or empty character or absence is getting printed at the end of target string being matched by regex pattern using find() in java",
+      "url": "https://stackoverflow.com/questions/79997040/extra-non-character-or-empty-character-or-absence-is-getting-printed-at-the-end",
+      "summary": "",
+      "tags": [
+        "java",
+        "regex"
+      ],
+      "author": "Mohit Thakur",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Using CSS linear-gradient in SVG",
+      "url": "https://stackoverflow.com/questions/79997066/using-css-linear-gradient-in-svg",
+      "summary": "",
+      "tags": [
+        "css",
+        "svg",
+        "gradient"
+      ],
+      "author": "Gouvernathor",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How does PolarDB make a non-CONCURRENT REFRESH MATERIALIZED VIEW non-blocking, and why can&#39;t community PostgreSQL do this?",
+      "url": "https://stackoverflow.com/questions/79997077/how-does-polardb-make-a-non-concurrent-refresh-materialized-view-non-blocking-a",
+      "summary": "",
+      "tags": [
+        "advice",
+        "postgresql",
+        "polardb"
+      ],
+      "author": "weak null",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "button not running function?",
+      "url": "https://stackoverflow.com/questions/79997044/button-not-running-function",
+      "summary": "",
+      "tags": [
+        "python",
+        "pyqt"
+      ],
+      "author": "samrad Tangestani",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Given a multi-commit PR, how to go from a file in &quot;Files changed&quot; to the commit(s) where that file was changed?",
+      "url": "https://stackoverflow.com/questions/79997047/given-a-multi-commit-pr-how-to-go-from-a-file-in-files-changed-to-the-commit",
+      "summary": "",
+      "tags": [
+        "git",
+        "github",
+        "workflow",
+        "pull-request"
+      ],
+      "author": "Enlico",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to generate customized CVs maintaining the original layout in n8n?",
+      "url": "https://stackoverflow.com/questions/79997051/how-to-generate-customized-cvs-maintaining-the-original-layout-in-n8n",
+      "summary": "",
+      "tags": [
+        "n8n"
+      ],
+      "author": "A.B",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to restrict users from accessing one API endpoint if they are on a cheaper usage plan?",
+      "url": "https://stackoverflow.com/questions/79996993/how-to-restrict-users-from-accessing-one-api-endpoint-if-they-are-on-a-cheaper-u",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "amazon-web-services",
+        "aws-api-gateway",
+        "api-gateway"
+      ],
+      "author": "midnight-jogging",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Where can I find all the dependencies specified by Spring Boot&#39;s bill of materials?",
+      "url": "https://stackoverflow.com/questions/79997046/where-can-i-find-all-the-dependencies-specified-by-spring-boots-bill-of-materia",
+      "summary": "",
+      "tags": [
+        "spring-boot"
+      ],
+      "author": "D&#243;nal",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "seeking advice from audience about projects",
+      "url": "https://stackoverflow.com/questions/79997042/seeking-advice-from-audience-about-projects",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Ratul Ctg",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Visual Studio Debugging: freeze current thread by code",
+      "url": "https://stackoverflow.com/questions/79997033/visual-studio-debugging-freeze-current-thread-by-code",
+      "summary": "",
+      "tags": [
+        "c++",
+        "visual-studio",
+        "visual-c++"
+      ],
+      "author": "vlad_tepesch",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "When does Redis receive entries?",
+      "url": "https://stackoverflow.com/questions/79997013/when-does-redis-receive-entries",
+      "summary": "",
+      "tags": [
+        "freeradius"
+      ],
+      "author": "Thore Sch&#246;ller",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to fix the error when using modules in imported directories",
+      "url": "https://stackoverflow.com/questions/79997023/how-to-fix-the-error-when-using-modules-in-imported-directories",
+      "summary": "",
+      "tags": [
+        "python",
+        "visual-studio-code",
+        "vscode-extensions",
+        "pylance"
+      ],
+      "author": "Richard Ejinkonye",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Request failed in Django but succeeds when I run script standalone",
+      "url": "https://stackoverflow.com/questions/79997020/request-failed-in-django-but-succeeds-when-i-run-script-standalone",
+      "summary": "",
+      "tags": [
+        "python",
+        "django",
+        "python-requests",
+        "steam"
+      ],
+      "author": "ali.zabetpour",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Can C++ &quot;happens-before&quot; order contradict physical wall-clock execution time?",
+      "url": "https://stackoverflow.com/questions/79996983/can-c-happens-before-order-contradict-physical-wall-clock-execution-time",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "atomic"
+      ],
+      "author": "xmh0511",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Font not loaded in production build",
+      "url": "https://stackoverflow.com/questions/79997016/font-not-loaded-in-production-build",
+      "summary": "",
+      "tags": [
+        "react-router",
+        "webfonts"
+      ],
+      "author": "Ammar",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How can I generate human-friendly numeric scale values between two float64 values in Go?",
+      "url": "https://stackoverflow.com/questions/79997009/how-can-i-generate-human-friendly-numeric-scale-values-between-two-float64-value",
+      "summary": "",
+      "tags": [
+        "algorithm",
+        "go",
+        "axis"
+      ],
+      "author": "Mykhaylo Adamovych",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Requires clause falsely parsed as declarator-id by -pedantic flag",
+      "url": "https://stackoverflow.com/questions/79996999/requires-clause-falsely-parsed-as-declarator-id-by-pedantic-flag",
+      "summary": "",
+      "tags": [
+        "c++",
+        "templates",
+        "require",
+        "gcc-pedantic"
+      ],
+      "author": "IAHSXIDEAS",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How should I handle video hosting + piracy",
+      "url": "https://stackoverflow.com/questions/79996984/how-should-i-handle-video-hosting-piracy",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "video-streaming"
+      ],
+      "author": "Kumar Abhinaw",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "JUnit Test cases failing after upgrading to Gradle 9, Springboot 4 and Java 25",
+      "url": "https://stackoverflow.com/questions/79996939/junit-test-cases-failing-after-upgrading-to-gradle-9-springboot-4-and-java-25",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring-boot",
+        "gradle"
+      ],
+      "author": "neo83",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Should (double)(std::float16_t(1024) + std::float16_t(1025)) be 2048.0 or 2049.0?",
+      "url": "https://stackoverflow.com/questions/79996927/should-doublestdfloat16-t1024-stdfloat16-t1025-be-2048-0-or-2049-0",
+      "summary": "",
+      "tags": [
+        "c++",
+        "floating-point",
+        "precision",
+        "floating-point-conversion",
+        "bfloat16"
+      ],
+      "author": "Don Hatch",
+      "comments": 2,
+      "score": 5
+    },
+    {
+      "title": "How does the javascript css div viewport know which html center is being displayed?",
+      "url": "https://stackoverflow.com/questions/79996994/how-does-the-javascript-css-div-viewport-know-which-html-center-is-being-display",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "P196hql",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How do I proxy upstream to Burp?",
+      "url": "https://stackoverflow.com/questions/79996988/how-do-i-proxy-upstream-to-burp",
+      "summary": "",
+      "tags": [
+        "http-toolkit"
+      ],
+      "author": "james1052",
+      "comments": 1,
+      "score": -4
+    }
+  ]
+}

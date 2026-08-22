@@ -1,0 +1,435 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T14:18:47.579157+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "OroCommerce 7 Product Export omits attribute columns, but Product Import expects them (Backend header doesn&#39;t contain fields)",
+      "url": "https://stackoverflow.com/questions/79991353/orocommerce-7-product-export-omits-attribute-columns-but-product-import-expects",
+      "summary": "",
+      "tags": [
+        "orocommerce"
+      ],
+      "author": "Pradeep",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Should I be calling DisableNetwork before the OS loses connectivity?",
+      "url": "https://stackoverflow.com/questions/79991342/should-i-be-calling-disablenetwork-before-the-os-loses-connectivity",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "firebase"
+      ],
+      "author": "Ricardo",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "EleventyImageTransformPlugin images are not stored and referenced at the same place",
+      "url": "https://stackoverflow.com/questions/79991352/eleventyimagetransformplugin-images-are-not-stored-and-referenced-at-the-same-pl",
+      "summary": "",
+      "tags": [
+        "html",
+        "eleventy"
+      ],
+      "author": "Ely",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I make sqlite optimise its sharing of B-trees across indexes?",
+      "url": "https://stackoverflow.com/questions/79991323/how-can-i-make-sqlite-optimise-its-sharing-of-b-trees-across-indexes",
+      "summary": "",
+      "tags": [
+        "sqlite"
+      ],
+      "author": "MandyShaw",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Have to recover TeamSource library for client. Anyone have Delphi 5 CD with TeamSource source",
+      "url": "https://stackoverflow.com/questions/79991343/have-to-recover-teamsource-library-for-client-anyone-have-delphi-5-cd-with-team",
+      "summary": "",
+      "tags": [
+        "delphi"
+      ],
+      "author": "user2277327",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "I don&#39;t understand why something executes before something else",
+      "url": "https://stackoverflow.com/questions/79991337/i-dont-understand-why-something-executes-before-something-else",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "async-await"
+      ],
+      "author": "Luna",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "I Understood DAO layer... BUT i have messed up in the controller layer and the service layer where to write how much logic and how to separate them?",
+      "url": "https://stackoverflow.com/questions/79991309/i-understood-dao-layer-but-i-have-messed-up-in-the-controller-layer-and-the-s",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "java",
+        "model-view-controller",
+        "servlets"
+      ],
+      "author": "Deep Bhatti",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Why does Next.js dynamic import fail with &quot;window is not defined&quot; during server-side rendering?",
+      "url": "https://stackoverflow.com/questions/79991288/why-does-next-js-dynamic-import-fail-with-window-is-not-defined-during-server",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "typescript",
+        "next.js",
+        "server-side-rendering",
+        "dynamic-import"
+      ],
+      "author": "Ashutosh Shukla",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "I can’t download WindowsPE Ghost Spectre",
+      "url": "https://stackoverflow.com/questions/79991321/i-can-t-download-windowspe-ghost-spectre",
+      "summary": "",
+      "tags": [
+        "windows"
+      ],
+      "author": "DiNuM Umar",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "Android Java - Set Size of Content Area in an AlertDialog",
+      "url": "https://stackoverflow.com/questions/79991308/android-java-set-size-of-content-area-in-an-alertdialog",
+      "summary": "",
+      "tags": [
+        "java",
+        "android",
+        "android-alertdialog"
+      ],
+      "author": "Stuart McLaren",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Django TruncMinute",
+      "url": "https://stackoverflow.com/questions/79991317/django-truncminute",
+      "summary": "",
+      "tags": [
+        "django",
+        "django-models"
+      ],
+      "author": "LeBron James",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Nested state management in Flutter with Bloc and Firebase",
+      "url": "https://stackoverflow.com/questions/79991314/nested-state-management-in-flutter-with-bloc-and-firebase",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "flutter",
+        "firebase",
+        "bloc",
+        "cubit"
+      ],
+      "author": "systemOverview",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Access outer this from inner class in Scala",
+      "url": "https://stackoverflow.com/questions/79991306/access-outer-this-from-inner-class-in-scala",
+      "summary": "",
+      "tags": [
+        "scala"
+      ],
+      "author": "Suma",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Should I use signal and slot before or after the http request via QNetworkAccessManager?",
+      "url": "https://stackoverflow.com/questions/79991235/should-i-use-signal-and-slot-before-or-after-the-http-request-via-qnetworkaccess",
+      "summary": "",
+      "tags": [
+        "c++",
+        "qt",
+        "httprequest",
+        "signals-slots",
+        "qnetworkaccessmanager"
+      ],
+      "author": "meysam imanipour",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How do you prevent duplicate scheduled jobs when Laravel is running on multiple servers?",
+      "url": "https://stackoverflow.com/questions/79991300/how-do-you-prevent-duplicate-scheduled-jobs-when-laravel-is-running-on-multiple",
+      "summary": "",
+      "tags": [
+        "advice",
+        "laravel",
+        "redis",
+        "scheduling",
+        "distributed-system"
+      ],
+      "author": "Raghav Ji",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Remove const or get a non-const object",
+      "url": "https://stackoverflow.com/questions/79991232/remove-const-or-get-a-non-const-object",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "constants"
+      ],
+      "author": "Mauro",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why does tf.function retrace when only the RaggedTensor row-splits dtype changes?",
+      "url": "https://stackoverflow.com/questions/79991283/why-does-tf-function-retrace-when-only-the-raggedtensor-row-splits-dtype-changes",
+      "summary": "",
+      "tags": [
+        "python",
+        "tensorflow",
+        "tensorflow2.0"
+      ],
+      "author": "zzzCode",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I filter Avada Post Cards by a custom field value?",
+      "url": "https://stackoverflow.com/questions/79991313/how-can-i-filter-avada-post-cards-by-a-custom-field-value",
+      "summary": "",
+      "tags": [
+        "wordpress",
+        "plugins"
+      ],
+      "author": "Alex Hutton",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Automate Mode/Do not disturb based on meeting room",
+      "url": "https://stackoverflow.com/questions/79991291/automate-mode-do-not-disturb-based-on-meeting-room",
+      "summary": "",
+      "tags": [
+        "location",
+        "screensharing"
+      ],
+      "author": "U3.1415926",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "ASP.NET Core MVC displays bool as text not checkbox",
+      "url": "https://stackoverflow.com/questions/79991284/asp-net-core-mvc-displays-bool-as-text-not-checkbox",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net-core",
+        "razor",
+        "checkbox",
+        "asp.net-core-mvc"
+      ],
+      "author": "makalhashili",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Use AFL++ fuzzing on an embedded software working on serial port inputs",
+      "url": "https://stackoverflow.com/questions/79991271/use-afl-fuzzing-on-an-embedded-software-working-on-serial-port-inputs",
+      "summary": "",
+      "tags": [
+        "c",
+        "fuzzing"
+      ],
+      "author": "Guillaume Petitjean",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Visual studio 2026 iOS Simulator do not showing",
+      "url": "https://stackoverflow.com/questions/79991286/visual-studio-2026-ios-simulator-do-not-showing",
+      "summary": "",
+      "tags": [
+        "ios",
+        "ios-simulator",
+        "visual-studio-2026"
+      ],
+      "author": "saramgsilva",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Writing figure with raster graphics for scientific publication by hand in PostScript",
+      "url": "https://stackoverflow.com/questions/79991279/writing-figure-with-raster-graphics-for-scientific-publication-by-hand-in-postsc",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "postscript"
+      ],
+      "author": "NicolasBourbaki",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Why does A BETWEEN B AND B in a JOIN produce a different plan than A = B?",
+      "url": "https://stackoverflow.com/questions/79991273/why-does-a-between-b-and-b-in-a-join-produce-a-different-plan-than-a-b",
+      "summary": "",
+      "tags": [
+        "sql",
+        "join",
+        "query-optimization",
+        "oceanbase"
+      ],
+      "author": "jinglan0379",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to prevent iframe from blocking parent scrolling",
+      "url": "https://stackoverflow.com/questions/79991285/how-to-prevent-iframe-from-blocking-parent-scrolling",
+      "summary": "",
+      "tags": [
+        "html",
+        "iframe"
+      ],
+      "author": "Philipp Lehmann",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "SQL Server backup to rustfs gives Operating system error 12175",
+      "url": "https://stackoverflow.com/questions/79991227/sql-server-backup-to-rustfs-gives-operating-system-error-12175",
+      "summary": "",
+      "tags": [
+        "python",
+        "sql-server",
+        "nginx",
+        "mssql-python",
+        "rustfs"
+      ],
+      "author": "Dinesh",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Logic behind sizeof() for 2D arrays in C",
+      "url": "https://stackoverflow.com/questions/79991056/logic-behind-sizeof-for-2d-arrays-in-c",
+      "summary": "",
+      "tags": [
+        "arrays",
+        "c",
+        "multidimensional-array",
+        "sizeof"
+      ],
+      "author": "Destroi",
+      "comments": 5,
+      "score": 4
+    },
+    {
+      "title": "How do I get the platform of an OpenCL context, which wasn&#39;t specified on creation?",
+      "url": "https://stackoverflow.com/questions/79991260/how-do-i-get-the-platform-of-an-opencl-context-which-wasnt-specified-on-creati",
+      "summary": "",
+      "tags": [
+        "language-lawyer",
+        "opencl"
+      ],
+      "author": "einpoklum",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I verify website localization across multiple countries and languages during development?",
+      "url": "https://stackoverflow.com/questions/79991267/how-can-i-verify-website-localization-across-multiple-countries-and-languages-du",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "testing",
+        "web",
+        "localization",
+        "internationalization"
+      ],
+      "author": "guna lan",
+      "comments": 2,
+      "score": -3
+    },
+    {
+      "title": "How to reliably receive rich event metadata and cropped event images from multi-vendor IP cameras?",
+      "url": "https://stackoverflow.com/questions/79991245/how-to-reliably-receive-rich-event-metadata-and-cropped-event-images-from-multi",
+      "summary": "",
+      "tags": [
+        "advice",
+        "events",
+        "ip-camera",
+        "onvif"
+      ],
+      "author": "hk02",
+      "comments": 2,
+      "score": 0
+    }
+  ]
+}

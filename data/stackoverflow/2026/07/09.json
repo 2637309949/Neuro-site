@@ -1,0 +1,433 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T12:20:58.077932+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How can I preserve PNG transparency when displaying an image in Tkinter?",
+      "url": "https://stackoverflow.com/questions/79978298/how-can-i-preserve-png-transparency-when-displaying-an-image-in-tkinter",
+      "summary": "",
+      "tags": [
+        "python",
+        "image",
+        "tkinter",
+        "png",
+        "transparency"
+      ],
+      "author": "Muhammad Mubbashir Idrees",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Can&#39;t link operator&lt;&lt; for vector&lt;int&gt; for a class that encapsulates vector&lt;int&gt; as template T",
+      "url": "https://stackoverflow.com/questions/79978249/cant-link-operator-for-vectorint-for-a-class-that-encapsulates-vectorint",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++11",
+        "templates",
+        "operator-overloading",
+        "friend-function"
+      ],
+      "author": "ramgorur",
+      "comments": 14,
+      "score": 0
+    },
+    {
+      "title": "TypeScript in browser throws error &quot;Uncaught ReferenceError: exports is not defined&quot;",
+      "url": "https://stackoverflow.com/questions/79978277/typescript-in-browser-throws-error-uncaught-referenceerror-exports-is-not-defi",
+      "summary": "",
+      "tags": [
+        "typescript"
+      ],
+      "author": "Rakib",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Command line option with variable number of args",
+      "url": "https://stackoverflow.com/questions/79978273/command-line-option-with-variable-number-of-args",
+      "summary": "",
+      "tags": [
+        "python",
+        "command-line",
+        "argparse"
+      ],
+      "author": "Daniel",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Is it possible to debug an application, running as an administrator mode, from a Visual Studio environment, not running as administrator?",
+      "url": "https://stackoverflow.com/questions/79978289/is-it-possible-to-debug-an-application-running-as-an-administrator-mode-from-a",
+      "summary": "",
+      "tags": [
+        "c++",
+        "debugging",
+        "permissions",
+        "elevated-privileges",
+        "attach-to-process"
+      ],
+      "author": "Dominique",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Warning messages using dcast in data.table",
+      "url": "https://stackoverflow.com/questions/79978280/warning-messages-using-dcast-in-data-table",
+      "summary": "",
+      "tags": [
+        "r",
+        "data.table"
+      ],
+      "author": "Mohit",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Troubleshooting A7670E-FASE: GNSS Subsystem UART never transmits any signal",
+      "url": "https://stackoverflow.com/questions/79978275/troubleshooting-a7670e-fase-gnss-subsystem-uart-never-transmits-any-signal",
+      "summary": "",
+      "tags": [
+        "gps",
+        "modem",
+        "simcom"
+      ],
+      "author": "Oluwatobi Ogundimu",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to have transparency working in linux Tkinter?",
+      "url": "https://stackoverflow.com/questions/79978295/how-to-have-transparency-working-in-linux-tkinter",
+      "summary": "",
+      "tags": [
+        "python",
+        "tkinter",
+        "transparency"
+      ],
+      "author": "Peur Pioche",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How do I plot this function for all values of the numpy array?",
+      "url": "https://stackoverflow.com/questions/79978246/how-do-i-plot-this-function-for-all-values-of-the-numpy-array",
+      "summary": "",
+      "tags": [
+        "python",
+        "numpy",
+        "matplotlib"
+      ],
+      "author": "samrad Tangestani",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why is Maven JAR Plugin writing *.jar contents into the *.pom file?",
+      "url": "https://stackoverflow.com/questions/79978195/why-is-maven-jar-plugin-writing-jar-contents-into-the-pom-file",
+      "summary": "",
+      "tags": [
+        "java",
+        "maven",
+        "windows-11"
+      ],
+      "author": "Petersaber",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Dynamic Signal Forms, Reactive Configuration",
+      "url": "https://stackoverflow.com/questions/79978208/dynamic-signal-forms-reactive-configuration",
+      "summary": "",
+      "tags": [
+        "angular",
+        "forms",
+        "signals",
+        "angular-signal-forms"
+      ],
+      "author": "Maarten",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Need Help for making flutter app to Control LED/Buzzer)(M1P LED Beacon Tag)",
+      "url": "https://stackoverflow.com/questions/79978259/need-help-for-making-flutter-app-to-control-led-buzzerm1p-led-beacon-tag",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "bluetooth-lowenergy",
+        "iot"
+      ],
+      "author": "Matavar Prasad",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Unconditional type intersection problem from generic inference",
+      "url": "https://stackoverflow.com/questions/79978237/unconditional-type-intersection-problem-from-generic-inference",
+      "summary": "",
+      "tags": [
+        "typescript"
+      ],
+      "author": "jamgoo",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Banno Integration - Abilities API returning 403",
+      "url": "https://stackoverflow.com/questions/79978236/banno-integration-abilities-api-returning-403",
+      "summary": "",
+      "tags": [
+        "banno-digital-toolkit"
+      ],
+      "author": "Rishabh Jain",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How do I place this code within description of XMLs&#39; description",
+      "url": "https://stackoverflow.com/questions/79978199/how-do-i-place-this-code-within-description-of-xmls-description",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "namespaces"
+      ],
+      "author": "Elise Citron",
+      "comments": 6,
+      "score": 0
+    },
+    {
+      "title": "why this code generates two destructor message, and why this happens without Constructing twice",
+      "url": "https://stackoverflow.com/questions/79978174/why-this-code-generates-two-destructor-message-and-why-this-happens-without-con",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++11",
+        "destructor"
+      ],
+      "author": "Taha Exo",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Is __vmalloc(size, GFP_NOWAIT) really guaranteed not to sleep?",
+      "url": "https://stackoverflow.com/questions/79978221/is-vmallocsize-gfp-nowait-really-guaranteed-not-to-sleep",
+      "summary": "",
+      "tags": [
+        "linux",
+        "kernel",
+        "vmalloc"
+      ],
+      "author": "Patryk Kupś",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "Jitsi React native SDK - Screen freezing for 2+ minutes on initial mount or when participant joins the first time",
+      "url": "https://stackoverflow.com/questions/79978222/jitsi-react-native-sdk-screen-freezing-for-2-minutes-on-initial-mount-or-when",
+      "summary": "",
+      "tags": [
+        "ios",
+        "react-native",
+        "jitsi",
+        "jitsi-meet"
+      ],
+      "author": "JINFO",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "AttributeError: &#39;PdbMiddleware&#39; object has no attribute &#39;async_mode&#39;",
+      "url": "https://stackoverflow.com/questions/79978228/attributeerror-pdbmiddleware-object-has-no-attribute-async-mode",
+      "summary": "",
+      "tags": [
+        "django",
+        "middleware"
+      ],
+      "author": "Quousque tandem abutere",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Why do Meta Business Suite post metrics differ from the exported CSV report?",
+      "url": "https://stackoverflow.com/questions/79978227/why-do-meta-business-suite-post-metrics-differ-from-the-exported-csv-report",
+      "summary": "",
+      "tags": [
+        "facebook",
+        "metadata"
+      ],
+      "author": "Aditya Panditrao",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Reducing PyInstaller executable size when bundling a Playwright browser (currently ~500MB)",
+      "url": "https://stackoverflow.com/questions/79978159/reducing-pyinstaller-executable-size-when-bundling-a-playwright-browser-current",
+      "summary": "",
+      "tags": [
+        "python",
+        "playwright-python"
+      ],
+      "author": "user32880109",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Serialize and deserialize property with dynamically assigned property name based on a type given in an attribute using System.Text.Json",
+      "url": "https://stackoverflow.com/questions/79978163/serialize-and-deserialize-property-with-dynamically-assigned-property-name-based",
+      "summary": "",
+      "tags": [
+        "c#",
+        "json",
+        "serialization",
+        "system.text.json"
+      ],
+      "author": "philippe",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "I am getting a CORS error when trying to make a fetch request from dog.ceo",
+      "url": "https://stackoverflow.com/questions/79978206/i-am-getting-a-cors-error-when-trying-to-make-a-fetch-request-from-dog-ceo",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "cors"
+      ],
+      "author": "Nate",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "MemberNotNull doesn&#39;t work on static instantiator",
+      "url": "https://stackoverflow.com/questions/79978175/membernotnull-doesnt-work-on-static-instantiator",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net",
+        "static-analysis",
+        "nullable-reference-types"
+      ],
+      "author": "CaiB",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "Connect GPU to on-premise Kubernetes Cluster",
+      "url": "https://stackoverflow.com/questions/79978178/connect-gpu-to-on-premise-kubernetes-cluster",
+      "summary": "",
+      "tags": [
+        "kubernetes",
+        "gpu",
+        "devops",
+        "nvidia",
+        "mlops"
+      ],
+      "author": "Speedkillsx",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to use X as type name in Template(X) in c",
+      "url": "https://stackoverflow.com/questions/79978117/how-to-use-x-as-type-name-in-templatex-in-c",
+      "summary": "",
+      "tags": [
+        "c",
+        "preprocessor-directive"
+      ],
+      "author": "stackbiz",
+      "comments": 2,
+      "score": 4
+    },
+    {
+      "title": "Can Microsoft Graph create online meetings using moderated meeting templates?",
+      "url": "https://stackoverflow.com/questions/79978201/can-microsoft-graph-create-online-meetings-using-moderated-meeting-templates",
+      "summary": "",
+      "tags": [
+        "microsoft-graph-api"
+      ],
+      "author": "Smallwaiter",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Spring Boot 3 fails to find bean despite @Service annotation and correct package structure",
+      "url": "https://stackoverflow.com/questions/79978102/spring-boot-3-fails-to-find-bean-despite-service-annotation-and-correct-package",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring",
+        "spring-boot"
+      ],
+      "author": "gilson_leonel01",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to display the contents of a CSV file, with rows filtered by the value in the timestamp column",
+      "url": "https://stackoverflow.com/questions/79978144/how-to-display-the-contents-of-a-csv-file-with-rows-filtered-by-the-value-in-th",
+      "summary": "",
+      "tags": [
+        "python",
+        "csv"
+      ],
+      "author": "Jas",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "React Hook Form validation across multiple tabs: is useWatch + custom validation the right approach?",
+      "url": "https://stackoverflow.com/questions/79978184/react-hook-form-validation-across-multiple-tabs-is-usewatch-custom-validation",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "react-hook-form"
+      ],
+      "author": "Furqan",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

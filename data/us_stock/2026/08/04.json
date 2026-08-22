@@ -1,0 +1,278 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T15:35:14.328014+00:00",
+  "source": "us_stock",
+  "count": 30,
+  "columns": [
+    {
+      "name": "股票名",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "涨跌幅",
+      "key": "change",
+      "type": "metric",
+      "directionToggle": true
+    },
+    {
+      "name": "最新价",
+      "key": "price",
+      "type": "text"
+    },
+    {
+      "name": "成交额",
+      "key": "volume",
+      "type": "metric"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "INTC",
+      "url": "https://finance.yahoo.com/quote/INTC/",
+      "summary": "",
+      "change": "4.62%",
+      "price": "99.72",
+      "volume": 51949788
+    },
+    {
+      "title": "MSFT",
+      "url": "https://finance.yahoo.com/quote/MSFT/",
+      "summary": "",
+      "change": "3.55%",
+      "price": "497.80",
+      "volume": 21471616
+    },
+    {
+      "title": "CRM",
+      "url": "https://finance.yahoo.com/quote/CRM/",
+      "summary": "",
+      "change": "3.32%",
+      "price": "189.16",
+      "volume": 2396526
+    },
+    {
+      "title": "AAP",
+      "url": "https://finance.yahoo.com/quote/AAP/",
+      "summary": "",
+      "change": "3.23%",
+      "price": "57.26",
+      "volume": 242822
+    },
+    {
+      "title": "SLB",
+      "url": "https://finance.yahoo.com/quote/SLB/",
+      "summary": "",
+      "change": "3.11%",
+      "price": "50.34",
+      "volume": 2747466
+    },
+    {
+      "title": "AMD",
+      "url": "https://finance.yahoo.com/quote/AMD/",
+      "summary": "",
+      "change": "2.87%",
+      "price": "518.70",
+      "volume": 14728205
+    },
+    {
+      "title": "QCOM",
+      "url": "https://finance.yahoo.com/quote/QCOM/",
+      "summary": "",
+      "change": "2.71%",
+      "price": "160.84",
+      "volume": 4040477
+    },
+    {
+      "title": "AVGO",
+      "url": "https://finance.yahoo.com/quote/AVGO/",
+      "summary": "",
+      "change": "2.43%",
+      "price": "412.77",
+      "volume": 9410424
+    },
+    {
+      "title": "ORCL",
+      "url": "https://finance.yahoo.com/quote/ORCL/",
+      "summary": "",
+      "change": "2.33%",
+      "price": "144.29",
+      "volume": 17369493
+    },
+    {
+      "title": "C",
+      "url": "https://finance.yahoo.com/quote/C/",
+      "summary": "",
+      "change": "2.31%",
+      "price": "137.43",
+      "volume": 3030987
+    },
+    {
+      "title": "IBM",
+      "url": "https://finance.yahoo.com/quote/IBM/",
+      "summary": "",
+      "change": "2.29%",
+      "price": "229.90",
+      "volume": 2425804
+    },
+    {
+      "title": "GOOGL",
+      "url": "https://finance.yahoo.com/quote/GOOGL/",
+      "summary": "",
+      "change": "2.18%",
+      "price": "375.67",
+      "volume": 13376153
+    },
+    {
+      "title": "LOW",
+      "url": "https://finance.yahoo.com/quote/LOW/",
+      "summary": "",
+      "change": "2.03%",
+      "price": "216.05",
+      "volume": 596663
+    },
+    {
+      "title": "ADBE",
+      "url": "https://finance.yahoo.com/quote/ADBE/",
+      "summary": "",
+      "change": "1.91%",
+      "price": "252.54",
+      "volume": 1319641
+    },
+    {
+      "title": "MS",
+      "url": "https://finance.yahoo.com/quote/MS/",
+      "summary": "",
+      "change": "1.90%",
+      "price": "217.72",
+      "volume": 3691285
+    },
+    {
+      "title": "JPM",
+      "url": "https://finance.yahoo.com/quote/JPM/",
+      "summary": "",
+      "change": "1.75%",
+      "price": "361.23",
+      "volume": 3237863
+    },
+    {
+      "title": "V",
+      "url": "https://finance.yahoo.com/quote/V/",
+      "summary": "",
+      "change": "1.73%",
+      "price": "368.02",
+      "volume": 1876238
+    },
+    {
+      "title": "HD",
+      "url": "https://finance.yahoo.com/quote/HD/",
+      "summary": "",
+      "change": "1.65%",
+      "price": "345.86",
+      "volume": 815326
+    },
+    {
+      "title": "ALL",
+      "url": "https://finance.yahoo.com/quote/ALL/",
+      "summary": "",
+      "change": "1.56%",
+      "price": "261.27",
+      "volume": 359948
+    },
+    {
+      "title": "APD",
+      "url": "https://finance.yahoo.com/quote/APD/",
+      "summary": "",
+      "change": "1.54%",
+      "price": "295.39",
+      "volume": 215516
+    },
+    {
+      "title": "PG",
+      "url": "https://finance.yahoo.com/quote/PG/",
+      "summary": "",
+      "change": "1.52%",
+      "price": "146.23",
+      "volume": 1920741
+    },
+    {
+      "title": "OXY",
+      "url": "https://finance.yahoo.com/quote/OXY/",
+      "summary": "",
+      "change": "1.33%",
+      "price": "55.02",
+      "volume": 2872040
+    },
+    {
+      "title": "PYPL",
+      "url": "https://finance.yahoo.com/quote/PYPL/",
+      "summary": "",
+      "change": "1.26%",
+      "price": "57.92",
+      "volume": 2935649
+    },
+    {
+      "title": "TXN",
+      "url": "https://finance.yahoo.com/quote/TXN/",
+      "summary": "",
+      "change": "1.22%",
+      "price": "280.29",
+      "volume": 2044729
+    },
+    {
+      "title": "TGT",
+      "url": "https://finance.yahoo.com/quote/TGT/",
+      "summary": "",
+      "change": "1.10%",
+      "price": "148.99",
+      "volume": 741971
+    },
+    {
+      "title": "AAPL",
+      "url": "https://finance.yahoo.com/quote/AAPL/",
+      "summary": "",
+      "change": "1.07%",
+      "price": "305.98",
+      "volume": 22488885
+    },
+    {
+      "title": "SPGI",
+      "url": "https://finance.yahoo.com/quote/SPGI/",
+      "summary": "",
+      "change": "1.06%",
+      "price": "416.31",
+      "volume": 598496
+    },
+    {
+      "title": "DE",
+      "url": "https://finance.yahoo.com/quote/DE/",
+      "summary": "",
+      "change": "1.06%",
+      "price": "617.13",
+      "volume": 211952
+    },
+    {
+      "title": "PGR",
+      "url": "https://finance.yahoo.com/quote/PGR/",
+      "summary": "",
+      "change": "1.05%",
+      "price": "209.44",
+      "volume": 535523
+    },
+    {
+      "title": "XOM",
+      "url": "https://finance.yahoo.com/quote/XOM/",
+      "summary": "",
+      "change": "1.00%",
+      "price": "153.13",
+      "volume": 4894459
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T14:26:49.970092+00:00",
+  "source": "github",
+  "count": 16,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "semantica-agi/semantica",
+      "repo": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 3798,
+      "today_stars": 967
+    },
+    {
+      "title": "msitarzewski/agency-agents",
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "summary": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 141489,
+      "today_stars": 1352
+    },
+    {
+      "title": "NanmiCoder/MediaCrawler",
+      "repo": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "summary": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 60802,
+      "today_stars": 215
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 85551,
+      "today_stars": 659
+    },
+    {
+      "title": "paperclipai/paperclip",
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "summary": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 76239,
+      "today_stars": 167
+    },
+    {
+      "title": "PrimeIntellect-ai/prime-agent",
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "summary": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 12652,
+      "today_stars": 2655
+    },
+    {
+      "title": "LadybirdBrowser/ladybird",
+      "repo": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "summary": "Truly independent web browser",
+      "language": "C++",
+      "stars": 65166,
+      "today_stars": 190
+    },
+    {
+      "title": "ruvnet/RuView",
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "summary": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 89209,
+      "today_stars": 156
+    },
+    {
+      "title": "danielmiessler/LifeOS",
+      "repo": "danielmiessler/LifeOS",
+      "url": "https://github.com/danielmiessler/LifeOS",
+      "summary": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "language": "TypeScript",
+      "stars": 17709,
+      "today_stars": 143
+    },
+    {
+      "title": "firecrawl/firecrawl",
+      "repo": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "summary": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars": 164703,
+      "today_stars": 815
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 97006,
+      "today_stars": 598
+    },
+    {
+      "title": "google-deepmind/weathernext",
+      "repo": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "summary": "",
+      "language": "Python",
+      "stars": 7260,
+      "today_stars": 327
+    },
+    {
+      "title": "vitali87/code-graph-rag",
+      "repo": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "summary": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": 3395,
+      "today_stars": 682
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "summary": "",
+      "language": "TypeScript",
+      "stars": 17886,
+      "today_stars": 388
+    },
+    {
+      "title": "Comfy-Org/ComfyUI",
+      "repo": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "summary": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars": 126073,
+      "today_stars": 921
+    },
+    {
+      "title": "opa334/Dopamine",
+      "repo": "opa334/Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "summary": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "language": "C",
+      "stars": 5931,
+      "today_stars": 95
+    }
+  ]
+}
