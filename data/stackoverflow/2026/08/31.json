@@ -1,0 +1,428 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T07:01:10.944555+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to introduce some delay for an action without using Thread.sleep() in java?",
+      "url": "https://stackoverflow.com/questions/79999521/how-to-introduce-some-delay-for-an-action-without-using-thread-sleep-in-java",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "java",
+        "asynchronous"
+      ],
+      "author": "orestis",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "MQTT in Flutter issue",
+      "url": "https://stackoverflow.com/questions/79999522/mqtt-in-flutter-issue",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "SANTOSH",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How do I make my QMainWindow&#39;s contents dynamically resize after floating a QDockWidget?",
+      "url": "https://stackoverflow.com/questions/79999518/how-do-i-make-my-qmainwindows-contents-dynamically-resize-after-floating-a-qdoc",
+      "summary": "",
+      "tags": [
+        "python",
+        "pyside6"
+      ],
+      "author": "Reid Litkauo",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to add duration in milliseconds using awk in bash",
+      "url": "https://stackoverflow.com/questions/79999502/how-to-add-duration-in-milliseconds-using-awk-in-bash",
+      "summary": "",
+      "tags": [
+        "bash",
+        "awk"
+      ],
+      "author": "stackbiz",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "GNU ld reports &quot;syntax error&quot; on line 3 of linker script, but line content appears valid",
+      "url": "https://stackoverflow.com/questions/79999512/gnu-ld-reports-syntax-error-on-line-3-of-linker-script-but-line-content-appea",
+      "summary": "",
+      "tags": [
+        "c",
+        "linux",
+        "gcc",
+        "linker"
+      ],
+      "author": "Sahan Jayarathna",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "clarification on problem statement- garbage collector for java(project)",
+      "url": "https://stackoverflow.com/questions/79999498/clarification-on-problem-statement-garbage-collector-for-javaproject",
+      "summary": "",
+      "tags": [
+        "java",
+        "memory-management",
+        "system"
+      ],
+      "author": "Ali",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Debugger doesn&#39;t break on c assert",
+      "url": "https://stackoverflow.com/questions/79999499/debugger-doesnt-break-on-c-assert",
+      "summary": "",
+      "tags": [
+        "android-studio",
+        "android-ndk"
+      ],
+      "author": "Tom Huntington",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Javascript doesn&#39;t have console input?",
+      "url": "https://stackoverflow.com/questions/79999469/javascript-doesnt-have-console-input",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "performance"
+      ],
+      "author": "Koolaid222",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Should &quot;side CAUSES&quot;, even just global constants, be avoided when writing functions (in Clojure and ClojureScript but really any functional language)?",
+      "url": "https://stackoverflow.com/questions/79999452/should-side-causes-even-just-global-constants-be-avoided-when-writing-functi",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "functional-programming",
+        "clojure",
+        "clojurescript"
+      ],
+      "author": "A.M.",
+      "comments": 3,
+      "score": 2
+    },
+    {
+      "title": "Using .collect() with ActiveRecord::Associations::CollectionProxy",
+      "url": "https://stackoverflow.com/questions/79999494/using-collect-with-activerecordassociationscollectionproxy",
+      "summary": "",
+      "tags": [
+        "ruby-on-rails",
+        "rails-activerecord"
+      ],
+      "author": "RedBassett",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Create complex CLI apps using C",
+      "url": "https://stackoverflow.com/questions/79999433/create-complex-cli-apps-using-c",
+      "summary": "",
+      "tags": [
+        "c",
+        "command-line-interface"
+      ],
+      "author": "ΝΙΚΟΛΑΣ ΜΕΝΥ",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "Cannot get Windows 11 Smart App Control to detect and block my unsigned application",
+      "url": "https://stackoverflow.com/questions/79999482/cannot-get-windows-11-smart-app-control-to-detect-and-block-my-unsigned-applicat",
+      "summary": "",
+      "tags": [
+        ".net",
+        "windows",
+        "security"
+      ],
+      "author": "Michael12345",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "When arguments are a vector and a brace-enclosed list, no instance of function template matches the argument list",
+      "url": "https://stackoverflow.com/questions/79999451/when-arguments-are-a-vector-and-a-brace-enclosed-list-no-instance-of-function-t",
+      "summary": "",
+      "tags": [
+        "c++"
+      ],
+      "author": "gene b.",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "JavaScript modules and libraries",
+      "url": "https://stackoverflow.com/questions/79999479/javascript-modules-and-libraries",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "jieddev",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How can I allow a specific user to access hardware performance counters on Ubuntu?",
+      "url": "https://stackoverflow.com/questions/79999455/how-can-i-allow-a-specific-user-to-access-hardware-performance-counters-on-ubunt",
+      "summary": "",
+      "tags": [
+        "linux",
+        "ubuntu",
+        "perf",
+        "papi"
+      ],
+      "author": "Abel-Breaker",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Must a variable template be instantiated when it appears only as `&amp;x` in a default template argument?",
+      "url": "https://stackoverflow.com/questions/79999417/must-a-variable-template-be-instantiated-when-it-appears-only-as-x-in-a-defau",
+      "summary": "",
+      "tags": [
+        "c++",
+        "templates",
+        "language-lawyer",
+        "template-instantiation",
+        "variable-templates"
+      ],
+      "author": "zwhconst",
+      "comments": 0,
+      "score": 6
+    },
+    {
+      "title": "R taking excessive CPU and memory when using from Positron/terminal",
+      "url": "https://stackoverflow.com/questions/79999468/r-taking-excessive-cpu-and-memory-when-using-from-positron-terminal",
+      "summary": "",
+      "tags": [
+        "r",
+        "terminal",
+        "positron"
+      ],
+      "author": "hy6-2",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Git requires a force push after deleting and recreating a repository",
+      "url": "https://stackoverflow.com/questions/79999420/git-requires-a-force-push-after-deleting-and-recreating-a-repository",
+      "summary": "",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "author": "tifaah",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Unable to debug CLI PHP script in VS Code",
+      "url": "https://stackoverflow.com/questions/79999376/unable-to-debug-cli-php-script-in-vs-code",
+      "summary": "",
+      "tags": [
+        "php",
+        "visual-studio-code",
+        "debugging",
+        "xdebug",
+        "xdebug-3"
+      ],
+      "author": "Scrolin",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "When do i derive the IV counter in AES GCM? (TLS 1.3)",
+      "url": "https://stackoverflow.com/questions/79999450/when-do-i-derive-the-iv-counter-in-aes-gcm-tls-1-3",
+      "summary": "",
+      "tags": [
+        "ssl",
+        "encryption",
+        "cryptography",
+        "aes-gcm"
+      ],
+      "author": "user27334392",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "ORDER BY TIME DESC changes which tied TOP_K points are selected",
+      "url": "https://stackoverflow.com/questions/79999424/order-by-time-desc-changes-which-tied-top-k-points-are-selected",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "window-functions",
+        "apache-iotdb"
+      ],
+      "author": "Johnston Guan",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why is JavaScript stopping when it calls getElementById method?",
+      "url": "https://stackoverflow.com/questions/79999444/why-is-javascript-stopping-when-it-calls-getelementbyid-method",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "dom"
+      ],
+      "author": "Symfony-Wonderer",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Need a general advice on day-day coding scenario",
+      "url": "https://stackoverflow.com/questions/79999429/need-a-general-advice-on-day-day-coding-scenario",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "sai",
+      "comments": 1,
+      "score": -7
+    },
+    {
+      "title": "How to make a bootable drive without an EFI partition on it?",
+      "url": "https://stackoverflow.com/questions/79999447/how-to-make-a-bootable-drive-without-an-efi-partition-on-it",
+      "summary": "",
+      "tags": [
+        "linux",
+        "windows",
+        "bootloader",
+        "uefi",
+        "grub"
+      ],
+      "author": "LobaLuna",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Getting an error when CBuilder installing Turbopack ribbon framework",
+      "url": "https://stackoverflow.com/questions/79999410/getting-an-error-when-cbuilder-installing-turbopack-ribbon-framework",
+      "summary": "",
+      "tags": [
+        "c++builder",
+        "c++builder-13-florence"
+      ],
+      "author": "Moggadon",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Negative LEAD offset exposes an IndexOutOfBoundsException",
+      "url": "https://stackoverflow.com/questions/79999430/negative-lead-offset-exposes-an-indexoutofboundsexception",
+      "summary": "",
+      "tags": [
+        "window-functions",
+        "apache-iotdb"
+      ],
+      "author": "Felicia Willms",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "jakarta.xml.bind.JAXBElement and com.sheets.model.generated.SpreadSheet are in unnamed module of loader &#39;app&#39;",
+      "url": "https://stackoverflow.com/questions/79999359/jakarta-xml-bind-jaxbelement-and-com-sheets-model-generated-spreadsheet-are-in-u",
+      "summary": "",
+      "tags": [
+        "java",
+        "jaxb",
+        "module-info"
+      ],
+      "author": "StuartM",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "Google Apps Script that Claude wrote for me turning red",
+      "url": "https://stackoverflow.com/questions/79999408/google-apps-script-that-claude-wrote-for-me-turning-red",
+      "summary": "",
+      "tags": [
+        "advice",
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "author": "Bruce",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "EXTREME misses the largest-magnitude INT32 value",
+      "url": "https://stackoverflow.com/questions/79999416/extreme-misses-the-largest-magnitude-int32-value",
+      "summary": "",
+      "tags": [
+        "time-series",
+        "aggregate-functions",
+        "apache-iotdb"
+      ],
+      "author": "yana shen",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "I installed Flutter in Android Studio, and this is the error Android toolchain - develop for Android devices (Android SDK version 37.0.0)",
+      "url": "https://stackoverflow.com/questions/79999415/i-installed-flutter-in-android-studio-and-this-is-the-error-android-toolchain",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "licensing",
+        "toolchain"
+      ],
+      "author": "200-YCET-18 Aniket_",
+      "comments": 1,
+      "score": 1
+    }
+  ]
+}

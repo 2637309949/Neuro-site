@@ -1,0 +1,280 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T14:26:52.577221+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "summary": "",
+      "author": "laurentiurad",
+      "comments": 470,
+      "score": 732
+    },
+    {
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "summary": "",
+      "author": "riordan",
+      "comments": 218,
+      "score": 430
+    },
+    {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "summary": "",
+      "author": "etoxin",
+      "comments": 238,
+      "score": 370
+    },
+    {
+      "title": "Everything you do is being recorded",
+      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+      "summary": "",
+      "author": "ike_usawa",
+      "comments": 319,
+      "score": 362
+    },
+    {
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "summary": "",
+      "author": "jader201",
+      "comments": 240,
+      "score": 343
+    },
+    {
+      "title": "What Happened to HackerOne?",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "summary": "",
+      "author": "hipparchus",
+      "comments": 161,
+      "score": 302
+    },
+    {
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "summary": "",
+      "author": "david927",
+      "comments": 970,
+      "score": 282
+    },
+    {
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "summary": "",
+      "author": "Klaster_1",
+      "comments": 63,
+      "score": 265
+    },
+    {
+      "title": "I made tinnitus my friend, then it disappeared [video]",
+      "url": "https://mynoise.net/vlog.php?ep=20260803",
+      "summary": "",
+      "author": "gregsadetsky",
+      "comments": 149,
+      "score": 186
+    },
+    {
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "summary": "",
+      "author": "MrRowTheBoat",
+      "comments": 56,
+      "score": 147
+    },
+    {
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "summary": "",
+      "author": "colesantiago",
+      "comments": 43,
+      "score": 134
+    },
+    {
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "summary": "",
+      "author": "LorenDB",
+      "comments": 35,
+      "score": 131
+    },
+    {
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "url": "https://tuxedono2.com",
+      "summary": "",
+      "author": "smartmic",
+      "comments": 36,
+      "score": 122
+    },
+    {
+      "title": "How We Pushed CDC into Postgres",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "summary": "",
+      "author": "craigkerstiens",
+      "comments": 23,
+      "score": 118
+    },
+    {
+      "title": "ATProto for Distributed Systems Engineers",
+      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
+      "summary": "",
+      "author": "LelouBil",
+      "comments": 23,
+      "score": 114
+    },
+    {
+      "title": "An Interesting Fourier Transform – 1/F Noise",
+      "url": "https://www.dsprelated.com/showarticle/40.php",
+      "summary": "",
+      "author": "q7m",
+      "comments": 16,
+      "score": 81
+    },
+    {
+      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+      "url": "https://gitlab.com/Kazade/picophysics",
+      "summary": "",
+      "author": "klaussilveira",
+      "comments": 22,
+      "score": 74
+    },
+    {
+      "title": "Because It's Not Fun Enough: why languages fail",
+      "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+      "summary": "",
+      "author": "jottinger",
+      "comments": 78,
+      "score": 72
+    },
+    {
+      "title": "Mistral Patent for \"Code implemented tool calls\"",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "summary": "",
+      "author": "theanonymousone",
+      "comments": 56,
+      "score": 58
+    },
+    {
+      "title": "Tail-call optimization in C is relatively recent",
+      "url": "https://lwn.net/Articles/1034703/",
+      "summary": "",
+      "author": "prakashqwerty",
+      "comments": 28,
+      "score": 57
+    },
+    {
+      "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+      "url": "https://lordgoati.us/blog/tail-call/",
+      "summary": "",
+      "author": "amatheus",
+      "comments": 18,
+      "score": 56
+    },
+    {
+      "title": "Parametron: 50s Japanese computer that uses neither transistors nor vacuum tubes",
+      "url": "https://ethw.org/Milestones:Parametron,_1954",
+      "summary": "",
+      "author": "xeonmc",
+      "comments": 16,
+      "score": 55
+    },
+    {
+      "title": "Squeak/Smalltalk 6.1 Release Notes",
+      "url": "https://squeak.org/release_notes/6.1/",
+      "summary": "",
+      "author": "fniephaus",
+      "comments": 11,
+      "score": 47
+    },
+    {
+      "title": "How Blackwing Pencils are Made [video]",
+      "url": "https://www.youtube.com/watch?v=fow-LsdaH2E",
+      "summary": "",
+      "author": "NaOH",
+      "comments": 22,
+      "score": 46
+    },
+    {
+      "title": "Nearest Pint",
+      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
+      "summary": "",
+      "author": "bookofjoe",
+      "comments": 28,
+      "score": 44
+    },
+    {
+      "title": "50k Boat Names",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
+      "summary": "",
+      "author": "jonathanmkeegan",
+      "comments": 25,
+      "score": 43
+    },
+    {
+      "title": "Defending my own brain against enshittification",
+      "url": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
+      "summary": "",
+      "author": "mrmarket",
+      "comments": 15,
+      "score": 34
+    },
+    {
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "url": "https://twitter.com/finkd/status/2086754845218726027",
+      "summary": "",
+      "author": "bakigul",
+      "comments": 3,
+      "score": 27
+    },
+    {
+      "title": "An alias-based formulation of the borrow checker (2018)",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
+      "summary": "",
+      "author": "parksb",
+      "comments": 1,
+      "score": 21
+    },
+    {
+      "title": "Show HN: I made alchemical-cosmological PCB badges",
+      "url": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
+      "summary": "",
+      "author": "kaipereira",
+      "comments": 1,
+      "score": 18
+    }
+  ]
+}

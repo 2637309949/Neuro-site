@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T11:12:41.082000+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Agent 协作工作空间 Lody 开源：共享、隔离与持久化",
+      "url": "https://www.oschina.net/news/502156/lody-is-now-open-source",
+      "summary": "Agent 的对话、运行状态和代码改动是团队协作的新战场，但混乱也是。Lody 的开源版本试图解决这个问题。 Lody 定位是 Coding Agent 协作工作空间，...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "kkRepo 1.0.0 正式发布，新增 R/CRAN、Go Hosted 和多套 UI 主题",
+      "url": "https://www.oschina.net/news/502155",
+      "summary": "前言 从 0.x 一路迭代到现在，kkRepo 终于迎来了首个稳定版本：kkRepo 1.0.0。 这个版本新增了完整的 R/CRAN 仓库、Go Hosted 仓库和多套可切换 UI...",
+      "author": "KL博主",
+      "comments": 0
+    },
+    {
+      "title": "SamWaf v1.3.24 开源、轻量级、私有化部署网站防火墙",
+      "url": "https://www.oschina.net/news/502154",
+      "summary": "重要说明 1. 默认发布包不再内置 GeoLite2-Country.mmdb（IPv6 地理库） 2. 中心管理功能已移除 新增 网站可配置对外 HTTP/2 开关 统一访问认证方式...",
+      "author": "SamWaf",
+      "comments": 0
+    },
+    {
+      "title": "MooTool Next 1.1.3 发布！全新重写，带来更现代的界面与多窗口体验",
+      "url": "https://www.oschina.net/news/502152",
+      "summary": "MooTool Next 使用 Electron、React 和 TypeScript 全新重写， 带来更现代的界面与多窗口体验。支持 macOS、Windows 和 Linux，可与 Java 版独立安...",
+      "author": "周波-RememBerBer",
+      "comments": 0
+    },
+    {
+      "title": "Tailscale 开源 Tailcat：像 netcat 一样用，加密 + NAT 穿透，不需要账号",
+      "url": "https://www.oschina.net/news/502151",
+      "summary": "Tailscale 开源了一个叫 Tailcat 的工具。它的定位一句话就能说清楚：像 netcat 一样用，但流量走 Tailscale 的数据平面，不需要 Tailscale 账号。...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "AWS 收购 DuckLabs：数据库界的“MIT 许可保卫战”",
+      "url": "https://www.oschina.net/news/502150/ducklabs-to-join-aws",
+      "summary": "DuckLabs 被 AWS 收购了。 如果关注 DuckDB 的人看到这条消息第一反应是皱眉头——这很正常。过去十年间，大公司收购开源团队的剧情反复上演，结局...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "英伟达 130 亿美元虎视 Hugging Face，开源 AI 的“中立社区”要沦陷了？",
+      "url": "https://www.oschina.net/news/502149/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars",
+      "summary": "根据 Business Insider 的独家报道，英伟达正与 Hugging Face 就收购进行谈判，估值超过 130 亿美元。这将是英伟达有史以来最大的一笔收购之一。 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "深圳专业企业网络系统集成服务商：创载",
+      "url": "https://www.oschina.net/news/502148",
+      "summary": "2026年笔者调研深圳企业IT服务市场发现，「一站式从规划到实施到运维全包」正在成为多分支机构集团企业和制造业选型的高频诉求。围绕「深圳有没有能...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "工单系统 WGCAT v1.3.0 支持 AI 派单",
+      "url": "https://www.oschina.net/news/502147",
+      "summary": "WGCAT 是 WGCLOUD 团队精心开发的一款工单管理系统，设计一如既往的的简单实用，具有部署方便，上手容易，性能优秀，界面友好等特点。 WGCAT 工...",
+      "author": "王逅逅",
+      "comments": 0
+    },
+    {
+      "title": "算力革新｜创乐博启动 NVIDIA Jetson Orin Nano 2 产品开发规划",
+      "url": "https://www.oschina.net/news/502146",
+      "summary": "近日，NVIDIA 正式发布Jetson Orin Nano 2，这是一款面向入门级边缘AI的全新机器人计算机。全新模组实现 78 TOPS AI 算力，推理性能大幅提升，功耗...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Qwen3.8-Flash 发布：125B MoE，激活 6B，训练成本仅前代的 1/9",
+      "url": "https://www.oschina.net/news/502145/qwen3-8-flash-next",
+      "summary": "阿里通义千问团队正式发布 Qwen3.8-Flash。 发布公告有一组让人需要停下来看两眼的数据： 125B 总参数 + 51B N-gram Embedding，每 token 只激活 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "智谱正式上线并开源 GLM-5.3-Flash：320B 模型打到 Opus 4.8 水平，定价只要 1/40",
+      "url": "https://www.oschina.net/news/502144",
+      "summary": "「前沿智能」这四个字长期以来只跟一个词绑定在一起：贵。 不是没有便宜的大模型。但便宜往往意味着降级——参数小一号、能力差一截、在某些任务上...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "JeecgBoot V3.9.5 重磅发布：AI Flow、Online 全面升级，安全与性能再进阶",
+      "url": "https://www.oschina.net/news/502143",
+      "summary": "前言 JeecgBoot V3.9.3 刚刚完成 Spring Boot 4 架构大升级，不到一周，V3.9.5 又接踵而至。这次并非简单修补，而是一次集中升级：Online 表单新增...",
+      "author": "JEECG官方",
+      "comments": 0
+    },
+    {
+      "title": "gfast-module-dev 技能使用说明",
+      "url": "https://www.oschina.net/news/502142",
+      "summary": "gfast-module-dev 技能使用说明 让 AI 按照本项目代码生成器的规范手写业务模块，并正确调用现有组件库（富文本、上传、选择器、字典、权限），产出...",
+      "author": "Gfast开源-qixun",
+      "comments": 0
+    },
+    {
+      "title": "有住宅 IP 和海外手机号，为什么跨境业务还需要NexBrowser指纹浏览器？",
+      "url": "https://www.oschina.net/news/502141",
+      "summary": "做跨境业务的人，通常会先解决两个问题： 网络从哪里出去？ 用住宅 IP。 验证码发到哪里？ 用海外真实运营商号码。 但真正开始管理多个 TikTok、A...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "开学装机推荐：技嘉B850 AORUS ELITE X3D为校园解锁电竞体验",
+      "url": "https://www.oschina.net/news/502140",
+      "summary": "又是一年开学季到来，有不少学生正在筹备新学期的“战斗装备”。如果你正计划用锐龙7 9800X3D处理器搭建一台高帧率、稳输出的电脑，技嘉B850 AORU...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "0day同步！商汤小浣熊 Linux 版首发支持 openKylin",
+      "url": "https://www.oschina.net/news/502139",
+      "summary": "2026年8月26日，OpenAtom openKylin（简称“openKylin”）社区完成商汤科技旗下AI办公助手 商汤小浣熊桌面端全新版本适配工作，商汤小浣熊正式登陆...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "70年之约，世界来深圳\"买AI\"",
+      "url": "https://www.oschina.net/news/502138",
+      "summary": "7000+海外采购商带单奔赴，2026AGIC&GERX双展启幕 1956年，达特茅斯会议让\"人工智能\"第一次走进人类历史；70年后的今天，历史在南海之滨交汇——2...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "WIKI 本地知识库从 v1.0.0 升级 v1.1.0 的迁移指南",
+      "url": "https://www.oschina.net/news/502137",
+      "summary": "项 说明 文档日期 2026-08-25 升级路径 v1.0.0 → v1.1.0 适用对象 已部署 v1.0.0、需升到 v1.1.0 的运维 / 二次开发同学 v1.1.0 相对 v1.0.0 的工...",
+      "author": "维基框架",
+      "comments": 0
+    },
+    {
+      "title": "轻量级运维极速引擎 OpsFlash v0.3.0 正式发布",
+      "url": "https://www.oschina.net/news/502136",
+      "summary": "OpsFlash v0.3.0 版本发布： 新增 指令库：命令统一管理（增删改查、环境分组、搜索筛选、排序）；命令归属环境复用环境管理（与脚本库同源）；执行...",
+      "author": "FLY的狐狸",
+      "comments": 0
+    }
+  ]
+}

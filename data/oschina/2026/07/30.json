@@ -1,0 +1,173 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T07:44:00.402132+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "jsoup 1.23.1 发布，Java HTML 解析器",
+      "url": "https://www.oschina.net/news/483051/jsoup-1-23-1-released",
+      "summary": "jsoup 是一个用于处理 real-world HTML 和 XML 的 Java 库。它提供了一个非常方便的 API，利用 HTML5 DOM 方法和 CSS 选择器的优势，提取和操作数...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "xAI 发布 Grok Voice Think Fast2.0",
+      "url": "https://www.oschina.net/news/482971",
+      "summary": "xAI推出新一代语音识别模型 Grok Voice Think Fast2.0，面向构建语音智能体的开发者开放，在智能水平、转录准确率、对话能力以及工具调用效率方面...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "317 家 AI 独角兽，超过一半从来没发过论文",
+      "url": "https://www.oschina.net/news/482959/ai-s-top-startups-are-barely-publishing-their-research",
+      "summary": "一项新的分析用数据证实了我们许多人长期以来的感受：AI 领域最引人注目的实验室基本上已经停止发表他们的研究成果。 斯坦福“元科学”（metascien...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Harness 概念提出者官宣创业：给 AI Agent 造 “持久化终端”",
+      "url": "https://my.oschina.net/u/4487475/blog/19730024",
+      "summary": "交互式开发、CI 自动化、AI Agent 并行工作，这些现在分属不同系统的事，应该统一到一个持久化的会话体系里。",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "全国工商联汽车经销商商会调研百融智能 AI Agent加速渗透汽车流通赛道",
+      "url": "https://www.oschina.net/news/482941",
+      "summary": "7月28日,全国工商联汽车经销商商会党支部书记、秘书长邢海涛一行赴百融智能(6608.HK)走访调研,双方围绕AI技术赋能汽车经销商转型等议题展开座谈。 ...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "当员工用AI中转站“顺手”发走内部数据，企业边界正在悄悄失守",
+      "url": "https://www.oschina.net/news/482922",
+      "summary": "绿盟AI安全网关 面向AI中转站的纵深防护方案 当大模型成为生产力工具，企业如何既用好 AI、又守住数据底线？本文以绿盟AI安全网关（AI-UTM）为核心...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "当所有人都在用 TS/Python 写 Agent，我们为什么坚持 Java",
+      "url": "https://www.oschina.net/news/482919",
+      "summary": "1. 先承认赛道默认栈：TS / Python 占主流，Java 几乎是空白 打开今天主流 Coding Agent / AI 编程助手的技术叙事，你会看到高度收敛的画面： 运行...",
+      "author": "梅子酒好吃",
+      "comments": 0
+    },
+    {
+      "title": "一个 AI Agent，四天半攻陷 Hugging Face，动机是考试作弊",
+      "url": "https://www.oschina.net/news/482872",
+      "summary": "一个 AI 代理花了四天半，自主完成了一场从沙箱逃逸到集群管理员的“对冲基金”级别入侵。目标不是钱，而是考试答案。 事情的起点是 OpenAI 在内部...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "AI Native 交易核心系统的研发范式",
+      "url": "https://my.oschina.net/u/5783135/blog/19729958",
+      "summary": "订单系统是交易链路的核心命脉，直接承载用户所有下单与支付行为，其稳定性直接决定业务盈亏。为此，我们耗时一年多，完成了订单系统由外而内的三阶...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "腾讯混元开源 AngelSpec 框架",
+      "url": "https://www.oschina.net/news/482843",
+      "summary": "腾讯混元团队宣布正式全链路开源 AngelSpec，一个覆盖 drafter 训练、架构设计到线上部署的投机解码框架。本次将训练工具 + Hy3-A21B的 MTP / DFly...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Visual Studio Code 1.131 发布",
+      "url": "https://www.oschina.net/news/482822/vs-code-1-131-released",
+      "summary": "Visual Studio Code 1.131 版本现已发布。此版本增强了对 running subagents 的可见性，在工作台中内置了语音输入功能，并新增了一个混合 Markdown...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "DBPanel 服务器面板 1.0.5 发布：安全与运维能力全面增强",
+      "url": "https://www.oschina.net/news/482798",
+      "summary": "本次版本属于功能增强型更新，重点围绕 安全防护、网站与证书管理、数据库与运行环境、系统运维、界面体验五个方向进行完善。新增 Fail2ban 防护体...",
+      "author": "静静的风",
+      "comments": 0
+    },
+    {
+      "title": "fastjson 2.0.63 发布",
+      "url": "https://www.oschina.net/news/482790/fastjson-2-0-63-released",
+      "summary": "fastjson 2.0.63 版本现已发布，本版本为安全修复版本，加固了 AutoType 反序列化校验，并修复了多个可由构造输入触发的解析健壮性问题（OOM / DoS...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "UJCMS 12.3.0 发布，国内 Java CMS 网站内容管理系统",
+      "url": "https://www.oschina.net/news/482716",
+      "summary": "UJCMS 12.3.0 正式发布。本次版本重点完善站点管理与部署体验：页脚上方新增全站友情链接栏，按类型分组下拉展示，图片类型链接支持展示 Logo；定时...",
+      "author": "ujcms",
+      "comments": 0
+    },
+    {
+      "title": "Webpack v5.109.2 发布，模块打包器",
+      "url": "https://www.oschina.net/news/482347/webpack-5-109-2-released",
+      "summary": "Webpack 是一个模块打包器，主要目的是在浏览器上打包 JavaScript 文件。Webpack v5.109.2 已发布，具体更新内容如下： Patch Changes 再次修复了指...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "晨起必看！实测5款爆火AI运势工具，谁才是真·准王？",
+      "url": "https://www.oschina.net/news/482314",
+      "summary": "谁懂啊家人们！当代年轻人的晨起仪式感，早就不是喝温水、叠被子了 每天睁眼第一件事，必须先刷一眼当日运势！ 不是迷信，纯粹是给自己一天的情绪找...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "扎克伯格反对‌美国政府封禁中国 AI 模型‌",
+      "url": "https://www.oschina.net/news/482309",
+      "summary": "扎克伯格昨天罕见地接受了两家传统媒体的采访：《纽约时报》和《金融时报》。两场谈话指向同一件事——他对 AI 行业正在形成的权力结构感到不满。 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "阿里云 SysOM 巡检 Skill 正式开源",
+      "url": "https://my.oschina.net/u/3874284/blog/19729315",
+      "summary": "基于这一理念，今天，阿里云操作系统控制台接着将 SysOM 巡检 Skill 一同开源。后续它将与 SysOM 诊断 Skill 一同纳入即将发布的 SysOM 技能包，形...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "TimescaleDB 2.29.0 发布，基于 PostgreSQL 的时序数据库",
+      "url": "https://www.oschina.net/news/482275/timescaledb-2-29-0-released",
+      "summary": "TimescaleDB 2.29.0 现已发布，此版本较 2.28.3 版本进行了性能改进和错误修复。官方建议用户尽快升级。 发布亮点 对 DML 操作进行 Chunk exclusio...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "谷歌解散 AlphaFold 团队，将重心放在 Gemini",
+      "url": "https://www.oschina.net/news/482258",
+      "summary": "据媒体报道，谷歌旗下 AI 实验室 DeepMind 已经解散了 AlphaFold 背后的团队——正是这套预测蛋白质三维结构的系统，把 CEO 哈萨比斯与工程研究员江...",
+      "author": "白开水不加糖",
+      "comments": 0
+    }
+  ]
+}

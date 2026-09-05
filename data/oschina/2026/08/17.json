@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T13:53:07.628275+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Pi 的上下文压缩如何工作？",
+      "url": "https://www.oschina.net/news/501967/compaction-in-pi",
+      "summary": "你和 AI 编程助手聊了 30 轮。突然，它报错了。不是你的代码有问题，是对话历史太长，token 超过了上下文窗口限制。 这是所有 LLM 编程助手都必须面...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "deeptide：一个专为 DeepSeek 打造的 Mac 原生终端编码 Agent",
+      "url": "https://www.oschina.net/news/501966",
+      "summary": "DeepSeek 的编码 agent 生态又多了一个新玩家。 deeptide 是一个 Mac 原生的终端编码 agent，由 Paean AI 团队开发，MIT 协议开源。它用 Swift 编写...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": ":fire: 新增默认空间配置，新用户自动加入默认空间：开源无代码 / 低代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/501965",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支：main、next 和 develop。 version.png main：截至目前最稳...",
+      "author": "NocoBase",
+      "comments": 0
+    },
+    {
+      "title": "权威认证！极限科技开源产品 Coco AI 斩获北京信创工委会《信创产品评估证书》",
+      "url": "https://www.oschina.net/news/501964",
+      "summary": "近日，极限数据（北京）科技有限公司（简称“极限科技”）旗下企业级开源 AI 产品 Coco AI，顺利通过国家通用软硬件适配认证中心全面检测，正式获得...",
+      "author": "极限实验室",
+      "comments": 0
+    },
+    {
+      "title": "会聊天的不缺，会干活的太少：AI+工业软件赛道在等什么？",
+      "url": "https://www.oschina.net/news/501963",
+      "summary": "2026 上海开源软件应用创新大赛即日起已正式启动报名，大赛由开源中国主办，设 AI+工业软件、智算云、开源 AI 工具三大赛道。   其中「AI+工业软件...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "2026 IEAE深圳国际消费类电子及家用电器展",
+      "url": "https://www.oschina.net/event/8598377",
+      "summary": "全国领先的专注于消费类电子及家用电器垂直领域的B2B专业展会。是消费类电子家用电器的一站式全品类平台和推广平台。定档3月和9月，是消费类电子和...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍",
+      "url": "https://www.oschina.net/news/501961",
+      "summary": "今日（北京时间 2026.8.17 00:00）起，DeepSeek API 正式切换到峰谷定价模式。高峰时段价格翻倍，空闲时段价格为高峰时段价格的一半。这是 DeepSe...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DSH Desktop - 开源跨平台 DeepSeek Harness 桌面客户端",
+      "url": "https://www.oschina.net/news/501960/deepseek-harness-desktop",
+      "summary": "DeepSeek Harness 的开发者预览版上线不到一周，社区已经把它做成了桌面应用。 DeepSeek Harness Desktop（DSH Desktop）是一个基于 Electron 的桌...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "AI 写代码太快了，但你还跟得上吗？Notion 工程师说「理解」才是新瓶颈",
+      "url": "https://www.oschina.net/news/501959/understanding-is-the-new-bottleneck",
+      "summary": "Geoffrey Litt 是 Notion 的设计工程师。七月份他在 AI Engineer 大会上做了一个演讲，标题是一句很直白的话：理解才是新的瓶颈。 这不是一个技术问...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Bill Gates 45 年前写的游戏，今天有人在浏览器里复刻了",
+      "url": "https://www.oschina.net/news/501958",
+      "summary": "1981 年，微软联合创始人 Bill Gates 和一个叫 Neil Konzen 的开发者，为 IBM PC 写了一个游戏，名称叫 DONKEY.BAS。玩家唯一要做的就是切换车道—...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Git-knife：像改 Excel 一样改 Git 提交历史",
+      "url": "https://www.oschina.net/news/501957/git-knife",
+      "summary": "\"挑一个 commit，捅它一刀。\"这就是 Git-knife 名字的由来。 这个用 Tauri 构建的桌面应用把 Git 提交历史展示成一张表格，你可以直接双击单元格编...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "基于 WebSocket 的 HTML：不写 JavaScript 也能构建实时单页应用",
+      "url": "https://www.oschina.net/news/501956/html-over-websockets-real-time-spas",
+      "summary": "开发者 Andros Fenollosa 近日分享了一种构建实时单页应用的新思路——HTML over WebSockets。这种架构的核心思想是：服务器直接通过 WebSocket 连...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "uBlock Origin 停止追踪 Facebook 广告拦截对抗",
+      "url": "https://www.oschina.net/news/501955/ublock-origin-stops-chasing-facebook-ads",
+      "summary": "知名开源广告拦截器 uBlock Origin 的志愿开发团队近日宣布，将不再持续更新针对 Facebook 的广告过滤规则。这意味着当 Facebook 找到绕过现有过滤...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "「选择无聊的技术」这篇 2015 年的文章，AI 时代突然又火了",
+      "url": "https://www.oschina.net/news/501954",
+      "summary": "一篇 2015 年的博客文章，最近突然爆火了。 Dan McKinley 在 Etsy 做工程师时写的《Choose Boring Technology》。核心思想很简单：每家公司只有大约...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "RedisME：新时代的轻量跨平台 Redis 可视化工具",
+      "url": "https://my.oschina.net/u/3387224/blog/19739946",
+      "summary": "极度轻量：基于 Webview，无内嵌浏览器，安装包小于 10M；支持 Windows/Mac/Linux；支持信息、键值、终端、内存分析、慢日志、命令监控、发布订阅等...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DBPanel 1.0.8 正式发布：增强安全扫描控制与网站运维稳定性",
+      "url": "https://www.oschina.net/news/501952",
+      "summary": "DBPanel 是珑大推出的 Linux 服务器中文管理面板，提供网站管理、Nginx、PHP、MySQL、Redis、SSL 证书、备份恢复、安全检测、日志管理、任务中心等...",
+      "author": "静静的风",
+      "comments": 0
+    },
+    {
+      "title": "Stripe 以超过 70 亿美元收购 AI 模型路由平台 OpenRouter",
+      "url": "https://www.oschina.net/news/501951/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "summary": "据 Fortune 与 TechCrunch 援引知情人士消息，Stripe 已敲定协议，将以超过 70 亿美元的价格收购 AI 网关公司 OpenRouter。这笔交易的金额还未最终...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Proxy-Go v15.3 发布，强化融合代理 + 内网穿透！",
+      "url": "https://www.oschina.net/news/501950",
+      "summary": "Proxy 是 golang 实现的高性能 http、https、websocket、tcp、udp、socks5 代理服务器，支持正向代理、反向代理、透明代理、内网穿透、TCP/UDP 端口...",
+      "author": "狂奔的蜗牛.",
+      "comments": 0
+    },
+    {
+      "title": "华为甘斌：开源开放，共赢Agentic时代",
+      "url": "https://www.oschina.net/news/501949",
+      "summary": "8月15日至16日，以“渝见开源，数智启新”为主题的2026 CCF中国开源大会在重庆举行。当开源与人工智能进入新的交汇点，山城迎来了来自学术界、产业...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "开放签电子签 3.5.1 版本 更新内容",
+      "url": "https://www.oschina.net/news/501948",
+      "summary": "1、用户登录首页优化；1.1优化企业登录后首页展示内容 1.2优化个人登录后首页展示内容 2、修复非必填项提前签署时，未执行签署任务创建的缺陷； 3、...",
+      "author": "大犀牛牛",
+      "comments": 0
+    }
+  ]
+}

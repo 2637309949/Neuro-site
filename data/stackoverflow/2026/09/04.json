@@ -1,0 +1,430 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T13:29:12.210130+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Adding graphics to ggplot using a loop",
+      "url": "https://stackoverflow.com/questions/80000807/adding-graphics-to-ggplot-using-a-loop",
+      "summary": "",
+      "tags": [
+        "ggplot2"
+      ],
+      "author": "The Ratman",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to type-hint a function that returns as many values as in its input?",
+      "url": "https://stackoverflow.com/questions/80000799/how-to-type-hint-a-function-that-returns-as-many-values-as-in-its-input",
+      "summary": "",
+      "tags": [
+        "python",
+        "variadic-functions",
+        "type-hinting"
+      ],
+      "author": "schtandard",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Google Maps Distance Matrix API returning ZERO_RESULTS for valid local US addresses in JavaScript fetch",
+      "url": "https://stackoverflow.com/questions/80000773/google-maps-distance-matrix-api-returning-zero-results-for-valid-local-us-addres",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "google-maps",
+        "google-maps-api-3"
+      ],
+      "author": "Thomas Thomasclak",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Toggle the predictive back animation at runtime on Android 14+ (targetSdk 34+)",
+      "url": "https://stackoverflow.com/questions/80000793/toggle-the-predictive-back-animation-at-runtime-on-android-14-targetsdk-34",
+      "summary": "",
+      "tags": [
+        "android",
+        "android-jetpack-compose"
+      ],
+      "author": "Mikoto Misaka",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Getting a ton of traffic from Singapore",
+      "url": "https://stackoverflow.com/questions/80000786/getting-a-ton-of-traffic-from-singapore",
+      "summary": "",
+      "tags": [
+        "amazon-web-services",
+        "nginx",
+        "google-analytics"
+      ],
+      "author": "Rue Vitale",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Does using an atomic variable for data eliminate undefined behavior when using memory_order_relaxed?",
+      "url": "https://stackoverflow.com/questions/80000775/does-using-an-atomic-variable-for-data-eliminate-undefined-behavior-when-using-m",
+      "summary": "",
+      "tags": [
+        "c++",
+        "multithreading"
+      ],
+      "author": "vico",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to write a single function that allows filtering a collection of objects based on an arbitrary number of passed Types?",
+      "url": "https://stackoverflow.com/questions/80000774/how-to-write-a-single-function-that-allows-filtering-a-collection-of-objects-bas",
+      "summary": "",
+      "tags": [
+        "c++",
+        "templates"
+      ],
+      "author": "Permafrost",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Should semi-structured product attributes (secondary images, specs) be stored as JSONB or normalized tables?",
+      "url": "https://stackoverflow.com/questions/80000734/should-semi-structured-product-attributes-secondary-images-specs-be-stored-as",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "postgresql",
+        "database-design",
+        "erd"
+      ],
+      "author": "bibashmanjusubedi",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "FirebaseAuthError: Firebase ID token has incorrect &quot;aud&quot; (audience) claim. Expected &quot;prod&quot; but got &quot;dev&quot;",
+      "url": "https://stackoverflow.com/questions/80000776/firebaseautherror-firebase-id-token-has-incorrect-aud-audience-claim-expec",
+      "summary": "",
+      "tags": [
+        "firebase",
+        "google-cloud-platform"
+      ],
+      "author": "ThatGuy",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "In SFTP, Ctrl+F always searches the right panel instead of the file tree",
+      "url": "https://stackoverflow.com/questions/80000771/in-sftp-ctrlf-always-searches-the-right-panel-instead-of-the-file-tree",
+      "summary": "",
+      "tags": [
+        "vs-code",
+        "sftp"
+      ],
+      "author": "Baltasara Prieto Fernandez",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Learning Django - what steps should I take?",
+      "url": "https://stackoverflow.com/questions/80000761/learning-django-what-steps-should-i-take",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python",
+        "django",
+        "django-rest-framework"
+      ],
+      "author": "Dawid",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Button/Content in Linear layout showing in Status bar/ Top bar (android studio)",
+      "url": "https://stackoverflow.com/questions/80000760/button-content-in-linear-layout-showing-in-status-bar-top-bar-android-studio",
+      "summary": "",
+      "tags": [
+        "android",
+        "xml",
+        "android-studio",
+        "android-layout"
+      ],
+      "author": "TexD",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Image size fixed across all screen size",
+      "url": "https://stackoverflow.com/questions/80000759/image-size-fixed-across-all-screen-size",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "image"
+      ],
+      "author": "Naeem Akhtar",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Buildozer cannot build APKs again",
+      "url": "https://stackoverflow.com/questions/80000755/buildozer-cannot-build-apks-again",
+      "summary": "",
+      "tags": [
+        "archlinux",
+        "buildozer",
+        "python-3.12"
+      ],
+      "author": "Pappy38",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "VS Code: Unable to launch browser",
+      "url": "https://stackoverflow.com/questions/80000708/vs-code-unable-to-launch-browser",
+      "summary": "",
+      "tags": [
+        "vs-code",
+        "firefox",
+        "blazor"
+      ],
+      "author": "Skilopsaros",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Taskbar Icons showing Blank White Icons (Ghost Icon) in Windows 11",
+      "url": "https://stackoverflow.com/questions/80000754/taskbar-icons-showing-blank-white-icons-ghost-icon-in-windows-11",
+      "summary": "",
+      "tags": [
+        "windows",
+        "taskbar"
+      ],
+      "author": "Fabio Ferro",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "When should useMemo be used in React?",
+      "url": "https://stackoverflow.com/questions/80000728/when-should-usememo-be-used-in-react",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "reactjs",
+        "performance",
+        "react-hooks"
+      ],
+      "author": "Muhammad Adil",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why does --packages work with spark-submit, but spark.jars.packages does not work with SparkSession.builder?",
+      "url": "https://stackoverflow.com/questions/80000750/why-does-packages-work-with-spark-submit-but-spark-jars-packages-does-not-wor",
+      "summary": "",
+      "tags": [
+        "apache-spark",
+        "pyspark",
+        "google-bigquery"
+      ],
+      "author": "keisuke nebashi",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I work with multiple variables in one Function in Javascript",
+      "url": "https://stackoverflow.com/questions/80000714/how-can-i-work-with-multiple-variables-in-one-function-in-javascript",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "function"
+      ],
+      "author": "Jethro Bege Moses",
+      "comments": 2,
+      "score": -6
+    },
+    {
+      "title": "PowerShell script with `-WhatIf` support",
+      "url": "https://stackoverflow.com/questions/80000698/powershell-script-with-whatif-support",
+      "summary": "",
+      "tags": [
+        "powershell"
+      ],
+      "author": "TheJanzap",
+      "comments": 2,
+      "score": -2
+    },
+    {
+      "title": "Why is elapsed time inacurate?",
+      "url": "https://stackoverflow.com/questions/80000712/why-is-elapsed-time-inacurate",
+      "summary": "",
+      "tags": [
+        "c++",
+        "linux",
+        "glfw"
+      ],
+      "author": "John Doe",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Is quantum-inspired QUBO scheduling feasible in a Windows kernel-mode driver?",
+      "url": "https://stackoverflow.com/questions/80000748/is-quantum-inspired-qubo-scheduling-feasible-in-a-windows-kernel-mode-driver",
+      "summary": "",
+      "tags": [
+        "advice",
+        "kernel",
+        "driver"
+      ],
+      "author": "Duransms starline",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Built-in Shift keys produce no evdev events on Lenovo IdeaPad 330-15IKB (81DE) under Ubuntu 2025.10",
+      "url": "https://stackoverflow.com/questions/80000732/built-in-shift-keys-produce-no-evdev-events-on-lenovo-ideapad-330-15ikb-81de-u",
+      "summary": "",
+      "tags": [
+        "linux",
+        "ubuntu",
+        "linux-kernel",
+        "keyboard"
+      ],
+      "author": "Ali barati",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "When modifying (&quot;modding&quot;) a game I get Error CS1061 in reference to code from &quot;From The Depths Try 2&quot;",
+      "url": "https://stackoverflow.com/questions/80000693/when-modifying-modding-a-game-i-get-error-cs1061-in-reference-to-code-from",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net-standard-2.1"
+      ],
+      "author": "ExhaustedBeginner",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "iOS ThreadNetwork / MatterSupport: how can a third-party app recover when the preferred Thread network has no live border router?",
+      "url": "https://stackoverflow.com/questions/80000743/ios-threadnetwork-mattersupport-how-can-a-third-party-app-recover-when-the-pr",
+      "summary": "",
+      "tags": [
+        "ios",
+        "iot",
+        "openthread",
+        "matter-iot-standard",
+        "homepod"
+      ],
+      "author": "Abhishek Wani",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to create a smooth sliding overlay sidebar in CSS without layout jitter and unwanted horizontal scrollbar?",
+      "url": "https://stackoverflow.com/questions/80000723/how-to-create-a-smooth-sliding-overlay-sidebar-in-css-without-layout-jitter-and",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "ruby-on-rails",
+        "view-components"
+      ],
+      "author": "omni395",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Do I need to use Sheet..ListObjects in VBA in Excel",
+      "url": "https://stackoverflow.com/questions/80000652/do-i-need-to-use-sheet-listobjects-in-vba-in-excel",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "excel",
+        "vba",
+        "range"
+      ],
+      "author": "Mitchell Kaplan",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Is git sparse checkout compatible with submodules?",
+      "url": "https://stackoverflow.com/questions/80000705/is-git-sparse-checkout-compatible-with-submodules",
+      "summary": "",
+      "tags": [
+        "git",
+        "git-submodules",
+        "git-sparse-checkout"
+      ],
+      "author": "Iterokun",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why isn&#39;t the line being output?",
+      "url": "https://stackoverflow.com/questions/80000697/why-isnt-the-line-being-output",
+      "summary": "",
+      "tags": [
+        "shell"
+      ],
+      "author": "D-T",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Microsoft Sentinel adding AWS GuardDuty connector gives &#39;There are two connectors with different names and the same kind and context ID.&#39;",
+      "url": "https://stackoverflow.com/questions/80000722/microsoft-sentinel-adding-aws-guardduty-connector-gives-there-are-two-connector",
+      "summary": "",
+      "tags": [
+        "azure-sentinel",
+        "amazon-guardduty"
+      ],
+      "author": "Europa",
+      "comments": 0,
+      "score": -2
+    }
+  ]
+}

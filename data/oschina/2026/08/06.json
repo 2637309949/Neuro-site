@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T15:28:48.189334+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "张一鸣的三次否决：字节跳动为什么不蒸馏",
+      "url": "https://www.oschina.net/news/489199/bytedances-founder-rules-distillation-ai-models",
+      "summary": "2026年7月，张一鸣在字节Seed团队全员会上做了一个决定：禁止蒸馏任何外部模型，无论闭源还是开放权重。 The Information 8月5日报道了这个消息，并...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Cherry Studio V2.0 发布，从聊天客户端到全能 AI 工作站",
+      "url": "https://www.oschina.net/news/489186/cherry-studio-2-0",
+      "summary": "Cherry Studio V2.0 发布了。这不是一次常规的功能更新。 V2 把产品形态从「AI 聊天客户端」直接拉到了 Agent 自主执行的一站式「全能 AI 工作站」...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "让非法状态不可表示：一篇关于 ADT 的帖子在 Reddit 火了",
+      "url": "https://www.oschina.net/news/489175/the-bedrock-of-software-design",
+      "summary": "有一种东西，一旦用过就回不去了。Alex Fedoseev 管它叫\"软件设计的基石\"。 他说的东西不新鲜——代数数据类型（ADT），尤其是和类型（sum type）。...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Cloudflare 开源内部企业 AI 平台 Cloudflare OS",
+      "url": "https://www.oschina.net/news/489139/cloudflare-os",
+      "summary": "Cloudflare 发布了一个开源项目 Cloudflare OS。如果你只看官方博客，你会觉得这是又一个\"AI 知识库 + 聊天机器人\"——每个大厂都在做，没什么新鲜...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "从混乱到秩序：我如何搭建一套「规范驱动」的 AI 协作开发体系",
+      "url": "https://my.oschina.net/vivotech/blog/19734056",
+      "summary": "在存量项目的增量开发中，AI 常常面临理解偏差、执行不稳、需要频繁纠正等问题。本文介绍自建的「OpenSpec 规范层 + AI Workflows 执行层」体系，通...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Python 3.14.7 和 3.13.15 发布",
+      "url": "https://www.oschina.net/news/489060/python-3147-31315",
+      "summary": "Python 3.14.7 现已发布，这是 3.14 的第七个维护版本；自 3.14.6 以来，包含约 499 项错误修复、构建改进和文档更改。Python 3.13.14 是 3.13 的第...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Deno 团队开源 Celld，可自托管的分布式 Durable Objects",
+      "url": "https://www.oschina.net/news/488974",
+      "summary": "Ryan Dahl 领导的 Deno 团队推出了最新开源项目 Celld，一个能在自己机器上运行 Cloudflare Workers 和 Durable Objects 的守护进程。 设计思路很直...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "鲁大师7月新机性能/流畅/AI榜：vivo夺性能、流畅双第一，三星Galaxy Z系列新折叠缺席",
+      "url": "https://www.oschina.net/news/488965",
+      "summary": "2026年7月的手机市场，由于存储等硬件成本暴增，手机厂商的日子也不好过啊，新机速度明显放缓，因此硝烟味淡了许多。新机参数规格除开高价的三星折...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Zed 推出 DeltaDB，一个记录 commit 之间所有操作的版本控制系统",
+      "url": "https://www.oschina.net/news/488964",
+      "summary": "Zed 编辑器团队发布了新项目——DeltaDB，一个在 git commit 之间记录每一次编辑操作的版本控制系统。目前处于 Early Access 阶段。 DeltaDB 的核心...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "SpaceXAI 单季资本开支达 183 亿美元",
+      "url": "https://www.oschina.net/news/488955",
+      "summary": "根据风险投资人Tomer Tunguz 博客（VC 分析）披露的最新分析与第二季度业绩报告，SpaceXAI在上个季度的总资本支出飙升至183.7亿美元。其中，绝大部...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "小米正式开源自研具身基座模型 Xiaomi-Robotics-1",
+      "url": "https://www.oschina.net/news/488953/xiaomi-robotics-1",
+      "summary": "1000个机器人训练场景，1700种物体，10万小时。 2026年8月5日，小米技术官微发了一条帖子：自研的具身基座模型 Xiaomi-Robotics-1 正式开源。这不是...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Meta 发布终端编程 Agent“Muse Code” 和 Muse Spark 1.2 模型",
+      "url": "https://www.oschina.net/news/488929/muse-code-and-muse-spark-1-2",
+      "summary": "Meta 今天发布了两款 AI 产品：Muse Code，一个在终端里运行的编程 agent；Muse Spark 1.2，驱动这个 agent 的新模型。一句话概括：你可以用 curl...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "字节发布 SeedRealtime 音视频全双工大模型",
+      "url": "https://www.oschina.net/news/488715",
+      "summary": "字节跳动 Seed 宣布正式推出原生音视频全双工大模型 SeedRealtime。采用统一架构原生融合音频、视频与文本，能在连续的多模态信息流上实时交互，带...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "美团开源 LoHoSearch，用知识图谱校准 AI 能力认知",
+      "url": "https://my.oschina.net/meituantech/blog/19726797",
+      "summary": "机器出题的前提，是让机器拥有全局视野。整个构建流程可以分为四个环节：建图 → 控制难度 → 质量把关 → 数据概览。",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "BitFun v0.2.15 发布：新增 MiniApp 市场、跨设备异步任务派发",
+      "url": "https://www.oschina.net/news/488683/bitfun-0-2-15-released",
+      "summary": "BitFun 是一个开源（MIT）的桌面端 AI Agent 应用，Agent Runtime 用 Rust 编写，桌面外壳基于 Tauri v2，提供 Windows / macOS / Linux 三端安装包...",
+      "author": "bobleer",
+      "comments": 0
+    },
+    {
+      "title": "Syncthing 2.1.3 正式发布，连续文件同步工具",
+      "url": "https://www.oschina.net/news/488676/syncthing-2-1-3-released",
+      "summary": "Syncthing 是一个免费开源的工具，它能在你的各个网络计算机间同步文件 / 文件夹，它的同步数据是直接从一个系统中直接传输到另一个系统的，并且它...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek 将上调 API 定价，涨幅较大",
+      "url": "https://www.oschina.net/news/488654",
+      "summary": "DeepSeek 开放平台 8.6 发布官方通知：“计划近期整体上调 DeepSeek API 服务的定价，预计涨幅较大，请合理安排您的使用。具体方案以正式通知为准。...",
+      "author": "云中谷",
+      "comments": 0
+    },
+    {
+      "title": "腾讯开源 UCL-MPComm 通信库",
+      "url": "https://www.oschina.net/news/488652",
+      "summary": "腾讯网平团队宣布开源了 UCL-MPComm 通信库，并将作为transport接入Mooncake TENT。该通信库针对AI Memory池化场景的数据传输需求进行了深度优化，...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "CoStrict入选工信部2025人工智能应用典型案例",
+      "url": "https://www.oschina.net/news/488636",
+      "summary": "近日，工信部科技司公示《2025人工智能应用典型案例入选名单》，深信服“面向企业研发场景的开源 AI 编程平台 CoStrict 应用”凭借卓越的技术创新与...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "深信服AI算力网关入选工信部人工智能应用典型案例！",
+      "url": "https://www.oschina.net/news/488633",
+      "summary": "前不久，工业和信息化部正式发布《2025年人工智能应用典型案例名单》，集中展示人工智能在各领域的应用成果，覆盖技术底座、行业赋能、产品应用、支...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T15:35:40.929844+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "summary": "",
+      "author": "MaxMussio",
+      "comments": 494,
+      "score": 1193
+    },
+    {
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "summary": "",
+      "author": "bryanmikaelian",
+      "comments": 221,
+      "score": 673
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "summary": "",
+      "author": "milkshakes",
+      "comments": 878,
+      "score": 594
+    },
+    {
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+      "summary": "",
+      "author": "meysamazad",
+      "comments": 317,
+      "score": 548
+    },
+    {
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+      "summary": "",
+      "author": "askvictor",
+      "comments": 131,
+      "score": 324
+    },
+    {
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 320,
+      "score": 303
+    },
+    {
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "summary": "",
+      "author": "pmg101",
+      "comments": 96,
+      "score": 269
+    },
+    {
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "summary": "",
+      "author": "leonickson",
+      "comments": 117,
+      "score": 263
+    },
+    {
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "summary": "",
+      "author": "zhoutong",
+      "comments": 54,
+      "score": 232
+    },
+    {
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "summary": "",
+      "author": "marojejian",
+      "comments": 162,
+      "score": 225
+    },
+    {
+      "title": "Harness Engineering for Self-Improvement",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "summary": "",
+      "author": "tosh",
+      "comments": 33,
+      "score": 185
+    },
+    {
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "summary": "",
+      "author": "cimi_",
+      "comments": 32,
+      "score": 94
+    },
+    {
+      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "summary": "",
+      "author": "MakazhanAlpamys",
+      "comments": 8,
+      "score": 67
+    },
+    {
+      "title": "Buckminster Fuller: everything I know",
+      "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+      "summary": "",
+      "author": "simonebrunozzi",
+      "comments": 21,
+      "score": 66
+    },
+    {
+      "title": "Why Large Language Models Fail at Tabular Prediction",
+      "url": "https://arxiv.org/abs/2608.02412",
+      "summary": "",
+      "author": "sbulaev",
+      "comments": 15,
+      "score": 54
+    },
+    {
+      "title": "\"Clean\" Code, Horrible Performance (2023)",
+      "url": "https://www.computerenhance.com/p/clean-code-horrible-performance",
+      "summary": "",
+      "author": "FrojoS",
+      "comments": 14,
+      "score": 50
+    },
+    {
+      "title": "Why etymologies matter: How tracing words can illuminate history (2024)",
+      "url": "https://resobscura.substack.com/p/why-i-love-etymologies",
+      "summary": "",
+      "author": "benbreen",
+      "comments": 10,
+      "score": 48
+    },
+    {
+      "title": "Where .env Went Wrong",
+      "url": "https://secretspec.dev/blog/where-env-went-wrong/",
+      "summary": "",
+      "author": "domenkozar",
+      "comments": 23,
+      "score": 40
+    },
+    {
+      "title": "Dates That Don't Exist (2015)",
+      "url": "https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist",
+      "summary": "",
+      "author": "EndXA",
+      "comments": 17,
+      "score": 33
+    },
+    {
+      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+      "url": "https://github.com/tikalk/adlc-team-skills",
+      "summary": "",
+      "author": "kanfilior",
+      "comments": 13,
+      "score": 32
+    },
+    {
+      "title": "Archaeologists Find Ancient Glyphs in the Amazon",
+      "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+      "summary": "",
+      "author": "wglb",
+      "comments": 10,
+      "score": 30
+    },
+    {
+      "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
+      "url": "https://github.com/david-g-3654/homebench",
+      "summary": "",
+      "author": "davai-g",
+      "comments": 1,
+      "score": 30
+    },
+    {
+      "title": "FFmpeg 9.0",
+      "url": "https://jbkempf.com/blog/2026/ffmpeg-9.0/",
+      "summary": "",
+      "author": "enz",
+      "comments": 4,
+      "score": 28
+    },
+    {
+      "title": "Learning-Rust.Github.io: Rust Programming Language Tutorials for Everyone",
+      "url": "https://learning-rust.github.io",
+      "summary": "",
+      "author": "dumindunuwan",
+      "comments": 5,
+      "score": 25
+    },
+    {
+      "title": "Mosh in a Lift (2012)",
+      "url": "https://mosh.org/elevator.txt",
+      "summary": "",
+      "author": "gavide",
+      "comments": 8,
+      "score": 24
+    },
+    {
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "summary": "",
+      "author": "mooreds",
+      "comments": 0,
+      "score": 13
+    },
+    {
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "summary": "",
+      "author": "ahlCVA",
+      "comments": 1,
+      "score": 12
+    },
+    {
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "summary": "",
+      "author": "dimastopel",
+      "comments": 1,
+      "score": 9
+    },
+    {
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "summary": "",
+      "author": "lizmat",
+      "comments": 1,
+      "score": 9
+    },
+    {
+      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 0,
+      "score": 9
+    }
+  ]
+}
