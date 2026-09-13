@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T12:53:54.039212+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "summary": "",
+      "author": "moultano",
+      "comments": 1557,
+      "score": 2207
+    },
+    {
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "summary": "",
+      "author": "bookmtn",
+      "comments": 348,
+      "score": 651
+    },
+    {
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "summary": "",
+      "author": "zplizzi",
+      "comments": 235,
+      "score": 475
+    },
+    {
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "summary": "",
+      "author": "ExMachina73",
+      "comments": 73,
+      "score": 456
+    },
+    {
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "summary": "",
+      "author": "chmaynard",
+      "comments": 189,
+      "score": 419
+    },
+    {
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "summary": "",
+      "author": "networked",
+      "comments": 103,
+      "score": 353
+    },
+    {
+      "title": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "summary": "",
+      "author": "canjobear",
+      "comments": 214,
+      "score": 302
+    },
+    {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "summary": "",
+      "author": "mpweiher",
+      "comments": 78,
+      "score": 296
+    },
+    {
+      "title": "Learn Programming with OCaml",
+      "url": "https://usr.lmf.cnrs.fr/lpo/",
+      "summary": "",
+      "author": "elvis70",
+      "comments": 106,
+      "score": 273
+    },
+    {
+      "title": "Music Theory for Programmers",
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "summary": "",
+      "author": "birdculture",
+      "comments": 102,
+      "score": 189
+    },
+    {
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "summary": "",
+      "author": "torutofu",
+      "comments": 41,
+      "score": 185
+    },
+    {
+      "title": "Topologist's Map of the World",
+      "url": "https://www.futilitycloset.com/2026/09/01/small-world-20/",
+      "summary": "",
+      "author": "beardyw",
+      "comments": 27,
+      "score": 104
+    },
+    {
+      "title": "How Swiss tables work in Go built-in map",
+      "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+      "summary": "",
+      "author": "valyala",
+      "comments": 7,
+      "score": 87
+    },
+    {
+      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
+      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
+      "summary": "",
+      "author": "sohkamyung",
+      "comments": 13,
+      "score": 86
+    },
+    {
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "summary": "",
+      "author": "firexcy",
+      "comments": 35,
+      "score": 85
+    },
+    {
+      "title": "I Changed My License",
+      "url": "https://bergie.iki.fi/blog/eupl/",
+      "summary": "",
+      "author": "jllyhill",
+      "comments": 79,
+      "score": 74
+    },
+    {
+      "title": "AMD Based FreeBSD Desktop Reloaded",
+      "url": "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloaded/",
+      "summary": "",
+      "author": "vermaden",
+      "comments": 9,
+      "score": 73
+    },
+    {
+      "title": "OpenBSD Stories: Strange Medieval Devices",
+      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+      "summary": "",
+      "author": "zdw",
+      "comments": 15,
+      "score": 72
+    },
+    {
+      "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
+      "url": "https://en.wikipedia.org/wiki/M-DISC",
+      "summary": "",
+      "author": "gurjeet",
+      "comments": 14,
+      "score": 54
+    },
+    {
+      "title": "Intellectual Fly Is Open",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "summary": "",
+      "author": "cyb0rg0",
+      "comments": 15,
+      "score": 47
+    },
+    {
+      "title": "\"We Have to Assume That the Internet Will Go Offline in the Next Few Years\"",
+      "url": "https://www.trendingtopics.eu/emad-mostaque-ai-internet-outlook-english/",
+      "summary": "",
+      "author": "gumby",
+      "comments": 36,
+      "score": 31
+    },
+    {
+      "title": "IBM Quantum Nighthawk R2",
+      "url": "https://www.ibm.com/quantum/blog/nighthawk-r2",
+      "summary": "",
+      "author": "fuglede_",
+      "comments": 12,
+      "score": 31
+    },
+    {
+      "title": "Doomscrolling Ourselves to Death",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "summary": "",
+      "author": "shubhamjain",
+      "comments": 9,
+      "score": 26
+    },
+    {
+      "title": "Don't Use a gmail.com Address",
+      "url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/",
+      "summary": "",
+      "author": "jruohonen",
+      "comments": 3,
+      "score": 20
+    },
+    {
+      "title": "I asked astra to make playable 4D chess",
+      "url": "https://4d-chess.pages.dev/",
+      "summary": "",
+      "author": "mikiyas",
+      "comments": 7,
+      "score": 13
+    },
+    {
+      "title": "'Old Person Smell'",
+      "url": "https://www.theguardian.com/wellness/2026/sep/03/old-person-smell",
+      "summary": "",
+      "author": "bookofjoe",
+      "comments": 4,
+      "score": 13
+    },
+    {
+      "title": "The Empire of Information",
+      "url": "https://lareviewofbooks.org/article/data-empire-roopika-risam-information-organize-control-dominate/",
+      "summary": "",
+      "author": "Petiver",
+      "comments": 4,
+      "score": 9
+    },
+    {
+      "title": "New all in one 6502 computer (Neo6502kbd)",
+      "url": "https://olimex.wordpress.com/2026/09/04/new-open-source-hardware-variant-of-neo6502-now-includes-keyboard-4-usb-hosts-uext-power-switch-and-usb-c-for-power-and-programming-all-in-one-keyboard-body/",
+      "summary": "",
+      "author": "AlexeyBrin",
+      "comments": 1,
+      "score": 7
+    },
+    {
+      "title": "The pencil case model of creativity",
+      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+      "summary": "",
+      "author": "jruohonen",
+      "comments": 0,
+      "score": 6
+    },
+    {
+      "title": "Household Laser Cuts",
+      "url": "https://cceckman.com/writing/household-laser-cuts/",
+      "summary": "",
+      "author": "evakhoury",
+      "comments": 0,
+      "score": 6
+    }
+  ]
+}

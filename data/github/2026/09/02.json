@@ -1,0 +1,207 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T13:37:38.526594+00:00",
+  "source": "github",
+  "count": 18,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "fmtlib/fmt",
+      "repo": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "summary": "A modern formatting library",
+      "language": "C++",
+      "stars": 23862,
+      "today_stars": 3
+    },
+    {
+      "title": "google-research/timesfm",
+      "repo": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "summary": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 29071,
+      "today_stars": 326
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 120757,
+      "today_stars": 1364
+    },
+    {
+      "title": "sngyai/Sequoia-X",
+      "repo": "sngyai/Sequoia-X",
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "summary": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "language": "Python",
+      "stars": 5935,
+      "today_stars": 195
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "summary": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 50517,
+      "today_stars": 140
+    },
+    {
+      "title": "NousResearch/hermes-agent",
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "The agent that grows with you",
+      "language": "Python",
+      "stars": 239831,
+      "today_stars": 529
+    },
+    {
+      "title": "superlinked/sie",
+      "repo": "superlinked/sie",
+      "url": "https://github.com/superlinked/sie",
+      "summary": "Open-source inference server and production cluster for all the models your agent needs.",
+      "language": "Python",
+      "stars": 2977,
+      "today_stars": 61
+    },
+    {
+      "title": "pacifio/atlas",
+      "repo": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "summary": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars": 2672,
+      "today_stars": 895
+    },
+    {
+      "title": "zyronon/TypeWords",
+      "repo": "zyronon/TypeWords",
+      "url": "https://github.com/zyronon/TypeWords",
+      "summary": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+      "language": "Vue",
+      "stars": 9214,
+      "today_stars": 68
+    },
+    {
+      "title": "Imbad0202/academic-research-skills",
+      "repo": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "summary": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 45385,
+      "today_stars": 801
+    },
+    {
+      "title": "affaan-m/ECC",
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 246037,
+      "today_stars": 516
+    },
+    {
+      "title": "protocolbuffers/protobuf",
+      "repo": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "summary": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 71886,
+      "today_stars": 16
+    },
+    {
+      "title": "vercel-labs/portless",
+      "repo": "vercel-labs/portless",
+      "url": "https://github.com/vercel-labs/portless",
+      "summary": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "language": "TypeScript",
+      "stars": 11531,
+      "today_stars": 69
+    },
+    {
+      "title": "blader/humanizer",
+      "repo": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "summary": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 39912,
+      "today_stars": 366
+    },
+    {
+      "title": "JuliusBrussee/caveman",
+      "repo": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "summary": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "Go",
+      "stars": 102404,
+      "today_stars": 234
+    },
+    {
+      "title": "mattpocock/skills",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 244699,
+      "today_stars": 1103
+    },
+    {
+      "title": "Gitlawb/openclaude",
+      "repo": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "summary": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 31778,
+      "today_stars": 776
+    },
+    {
+      "title": "firecrawl/pdf-inspector",
+      "repo": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "summary": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": 18293,
+      "today_stars": 589
+    }
+  ]
+}

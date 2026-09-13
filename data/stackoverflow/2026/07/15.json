@@ -1,0 +1,434 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T15:01:03.132696+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "`tr1` not known when compiling Hilo Browser in VS 2026",
+      "url": "https://stackoverflow.com/questions/79981023/tr1-not-known-when-compiling-hilo-browser-in-vs-2026",
+      "summary": "",
+      "tags": [
+        "c++",
+        "tr1"
+      ],
+      "author": "Keith Beaumont",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to implement partial function in JavaScript - three-way sum partial application",
+      "url": "https://stackoverflow.com/questions/79980988/how-to-implement-partial-function-in-javascript-three-way-sum-partial-applicat",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "partial-application"
+      ],
+      "author": "qxzsilver",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "Best VScode colorful dark theme",
+      "url": "https://stackoverflow.com/questions/79981007/best-vscode-colorful-dark-theme",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "visual-studio-code"
+      ],
+      "author": "Homayoun Borhani",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "Problem with dynamic submenus: can&#39;t achieve a static reference from one sheet to another",
+      "url": "https://stackoverflow.com/questions/79981012/problem-with-dynamic-submenus-cant-achieve-a-static-reference-from-one-sheet-t",
+      "summary": "",
+      "tags": [
+        "google-sheets",
+        "google-sheets-formula"
+      ],
+      "author": "Amber Butler",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "SDL3 TTF produces error &quot;Text has zero width&quot;",
+      "url": "https://stackoverflow.com/questions/79980996/sdl3-ttf-produces-error-text-has-zero-width",
+      "summary": "",
+      "tags": [
+        "c++",
+        "sdl-ttf",
+        "sdl-3"
+      ],
+      "author": "Felix.leg",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Google Professional Cloud Architect training",
+      "url": "https://stackoverflow.com/questions/79981001/google-professional-cloud-architect-training",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Wonderful ",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Applying FUN in ave() to only a subset of the group",
+      "url": "https://stackoverflow.com/questions/79981003/applying-fun-in-ave-to-only-a-subset-of-the-group",
+      "summary": "",
+      "tags": [
+        "r",
+        "aggregate"
+      ],
+      "author": "cdalitz",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "what is the difference between co_await/(stackless await) and windows IOCP?",
+      "url": "https://stackoverflow.com/questions/79981002/what-is-the-difference-between-co-await-stackless-await-and-windows-iocp",
+      "summary": "",
+      "tags": [
+        "c++",
+        "windows",
+        "iocp"
+      ],
+      "author": "lescper",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Curl request giving 401 unauthorized but working in Postman and Node",
+      "url": "https://stackoverflow.com/questions/79980976/curl-request-giving-401-unauthorized-but-working-in-postman-and-node",
+      "summary": "",
+      "tags": [
+        "php",
+        "php-curl",
+        "http-status-code-401"
+      ],
+      "author": "Paddy Hallihan",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Barplot is incomplete when combined with polar coordinates",
+      "url": "https://stackoverflow.com/questions/79980967/barplot-is-incomplete-when-combined-with-polar-coordinates",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2"
+      ],
+      "author": "mri",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Open-source C functions/programs that can encrypt a string using a secure PQC algorithm",
+      "url": "https://stackoverflow.com/questions/79980987/open-source-c-functions-programs-that-can-encrypt-a-string-using-a-secure-pqc-al",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "c",
+        "encryption",
+        "post-quantum-cryptography"
+      ],
+      "author": "avivtheprogrammer",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Multer not creating uploads folder when req.files used but creates folder when req.file used",
+      "url": "https://stackoverflow.com/questions/79980999/multer-not-creating-uploads-folder-when-req-files-used-but-creates-folder-when-r",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "file-upload",
+        "multer",
+        "multifile-uploader"
+      ],
+      "author": "HRB",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Error in .rs.exprMutatesPackageLibrary(expr) when adding paths to a data.table",
+      "url": "https://stackoverflow.com/questions/79980944/error-in-rs-exprmutatespackagelibraryexpr-when-adding-paths-to-a-data-table",
+      "summary": "",
+      "tags": [
+        "r",
+        "data.table"
+      ],
+      "author": "ahnungslos",
+      "comments": 2,
+      "score": 4
+    },
+    {
+      "title": "SUM(amount) not working when also calling base column amount in SELECT clause",
+      "url": "https://stackoverflow.com/questions/79980953/sumamount-not-working-when-also-calling-base-column-amount-in-select-clause",
+      "summary": "",
+      "tags": [
+        "sql",
+        "ms-access",
+        "oledb"
+      ],
+      "author": "Bumpyroadhill",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "GCS cross-region issue - Upload hangs indefinitely when uploading from a node in `Germany` to a gcp bucket in `asia-south1`",
+      "url": "https://stackoverflow.com/questions/79980992/gcs-cross-region-issue-upload-hangs-indefinitely-when-uploading-from-a-node-in",
+      "summary": "",
+      "tags": [
+        "python",
+        "google-cloud-platform",
+        "bucket",
+        "hetzner"
+      ],
+      "author": "Ayush",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "How do you find the key and value at a certain position in a C++ map?",
+      "url": "https://stackoverflow.com/questions/79980929/how-do-you-find-the-key-and-value-at-a-certain-position-in-a-c-map",
+      "summary": "",
+      "tags": [
+        "c++",
+        "iteration",
+        "maps"
+      ],
+      "author": "Lucas Li",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How to make my voxel rasteriser run faster?",
+      "url": "https://stackoverflow.com/questions/79980969/how-to-make-my-voxel-rasteriser-run-faster",
+      "summary": "",
+      "tags": [
+        "python",
+        "graphics",
+        "python-turtle",
+        "rasterizing"
+      ],
+      "author": "auzifriend",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Feign Decode Exception: Error while extracting response",
+      "url": "https://stackoverflow.com/questions/79980945/feign-decode-exception-error-while-extracting-response",
+      "summary": "",
+      "tags": [
+        "java",
+        "json",
+        "microservices",
+        "feign",
+        "fasterxml"
+      ],
+      "author": "Hisham Gundagi",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I log the function name and line number whenever a specific struct field changes, without manually write &quot;log this field&quot; in every line",
+      "url": "https://stackoverflow.com/questions/79980948/how-can-i-log-the-function-name-and-line-number-whenever-a-specific-struct-field",
+      "summary": "",
+      "tags": [
+        "c++",
+        "qt"
+      ],
+      "author": "Andy Ayr",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Why is undefined behavior not being reported for this function?",
+      "url": "https://stackoverflow.com/questions/79980921/why-is-undefined-behavior-not-being-reported-for-this-function",
+      "summary": "",
+      "tags": [
+        "g++",
+        "undefined-behavior",
+        "clang++",
+        "const-cast",
+        "ubsan"
+      ],
+      "author": "einpoklum",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Logix Designer structure text how to access passed parameters?",
+      "url": "https://stackoverflow.com/questions/79980970/logix-designer-structure-text-how-to-access-passed-parameters",
+      "summary": "",
+      "tags": [
+        "structured-text",
+        "rockwell"
+      ],
+      "author": "SPlatten",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "FastAPI returning &quot;Out of range float values are not JSON compliant&quot; with Pandas NaN values",
+      "url": "https://stackoverflow.com/questions/79980955/fastapi-returning-out-of-range-float-values-are-not-json-compliant-with-pandas",
+      "summary": "",
+      "tags": [
+        "python",
+        "json",
+        "pandas",
+        "fastapi",
+        "nan"
+      ],
+      "author": "Masum Abbas",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "views::zip has limited functionalities",
+      "url": "https://stackoverflow.com/questions/79980943/viewszip-has-limited-functionalities",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++23"
+      ],
+      "author": "DeltaVega",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "Why do collisions activate even if it seems that nothing is there?",
+      "url": "https://stackoverflow.com/questions/79980905/why-do-collisions-activate-even-if-it-seems-that-nothing-is-there",
+      "summary": "",
+      "tags": [
+        "collision-detection",
+        "gml"
+      ],
+      "author": "Kinn",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Replacing SideEffect In Jetpack compose so I can update anchors before first composition",
+      "url": "https://stackoverflow.com/questions/79980956/replacing-sideeffect-in-jetpack-compose-so-i-can-update-anchors-before-first-com",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "android",
+        "android-jetpack-compose",
+        "side-effects",
+        "launched-effect"
+      ],
+      "author": "m3cury",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "typed [Ref] argument in a PowerShell class method",
+      "url": "https://stackoverflow.com/questions/79980932/typed-ref-argument-in-a-powershell-class-method",
+      "summary": "",
+      "tags": [
+        "c#",
+        "powershell"
+      ],
+      "author": "Peyre",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Dealing with lookup tables and enums between database and spring app",
+      "url": "https://stackoverflow.com/questions/79980850/dealing-with-lookup-tables-and-enums-between-database-and-spring-app",
+      "summary": "",
+      "tags": [
+        "java",
+        "mysql",
+        "spring-boot",
+        "spring-data-jpa"
+      ],
+      "author": "Tapialj",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I retrieve the text from my search bar and use it in my event listener without triggering a addEventListener is not a function?",
+      "url": "https://stackoverflow.com/questions/79980907/how-can-i-retrieve-the-text-from-my-search-bar-and-use-it-in-my-event-listener-w",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "node.js",
+        "express"
+      ],
+      "author": "learning&#39;s_a_process",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How can I implement Java-like enums in Go?",
+      "url": "https://stackoverflow.com/questions/79980896/how-can-i-implement-java-like-enums-in-go",
+      "summary": "",
+      "tags": [
+        "go",
+        "enums"
+      ],
+      "author": "Mykhaylo Adamovych",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Should I make my own vector in C++ and use that more than the one built in?",
+      "url": "https://stackoverflow.com/questions/79980827/should-i-make-my-own-vector-in-c-and-use-that-more-than-the-one-built-in",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c++"
+      ],
+      "author": "Rusty",
+      "comments": 2,
+      "score": 0
+    }
+  ]
+}

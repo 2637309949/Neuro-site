@@ -1,0 +1,429 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T15:51:25.860375+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Power BI合并数据问题及解决方法",
+      "url": "https://stackoverflow.com/questions/79980392/power-bi-not-merging-data-correctly",
+      "summary": "Power BI在合并和左连接操作中可能因字符集问题导致失败，需检查Power Query中的键值。合并表功能可通过Power Query编辑器实现，建议参考教程学习最佳实践。追加查询与合并查询的区别在于数据整合方式，堆栈溢出错误需排查数据源解析异常。",
+      "tags": [
+        "powerbi",
+        "dax"
+      ],
+      "author": "amsackett",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Github contributions",
+      "url": "https://stackoverflow.com/questions/79980391/github-contributions",
+      "summary": "",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "author": "Friedrich Novak",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "项目中出现未授权的虚拟仓库",
+      "url": "https://stackoverflow.com/questions/79980389/projects-include-virtuals-that-locals-remotes-are-assigned-to",
+      "summary": "在 Artifactory 中，将单个 docker-remote 仓库分配给 Permissions 测试项目后，用户既能看到该仓库，也能看到 docker 和 docker.io 两个虚拟仓库。由于未显式共享或分配这些虚拟仓库，导致其出现，说明虚拟仓库可能自动包含已分配的远程仓库。",
+      "tags": [
+        "artifactory"
+      ],
+      "author": "justin&#39;s work account",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Error in converting a string into an integer in c++",
+      "url": "https://stackoverflow.com/questions/79980356/error-in-converting-a-string-into-an-integer-in-c",
+      "summary": "",
+      "tags": [
+        "c++"
+      ],
+      "author": "HaoShan49",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "C++ 中跨文件使用全局变量的正确声明方式",
+      "url": "https://stackoverflow.com/questions/79980354/declare-with-global-and-export-does-not-work-for-sub-shell",
+      "summary": "在 C++ 中，若在一个 .cpp 文件中定义全局变量，其他文件想使用该变量需在头文件中用 extern 声明，并在编译时将所有文件链接。否则会出现找不到符号的错误。",
+      "tags": [
+        "bash"
+      ],
+      "author": "k8AspvNUfYhkvpT9EX5YCSzoLouT0",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Spring message 标签重新加载时找不到 DB 键",
+      "url": "https://stackoverflow.com/questions/79980351/why-is-springmessage-not-finding-my-db-message-keys-on-reload",
+      "summary": "在 JSP 中使用 spring:message 时，若未在文件顶部声明 spring taglib，或 var 属性使用不当，页面重新加载后会导致无法读取数据库中的消息键。",
+      "tags": [
+        "java",
+        "spring"
+      ],
+      "author": "Thom",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Best virtual environment manager for RStudio on Windows PC",
+      "url": "https://stackoverflow.com/questions/79980372/best-virtual-environment-manager-for-rstudio-on-windows-pc",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "r",
+        "windows",
+        "rstudio"
+      ],
+      "author": "Denis",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "itanium架构中seq_cst栅栏与宽松原子操作的内存加载问题",
+      "url": "https://stackoverflow.com/questions/79980382/itanium-seq-cst-fence-and-relaxed-atomics-not-using-plains-loads-and-stores",
+      "summary": "讨论itanium架构下seq_cst内存栅栏的实现细节，分析宽松原子操作为何不使用普通加载/存储指令。涉及C++内存模型中不同内存顺序（seq_cst、acquire/release）的语义差异及性能比较，强调顺序一致性原子操作在多生产者-多消费者场景中的必要性。",
+      "tags": [
+        "c++",
+        "atomic",
+        "stdatomic",
+        "memory-model",
+        "itanium"
+      ],
+      "author": "Alloth",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Restricting the droppable vicinity of dynamically generated draggable div",
+      "url": "https://stackoverflow.com/questions/79980381/restricting-the-droppable-vicinity-of-dynamically-generated-draggable-div",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "draggable",
+        "droppable"
+      ],
+      "author": "stonypaul",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Android第三方应用能否访问蓝牙PAN？",
+      "url": "https://stackoverflow.com/questions/79980370/is-bluetooth-pan-accessible-to-third-party-android-applications",
+      "summary": "在Android上，蓝牙个人局域网（PAN）功能仅由系统层管理，未提供公开的API供第三方应用直接使用。若要使用PAN，需要通过系统设置开启蓝牙网络共享或获取系统权限，普通应用无法直接建立或控制PAN连接。",
+      "tags": [
+        "android",
+        "bluetooth"
+      ],
+      "author": "Ramandeep Singh Sodhi",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "动态创建的 div 无法拖拽",
+      "url": "https://stackoverflow.com/questions/79980365/dynamically-created-divs-not-draggable",
+      "summary": "在 JavaScript 循环中动态生成 div 并添加 class 后，发现样式未生效且无法拖拽。讨论了使用 CSS 选择器、事件绑定及拖拽实现方法。",
+      "tags": [
+        "javascript",
+        "html",
+        "jquery",
+        "draggable",
+        "droppable"
+      ],
+      "author": "stonypaul",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "Go 语言中如何在不提前返回的情况下返回错误",
+      "url": "https://stackoverflow.com/questions/79980347/how-to-return-errors-without-early-returning",
+      "summary": "文章讨论在 Go 代码中避免使用 `if err != nil {}` 并直接 `return err` 的做法。强调应先检查 err 是否为 nil，避免在中间层使用 `log.Fatal`，并说明错误处理的最佳实践。",
+      "tags": [
+        "rust"
+      ],
+      "author": "krzemyk",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "SQLite在终端服务中运行出现错误",
+      "url": "https://stackoverflow.com/questions/79980343/problem-running-sqlite-in-terminal-services",
+      "summary": "在终端服务环境下使用SQLite时，开发者遇到迁移错误、解析栈溢出、长字符串导致的查询失败以及死锁等问题。常见原因包括数据库迁移脚本错误、字符串长度超过解析器限制以及并发访问冲突。",
+      "tags": [
+        "sqlite",
+        ".net-4.8",
+        "terminal-services"
+      ],
+      "author": "Emma Harris",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "residuals.lrm 未在 rms 包中导出",
+      "url": "https://stackoverflow.com/questions/79980332/residuals-lrm-is-not-in-the-rms-r-package-where-installed",
+      "summary": "在 R 4.6.1 环境下，调用 rms::residuals.lrm 时出现错误：'residuals.lrm' 未从 'namespace:rms' 导出。用户已尝试卸载并重新安装该包，但问题仍未解决。",
+      "tags": [
+        "r",
+        "installation",
+        "package"
+      ],
+      "author": "Pablo Dominguez Guerrero",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "在 Grails 7.2.0 中使用 Micronaut 声明式客户端",
+      "url": "https://stackoverflow.com/questions/79980352/how-to-use-micronaut-declarative-client-into-grails-7-2-0",
+      "summary": "讨论如何在 Grails 7.2.0 项目中集成 Micronaut 声明式客户端，包括多租户服务调用、请求路由、异常处理及单元测试等关键实现细节。",
+      "tags": [
+        "grails"
+      ],
+      "author": "user2572790",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Error when importing ControlsFx SpreadsheetView into my FXML-File?",
+      "url": "https://stackoverflow.com/questions/79980366/error-when-importing-controlsfx-spreadsheetview-into-my-fxml-file",
+      "summary": "",
+      "tags": [
+        "javafx"
+      ],
+      "author": "StuartM",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Roblox UserInputService 复活后事件触发两次",
+      "url": "https://stackoverflow.com/questions/79980350/userinputservice-firing-twice-after-the-player-respawns",
+      "summary": "在 Roblox 游戏中，玩家复活后，UserInputService 的 InputBegan 事件会被触发两次，导致远程函数被调用两次。问题通常是因为事件在玩家死亡或复活时未被正确解绑或多次绑定。常见解决方案包括在玩家死亡或复活时使用 Disconnect 或重新绑定事件，或在脚本中检查是否已存在相同连接。",
+      "tags": [
+        "lua",
+        "roblox"
+      ],
+      "author": "Martin",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "如何用大量数据构建高质量测试",
+      "url": "https://stackoverflow.com/questions/79980348/how-to-build-a-good-test-with-lots-of-data",
+      "summary": "在编写单元测试时，建议使用参数化测试或数据驱动方式，将不同输入组合拆分为独立测试用例；利用测试夹具（fixtures）或工厂方法生成测试数据；对外部依赖进行 Mock 或 Stub，保持测试隔离；关注测试执行时间，避免因数据量过大导致性能瓶颈；在投入大量测试前评估其收益与成本，确保测试覆盖率与维护成本平衡。",
+      "tags": [
+        "advice",
+        "c#",
+        "xunit"
+      ],
+      "author": "Bart Friederichs",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "如何在窗口最小化时将其置为前台？",
+      "url": "https://stackoverflow.com/questions/79980346/how-to-set-window-as-foreground-when-it-minimized",
+      "summary": "Windows默认阻止后台程序弹到前台，可通过AllowSetForegroundWindow或将ForegroundLockTimeout设为0实现最小化窗口前置。",
+      "tags": [
+        "c++",
+        "windows",
+        "winapi",
+        "toast",
+        "msix"
+      ],
+      "author": "Joe J",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "RISC-V返回地址保护机制DeTRAP",
+      "url": "https://stackoverflow.com/questions/79980327/risc-v-return-address-corruption-bug",
+      "summary": "DeTRAP利用完整的RISC-V调试硬件规范实现写保护的影子栈，保护返回地址。该方案在RISC-V Rocket Core上原型验证，展示了对预编译和不可信代码的安全执行支持。",
+      "tags": [
+        "fpga",
+        "riscv",
+        "microchip"
+      ],
+      "author": "general_andreas",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to I remove the current element from a List while iterating over it?",
+      "url": "https://stackoverflow.com/questions/79980329/how-to-i-remove-the-current-element-from-a-list-while-iterating-over-it",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "author": "BrimmingOtter29",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How do I increase the number size to be bigger than size 60 in a Power BI card visual?",
+      "url": "https://stackoverflow.com/questions/79980345/how-do-i-increase-the-number-size-to-be-bigger-than-size-60-in-a-power-bi-card-v",
+      "summary": "",
+      "tags": [
+        "powerbi"
+      ],
+      "author": "Killian Gavin ",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Claude Apps Gateway on Google Cloud Platform with Identity Aware Proxy",
+      "url": "https://stackoverflow.com/questions/79980334/claude-apps-gateway-on-google-cloud-platform-with-identity-aware-proxy",
+      "summary": "",
+      "tags": [
+        "google-cloud-platform",
+        "claude",
+        "google-cloud-identity-aware-proxy",
+        "claude-code"
+      ],
+      "author": "faridghar",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Google Cloud project created with gcloud is owned by a different email identity than gcloud auth account",
+      "url": "https://stackoverflow.com/questions/79980340/google-cloud-project-created-with-gcloud-is-owned-by-a-different-email-identity",
+      "summary": "",
+      "tags": [
+        "authentication",
+        "gcloud",
+        "account",
+        "google-iam",
+        "identity-management"
+      ],
+      "author": "Hispalis Guadal",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Flask表单提交返回405错误的解决方法",
+      "url": "https://stackoverflow.com/questions/79980339/flask-form-submission-returns-405-method-not-allowed-even-though-the-route-exist",
+      "summary": "用户在使用Flask处理表单提交时遇到405错误，可能原因包括路由未正确配置POST方法或表单method属性未设置为POST。需检查路由装饰器是否包含methods=['POST']，并确认表单标签中method='post'。",
+      "tags": [
+        "python",
+        "html",
+        "forms",
+        "http",
+        "flask"
+      ],
+      "author": "Ainulhaqsde",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "What does &#39;echo &quot;\\&quot; &#39; do in bash, and why does exiting it exit the parent process?",
+      "url": "https://stackoverflow.com/questions/79980273/what-does-echo-do-in-bash-and-why-does-exiting-it-exit-the-parent-proces",
+      "summary": "",
+      "tags": [
+        "bash"
+      ],
+      "author": "Sergey Guzenkov",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "如何获取未软删除的分类和产品",
+      "url": "https://stackoverflow.com/questions/79980266/how-i-can-fetch-categories-and-products-that-are-not-soft-deleted",
+      "summary": "在 Stack Overflow 提问中，用户询问如何查询未被软删除的分类和产品。讨论涉及使用查询条件排除软删除记录，并指出标题与正文不一致。答案建议使用过滤条件或双重否定以确保只返回未软删除的数据。",
+      "tags": [
+        "php",
+        "symfony",
+        "doctrine-orm"
+      ],
+      "author": "Dimitrios Desyllas",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "在函数中获取 Tkinter 滑块的值",
+      "url": "https://stackoverflow.com/questions/79980316/how-do-i-get-a-value-from-a-tkinter-scale-slider-whilst-when-it-is-in-a-function",
+      "summary": "讨论如何在 Tkinter GUI 的函数内部读取 Scale/Slider 的当前值，并给出实现方法与常见错误。",
+      "tags": [
+        "function",
+        "tkinter",
+        "tkinter-button",
+        "tkinter-scale"
+      ],
+      "author": "jellybeanmachine",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How are you preparing yourself as a developer in the AI era?",
+      "url": "https://stackoverflow.com/questions/79980296/how-are-you-preparing-yourself-as-a-developer-in-the-ai-era",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "artificial-intelligence",
+        "terminology",
+        "developer-tools"
+      ],
+      "author": "shivam soni",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "使用 BigQuery 分析 StackOverflow 趋势",
+      "url": "https://stackoverflow.com/questions/79980309/bigquery-to-analyze-trends",
+      "summary": "Google 将 StackOverflow 数据公开为 BigQuery 公共数据集，支持手动、URL API、SEDE SQL 和 BigQuery 查询。开发者可利用此数据集进行趋势分析、工作流构建和高级查询，提升数据分析效率。",
+      "tags": [
+        "sql",
+        "google-bigquery"
+      ],
+      "author": "KAAJAI ISHMAEL",
+      "comments": 0,
+      "score": -7
+    }
+  ]
+}

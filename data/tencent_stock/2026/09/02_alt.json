@@ -1,0 +1,278 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T13:36:53.964422+00:00",
+  "source": "tencent_stock",
+  "count": 30,
+  "columns": [
+    {
+      "name": "股票名",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "涨跌幅",
+      "key": "change",
+      "type": "metric",
+      "directionToggle": true
+    },
+    {
+      "name": "最新价",
+      "key": "price",
+      "type": "text"
+    },
+    {
+      "name": "成交额",
+      "key": "volume",
+      "type": "metric"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "C马矿",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh601123&module=hs&type=hsj",
+      "summary": "",
+      "change": "-23.00%",
+      "price": "20.02",
+      "volume": 134467
+    },
+    {
+      "title": "神农种业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300189&module=hs&type=hsj",
+      "summary": "",
+      "change": "-11.39%",
+      "price": "6.69",
+      "volume": 255759
+    },
+    {
+      "title": "华绿生物",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300970&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.96%",
+      "price": "19.57",
+      "volume": 62041
+    },
+    {
+      "title": "C贝特利",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz301697&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.64%",
+      "price": "32.08",
+      "volume": 79009
+    },
+    {
+      "title": "金浦钛业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000545&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.13%",
+      "price": "2.13",
+      "volume": 40231
+    },
+    {
+      "title": "神奇制药",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600613&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.04%",
+      "price": "10.04",
+      "volume": 120814
+    },
+    {
+      "title": "冀衡医药",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002742&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.02%",
+      "price": "5.03",
+      "volume": 51808
+    },
+    {
+      "title": "一鸣食品",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh605179&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.01%",
+      "price": "31.2",
+      "volume": 12394
+    },
+    {
+      "title": "开开实业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600272&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.00%",
+      "price": "18.08",
+      "volume": 77701
+    },
+    {
+      "title": "红四方",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh603395&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.00%",
+      "price": "27.81",
+      "volume": 58162
+    },
+    {
+      "title": "新农股份",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002942&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.00%",
+      "price": "19.88",
+      "volume": 32061
+    },
+    {
+      "title": "敦煌种业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600354&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.98%",
+      "price": "8.21",
+      "volume": 113271
+    },
+    {
+      "title": "国投丰乐",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000713&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.94%",
+      "price": "6.43",
+      "volume": 34215
+    },
+    {
+      "title": "农发种业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600313&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.75%",
+      "price": "7.13",
+      "volume": 120331
+    },
+    {
+      "title": "秋乐种业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920087&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.74%",
+      "price": "19.36",
+      "volume": 51372
+    },
+    {
+      "title": "艾艾精工",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh603580&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.42%",
+      "price": "75.0",
+      "volume": 81074
+    },
+    {
+      "title": "深粮控股",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000019&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.34%",
+      "price": "7.18",
+      "volume": 45376
+    },
+    {
+      "title": "立新能源",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz001258&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.28%",
+      "price": "12.52",
+      "volume": 181303
+    },
+    {
+      "title": "苏垦农发",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh601952&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.11%",
+      "price": "8.98",
+      "volume": 49129
+    },
+    {
+      "title": "黑芝麻",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000716&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.63%",
+      "price": "5.4",
+      "volume": 66101
+    },
+    {
+      "title": "北大荒",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600598&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.59%",
+      "price": "12.67",
+      "volume": 114290
+    },
+    {
+      "title": "康农种业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920403&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.51%",
+      "price": "23.65",
+      "volume": 25662
+    },
+    {
+      "title": "登海种业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002041&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.50%",
+      "price": "10.87",
+      "volume": 93680
+    },
+    {
+      "title": "京粮控股",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000505&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.40%",
+      "price": "7.09",
+      "volume": 92172
+    },
+    {
+      "title": "冠农股份",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600251&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.37%",
+      "price": "10.62",
+      "volume": 49086
+    },
+    {
+      "title": "百洋股份",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002696&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.24%",
+      "price": "6.68",
+      "volume": 38122
+    },
+    {
+      "title": "亚盛集团",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600108&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.16%",
+      "price": "3.6",
+      "volume": 81094
+    },
+    {
+      "title": "江天化学",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300927&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.16%",
+      "price": "32.07",
+      "volume": 103251
+    },
+    {
+      "title": "汉森制药",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002412&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.06%",
+      "price": "10.26",
+      "volume": 111603
+    },
+    {
+      "title": "农大科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920159&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.04%",
+      "price": "33.16",
+      "volume": 12258
+    }
+  ]
+}

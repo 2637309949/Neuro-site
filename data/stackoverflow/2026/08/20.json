@@ -1,0 +1,429 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T13:57:30.197019+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to store command output without truncation",
+      "url": "https://stackoverflow.com/questions/79996804/how-to-store-command-output-without-truncation",
+      "summary": "",
+      "tags": [
+        "bash"
+      ],
+      "author": "optical",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "SUMPRODUCT Range",
+      "url": "https://stackoverflow.com/questions/79996808/sumproduct-range",
+      "summary": "",
+      "tags": [
+        "excel",
+        "sumproduct"
+      ],
+      "author": "FredBloggs",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "E0277: &amp;Pin&lt;Box&lt;dyn Future&gt;&gt; is not a future when awaiting stored handler in Rust",
+      "url": "https://stackoverflow.com/questions/79996812/e0277-pinboxdyn-future-is-not-a-future-when-awaiting-stored-handler-in-rus",
+      "summary": "",
+      "tags": [
+        "asynchronous",
+        "rust",
+        "frameworks",
+        "router",
+        "rust-tokio"
+      ],
+      "author": "Synth",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "What is Value.Placeholder suppose to mean in SqlParser-cs",
+      "url": "https://stackoverflow.com/questions/79996806/what-is-value-placeholder-suppose-to-mean-in-sqlparser-cs",
+      "summary": "",
+      "tags": [
+        "sql-parser"
+      ],
+      "author": "Wish",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Gathering dependency dlls to ship my SDL2 program on Steam",
+      "url": "https://stackoverflow.com/questions/79996819/gathering-dependency-dlls-to-ship-my-sdl2-program-on-steam",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "dependencies",
+        "sdl-2",
+        "steam"
+      ],
+      "author": "Joymaker",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Tensorflow Errors",
+      "url": "https://stackoverflow.com/questions/79996809/tensorflow-errors",
+      "summary": "",
+      "tags": [
+        "python",
+        "tensorflow"
+      ],
+      "author": "Jeff Ohana",
+      "comments": 1,
+      "score": -7
+    },
+    {
+      "title": "Problems in rendering gif created with ffmpeg",
+      "url": "https://stackoverflow.com/questions/79996787/problems-in-rendering-gif-created-with-ffmpeg",
+      "summary": "",
+      "tags": [
+        "python",
+        "ffmpeg"
+      ],
+      "author": "Antonino Roccaforte",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Dynamic Data Masking doesn&#39;t work with UNION",
+      "url": "https://stackoverflow.com/questions/79996778/dynamic-data-masking-doesnt-work-with-union",
+      "summary": "",
+      "tags": [
+        "sql-server",
+        "sql-server-2019",
+        "data-masking",
+        "dynamic-data-masking"
+      ],
+      "author": "DaniM",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to walk an antlr4 grammar using API Tool",
+      "url": "https://stackoverflow.com/questions/79996784/how-to-walk-an-antlr4-grammar-using-api-tool",
+      "summary": "",
+      "tags": [
+        "parsing",
+        "metadata",
+        "antlr4"
+      ],
+      "author": "Arnault Bonafos",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How do I configure a Content-Security-Policy for Meta Pixel&#39;s use of properties:// URIs?",
+      "url": "https://stackoverflow.com/questions/79996801/how-do-i-configure-a-content-security-policy-for-meta-pixels-use-of-properties",
+      "summary": "",
+      "tags": [
+        "content-security-policy",
+        "facebook-pixel"
+      ],
+      "author": "Sam",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "We all know Ai is rapidly envolving and I want some suggestions ( Domain Ai ML DLCV DIP )",
+      "url": "https://stackoverflow.com/questions/79996775/we-all-know-ai-is-rapidly-envolving-and-i-want-some-suggestions-domain-ai-ml-d",
+      "summary": "",
+      "tags": [
+        "machine-learning",
+        "image-processing",
+        "deep-learning",
+        "computer-vision",
+        "artificial-intelligence"
+      ],
+      "author": "Ahmed Abdullah",
+      "comments": 0,
+      "score": -9
+    },
+    {
+      "title": "How can I benchmark the scheduling overhead of .NET background job frameworks?",
+      "url": "https://stackoverflow.com/questions/79996774/how-can-i-benchmark-the-scheduling-overhead-of-net-background-job-frameworks",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "quartz-scheduler",
+        "hangfire"
+      ],
+      "author": "Valeria Zajac",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to set JDK character coding to ANSI?",
+      "url": "https://stackoverflow.com/questions/79996741/how-to-set-jdk-character-coding-to-ansi",
+      "summary": "",
+      "tags": [
+        "java",
+        "character-encoding"
+      ],
+      "author": "Fredddy",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module",
+      "url": "https://stackoverflow.com/questions/79996765/warning-use-enable-native-access-all-unnamed-to-avoid-a-warning-for-callers-i",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "gradle"
+      ],
+      "author": "Rodrigo Costa",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to understand and implement &quot;get each worker tools&quot; and then &quot;get tools&quot; in my Stream API test task for Java developer?",
+      "url": "https://stackoverflow.com/questions/79996750/how-to-understand-and-implement-get-each-worker-tools-and-then-get-tools-in",
+      "summary": "",
+      "tags": [
+        "java",
+        "java-stream"
+      ],
+      "author": "Kosmo零",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Create an XML file with multiple XMLNS and multiple nesting in SQL",
+      "url": "https://stackoverflow.com/questions/79996736/create-an-xml-file-with-multiple-xmlns-and-multiple-nesting-in-sql",
+      "summary": "",
+      "tags": [
+        "sql-server",
+        "xml",
+        "t-sql"
+      ],
+      "author": "ESwanneRoe",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Can I copy into another app more than 1 screenful of text from Nano editor?",
+      "url": "https://stackoverflow.com/questions/79996751/can-i-copy-into-another-app-more-than-1-screenful-of-text-from-nano-editor",
+      "summary": "",
+      "tags": [
+        "nano"
+      ],
+      "author": "Trunk",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "An app includes some files from another app, how to do this in git?",
+      "url": "https://stackoverflow.com/questions/79996740/an-app-includes-some-files-from-another-app-how-to-do-this-in-git",
+      "summary": "",
+      "tags": [
+        "git"
+      ],
+      "author": "raj",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Pyspark code to group the data by name and item calculate the total weight for duplicate items",
+      "url": "https://stackoverflow.com/questions/79996688/pyspark-code-to-group-the-data-by-name-and-item-calculate-the-total-weight-for-d",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "pyspark"
+      ],
+      "author": "srikanth b",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to Connect Claude to Localhost WordPress using Xampp",
+      "url": "https://stackoverflow.com/questions/79996754/how-to-connect-claude-to-localhost-wordpress-using-xampp",
+      "summary": "",
+      "tags": [
+        "wordpress",
+        "xampp",
+        "claude"
+      ],
+      "author": "rehman mughal",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "How to audit closed-source firmware blobs (.ko, .o, .elf) for known CVEs without source code?",
+      "url": "https://stackoverflow.com/questions/79996734/how-to-audit-closed-source-firmware-blobs-ko-o-elf-for-known-cves-without",
+      "summary": "",
+      "tags": [
+        "binary",
+        "embedded",
+        "reverse-engineering",
+        "static-analysis",
+        "firmware"
+      ],
+      "author": "Trifon Ivanov",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Firebase auth/invalid-credential &quot;Invalid OAuth response from apple.com&quot; with valid identityToken",
+      "url": "https://stackoverflow.com/questions/79996713/firebase-auth-invalid-credential-invalid-oauth-response-from-apple-com-with-va",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "firebase",
+        "firebase-authentication",
+        "sign-in-with-apple"
+      ],
+      "author": "Шухрат Халиков",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Update column in table 1 with data from table 2",
+      "url": "https://stackoverflow.com/questions/79996671/update-column-in-table-1-with-data-from-table-2",
+      "summary": "",
+      "tags": [
+        "sql",
+        "mariadb",
+        "inner-join"
+      ],
+      "author": "Double",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Zalando postgres-operator + local-path storage: no failover when a node dies (not just pod crash)",
+      "url": "https://stackoverflow.com/questions/79996732/zalando-postgres-operator-local-path-storage-no-failover-when-a-node-dies-no",
+      "summary": "",
+      "tags": [
+        "local-storage",
+        "devops",
+        "k3s",
+        "proxmox",
+        "dedicated-server"
+      ],
+      "author": "Ehem",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Custom Chinese font Noto Sans SC is not being used in Flutter",
+      "url": "https://stackoverflow.com/questions/79996737/custom-chinese-font-noto-sans-sc-is-not-being-used-in-flutter",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "fonts"
+      ],
+      "author": "Lakvo",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Tailwind CSS responsive layout behaves incorrectly between 1024px and 1600px despite using lg breakpoints",
+      "url": "https://stackoverflow.com/questions/79996723/tailwind-css-responsive-layout-behaves-incorrectly-between-1024px-and-1600px-des",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "tailwind-css"
+      ],
+      "author": "Sakthi Vignesh Nagasubramanian",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to install Rust standard library source code to /usr/local/lib/rustlib/src/rust offline from its rust-lang/rust GitHub sources?",
+      "url": "https://stackoverflow.com/questions/79996720/how-to-install-rust-standard-library-source-code-to-usr-local-lib-rustlib-src-r",
+      "summary": "",
+      "tags": [
+        "rust",
+        "rustrover"
+      ],
+      "author": "Marc Le Bihan",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Hono app not deploying to vercel: Can&#39;t read properties of undefined (reading &#39;readfile&#39;)",
+      "url": "https://stackoverflow.com/questions/79996728/hono-app-not-deploying-to-vercel-cant-read-properties-of-undefined-reading-r",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "typescript",
+        "vercel",
+        "hono"
+      ],
+      "author": "SAW Dev",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Android stripping geo-location from photos before upload in browsers",
+      "url": "https://stackoverflow.com/questions/79996722/android-stripping-geo-location-from-photos-before-upload-in-browsers",
+      "summary": "",
+      "tags": [
+        "android",
+        "html"
+      ],
+      "author": "phoet",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Is there any code to calculate space and time complexity using Python?",
+      "url": "https://stackoverflow.com/questions/79996709/is-there-any-code-to-calculate-space-and-time-complexity-using-python",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python",
+        "algorithm",
+        "machine-learning"
+      ],
+      "author": "Yaswanth jai sai ganesh",
+      "comments": 0,
+      "score": -3
+    }
+  ]
+}

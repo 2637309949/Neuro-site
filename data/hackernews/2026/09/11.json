@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T13:33:21.333730+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "summary": "",
+      "author": "fnthawar2",
+      "comments": 833,
+      "score": 1140
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "summary": "",
+      "author": "pred_",
+      "comments": 772,
+      "score": 832
+    },
+    {
+      "title": "Rust is tier-1 language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "summary": "",
+      "author": "mmastrac",
+      "comments": 459,
+      "score": 701
+    },
+    {
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "summary": "",
+      "author": "Brajeshwar",
+      "comments": 387,
+      "score": 625
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "summary": "",
+      "author": "seelos",
+      "comments": 177,
+      "score": 427
+    },
+    {
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "summary": "",
+      "author": "gumby",
+      "comments": 57,
+      "score": 353
+    },
+    {
+      "title": "So you want to use OpenRouter?",
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "summary": "",
+      "author": "player85",
+      "comments": 71,
+      "score": 290
+    },
+    {
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "summary": "",
+      "author": "aquir",
+      "comments": 159,
+      "score": 289
+    },
+    {
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "summary": "",
+      "author": "rguiscard",
+      "comments": 92,
+      "score": 281
+    },
+    {
+      "title": "Neki – Sharded Postgres",
+      "url": "https://planetscale.com/blog/introducing-neki",
+      "summary": "",
+      "author": "simon_weber",
+      "comments": 136,
+      "score": 255
+    },
+    {
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "summary": "",
+      "author": "aanet",
+      "comments": 112,
+      "score": 252
+    },
+    {
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "summary": "",
+      "author": "auberonedu",
+      "comments": 159,
+      "score": 233
+    },
+    {
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "summary": "",
+      "author": "weierstass",
+      "comments": 76,
+      "score": 196
+    },
+    {
+      "title": "Claude is no longer available for minors",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "summary": "",
+      "author": "Muhammad523",
+      "comments": 249,
+      "score": 186
+    },
+    {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "summary": "",
+      "author": "JohnHammersley",
+      "comments": 104,
+      "score": 158
+    },
+    {
+      "title": "Nine coding harnesses vs. your laptop",
+      "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "summary": "",
+      "author": "nasutton12",
+      "comments": 46,
+      "score": 134
+    },
+    {
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "summary": "",
+      "author": "mckn1ght",
+      "comments": 218,
+      "score": 126
+    },
+    {
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "summary": "",
+      "author": "andsoitis",
+      "comments": 72,
+      "score": 126
+    },
+    {
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "url": "https://merybenavente.me/blog/proof-of-capture",
+      "summary": "",
+      "author": "merybenavente",
+      "comments": 72,
+      "score": 121
+    },
+    {
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "summary": "",
+      "author": "cromka",
+      "comments": 33,
+      "score": 99
+    },
+    {
+      "title": "Neijuan",
+      "url": "https://en.wikipedia.org/wiki/Neijuan",
+      "summary": "",
+      "author": "vermilingua",
+      "comments": 25,
+      "score": 83
+    },
+    {
+      "title": "Working with Git Worktrees in Magit",
+      "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
+      "summary": "",
+      "author": "srijan4",
+      "comments": 30,
+      "score": 75
+    },
+    {
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "summary": "",
+      "author": "michalwarda",
+      "comments": 28,
+      "score": 60
+    },
+    {
+      "title": "iPod Classic 6G in QEMU",
+      "url": "https://www.reddit.com/r/emulation/s/VL4Au2HGxq",
+      "summary": "",
+      "author": "dmonterocrespo",
+      "comments": 8,
+      "score": 59
+    },
+    {
+      "title": "CSS Curiosities of the Past",
+      "url": "https://vale.rocks/posts/css-relics",
+      "summary": "",
+      "author": "robin_reala",
+      "comments": 22,
+      "score": 34
+    },
+    {
+      "title": "An interactive tour of the spanning tree protocol",
+      "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
+      "summary": "",
+      "author": "zdw",
+      "comments": 3,
+      "score": 32
+    },
+    {
+      "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
+      "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
+      "summary": "",
+      "author": "MrBuddyCasino",
+      "comments": 15,
+      "score": 30
+    },
+    {
+      "title": "Remember Hong Kong",
+      "url": "https://www.thenextmove.org/p/remember-hong-kong",
+      "summary": "",
+      "author": "throw0101d",
+      "comments": 22,
+      "score": 25
+    },
+    {
+      "title": "RISC-V Emulator and Linux System from Scratch",
+      "url": "https://github.com/WerWolv/riscv-emulator",
+      "summary": "",
+      "author": "Bluestein",
+      "comments": 2,
+      "score": 13
+    },
+    {
+      "title": "Experiment – Projectional Viewer",
+      "url": "https://programmingsimplicity.substack.com/p/experiment-projectional-viewer",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 0,
+      "score": 4
+    }
+  ]
+}

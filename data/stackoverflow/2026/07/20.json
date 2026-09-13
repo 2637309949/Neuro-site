@@ -1,0 +1,430 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T11:55:52.559822+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Pandas df.info() shows None in Stream-lit while head() and shape work correctly",
+      "url": "https://stackoverflow.com/questions/79982220/pandas-df-info-shows-none-in-stream-lit-while-head-and-shape-work-correctly",
+      "summary": "",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "streamlit"
+      ],
+      "author": "SivaKrishna Makani",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to deal with Coverity&#39;s &quot;std::variant throws std::bad_variant_access&quot; False Positives?",
+      "url": "https://stackoverflow.com/questions/79982210/how-to-deal-with-coveritys-stdvariant-throws-stdbad-variant-access-false",
+      "summary": "",
+      "tags": [
+        "c++",
+        "coverity",
+        "std-variant",
+        "std-visit"
+      ],
+      "author": "Marc Mutz - mmutz",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Java inverted solutions for index out of memory",
+      "url": "https://stackoverflow.com/questions/79982219/java-inverted-solutions-for-index-out-of-memory",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "java",
+        "search",
+        "out-of-memory",
+        "inverted-index"
+      ],
+      "author": "altugnet",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "clang-format not producing consistent packing for elements within a C array initializer",
+      "url": "https://stackoverflow.com/questions/79982213/clang-format-not-producing-consistent-packing-for-elements-within-a-c-array-init",
+      "summary": "",
+      "tags": [
+        "c",
+        "clang-format"
+      ],
+      "author": "Sean Champ",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Java regex nor and whole word",
+      "url": "https://stackoverflow.com/questions/79982202/java-regex-nor-and-whole-word",
+      "summary": "",
+      "tags": [
+        "java",
+        "regex"
+      ],
+      "author": "mikael",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "forEach vs for-of loop pushing elements to array",
+      "url": "https://stackoverflow.com/questions/79982184/foreach-vs-for-of-loop-pushing-elements-to-array",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "arrays",
+        "typescript"
+      ],
+      "author": "Shubham Panjiyara",
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "title": "Default Creation Date in PIL ImageCms",
+      "url": "https://stackoverflow.com/questions/79982191/default-creation-date-in-pil-imagecms",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-imaging-library"
+      ],
+      "author": "malat",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Can I set up VS Code so that its GUI looks like MATLAB?",
+      "url": "https://stackoverflow.com/questions/79982180/can-i-set-up-vs-code-so-that-its-gui-looks-like-matlab",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "matlab",
+        "visual-studio-code"
+      ],
+      "author": "tommy1996q",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to disable retries for Apache HttpClient 5-based RestClient?",
+      "url": "https://stackoverflow.com/questions/79982197/how-to-disable-retries-for-apache-httpclient-5-based-restclient",
+      "summary": "",
+      "tags": [
+        "spring-boot",
+        "apache-httpclient-5.x",
+        "spring-restclient"
+      ],
+      "author": "AlexElin",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Best practices for customizing Shopify checkout without it breaking after platform updates",
+      "url": "https://stackoverflow.com/questions/79982193/best-practices-for-customizing-shopify-checkout-without-it-breaking-after-platfo",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "shopify",
+        "liquid"
+      ],
+      "author": "Pramendra Yadav",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Header and Footer/user/admin nav bar",
+      "url": "https://stackoverflow.com/questions/79982164/header-and-footer-user-admin-nav-bar",
+      "summary": "",
+      "tags": [
+        "advice",
+        "php",
+        "html"
+      ],
+      "author": "NoFace Storys",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Automatic HTML row value change in the Element by PowerAutomate",
+      "url": "https://stackoverflow.com/questions/79982150/automatic-html-row-value-change-in-the-element-by-powerautomate",
+      "summary": "",
+      "tags": [
+        "html",
+        "excel",
+        "loops",
+        "power-automate"
+      ],
+      "author": "Артур Добриян",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to create a custom component ColumnGroup",
+      "url": "https://stackoverflow.com/questions/79982186/how-to-create-a-custom-component-columngroup",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "rsuite"
+      ],
+      "author": "gregor",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Replicate Google Calendar add-on application with additional functionality",
+      "url": "https://stackoverflow.com/questions/79982161/replicate-google-calendar-add-on-application-with-additional-functionality",
+      "summary": "",
+      "tags": [
+        "advice",
+        "google-apps-script",
+        "google-calendar-api"
+      ],
+      "author": "Simon Fernandes",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Oracle APEX: Next Item navigation on Detail page failing with custom saved IG reports",
+      "url": "https://stackoverflow.com/questions/79982176/oracle-apex-next-item-navigation-on-detail-page-failing-with-custom-saved-ig-re",
+      "summary": "",
+      "tags": [
+        "oracle-apex"
+      ],
+      "author": "wosyn",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Sharepoint and Nintex Forms not loading for some records",
+      "url": "https://stackoverflow.com/questions/79982173/sharepoint-and-nintex-forms-not-loading-for-some-records",
+      "summary": "",
+      "tags": [
+        "sharepoint-online",
+        "nintex-workflow",
+        "nintex-forms"
+      ],
+      "author": "Captain Kenpachi",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Heroku GitHub Student Offer: Stuck in a silent loop at Step 3 (Page refreshes on submit)",
+      "url": "https://stackoverflow.com/questions/79982170/heroku-github-student-offer-stuck-in-a-silent-loop-at-step-3-page-refreshes-on",
+      "summary": "",
+      "tags": [
+        "heroku"
+      ],
+      "author": "Ahror Sulaymonov",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "MySQL won&#39;t start because of InnoDB",
+      "url": "https://stackoverflow.com/questions/79982145/mysql-wont-start-because-of-innodb",
+      "summary": "",
+      "tags": [
+        "mariadb",
+        "xampp",
+        "innodb"
+      ],
+      "author": "S P",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Why does if __name__ == &quot;__main__&quot;: exist in Python, and when should it be used?",
+      "url": "https://stackoverflow.com/questions/79982155/why-does-if-name-main-exist-in-python-and-when-should-it-be-used",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-3.x",
+        "import",
+        "program-entry-point"
+      ],
+      "author": "ali-raza-py",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Dynamically Add Radio Buttons to Android Studio Activity",
+      "url": "https://stackoverflow.com/questions/79982128/dynamically-add-radio-buttons-to-android-studio-activity",
+      "summary": "",
+      "tags": [
+        "java",
+        "android",
+        "radio-button",
+        "dynamic-programming"
+      ],
+      "author": "Hannah Laskey",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Measurement Computer Vision",
+      "url": "https://stackoverflow.com/questions/79982167/measurement-computer-vision",
+      "summary": "",
+      "tags": [
+        "opencv",
+        "computer-vision"
+      ],
+      "author": "Muhammad Iqbal Ridho",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Google Maps Android SDK: onMapReady() is called but map tiles never render (marker visible, API key configured)",
+      "url": "https://stackoverflow.com/questions/79982151/google-maps-android-sdk-onmapready-is-called-but-map-tiles-never-render-mark",
+      "summary": "",
+      "tags": [
+        "java",
+        "android",
+        "kotlin"
+      ],
+      "author": "priya koli",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Region of interest position effect bounding box values of detected object while using Vision Framework",
+      "url": "https://stackoverflow.com/questions/79982153/region-of-interest-position-effect-bounding-box-values-of-detected-object-while",
+      "summary": "",
+      "tags": [
+        "swift",
+        "createml",
+        "visionkit"
+      ],
+      "author": "Hope",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "When is the next release planned? Bundled Chrome in v25.3.0 has multiple critical CVEs",
+      "url": "https://stackoverflow.com/questions/79982142/when-is-the-next-release-planned-bundled-chrome-in-v25-3-0-has-multiple-critica",
+      "summary": "",
+      "tags": [
+        "puppeteer"
+      ],
+      "author": "Jeevak CC",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How to force all exceptions through a single middleware &amp; serve a unified HTML Page for all errors?",
+      "url": "https://stackoverflow.com/questions/79982135/how-to-force-all-exceptions-through-a-single-middleware-serve-a-unified-html-p",
+      "summary": "",
+      "tags": [
+        "fastapi",
+        "fastapi-middleware"
+      ],
+      "author": "Hemanth kumar",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Element not found Exception",
+      "url": "https://stackoverflow.com/questions/79982141/element-not-found-exception",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "playwright"
+      ],
+      "author": "Ivan",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Is scoping CSS custom properties on a component root a good alternative to global :root theme variables?",
+      "url": "https://stackoverflow.com/questions/79982127/is-scoping-css-custom-properties-on-a-component-root-a-good-alternative-to-globa",
+      "summary": "",
+      "tags": [
+        "css",
+        "tailwind-css",
+        "css-variables"
+      ],
+      "author": "azamxvit_",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "CREATE TABLE fails when column name contains /, what are the naming rules",
+      "url": "https://stackoverflow.com/questions/79982131/create-table-fails-when-column-name-contains-what-are-the-naming-rules",
+      "summary": "",
+      "tags": [
+        "ddl",
+        "dolphindb"
+      ],
+      "author": "Kent",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Could this fetch response still be cached by the browser?",
+      "url": "https://stackoverflow.com/questions/79982108/could-this-fetch-response-still-be-cached-by-the-browser",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "fetch-api",
+        "browser-cache",
+        "revokeobjecturl"
+      ],
+      "author": "Gary",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "What happens to active transactions when a PolarDB Multi-Master database is switched to another RW node?",
+      "url": "https://stackoverflow.com/questions/79982126/what-happens-to-active-transactions-when-a-polardb-multi-master-database-is-swit",
+      "summary": "",
+      "tags": [
+        "advice",
+        "transactions",
+        "polardb"
+      ],
+      "author": "zhuzhu da",
+      "comments": 0,
+      "score": 3
+    }
+  ]
+}

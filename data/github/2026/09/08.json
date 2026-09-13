@@ -1,0 +1,189 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T13:35:28.445198+00:00",
+  "source": "github",
+  "count": 16,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "ayghri/i-have-adhd",
+      "repo": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "summary": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 28395,
+      "today_stars": 422
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 33886,
+      "today_stars": 1070
+    },
+    {
+      "title": "openai/skills",
+      "repo": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "summary": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 26319,
+      "today_stars": 490
+    },
+    {
+      "title": "affaan-m/ECC",
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 253746,
+      "today_stars": 1426
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "repo": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "summary": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 47389,
+      "today_stars": 2628
+    },
+    {
+      "title": "coreyhaines31/marketingskills",
+      "repo": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 48524,
+      "today_stars": 666
+    },
+    {
+      "title": "obra/superpowers",
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 283113,
+      "today_stars": 446
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars": 211139,
+      "today_stars": 325
+    },
+    {
+      "title": "microsoft/markitdown",
+      "repo": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 181328,
+      "today_stars": 2045
+    },
+    {
+      "title": "jo-inc/camofox-browser",
+      "repo": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "summary": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "language": "JavaScript",
+      "stars": 10220,
+      "today_stars": 872
+    },
+    {
+      "title": "MoonTechLab/LunaTV",
+      "repo": "MoonTechLab/LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "summary": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "language": "TypeScript",
+      "stars": 10092,
+      "today_stars": 505
+    },
+    {
+      "title": "browser-use/browser-use",
+      "repo": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "summary": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "language": "Python",
+      "stars": 113124,
+      "today_stars": 330
+    },
+    {
+      "title": "mksglu/context-mode",
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 21215,
+      "today_stars": 652
+    },
+    {
+      "title": "The-Swarm-Corporation/AutoHedge",
+      "repo": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "summary": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "language": "Python",
+      "stars": 5517,
+      "today_stars": 494
+    },
+    {
+      "title": "viarotel-org/escrcpy",
+      "repo": "viarotel-org/escrcpy",
+      "url": "https://github.com/viarotel-org/escrcpy",
+      "summary": "📱 Display and control your Android device graphically with scrcpy.",
+      "language": "JavaScript",
+      "stars": 11218,
+      "today_stars": 173
+    },
+    {
+      "title": "openai/plugins",
+      "repo": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "summary": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 5588,
+      "today_stars": 45
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T06:06:15.599022+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "We must pace the frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "summary": "",
+      "author": "apsec112",
+      "comments": 851,
+      "score": 608
+    },
+    {
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "summary": "",
+      "author": "datakan",
+      "comments": 382,
+      "score": 485
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "",
+      "author": "tolugenius",
+      "comments": 309,
+      "score": 442
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "summary": "",
+      "author": "juliantigler",
+      "comments": 92,
+      "score": 400
+    },
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "summary": "",
+      "author": "xena",
+      "comments": 180,
+      "score": 334
+    },
+    {
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "url": "https://hachyderm.io/@simontatham/117201594980991062",
+      "summary": "",
+      "author": "encyclopedism",
+      "comments": 82,
+      "score": 244
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "summary": "",
+      "author": "theanonymousone",
+      "comments": 104,
+      "score": 195
+    },
+    {
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "url": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "summary": "",
+      "author": "mhitza",
+      "comments": 45,
+      "score": 192
+    },
+    {
+      "title": "Apple iPod Engraver (2019)",
+      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "summary": "",
+      "author": "NaOH",
+      "comments": 41,
+      "score": 180
+    },
+    {
+      "title": "Stabilizing Rust's Never Type",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "summary": "",
+      "author": "cjd8",
+      "comments": 44,
+      "score": 165
+    },
+    {
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "summary": "",
+      "author": "sbulaev",
+      "comments": 123,
+      "score": 120
+    },
+    {
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "url": "https://eiln.github.io/posts/ane-dma.html",
+      "summary": "",
+      "author": "eiln",
+      "comments": 24,
+      "score": 117
+    },
+    {
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "url": "https://lalitm.com/post/buildprof/",
+      "summary": "",
+      "author": "lalitmaganti",
+      "comments": 22,
+      "score": 112
+    },
+    {
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "summary": "",
+      "author": "pwg",
+      "comments": 30,
+      "score": 100
+    },
+    {
+      "title": "Will There Be a 7G?",
+      "url": "https://arxiv.org/abs/2609.01877",
+      "summary": "",
+      "author": "Betelbuddy",
+      "comments": 152,
+      "score": 87
+    },
+    {
+      "title": "Don't be the out of touch Kung Fu master",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "summary": "",
+      "author": "dsubburam",
+      "comments": 56,
+      "score": 86
+    },
+    {
+      "title": "The Interim Computer Museum",
+      "url": "https://icm.museum/",
+      "summary": "",
+      "author": "mulmen",
+      "comments": 7,
+      "score": 66
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "summary": "",
+      "author": "jonifico",
+      "comments": 57,
+      "score": 60
+    },
+    {
+      "title": "Vintage Scientific Papers with LaTeX",
+      "url": "https://github.com/Foadsf/vintage-latex",
+      "summary": "",
+      "author": "petalmind",
+      "comments": 3,
+      "score": 50
+    },
+    {
+      "title": "P(doom)",
+      "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+      "summary": "",
+      "author": "lumpa",
+      "comments": 16,
+      "score": 45
+    },
+    {
+      "title": "From Git to Fossil",
+      "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+      "summary": "",
+      "author": "smartmic",
+      "comments": 18,
+      "score": 41
+    },
+    {
+      "title": "Don't call yourself an artisanal programmer",
+      "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+      "summary": "",
+      "author": "emschwartz",
+      "comments": 30,
+      "score": 33
+    },
+    {
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "summary": "",
+      "author": "ZihuiGeorgia",
+      "comments": 10,
+      "score": 33
+    },
+    {
+      "title": "I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32",
+      "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+      "summary": "",
+      "author": "ichacas",
+      "comments": 2,
+      "score": 30
+    },
+    {
+      "title": "A succession crisis that tore England apart",
+      "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+      "summary": "",
+      "author": "pepys",
+      "comments": 7,
+      "score": 15
+    },
+    {
+      "title": "After Math",
+      "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+      "summary": "",
+      "author": "throwaway81523",
+      "comments": 1,
+      "score": 8
+    },
+    {
+      "title": "Durable execution without history replay",
+      "url": "https://trigora.dev/blog/durable-execution-without-history-replay/",
+      "summary": "",
+      "author": "hypervs",
+      "comments": 1,
+      "score": 8
+    },
+    {
+      "title": "Aligned to Whom?",
+      "url": "https://hyperbo.la/w/aligned-to-whom/",
+      "summary": "",
+      "author": "lopopolo",
+      "comments": 0,
+      "score": 6
+    },
+    {
+      "title": "Günther Anders, the Philosopher at the End of the World",
+      "url": "https://www.compactmag.com/article/gunther-anders-the-philosopher-at-the-end-of-the-world/",
+      "summary": "",
+      "author": "Caiero",
+      "comments": 0,
+      "score": 5
+    },
+    {
+      "title": "Metamorphosis: Transformations in the Early Modern Flap Book (19th Century)",
+      "url": "https://publicdomainreview.org/collection/metamorphosis-early-modern-flap-book/",
+      "summary": "",
+      "author": "benbreen",
+      "comments": 0,
+      "score": 4
+    }
+  ]
+}

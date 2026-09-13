@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T15:04:17.296162+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "在 1024 字节里塞进一个 Python 解释器",
+      "url": "https://www.oschina.net/news/502364/python-1024",
+      "summary": "为了感受自己还活着，Austin Z. Henley 在周末手写代码。 他的最新挑战：用 1024 字节的 C 代码写一个 Python 解释器。不用宏花招，不用库诡计。 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "选手可选福利：模力方舟旗舰模型为开源大赛提供专属折扣",
+      "url": "https://www.oschina.net/news/502363",
+      "summary": "近日，两场开源软件大赛（“2026 上海开源软件应用创新大赛”与“2026北京开源行业解决方案创新赛”）正火热进行中，陆续有选手咨询模力方舟的模型...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "termio - 终端智能体开发台",
+      "url": "https://www.oschina.net/p/termio",
+      "summary": "termio是一个终端优先的 Agent 开发环境。 核心功能 项目管理：每个代码仓库一个项目，其下挂载终端与智能体；聊天作为不属于任何项目的临时智能...",
+      "author": "律律",
+      "comments": 0
+    },
+    {
+      "title": "veil - PDF 暗色模式工具",
+      "url": "https://www.oschina.net/p/veil",
+      "summary": "veil是一个开源 PDF 阅读器，提供智能暗色模式，在反转文字颜色的同时保留图片、图表与示意图的原始色彩。它面向需要在暗光环境下阅读 PDF 的用户，...",
+      "author": "律律",
+      "comments": 0
+    },
+    {
+      "title": "OpenAI 智能体大规模入侵 Hugging Face 技术事件报告",
+      "url": "https://www.oschina.net/doc/668",
+      "summary": "本文档是 OpenAI 于 2026 年 8 月 26 日发布的官方博文《Hugging Face 事件与未来之路》，文章复盘了 2026 年 7 月内部网络安全评估期间发生的一起...",
+      "author": "律律",
+      "comments": 0
+    },
+    {
+      "title": "FDE 开源手册：人工智能时代的客户价值交付秘籍 ",
+      "url": "https://www.oschina.net/doc/667",
+      "summary": "本文档是FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）。也是一本写给 AI 交付者的实战手册：从岗位全貌、赢得客户到激活部...",
+      "author": "律律",
+      "comments": 0
+    },
+    {
+      "title": "AI外呼合规吗？机器人打电话的封号风险与投诉问题全解析",
+      "url": "https://www.oschina.net/news/502358",
+      "summary": "摘要：AI外呼技术被广泛应用于产品推广、客户回访、催收提醒等场景，但\"骚扰电话\"的标签始终挥之不去。本文从法律法规、技术标准和行业实践三个维度...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "AI 搜索工具推荐与防幻觉指南：智能体时代的检索基建演进",
+      "url": "https://www.oschina.net/news/502357",
+      "summary": "过去，获取网络资讯多依赖基于关键词匹配的传统搜索引擎。虽然应对日常简易提问绰绰有余，但在处理发散性或高复杂度问题时，常常伴随信息过载和高昂...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "AMD 开源 GPU 软件平台 ROCm 诞生十周年，ROCm 10.0 正式发布",
+      "url": "https://www.oschina.net/news/502356/amd-rocm-x",
+      "summary": "2016 年 4 月，AMD 在 GitHub 上推出了 ROCm 1.0。这是一个基于 C++ 编译器和名为 HIP 的 GPU 编程语言构建的开源 GPU 计算堆栈，旨在实现高性能计...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "一个反爬工具花了一年才把 WebAssembly 装进去",
+      "url": "https://www.oschina.net/news/502355/anubis-wasm",
+      "summary": "几百个 commit、五代 PR、几十个测试、把部分 Anubis 用 Rust 重写、职业生涯第一次遇到编译器 bug、至少三次把开发机跑爆内存。这是 Xe Iaso 给 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "PHP 开源后台 BuildAdmin 正式发布 Golang 版本",
+      "url": "https://www.oschina.net/news/502354",
+      "summary": "BuildAdmin 是一款开源后台系统，其高颜值和超绝的可视化 CRUD 深受广大开发者喜爱（全网 8k star），现在 BuildAdmin 正式发布了 Golang 版本。 ...",
+      "author": "BuildAdmin开源后台管理系统",
+      "comments": 0
+    },
+    {
+      "title": "开源项目维护者怒了：“用 AI 刷 PR 刷简历，请去别的地方”",
+      "url": "https://www.oschina.net/news/502353/flooding-contributions",
+      "summary": "开源项目维护者 Neil Alexander 在博客上发了一篇不留情面的文章，标题就是他的诉求：请停止用 AI 生成垃圾污染开源项目来丰富你的简历。 他观察到...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "通过分析 16900 次会话数据，看看 Claude Code、Codex、Cursor 各选了什么工具",
+      "url": "https://www.oschina.net/news/502352/which-tools-coding-agents-install",
+      "summary": "这个实验规模很大：16893 次会话，1163 个 prompt 变体，75 个代码仓库，10 种语言，3 个主流 coding agent——Claude Code、Codex 和 Cursor。每个...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "英伟达发布开源工具 PAIR，可将家里闲置电脑变成私有 AI 集群",
+      "url": "https://www.oschina.net/news/502351/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx",
+      "summary": "英伟达发布了名为“Personal AI Router”(PAIR)的开源软件，它做的事是在局域网里发现兼容的电脑，把它们连起来，一起跑本地推理。工具链走的是 Ol...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": ":fire: 不只是 Token 流：Solon AI 4.1 的语义化聊天事件",
+      "url": "https://www.oschina.net/news/502350",
+      "summary": "LLM 流式输出看起来像是不断返回文本分片，但现代模型的一条连接中可能同时出现正文、思考过程、工具参数、引用、媒体、安全事件、用量快照、状态和...",
+      "author": "梅子酒好吃",
+      "comments": 0
+    },
+    {
+      "title": "Windows 图像编辑软件 Paint.NET 5.2 实验性支持 Linux",
+      "url": "https://www.oschina.net/news/502349/paintnet-52-alpha-build-9739",
+      "summary": "Paint.NET 5.2 的第一个 alpha 还不到两周，第三个 alpha 已经发了。不过这次更新最抓眼球的不是功能列表，而是那两个字母：WINE。 Rick Brewster ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "从记录工具到数字劳动力：AI Agent如何重构B2B销售全链路",
+      "url": "https://www.oschina.net/news/502348",
+      "summary": "2026年，代理式AI（Agentic AI）正从概念验证阶段进入规模化落地期。Gartner、麦肯锡等机构先后指出，AI正经历从“对话式”到“执行式”的范式转变...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "全球智慧物联网联盟理事长高同庆： 共建共享鸿蒙产业新机会 共展产业鸿图",
+      "url": "https://www.oschina.net/news/502347",
+      "summary": "8月28日，在2026鸿蒙生态大会上，全球智慧物联网联盟（GIIC）理事长高同庆正式发布“鸿图计划”。这一由GIIC发起、华为全力支持的鸿蒙生态使能项目...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "大模型规模化商用：AI浪潮下软件测试范式的迭代之路",
+      "url": "https://www.oschina.net/news/502346",
+      "summary": "近年大模型能力实现跨越式跃升，AI 智能体快速从实验室原型走向产业生产场景，从单纯对话交互升级为可自主规划任务、调用工具、完成复杂业务流程的...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "GPT6-Astra发布了,注册卡住，使用降智,担心封号？",
+      "url": "https://www.oschina.net/news/502345",
+      "summary": "GPT6-Astra发布，但并不是人人都有资格享有它的能力，OpenAI并不Open，ip不纯净，浏览器环境被关联，都会导致封号,无法付款,用的是astra实际降智成...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}

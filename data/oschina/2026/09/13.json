@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T06:06:26.163581+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "办公智能体也能“自我打磨”？RSI框架落地WorkSwarm智能体",
+      "url": "https://www.oschina.net/news/502432",
+      "summary": "让智能体干完一件事并不难，难的是让它“越干越好”。长期以来，办公智能体普遍为“交付即定型”：一旦任务失败或未达预期，需要人工复盘日志、修改...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Termexo v0.8.7 发布：换用 avt 解析器，修复终端空白与重绘阻塞",
+      "url": "https://www.oschina.net/news/502429",
+      "summary": "官网工作台截图（v0.8.0 界面示意，非本版新增功能截图）。 我是 Termexo 的维护者。Termexo 是 MIT 开源的 Windows 工作台，用于集中使用 Claude...",
+      "author": "GuoMengyue",
+      "comments": 0
+    },
+    {
+      "title": "全能 Go Agent 框架 Covonaut v1.1.2 发布：终端对话加入旁问与三档输出",
+      "url": "https://www.oschina.net/news/502428",
+      "summary": "Covonaut 是面向生产环境的 Go Agent 框架，纯 Go 实现，以 MIT 协议开源。覆盖 Agent 开发的完整链路：Agent Loop（含上下文自动压缩、指数退避重...",
+      "author": "路多辛",
+      "comments": 0
+    },
+    {
+      "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1，解决鸡尾酒会难题",
+      "url": "https://www.oschina.net/news/502427/xiaomi-cocktailasr-1",
+      "summary": "把一个人声从嘈杂的人群中剥离出来，人类的听觉系统做这件事毫不费力。但对 ASR 模型来说，多人同时讲话的场景至今是一个未被充分解决的难题。小米...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "OmniStudio | 一个本地优先、完全免费的开源桌面终端",
+      "url": "https://my.oschina.net/u/4806939/blog/19757902",
+      "summary": "“把大模型装进电脑本地免费跑。”",
+      "author": "哈哈欧尼OSC",
+      "comments": 0
+    },
+    {
+      "title": "FocusAny v2.2.0 模型能力标识上线，SDK CLI 新增诊断与转发，插件资源按需下载",
+      "url": "https://www.oschina.net/news/502425",
+      "summary": "FocusAny v2.2.0 带来三个方面的更新：大模型的能力标识变得更直观，SDK 命令行工具新增了诊断和转发命令，插件开发者可以按需下载资源文件。 如果...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "瑞士政府试点用开源协作平台取代 Microsoft 365",
+      "url": "https://www.oschina.net/news/502424/switzerland-gov-replace-microssoft-pilot",
+      "summary": "瑞士联邦政府启动了一个试点项目，把 3000 名联邦雇员工作站上的 Microsoft 365 换成开源办公套件，目标 2027 年底完成迁移。3000 台，大约是联邦雇...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：内置僵尸机分析报表，快速甄别可降配/低频使用的资源",
+      "url": "https://www.oschina.net/news/502423",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。...",
+      "author": "bklitecanway",
+      "comments": 0
+    },
+    {
+      "title": "AIGCPanel v2.3.0 API 开放 + 全工具双语，AIGCPanel 变得「可编程」",
+      "url": "https://www.oschina.net/news/502422",
+      "summary": "所有 AI 能力变成 HTTP 接口。每个工具都支持中英双语切换。失败的任务可以继续，不用从头再来。 AIGCPanel 是一款跨平台的 AI 数字人桌面应用，涵...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "破解大模型“裸奔”困局：海光底座+格尔大模型保险箱，打造AI全链路安全闭环",
+      "url": "https://www.oschina.net/news/502421",
+      "summary": "面向生成式AI应用风险，芯片内生安全技术创新应用联合实验室给出又一重磅成果。 近日，海光信息与格尔软件正式推出“生成式人工智能系统模型与数据...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "首个跨平台微信 zero-click 蠕虫：一通电话就能接管账号，全程无需接听",
+      "url": "https://www.oschina.net/news/502420/wechat-worm-ai-calif-tencent-zero-click",
+      "summary": "安全研究团队 Calif 昨天公布了一个名为 WeWorm 的演示蠕虫，声称是首个无需点击（zero-click）即可在 iOS 和 Android 系统上通过微信通话传播的蠕...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Termexo v0.8.6 发布：刷新保留 Agent 进程，终端改用屏幕状态重放",
+      "url": "https://www.oschina.net/news/502419",
+      "summary": "Termexo v0.8.6 已发布。Termexo 是 MIT 开源的 Windows 多 Agent 工作台，统一管理 Claude Code、Codex、OpenCode 和真实终端。本版聚焦刷新、重连...",
+      "author": "GuoMengyue",
+      "comments": 0
+    },
+    {
+      "title": "OpenAI 把 Codex 做成 API：Agents API 开放托管会话与沙箱",
+      "url": "https://www.oschina.net/news/502418",
+      "summary": "OpenAI 在开发者文档里正式上线了 Agents API，把 Codex 的 harness 通过一个 OpenAI 托管的 REST API 暴露出来。核心端点就一个：POST https://ap...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "极速调度，可靠备份 OpsDump v0.1.0 首次发布",
+      "url": "https://www.oschina.net/news/502417",
+      "summary": "极速调度，可靠备份（The Swift Engine for Ops & Dump） OpsDump 是一个面向数据库备份为主、兼有通用任务调度能力的单进程运维平台。基于 GoFram...",
+      "author": "FLY的狐狸",
+      "comments": 0
+    },
+    {
+      "title": "Shopify 从 React Native 迁移回 Swift 和 Kotlin，12 周用 AI 重写原生 App",
+      "url": "https://www.oschina.net/news/502416/shopify-engineering-back-to-native",
+      "summary": "Shopify 宣布将旗下所有移动应用从跨平台技术栈 React Native 迁移回原生开发：Swift（iOS）和 Kotlin（Android）。 首款应用 Shop 已在 AI 辅助下...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "9月17日，openKylin社区单位会员沙龙邀您郑州见！",
+      "url": "https://www.oschina.net/news/502415",
+      "summary": "",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "Rust 在微软正式跻身 Tier-1 语言，与 C++、C#、TypeScript 并列",
+      "url": "https://www.oschina.net/news/502414/rust-is-tier-1-language-at-microsoft",
+      "summary": "Rust Foundation 昨天刊发了一篇来自 Microsoft DevDiv 的客座博文 —— Rust 已在微软内部获得 Tier-1 级别的工程支持，与 C++、C#、TypeScript ...",
+      "author": "局",
+      "comments": 2
+    },
+    {
+      "title": "Cognition 发布 SWE-2：用 Kimi K3 做基座，RL 后训练追平 Fable 5.1",
+      "url": "https://www.oschina.net/news/502413/cognition-swe-2",
+      "summary": "Cognition 昨天发布了 SWE-2，一个从 Kimi K3（2.8T 参数）通过 RL 后训练而来的编码 Agent 模型。 它在 FrontierCode 1.1 Main 上拿到 50.0%，距离...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "🔥 优化及缺陷修复：开源 AI 无代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/502411",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本...",
+      "author": "NocoBase",
+      "comments": 0
+    },
+    {
+      "title": "通用代码生成器：光船尝鲜版二，蛋糕船示例生成演示",
+      "url": "https://www.oschina.net/news/502409",
+      "summary": "通用代码生成器：光船尝鲜版二，蛋糕船示例生成演示 通用代码生成器：光船已发布尝鲜版二，使用蛋糕船示例生成演示。包括数据库后端和Nodejs Vue ...",
+      "author": "火鸟1995",
+      "comments": 0
+    }
+  ]
+}
