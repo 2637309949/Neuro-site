@@ -1,0 +1,189 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T13:33:18.698431+00:00",
+  "source": "github",
+  "count": 16,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "ayghri/i-have-adhd",
+      "repo": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "summary": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 40210,
+      "today_stars": 3440
+    },
+    {
+      "title": "bilawalsidhu/gods-eye-view",
+      "repo": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "summary": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 26036,
+      "today_stars": 3642
+    },
+    {
+      "title": "nab138/iloader",
+      "repo": "nab138/iloader",
+      "url": "https://github.com/nab138/iloader",
+      "summary": "User friendly sideloader",
+      "language": "TypeScript",
+      "stars": 2803,
+      "today_stars": 36
+    },
+    {
+      "title": "melgarafael/DeskcommCRM",
+      "repo": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": 1115,
+      "today_stars": 126
+    },
+    {
+      "title": "vastsa/PI-Desktop",
+      "repo": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "summary": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars": 2629,
+      "today_stars": 545
+    },
+    {
+      "title": "armory3d/armorpaint",
+      "repo": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "summary": "Graphics Creation Tools",
+      "language": "C",
+      "stars": 4616,
+      "today_stars": 354
+    },
+    {
+      "title": "alsk1992/CloddsBot",
+      "repo": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "summary": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars": 1971,
+      "today_stars": 627
+    },
+    {
+      "title": "nashsu/llm_wiki",
+      "repo": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "summary": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars": 18486,
+      "today_stars": 640
+    },
+    {
+      "title": "obra/superpowers",
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 285109,
+      "today_stars": 731
+    },
+    {
+      "title": "Sonarr/Sonarr",
+      "repo": "Sonarr/Sonarr",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "summary": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "stars": 15624,
+      "today_stars": 174
+    },
+    {
+      "title": "jihe520/MathModelAgent",
+      "repo": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "summary": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars": 4763,
+      "today_stars": 132
+    },
+    {
+      "title": "p1neappleXpress/OpenFlux",
+      "repo": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "summary": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "stars": 962,
+      "today_stars": 201
+    },
+    {
+      "title": "jordan-gibbs/hyperresearch",
+      "repo": "jordan-gibbs/hyperresearch",
+      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "summary": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "language": "Python",
+      "stars": 2275,
+      "today_stars": 118
+    },
+    {
+      "title": "alphaXiv/OpenResearch",
+      "repo": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "summary": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars": 1085,
+      "today_stars": 210
+    },
+    {
+      "title": "github/spec-kit",
+      "repo": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "summary": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 135539,
+      "today_stars": 985
+    },
+    {
+      "title": "pascalorg/editor",
+      "repo": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "summary": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "language": "TypeScript",
+      "stars": 23348,
+      "today_stars": 83
+    }
+  ]
+}

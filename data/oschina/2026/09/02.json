@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T13:37:54.403855+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "李飞飞旗下 AI 实验室 World Labs 发布 Atlas：从几张照片重建 3D 世界",
+      "url": "https://www.oschina.net/news/502277/worldlabs-ai-atlas",
+      "summary": "李飞飞创立的 World Labs 发布了 Atlas，一个从零预训练的多模态空间智能大模型。你可以给它几张照片，它能生成从任意角度观看的连续视频；给它一段...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Jujutsu 创造者离开 Google，加入创业公司做下一代版本控制平台",
+      "url": "https://www.oschina.net/news/502276/jujutsu-martin-joins-ersc",
+      "summary": "Martin von Zweigbergk 加入了 ERSC（East River Source Control），担任 CTO。 Martin 于 2019 年底将 Jujutsu（简称 JJ）作为业余项目启动，后来...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "灵界 OS v3.0.1 发布，优化文件管理器交互体验与兼容性。",
+      "url": "https://www.oschina.net/news/502275",
+      "summary": "灵界 OS v3.0.1 发布，优化文件管理器交互体验与兼容性。 本次更新主要提升日常使用的稳定性和可靠性： 1. 文件管理器新增删除确认弹窗 删除文件或...",
+      "author": "xzh_Tim",
+      "comments": 0
+    },
+    {
+      "title": "AI 应用皆可报名，我们把大赛门槛打下来了",
+      "url": "https://www.oschina.net/news/502274",
+      "summary": "2026 上海开源软件应用创新大赛正火热报名中。本次大赛由开源中国主办，设 AI+工业软件、智算云、开源 AI 工具三个赛道，累计奖池 100 万。其中，「...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "开源中国开源 AI 编程工具 MothX，主打一个“省”字，驾驭中国词元",
+      "url": "https://www.oschina.net/news/502273/oschina-opensource-mothx-ai-coding-cli-agent-harness-vibe",
+      "summary": "用 Claude Code 写一个月代码要多少钱？问问研发工程师，答案都是几百美元起步。终端 AI 编程这个领域，能力上各家都做得不差，拉开差距的其实是账...",
+      "author": "菠萝的海子",
+      "comments": 0
+    },
+    {
+      "title": "ChatGPT 桌面应用里藏着 430MB 的 LibreOffice",
+      "url": "https://www.oschina.net/news/502272/chatgpt-codex-libreoffice",
+      "summary": "Simon Willison 在清理磁盘时发现了一个 1.7GB 的目录。他打开一看，里面装着一整套 LibreOffice。 路径在 ~/.cache/codex-runtimes/codex-primar...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Palantir可以是参照系，但中国企业需要自己的实现路径",
+      "url": "https://www.oschina.net/news/502271",
+      "summary": "最近走访几家企业客户时，我连续听到有人提起 Palantir。 有人把它理解成企业 AI 的终极形态，有人认为它是一个能够打通所有数据的超级平台，也有人...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "git.kernel.org 每天接收 600 万个请求，但 98% 不是来自“人类”",
+      "url": "https://www.oschina.net/news/502270/git-kernel-org-creepy-crawlies",
+      "summary": "git.kernel.org 每天接收到 600 万个请求在查看随机的 git 提交，但其中 98% 不是来自“人类”。 Linux 内核维护者 Konstantin Ryabitsev 在 kern...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "从Data到Agent：华为云AI-Ready数据基础设施全链路能力亮相数博会",
+      "url": "https://www.oschina.net/news/502268",
+      "summary": "8月28日，在2026中国国际大数据产业博览会期间，以”从数据到Agent，数据价值链的重构与创新”为主题的数据要素大会在贵阳举办。政府机构、头部大数...",
+      "author": "卡卡西xi",
+      "comments": 0
+    },
+    {
+      "title": "缓存读取价砍 75%：Fable 5.1 真正想卖的不是跑分",
+      "url": "https://www.oschina.net/news/502267/claude-fable-and-mythos-5-1",
+      "summary": "每百万 token 的缓存读取价格，从 1 美元降到 0.25 美元，降幅 75%。 这是 Claude Fable 5.1 发布里最不起眼、也最值钱的一个数字。它躺在定价表最...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DBPanel 1.1.0 发布：强化网站防护与 SSL 证书续签稳定性",
+      "url": "https://www.oschina.net/news/502266",
+      "summary": "DBPanel 1.1.0 正式发布。 DBPanel 是一款面向 Linux 服务器 的中文管理面板，提供网站管理、Nginx、PHP、MySQL、Redis、SSL 证书、备份恢复、安全...",
+      "author": "静静的风",
+      "comments": 0
+    },
+    {
+      "title": "活动回顾 | 从系统安装到开源贡献，openEuler Workshop 香港站带你走进开源实践",
+      "url": "https://www.oschina.net/news/502265",
+      "summary": "2026年8月29日，OpenAtom openEuler（简称“openEuler”或“开源欧拉”） Workshop 香港站在香港城市大学顺利举办。本次活动由 openEuler 社区主办...",
+      "author": "openEuler",
+      "comments": 0
+    },
+    {
+      "title": "从 SIP 到大模型：一天构建可本地部署的 AI 智能外呼系统 VibeVoip",
+      "url": "https://my.oschina.net/u/4806939/blog/19752597",
+      "summary": "VibeVoip 是一套面向企业业务场景设计的 AI 智能外呼平台",
+      "author": "哈哈欧尼OSC",
+      "comments": 1
+    },
+    {
+      "title": "京东“重磅新品月”开启线上线下全渠道上新 预约新一代iPhone最快9分钟送达",
+      "url": "https://www.oschina.net/news/502263",
+      "summary": "金秋9月，京东“重磅新品月”活动火热开启，3C数码、家电家居、服饰美妆、商超、健康等超1.6万款重磅新品将在京东新品频道轮番亮相。Apple、华为、...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "探索AI智能化发展新路径，鸿蒙生态大会2026鸿蒙生态伙伴SDK分论坛圆满落幕",
+      "url": "https://www.oschina.net/news/502262",
+      "summary": "8月28日，鸿蒙生态大会2026 <HEC·2026>在深圳会展中心（福田）盛大启幕。作为本届大会的核心分论坛之一，鸿蒙生态伙伴SDK分论坛以“SDK深耕鸿蒙底...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "免费可商用 PHP 管理后台 CatchAdmin V5.4.0 发布，新增短信服务能力",
+      "url": "https://www.oschina.net/news/502261",
+      "summary": "​免费可商用 PHP 管理后台 CatchAdmin V5.4.0 发布，新增短信服务能力 介绍 CatchAdmin 是一款基于 Laravel 13.x 和 Vue 3 二次开发的开源 PHP 后...",
+      "author": "catchadmin",
+      "comments": 0
+    },
+    {
+      "title": "轻量级运维极速引擎 OpsFlash v0.4.1 正式发布",
+      "url": "https://www.oschina.net/news/502260",
+      "summary": "OpsFlash v0.4.1 版本发布： 修复 SSH 非交互指令执行后不结束：命令衍生的后台进程持有 PTY 时 sshd 不发 EOF，Wait() 永久阻塞导致一直显示「运行...",
+      "author": "FLY的狐狸",
+      "comments": 0
+    },
+    {
+      "title": "WIKI 知识库 v1.1.1 正式发布",
+      "url": "https://www.oschina.net/news/502259",
+      "summary": "这个功能有什么作用 调整了 top_k、更换了 embedding 或修改了分片参数之后，检索到底是变好了还是变差了？本功能把这件事做成可重复、看得见的流程...",
+      "author": "维基框架",
+      "comments": 0
+    },
+    {
+      "title": "wastnet 反向代理实战：一个端口统一托管前端与后端 API",
+      "url": "https://www.oschina.net/news/502258",
+      "summary": "wastnet 反向代理实战：一个端口统一托管前端与后端 API wastnet 是一款零依赖、自研的 Java Web 服务器，核心基于 JDK 原生 NIO 构建 Reactor 多路...",
+      "author": "wycst",
+      "comments": 0
+    },
+    {
+      "title": "中国游戏创业者向 DHH 的 Omacom 基金会捐赠 100 万美元",
+      "url": "https://www.oschina.net/news/502257",
+      "summary": "Omacom Foundation 又募到了 200 万美元。这次的钱来自 Brian Armstrong 和 Yunjie Dai，两人各出 100 万，把基金会的资金池推到了 1200 万美元。 ...",
+      "author": "局",
+      "comments": 0
+    }
+  ]
+}

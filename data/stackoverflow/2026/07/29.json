@@ -1,0 +1,433 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T15:18:40.931305+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Silent Integer Overflow: std::stoi",
+      "url": "https://stackoverflow.com/questions/79987896/silent-integer-overflow-stdstoi",
+      "summary": "",
+      "tags": [
+        "c++",
+        "compiler-warnings"
+      ],
+      "author": "vengy",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Angular with Node.js dependencies",
+      "url": "https://stackoverflow.com/questions/79987886/angular-with-node-js-dependencies",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "node.js",
+        "angular"
+      ],
+      "author": "chris01",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How to reverse an array using recursion?",
+      "url": "https://stackoverflow.com/questions/79987893/how-to-reverse-an-array-using-recursion",
+      "summary": "",
+      "tags": [
+        "java",
+        "arrays",
+        "recursion"
+      ],
+      "author": "VigneshKumar S",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How are RGB values converted to ink amounts using interpolation between measured color patches in 8–12 ink inkjet printers?",
+      "url": "https://stackoverflow.com/questions/79987895/how-are-rgb-values-converted-to-ink-amounts-using-interpolation-between-measured",
+      "summary": "",
+      "tags": [
+        "colors",
+        "interpolation",
+        "rgb",
+        "color-space"
+      ],
+      "author": "Arjan Singh",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to tell if NTLM is disabled programatically?",
+      "url": "https://stackoverflow.com/questions/79987892/how-to-tell-if-ntlm-is-disabled-programatically",
+      "summary": "",
+      "tags": [
+        "c#",
+        "winapi",
+        "ntlm"
+      ],
+      "author": "Joshua",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Is replaying a transactional outbox in auto-increment ID order sufficient to reproduce the source database state?",
+      "url": "https://stackoverflow.com/questions/79987905/is-replaying-a-transactional-outbox-in-auto-increment-id-order-sufficient-to-rep",
+      "summary": "",
+      "tags": [
+        "sql",
+        "mysql",
+        "database",
+        "postgresql",
+        "outbox-pattern"
+      ],
+      "author": "srilakshmikanthanp",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Where is security tab in Grafana? update the datasource config Security -&gt; Allowed Hosts section",
+      "url": "https://stackoverflow.com/questions/79987884/where-is-security-tab-in-grafana-update-the-datasource-config-security-allow",
+      "summary": "",
+      "tags": [
+        "grafana"
+      ],
+      "author": "MJoao",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "DeepLabCut Machine Learning Video Analysis TypeError",
+      "url": "https://stackoverflow.com/questions/79987898/deeplabcut-machine-learning-video-analysis-typeerror",
+      "summary": "",
+      "tags": [
+        "python",
+        "machine-learning",
+        "deep-learning",
+        "typeerror",
+        "google-colaboratory"
+      ],
+      "author": "Alana Holmes",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Maplibre +three.js+3d-tiles loade 3d tiles from googleapi.com issue",
+      "url": "https://stackoverflow.com/questions/79987890/maplibre-three-js3d-tiles-loade-3d-tiles-from-googleapi-com-issue",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "maplibre-gl"
+      ],
+      "author": "Baohua Chu",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Independent y axes per facet colum with ggplot2::geom_density() and ggh4x::facet_grid2()",
+      "url": "https://stackoverflow.com/questions/79987891/independent-y-axes-per-facet-colum-with-ggplot2geom-density-and-ggh4xfacet",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2",
+        "ggh4x"
+      ],
+      "author": "David",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Behaviour of multiple R arithmetic operators",
+      "url": "https://stackoverflow.com/questions/79987853/behaviour-of-multiple-r-arithmetic-operators",
+      "summary": "",
+      "tags": [
+        "r"
+      ],
+      "author": "mhovd",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "I Need Help for Unity Movement Code | Brackeys",
+      "url": "https://stackoverflow.com/questions/79987880/i-need-help-for-unity-movement-code-brackeys",
+      "summary": "",
+      "tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "author": "Mehmet Unat",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Cmake throws a warning of type non-existent path",
+      "url": "https://stackoverflow.com/questions/79987878/cmake-throws-a-warning-of-type-non-existent-path",
+      "summary": "",
+      "tags": [
+        "c++",
+        "cmake"
+      ],
+      "author": "Harry",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "sql1531n when attempting to configure db2 odbc",
+      "url": "https://stackoverflow.com/questions/79987864/sql1531n-when-attempting-to-configure-db2-odbc",
+      "summary": "",
+      "tags": [
+        "db2",
+        "odbc"
+      ],
+      "author": "Ainsworth",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "WebGPU C++ Bind Group type mismatch error, despite types being identical (Reformatted)",
+      "url": "https://stackoverflow.com/questions/79987876/webgpu-c-bind-group-type-mismatch-error-despite-types-being-identical-reform",
+      "summary": "",
+      "tags": [
+        "c++",
+        "rendering",
+        "webgpu"
+      ],
+      "author": "Michael Teschner",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Create a query with columns containing sums of values ​from a table",
+      "url": "https://stackoverflow.com/questions/79987833/create-a-query-with-columns-containing-sums-of-values-from-a-table",
+      "summary": "",
+      "tags": [
+        "sql",
+        "ms-access"
+      ],
+      "author": "Massimo Costanzo",
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "title": "Inner Join in Grafana",
+      "url": "https://stackoverflow.com/questions/79987875/inner-join-in-grafana",
+      "summary": "",
+      "tags": [
+        "grafana-loki"
+      ],
+      "author": "McFire",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to encode/decode unsigned char* in libsodium c++?",
+      "url": "https://stackoverflow.com/questions/79987855/how-to-encode-decode-unsigned-char-in-libsodium-c",
+      "summary": "",
+      "tags": [
+        "c++",
+        "encoding",
+        "decoding",
+        "libsodium",
+        "end-to-end-encryption"
+      ],
+      "author": "madjetmax",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How should a junior developer use AI coding assistants when building a large project with unfamiliar technologies?",
+      "url": "https://stackoverflow.com/questions/79987835/how-should-a-junior-developer-use-ai-coding-assistants-when-building-a-large-pro",
+      "summary": "",
+      "tags": [
+        "advice",
+        "node.js",
+        "babylonjs",
+        "cursor-ide"
+      ],
+      "author": "Yarden Shay",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Alternatives to OneSignal for mobile push notifications (iOS, Android, Huawei)",
+      "url": "https://stackoverflow.com/questions/79987843/alternatives-to-onesignal-for-mobile-push-notifications-ios-android-huawei",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "mobile",
+        "push-notification",
+        "onesignal"
+      ],
+      "author": "Abduljabbar Alfaqih",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to retrieve a variable from another threading.Thread?",
+      "url": "https://stackoverflow.com/questions/79987816/how-to-retrieve-a-variable-from-another-threading-thread",
+      "summary": "",
+      "tags": [
+        "python",
+        "multithreading",
+        "tkinter"
+      ],
+      "author": "Unknow 15465426",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why doesn&#39;t my macro seem to define the tests suite it&#39;s meant to define?",
+      "url": "https://stackoverflow.com/questions/79987854/why-doesnt-my-macro-seem-to-define-the-tests-suite-its-meant-to-define",
+      "summary": "",
+      "tags": [
+        "emacs",
+        "elisp",
+        "elisp-macro",
+        "ert"
+      ],
+      "author": "vmonteco",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Filling the workspace with windows",
+      "url": "https://stackoverflow.com/questions/79987776/filling-the-workspace-with-windows",
+      "summary": "",
+      "tags": [
+        "algorithm",
+        "window",
+        "tile"
+      ],
+      "author": "IgorByte",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "I want to inspect kernel hardware operations",
+      "url": "https://stackoverflow.com/questions/79987840/i-want-to-inspect-kernel-hardware-operations",
+      "summary": "",
+      "tags": [
+        "linux",
+        "linux-kernel",
+        "operating-system"
+      ],
+      "author": "user6033723",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Perceptually compare two JPEGs from the same source image with different color profiles",
+      "url": "https://stackoverflow.com/questions/79987800/perceptually-compare-two-jpegs-from-the-same-source-image-with-different-color-p",
+      "summary": "",
+      "tags": [
+        "python",
+        "image-processing",
+        "colors",
+        "color-profile"
+      ],
+      "author": "malat",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Something is wrong with git restore a renamed file",
+      "url": "https://stackoverflow.com/questions/79987834/something-is-wrong-with-git-restore-a-renamed-file",
+      "summary": "",
+      "tags": [
+        "git"
+      ],
+      "author": "Daryoosh Hoora",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Apache.Avro serializing a class property in C# doesn&#39;t work",
+      "url": "https://stackoverflow.com/questions/79987779/apache-avro-serializing-a-class-property-in-c-doesnt-work",
+      "summary": "",
+      "tags": [
+        "c#",
+        "avro"
+      ],
+      "author": "Ole EH Dufour",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "How do I use JSON as input using Apple shortcuts?",
+      "url": "https://stackoverflow.com/questions/79987773/how-do-i-use-json-as-input-using-apple-shortcuts",
+      "summary": "",
+      "tags": [
+        "ios",
+        "sirishortcuts"
+      ],
+      "author": "Dennis",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Yahoo Finance GC=F appears to be returning incorrect prices on 2026-07-29?",
+      "url": "https://stackoverflow.com/questions/79987839/yahoo-finance-gc-f-appears-to-be-returning-incorrect-prices-on-2026-07-29",
+      "summary": "",
+      "tags": [
+        "python",
+        "pandas",
+        "finance",
+        "yahoo-finance",
+        "yfinance"
+      ],
+      "author": "NeoTheNerd",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How can I prevent stale CRL updates from triggering unintended certificate revocation in a distributed certificate management workflow?",
+      "url": "https://stackoverflow.com/questions/79987852/how-can-i-prevent-stale-crl-updates-from-triggering-unintended-certificate-revoc",
+      "summary": "",
+      "tags": [
+        "openssl",
+        "rabbitmq",
+        "radius"
+      ],
+      "author": "Amit Bakale",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}
