@@ -1,0 +1,442 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T13:51:16.422036+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to implement CEGIS with Python, Z3, and Knuth-Bendix completion?",
+      "url": "https://stackoverflow.com/questions/79995839/how-to-implement-cegis-with-python-z3-and-knuth-bendix-completion",
+      "summary": "",
+      "tags": [
+        "python",
+        "z3"
+      ],
+      "author": "el pollitto cientifico",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Why does ESP32QRCodeReader return &quot;ECC failure&quot; when decoding QR codes on an AI Thinker ESP32-CAM with QV3660?",
+      "url": "https://stackoverflow.com/questions/79995837/why-does-esp32qrcodereader-return-ecc-failure-when-decoding-qr-codes-on-an-ai",
+      "summary": "",
+      "tags": [
+        "esp32",
+        "arduino-esp32"
+      ],
+      "author": "Mohit Kumar",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Google Sheets does not recalculate cell dependent on sheet name",
+      "url": "https://stackoverflow.com/questions/79995836/google-sheets-does-not-recalculate-cell-dependent-on-sheet-name",
+      "summary": "",
+      "tags": [
+        "google-sheets",
+        "google-sheets-formula"
+      ],
+      "author": "nobody",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Exclusive load and store instructions require enabled caches on real hardware (Cortex-A53)",
+      "url": "https://stackoverflow.com/questions/79995822/exclusive-load-and-store-instructions-require-enabled-caches-on-real-hardware-c",
+      "summary": "",
+      "tags": [
+        "caching",
+        "atomic",
+        "deadlock",
+        "arm64"
+      ],
+      "author": "Johannes Krottmayer",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Netty client not closing properly",
+      "url": "https://stackoverflow.com/questions/79995817/netty-client-not-closing-properly",
+      "summary": "",
+      "tags": [
+        "java",
+        "netty"
+      ],
+      "author": "Wing Kui Tsoi",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Vector and Iterator-Vector (Including structs of strides of multiple Vectors&lt;&gt;::iterator) compared with vectors of shared pointers",
+      "url": "https://stackoverflow.com/questions/79995821/vector-and-iterator-vector-including-structs-of-strides-of-multiple-vectors",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "time-complexity",
+        "threadpool",
+        "space-complexity"
+      ],
+      "author": "user192234",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How can I retry a Python API request when it times out?",
+      "url": "https://stackoverflow.com/questions/79995828/how-can-i-retry-a-python-api-request-when-it-times-out",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "python"
+      ],
+      "author": "Rowan maththias",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Azure DevOps nuget restore fails with &quot;Unable to find version &#39;x.x.x.x&#39; of package&quot; for internal feed package",
+      "url": "https://stackoverflow.com/questions/79995829/azure-devops-nuget-restore-fails-with-unable-to-find-version-x-x-x-x-of-packa",
+      "summary": "",
+      "tags": [
+        ".net",
+        "azure-devops",
+        "nuget",
+        "nuget-package-restore"
+      ],
+      "author": "Mi2830",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I return a FLOAT_VECTOR field when using order_by_fields in MilvusClient.query()?",
+      "url": "https://stackoverflow.com/questions/79995805/how-can-i-return-a-float-vector-field-when-using-order-by-fields-in-milvusclient",
+      "summary": "",
+      "tags": [
+        "vector",
+        "milvus"
+      ],
+      "author": "Civic Fiction",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Hive 3.1.3 fails with ClassCastException on Java 17",
+      "url": "https://stackoverflow.com/questions/79995813/hive-3-1-3-fails-with-classcastexception-on-java-17",
+      "summary": "",
+      "tags": [
+        "java",
+        "hadoop",
+        "hive"
+      ],
+      "author": "Manoj Singh",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Reading from Postgres DB using Polars and filter on list of strings",
+      "url": "https://stackoverflow.com/questions/79995777/reading-from-postgres-db-using-polars-and-filter-on-list-of-strings",
+      "summary": "",
+      "tags": [
+        "python",
+        "postgresql",
+        "python-polars"
+      ],
+      "author": "Melchior Reihlen-B&#246;rgers",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "When using reverse p/invoke to marshal string, does it have a memory leak？",
+      "url": "https://stackoverflow.com/questions/79995769/when-using-reverse-p-invoke-to-marshal-string-does-it-have-a-memory-leak",
+      "summary": "",
+      "tags": [
+        "c#",
+        "c++",
+        "memory-leaks",
+        "pinvoke",
+        "marshalling"
+      ],
+      "author": "shi",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Terminating Flask app by Ctrl+C does not trigger KeyboardInterrupt",
+      "url": "https://stackoverflow.com/questions/79995799/terminating-flask-app-by-ctrlc-does-not-trigger-keyboardinterrupt",
+      "summary": "",
+      "tags": [
+        "python",
+        "flask",
+        "keyboardinterrupt"
+      ],
+      "author": "vassiliev",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Time limit exceeded in Strings Rotations of Each Other",
+      "url": "https://stackoverflow.com/questions/79995736/time-limit-exceeded-in-strings-rotations-of-each-other",
+      "summary": "",
+      "tags": [
+        "java",
+        "string",
+        "rotation"
+      ],
+      "author": "Chandril",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "Using generics with props in Astro",
+      "url": "https://stackoverflow.com/questions/79995772/using-generics-with-props-in-astro",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "astrojs"
+      ],
+      "author": "Rashiq",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Event properties in ClickHouse — typed columns vs JSON type, for ~6M events/day with 29 event types",
+      "url": "https://stackoverflow.com/questions/79995802/event-properties-in-clickhouse-typed-columns-vs-json-type-for-6m-events-day",
+      "summary": "",
+      "tags": [
+        "advice",
+        "node.js",
+        "apache-kafka",
+        "clickhouse",
+        "data-ingestion"
+      ],
+      "author": "Jay",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Jena API for retrieving Classes, Individuals, Properties, and Annotations in Jena 6.2.0",
+      "url": "https://stackoverflow.com/questions/79995768/jena-api-for-retrieving-classes-individuals-properties-and-annotations-in-jen",
+      "summary": "",
+      "tags": [
+        "java",
+        "owl",
+        "jena",
+        "ontology"
+      ],
+      "author": "Herv&#233; Girod",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Applying user-defined function in `dplyr::mutate` works with small dataset but not with slightly larger one",
+      "url": "https://stackoverflow.com/questions/79995794/applying-user-defined-function-in-dplyrmutate-works-with-small-dataset-but-n",
+      "summary": "",
+      "tags": [
+        "dplyr",
+        "user-defined-functions",
+        "mutate"
+      ],
+      "author": "Ciar&#225;n D. McInerney",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Trouble migrating Laravel database to PostgreSQL",
+      "url": "https://stackoverflow.com/questions/79995796/trouble-migrating-laravel-database-to-postgresql",
+      "summary": "",
+      "tags": [
+        "php",
+        "postgresql",
+        "pdo"
+      ],
+      "author": "Ho&#224;ng Vũ",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to populate an HTML input value from a text file using JavaScript",
+      "url": "https://stackoverflow.com/questions/79995761/how-to-populate-an-html-input-value-from-a-text-file-using-javascript",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "input"
+      ],
+      "author": "Ian Webb",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why does Selenium/Playwright keep getting detected by Cloudflare even with stealth options?",
+      "url": "https://stackoverflow.com/questions/79995776/why-does-selenium-playwright-keep-getting-detected-by-cloudflare-even-with-steal",
+      "summary": "",
+      "tags": [
+        "web-scraping",
+        "automation",
+        "puppeteer",
+        "cloudflare",
+        "browser-automation"
+      ],
+      "author": "accounts clawbrowser",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Error Code 1064: Error in Line 6 with &#39;?&#39;",
+      "url": "https://stackoverflow.com/questions/79995782/error-code-1064-error-in-line-6-with",
+      "summary": "",
+      "tags": [
+        "mysql"
+      ],
+      "author": "Ameera ",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How to parse and decode the undocumented 37-character transaction reference string from Revolut&#39;s UK Faster Payments?",
+      "url": "https://stackoverflow.com/questions/79995767/how-to-parse-and-decode-the-undocumented-37-character-transaction-reference-stri",
+      "summary": "",
+      "tags": [
+        "python",
+        "substring",
+        "payment-gateway",
+        "string-parsing",
+        "banking"
+      ],
+      "author": "ni d0",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How to interpret legacy SAP password values when migrating to Auth0?",
+      "url": "https://stackoverflow.com/questions/79995783/how-to-interpret-legacy-sap-password-values-when-migrating-to-auth0",
+      "summary": "",
+      "tags": [
+        "cryptography",
+        "passwords",
+        "abap",
+        "auth0"
+      ],
+      "author": "erdomester",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "What are the best Chinese or open-source models for high-quality image-to-image generation with reference images?",
+      "url": "https://stackoverflow.com/questions/79995771/what-are-the-best-chinese-or-open-source-models-for-high-quality-image-to-image",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "palak patel",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How to loop a function and save the outputs of each run as independent objects?",
+      "url": "https://stackoverflow.com/questions/79995685/how-to-loop-a-function-and-save-the-outputs-of-each-run-as-independent-objects",
+      "summary": "",
+      "tags": [
+        "r",
+        "loops",
+        "dplyr"
+      ],
+      "author": "user33038872",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Logic shared between instances and class methods",
+      "url": "https://stackoverflow.com/questions/79995750/logic-shared-between-instances-and-class-methods",
+      "summary": "",
+      "tags": [
+        "python",
+        "oop"
+      ],
+      "author": "Nikita Serba",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to handle data which seems like a duplicate but actually is not",
+      "url": "https://stackoverflow.com/questions/79995759/how-to-handle-data-which-seems-like-a-duplicate-but-actually-is-not",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "excel",
+        "duplicates",
+        "data-cleaning"
+      ],
+      "author": "Pempelos",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Why is my website slow from India to a US GoDaddy server despite low ping?",
+      "url": "https://stackoverflow.com/questions/79995749/why-is-my-website-slow-from-india-to-a-us-godaddy-server-despite-low-ping",
+      "summary": "",
+      "tags": [
+        "asp.net",
+        "http",
+        "ssl",
+        "network-programming",
+        "godaddy-api"
+      ],
+      "author": "Anna Hajare",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How do I prevent violation of UNIQUE KEY constraint caused by lots of inserts coming from 2 sessions",
+      "url": "https://stackoverflow.com/questions/79995677/how-do-i-prevent-violation-of-unique-key-constraint-caused-by-lots-of-inserts-co",
+      "summary": "",
+      "tags": [
+        "sql-server",
+        "t-sql",
+        "concurrency",
+        "transaction-isolation"
+      ],
+      "author": "ChuckNewmanJr",
+      "comments": 2,
+      "score": 2
+    }
+  ]
+}

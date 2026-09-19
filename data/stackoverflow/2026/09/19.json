@@ -1,0 +1,428 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T13:06:41.025198+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Can I no longer edit YAML files directly in Google Colab?",
+      "url": "https://stackoverflow.com/questions/80004273/can-i-no-longer-edit-yaml-files-directly-in-google-colab",
+      "summary": "",
+      "tags": [
+        "google-colaboratory"
+      ],
+      "author": "Laika",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "PyCharm causing very slow roaming user profile",
+      "url": "https://stackoverflow.com/questions/80004275/pycharm-causing-very-slow-roaming-user-profile",
+      "summary": "",
+      "tags": [
+        "pycharm"
+      ],
+      "author": "NickC",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Build update from Server to Client",
+      "url": "https://stackoverflow.com/questions/80004270/build-update-from-server-to-client",
+      "summary": "",
+      "tags": [
+        "advice",
+        "javascript",
+        "performance",
+        "http",
+        "caching"
+      ],
+      "author": "Md Irfan Rahman Mubin",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How can map_windows preserve state after None?",
+      "url": "https://stackoverflow.com/questions/80004258/how-can-map-windows-preserve-state-after-none",
+      "summary": "",
+      "tags": [
+        "rust",
+        "iterator"
+      ],
+      "author": "Teeny Weeny",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "In-place PDF text editing with Compose Multiplatform &amp; iText7: Font size explosion and paragraph fragmentation",
+      "url": "https://stackoverflow.com/questions/80004250/in-place-pdf-text-editing-with-compose-multiplatform-itext7-font-size-explosi",
+      "summary": "",
+      "tags": [
+        "kotlin",
+        "pdf",
+        "itext",
+        "itext7",
+        "kotlin-multiplatform"
+      ],
+      "author": "sushil chhetri",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "What can cause a .NET app to crash when launched via .exe but not via `dotnet [...].dll`?",
+      "url": "https://stackoverflow.com/questions/80004231/what-can-cause-a-net-app-to-crash-when-launched-via-exe-but-not-via-dotnet",
+      "summary": "",
+      "tags": [
+        ".net-10.0"
+      ],
+      "author": "Petr Hudeček",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I use the Afghan Solar Hijri (Shamsi) calendar in a WinUI 3 CalendarDatePicker?",
+      "url": "https://stackoverflow.com/questions/80004220/how-can-i-use-the-afghan-solar-hijri-shamsi-calendar-in-a-winui-3-calendardate",
+      "summary": "",
+      "tags": [
+        "c#",
+        "datepicker",
+        "winui-3",
+        "winui"
+      ],
+      "author": "Abdul Saboor Habibi",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Flex-direction: column messes up the element&#39;s responsivity, flex-direction: row doesn&#39;t",
+      "url": "https://stackoverflow.com/questions/80004188/flex-direction-column-messes-up-the-elements-responsivity-flex-direction-row",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "flexbox"
+      ],
+      "author": "Isalanctos",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "YouTube Brand Account owner receives personal channel from channels.list(mine=true) and Analytics API returns 403",
+      "url": "https://stackoverflow.com/questions/80004213/youtube-brand-account-owner-receives-personal-channel-from-channels-listmine-tr",
+      "summary": "",
+      "tags": [
+        "oauth-2.0",
+        "google-api",
+        "youtube-api",
+        "youtube-analytics-api"
+      ],
+      "author": "田代貴久",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "MathML renders incorrectly",
+      "url": "https://stackoverflow.com/questions/80004197/mathml-renders-incorrectly",
+      "summary": "",
+      "tags": [
+        "mathml"
+      ],
+      "author": "Carl Woll",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "Getting pixel data from a bitmap",
+      "url": "https://stackoverflow.com/questions/80004193/getting-pixel-data-from-a-bitmap",
+      "summary": "",
+      "tags": [
+        "c++",
+        "winapi"
+      ],
+      "author": "Andrew",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Automatic floating-point precision with std::format in fixed mode",
+      "url": "https://stackoverflow.com/questions/80004168/automatic-floating-point-precision-with-stdformat-in-fixed-mode",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++20",
+        "fmt",
+        "stdformat"
+      ],
+      "author": "NuclearInternets",
+      "comments": 2,
+      "score": 4
+    },
+    {
+      "title": "Protecting an Entra ID web API for delegated user and application-only access",
+      "url": "https://stackoverflow.com/questions/80004171/protecting-an-entra-id-web-api-for-delegated-user-and-application-only-access",
+      "summary": "",
+      "tags": [
+        "asp.net-core-webapi",
+        "microsoft-entra-id"
+      ],
+      "author": "Ritmo2k",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Why does my Sudoku solver fill duplicate numbers in rows",
+      "url": "https://stackoverflow.com/questions/80004172/why-does-my-sudoku-solver-fill-duplicate-numbers-in-rows",
+      "summary": "",
+      "tags": [
+        "c",
+        "sudoku"
+      ],
+      "author": "Evy",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Why is Teensy 4.1 not finding MPU-6050?",
+      "url": "https://stackoverflow.com/questions/80004157/why-is-teensy-4-1-not-finding-mpu-6050",
+      "summary": "",
+      "tags": [
+        "teensy",
+        "mpu6050"
+      ],
+      "author": "Nick Pap",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Font size going down when you delete all text in tkinter scrolledtext",
+      "url": "https://stackoverflow.com/questions/80004137/font-size-going-down-when-you-delete-all-text-in-tkinter-scrolledtext",
+      "summary": "",
+      "tags": [
+        "python",
+        "font-size",
+        "tkinter-scrolledtext"
+      ],
+      "author": "Zeubollisk Wu",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "st_sample for grouped sf points dataframe",
+      "url": "https://stackoverflow.com/questions/80004148/st-sample-for-grouped-sf-points-dataframe",
+      "summary": "",
+      "tags": [
+        "r",
+        "spatial",
+        "sample",
+        "multilinestring",
+        "r-stars"
+      ],
+      "author": "Kaila Frazer",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How do you decompose floating-point numbers into an integer and base-2 exponent?",
+      "url": "https://stackoverflow.com/questions/80003719/how-do-you-decompose-floating-point-numbers-into-an-integer-and-base-2-exponent",
+      "summary": "",
+      "tags": [
+        "c++",
+        "floating-point"
+      ],
+      "author": "Jan Schultke",
+      "comments": 2,
+      "score": 9
+    },
+    {
+      "title": "Quarkus MongoDB Panache: how to select a different MongoClient (connection) per OIDC tenant and fail fast for unknown tenants?",
+      "url": "https://stackoverflow.com/questions/80004131/quarkus-mongodb-panache-how-to-select-a-different-mongoclient-connection-per",
+      "summary": "",
+      "tags": [
+        "mongodb",
+        "quarkus",
+        "multi-tenant",
+        "quarkus-panache"
+      ],
+      "author": "landal79",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Instagram Graph API /me/messages returns &quot;Failed to decrypt&quot; (OAuthException 190) with valid token",
+      "url": "https://stackoverflow.com/questions/80004185/instagram-graph-api-me-messages-returns-failed-to-decrypt-oauthexception-190",
+      "summary": "",
+      "tags": [
+        "facebook-graph-api",
+        "oauth-2.0",
+        "instagram",
+        "instagram-graph-api"
+      ],
+      "author": "Elias Cardoso",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How I can use python in order to populate and modify groups?",
+      "url": "https://stackoverflow.com/questions/80004115/how-i-can-use-python-in-order-to-populate-and-modify-groups",
+      "summary": "",
+      "tags": [
+        "python",
+        "django",
+        "django-models"
+      ],
+      "author": "Dimitrios Desyllas",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "PHP Session id remains consistent on some pages but not on others, but no difference (same includes)",
+      "url": "https://stackoverflow.com/questions/80004090/php-session-id-remains-consistent-on-some-pages-but-not-on-others-but-no-differ",
+      "summary": "",
+      "tags": [
+        "php",
+        "session"
+      ],
+      "author": "Mm-Art-In",
+      "comments": 3,
+      "score": -3
+    },
+    {
+      "title": "Tile map renderer fails to render some tiles",
+      "url": "https://stackoverflow.com/questions/80004136/tile-map-renderer-fails-to-render-some-tiles",
+      "summary": "",
+      "tags": [
+        "python",
+        "pygame",
+        "game-development"
+      ],
+      "author": "hosein sattari",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Datagrid Accessibility",
+      "url": "https://stackoverflow.com/questions/80004127/datagrid-accessibility",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "accessibility",
+        "wcag2.0"
+      ],
+      "author": "Vivek Chandraprakash",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Understanding how TImageList, TActionToolBar and TActionManager Work Together Related to the Image Size",
+      "url": "https://stackoverflow.com/questions/80004181/understanding-how-timagelist-tactiontoolbar-and-tactionmanager-work-together-re",
+      "summary": "",
+      "tags": [
+        "advice",
+        "delphi"
+      ],
+      "author": "Skypilot65",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How can I get &quot;stringified&quot; object with nested objects?",
+      "url": "https://stackoverflow.com/questions/80004162/how-can-i-get-stringified-object-with-nested-objects",
+      "summary": "",
+      "tags": [
+        "javascript"
+      ],
+      "author": "LUN",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Run a separate main()-function within a Project - Is that still possible in Android Studio Quail 4?",
+      "url": "https://stackoverflow.com/questions/80003980/run-a-separate-main-function-within-a-project-is-that-still-possible-in-andr",
+      "summary": "",
+      "tags": [
+        "kotlin",
+        "android-studio"
+      ],
+      "author": "cluster1",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Gcc warning about anonymous non-C-compatible type given name for linkage purposes by ‘typedef’ declaration",
+      "url": "https://stackoverflow.com/questions/80003731/gcc-warning-about-anonymous-non-c-compatible-type-given-name-for-linkage-purpose",
+      "summary": "",
+      "tags": [
+        "c++",
+        "typedef",
+        "gcc-warning"
+      ],
+      "author": "pptaszni",
+      "comments": 3,
+      "score": 6
+    },
+    {
+      "title": "Reverse engineer an audio interface driver from windows to linux (arm)",
+      "url": "https://stackoverflow.com/questions/80004124/reverse-engineer-an-audio-interface-driver-from-windows-to-linux-arm",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c",
+        "usb",
+        "driver",
+        "reverse-engineering"
+      ],
+      "author": "edwylin",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Display every conversation that matches the selected sentiment",
+      "url": "https://stackoverflow.com/questions/80003937/display-every-conversation-that-matches-the-selected-sentiment",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "David",
+      "comments": 3,
+      "score": -1
+    }
+  ]
+}

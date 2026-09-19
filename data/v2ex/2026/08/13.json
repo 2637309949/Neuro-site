@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T10:20:49.310038+00:00",
+  "source": "v2ex",
+  "count": 8,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "节点",
+      "key": "node",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回复数",
+      "key": "replies",
+      "type": "metric",
+      "icon": "MessageSquare",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "local.ai",
+      "url": "https://www.v2ex.com/t/1234095",
+      "summary": "",
+      "node": "Local LLM",
+      "author": "Livid",
+      "replies": 284
+    },
+    {
+      "title": "秋招工作是真难找啊，试了很多路子，想听点建议。",
+      "url": "https://www.v2ex.com/t/1234077",
+      "summary": "",
+      "node": "职场话题",
+      "author": "jingcjie",
+      "replies": 123
+    },
+    {
+      "title": "八年之隔，这可能是地球上最漂亮丝滑的 Markdown 应用！",
+      "url": "https://www.v2ex.com/t/1233953",
+      "summary": "",
+      "node": "分享创造",
+      "author": "imeoer",
+      "replies": 116
+    },
+    {
+      "title": "不建议年轻人刻意抑制消费去完成所谓的原始积累",
+      "url": "https://www.v2ex.com/t/1233943",
+      "summary": "",
+      "node": "生活",
+      "author": "SmartNeo",
+      "replies": 113
+    },
+    {
+      "title": "看到 AI 让 Linux 变得真正可用了帖子，想问下现在最推荐的是 Linux 发行版是哪个呢",
+      "url": "https://www.v2ex.com/t/1233928",
+      "summary": "",
+      "node": "Linux",
+      "author": "siys",
+      "replies": 91
+    },
+    {
+      "title": "不到一个小时后重置，快蹬",
+      "url": "https://www.v2ex.com/t/1234001",
+      "summary": "",
+      "node": "OpenAI",
+      "author": "zhenjiachen",
+      "replies": 74
+    },
+    {
+      "title": "今天 30 岁生日，替大家许个愿望",
+      "url": "https://www.v2ex.com/t/1234005",
+      "summary": "",
+      "node": "生活",
+      "author": "GTsss",
+      "replies": 73
+    },
+    {
+      "title": "不要轻易借钱给别人",
+      "url": "https://www.v2ex.com/t/1233952",
+      "summary": "",
+      "node": "生活",
+      "author": "Ansen",
+      "replies": 69
+    }
+  ]
+}

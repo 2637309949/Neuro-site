@@ -1,0 +1,173 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T15:51:20.925326+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "我成长过程中所熟悉的互联网已经不复存在了",
+      "url": "https://www.oschina.net/news/471541",
+      "summary": "一篇题为《The Internet I Grew Up With Doesn't Exist Anymore》的博客近日在 Hacker News 登上首页，文章很朴素，没有技术干货，没有任何新概念。...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Kdenlive 26.04.3 发布",
+      "url": "https://www.oschina.net/news/471540/kdenlive-26-04-3-released",
+      "summary": "Kdenlive 是一种基于 MLT 框架、KDE 和 Qt 的开源非线性视频编辑器，注重灵活性和易用性。该项目最初由 Jason Wood 在 2002 年开发，如今已经成为了...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "字节 Seed 开源 EdgeBench 基准测试",
+      "url": "https://www.oschina.net/news/471539",
+      "summary": "字节 Seed 宣布推出了用于衡量真实世界环境学习的超长程评测集 EdgeBench。该评测集包含 134 个真实且多样的任务，横跨六大能力领域，Agent 在每个...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "分布式 API 设计 下：REST",
+      "url": "https://my.oschina.net/xiandafu/blog/18612369",
+      "summary": "REST 的核心思想就是，客户端发出的指令都是 \"标准动词 + 操作资源\" 的结构。比如，GET /orders/1 这个命令，GET 是动词，/orders/1 是宾语，这里...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "🔥 新增 Mistral AI 作为 AI 服务的大语言模型供应商：开源无代码 / 低代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/471536",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支：main、next 和 develop。 main：截至目前最稳定的版本，推...",
+      "author": "NocoBase",
+      "comments": 0
+    },
+    {
+      "title": "Memcached 1.6.44 发布，高性能分布式缓存系统",
+      "url": "https://www.oschina.net/news/471534/memcached-1-6-44-released",
+      "summary": "Memcached 1.6.44 现已发布，这是一个安全修复版本。 修复 proxy：后端数据过大会导致溢出。 ascii：启用身份验证且存在空换行符时崩溃 crawler：修...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "TIOBE 7 月榜单：Rust 首次跻身 Top10 ",
+      "url": "https://www.oschina.net/news/471533/tiobe-index-202607",
+      "summary": "TIOBE 公布了 2026 年 7 月的编程语言排行榜。 继在上月榜单中创下历史新高后，Rust 本月继续攀升，实现该语言历史上首次跻身 TIOBE 指数前十。 ...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "CSDI峰会开启：Agentic AI 落地应用的黄金期，智能系统重塑生产力",
+      "url": "https://www.oschina.net/news/471531",
+      "summary": "AI深入生产核心，用户端的发展方向已十分清晰，智能体将全面渗透产业。长远来看，智能体将演变为类似“AI操作系统”的复杂系统。用户只需下达任务，...",
+      "author": "哈哈欧尼OSC",
+      "comments": 0
+    },
+    {
+      "title": "Fastify v5.10.0 发布，极速 Node.js Web 框架",
+      "url": "https://www.oschina.net/news/471530/fastify-5-10-0-released",
+      "summary": "Fastify 是一个高度专注于以最少开销和强大的插件架构为开发者提供最佳体验的 Node.js Web 框架，速度极快，它的灵感来源于 Hapi 和 Express。 Fa...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "HarmonyOS7开发者声音-问卷调查 ",
+      "url": "https://qaxb95n3g50.feishu.cn/share/base/form/shrcn7XGp12Dk7rzbZvFbhpyfLc",
+      "summary": "本次调研旨在了解您对 HarmonyOS 7 技术的认知与使用情况，收集您在鸿蒙开发过程中遇到的实际问题与需求。",
+      "author": "哈哈欧尼OSC",
+      "comments": 0
+    },
+    {
+      "title": ":fire: 把 OpenAPI 接入 Harness：零代码让 Agent 听懂你的 REST API",
+      "url": "https://www.oschina.net/news/471528",
+      "summary": "引言——为什么需要让 AI 听懂 REST API 在过去两年里，我和团队接手了好几个「上了年纪」的 Java 项目。这些系统有一个共同特征：业务逻辑完整，A...",
+      "author": "梅子酒好吃",
+      "comments": 0
+    },
+    {
+      "title": "前 5 月机器人规上企业营收超 900 亿元",
+      "url": "https://www.oschina.net/news/471527",
+      "summary": "在2026世界机器人大会新闻发布会上，工业和信息化部装备工业一司副司长郝立顺表示，今年1-5月，我国机器人规上企业营业收入突破900亿元，同比增长2...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Qoder 集成 STAROps，重塑 “编码 - 发布 - 诊断 - 修复” DevOps 闭环",
+      "url": "https://my.oschina.net/u/3874284/blog/19715962",
+      "summary": "改了某个服务的业务逻辑，单测全过、CI 绿灯、CR 通过，顺顺利利上线。十分钟后监控告警炸了 ------ 服务响应时间直线飙升。",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "CrateDB 6.4.0 发布，分布式 SQL 数据库",
+      "url": "https://www.oschina.net/news/471524/cratedb-6-4-0-released",
+      "summary": "CrateDB 是一个分布式的 SQL 数据库，使得实时存储和分析大量的机器数据变得简单。CrateDB 提供了通常与 NoSQL 数据库相关的可扩展性和灵活性，最小...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "SenseNova U1 信息图增强版 V2 来了！小字更清晰、排版质感向专业设计师看齐",
+      "url": "https://www.oschina.net/news/471523",
+      "summary": "商汤日日新SenseNova U1信息图增强版上线后，得到很多创作者和开发者的积极反馈。而随着 GPT-Image-2 等新一代商业图像生成模型的出现，行业期待也...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "“Linux 赢了”，这次没人反对",
+      "url": "https://www.oschina.net/news/471522",
+      "summary": "Reddit 上一条帖子最近火了——「Linux has officially won」，不到 24 小时拿下 1646 个赞和 375 条评论。发帖人没有提桌面份额，没有提服务器市场...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "OpenSSH 10.4 发布",
+      "url": "https://www.oschina.net/news/471521/openssh-10-4-released",
+      "summary": "OpenSSH 是 100% 完整的 SSH 协议 2.0 实现，且包括 sftp 客户端和服务器支持。OpenSSH 10.4 现已发布，具体更新内容包括： 可能不兼容的变化 sshd...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "xAI 正式更名为 SpaceXAI",
+      "url": "https://www.oschina.net/news/471520",
+      "summary": "xAI 正式宣布更名为 SpaceXAI。随着全新品牌标识与社交媒体账号的同步上线，这家备受瞩目的 AI 公司已正式完成并入 SpaceX 体系后的最后一步整合。...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "从拖拽到 JOIN：CodeForge 26.4.0 把 SQL 查询变成搭积木",
+      "url": "https://www.oschina.net/news/471519/codeforge-26-4-0-released",
+      "summary": "CodeForge v26.4.0 是一次以数据库与 AI 为核心的版本：全新的拖拽式可视化查询构建器让你不写 SQL 也能搭出多表 JOIN、聚合、分组、过滤与排序的复...",
+      "author": "TrendForge",
+      "comments": 0
+    },
+    {
+      "title": ":fire::fire::fire:MDP 主数据平台 1.4.0 版本发布，开放平台安全加密体系全面重构升级",
+      "url": "https://www.oschina.net/news/471518",
+      "summary": "MDP 主数据平台 V1.4.0 版本升级日志 V1.4.0 重构开放平台安全加密方案，区分接口调用、事件回调两套加密机制；优化单点登录、日志打印、前端组件、...",
+      "author": "henhen6",
+      "comments": 0
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-19T16:30:41.451871+00:00",
+  "source": "hackernews",
+  "count": 29,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "summary": "",
+      "author": "theanonymousone",
+      "comments": 540,
+      "score": 972
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "summary": "",
+      "author": "jcbhmr",
+      "comments": 301,
+      "score": 772
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "",
+      "author": "ereiamjh",
+      "comments": 426,
+      "score": 709
+    },
+    {
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "summary": "",
+      "author": "ilreb",
+      "comments": 278,
+      "score": 666
+    },
+    {
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "",
+      "author": "joeriddles",
+      "comments": 360,
+      "score": 556
+    },
+    {
+      "title": "Laya the open source version of Jev",
+      "url": "https://laya.convaiinnovations.com/",
+      "summary": "",
+      "author": "nandakishor_ml",
+      "comments": 120,
+      "score": 491
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "summary": "",
+      "author": "emigre",
+      "comments": 176,
+      "score": 472
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "summary": "",
+      "author": "f311a",
+      "comments": 89,
+      "score": 417
+    },
+    {
+      "title": "The first new cat species discovered in 100 years",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "summary": "",
+      "author": "ohjeez",
+      "comments": 122,
+      "score": 315
+    },
+    {
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "summary": "",
+      "author": "z-mach9",
+      "comments": 105,
+      "score": 295
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "summary": "",
+      "author": "nsoonhui",
+      "comments": 126,
+      "score": 243
+    },
+    {
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "summary": "",
+      "author": "num42",
+      "comments": 186,
+      "score": 231
+    },
+    {
+      "title": "“The Secret Life of Circuits” is here",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 48,
+      "score": 179
+    },
+    {
+      "title": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "summary": "",
+      "author": "jegp",
+      "comments": 49,
+      "score": 135
+    },
+    {
+      "title": "Why building a Rust LSP is hard",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "summary": "",
+      "author": "agluszak",
+      "comments": 44,
+      "score": 115
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
+      "summary": "",
+      "author": "lioeters",
+      "comments": 23,
+      "score": 111
+    },
+    {
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+      "summary": "",
+      "author": "evacchi",
+      "comments": 23,
+      "score": 101
+    },
+    {
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "summary": "",
+      "author": "ksec",
+      "comments": 93,
+      "score": 93
+    },
+    {
+      "title": "Tin: full-text search for Postgres",
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "summary": "",
+      "author": "ksec",
+      "comments": 21,
+      "score": 73
+    },
+    {
+      "title": "A graphical desktop for the ZX Spectrum",
+      "url": "https://github.com/mindbox77/zxdesk",
+      "summary": "",
+      "author": "graemep",
+      "comments": 36,
+      "score": 59
+    },
+    {
+      "title": "Asking Authors About Their Own Papers",
+      "url": "https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0",
+      "summary": "",
+      "author": "stefanpie",
+      "comments": 28,
+      "score": 54
+    },
+    {
+      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
+      "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+      "summary": "",
+      "author": "jandrewrogers",
+      "comments": 11,
+      "score": 43
+    },
+    {
+      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "summary": "",
+      "author": "nativeit",
+      "comments": 33,
+      "score": 39
+    },
+    {
+      "title": "Communication by means of modulated Johnson noise",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
+      "summary": "",
+      "author": "austinallegro",
+      "comments": 18,
+      "score": 38
+    },
+    {
+      "title": "From Stonemasons to Carpenters",
+      "url": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
+      "summary": "",
+      "author": "azhenley",
+      "comments": 4,
+      "score": 36
+    },
+    {
+      "title": "I built the fastest PHP webserver in the world",
+      "url": "https://qbixserver.com",
+      "summary": "",
+      "author": "EGreg",
+      "comments": 14,
+      "score": 23
+    },
+    {
+      "title": "Ray Ozzie and the Optimism of Being Early",
+      "url": "https://reproof.app/blog/lotus-notes-history",
+      "summary": "",
+      "author": "maguay",
+      "comments": 9,
+      "score": 16
+    },
+    {
+      "title": "Agreement between the USA and Denmark (1951,2004) [pdf]",
+      "url": "https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf",
+      "summary": "",
+      "author": "closingreunion",
+      "comments": 1,
+      "score": 7
+    },
+    {
+      "title": "Jobs Without LeetCode",
+      "url": "https://noleet.lol/jobs",
+      "summary": "",
+      "author": "monological",
+      "comments": 0,
+      "score": 5
+    }
+  ]
+}

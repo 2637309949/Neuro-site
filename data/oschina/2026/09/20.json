@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-19T16:30:54.156374+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "ColorOS 17 新技术解读，渲染、调度与 AI 升级",
+      "url": "https://www.oschina.net/news/502593",
+      "summary": "2026 年 9 月 17 日，2026 OPPO 开发者大会（ODC26）在珠海举行，ColorOS 17 正式发布。新系统将率先搭载在即将上市的 OPPO Find X10 系列和一加 ...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "InfoSphere 迎来一次大更新：这次把国际化、书评、成就和编辑器都补上了",
+      "url": "https://www.oschina.net/news/502592",
+      "summary": "最近一段时间，我们对 InfoSphere 进行了一次比较大规模的更新。 这次并不是简单增加几个功能，而是围绕 内容创作、阅读体验、国际化、用户成长、S...",
+      "author": "trendforge",
+      "comments": 0
+    },
+    {
+      "title": "别再让 Agent 裸连数据库了：如何用 MCP + 语义网关解决 NL2SQL 幻觉与权限失控",
+      "url": "https://www.oschina.net/news/502591",
+      "summary": "在 2026 年，给 AI Agent（Cursor、Claude Desktop、Dify、Coze 等）外挂一个数据库连接，已经成为很多开发者的标配操作。从简单的官方 SQLite/MyS...",
+      "author": "yimindev",
+      "comments": 0
+    },
+    {
+      "title": "灵界 OS 5.0 稳定版 · 桌面按钮可以隐藏了",
+      "url": "https://www.oschina.net/news/502590",
+      "summary": "这次更新，加了一个很小的开关，但解决了困扰我很久的问题。 之前桌面右上角一直挂着两个按钮： · 系统介绍 · 添加小组件 我自己看着觉得太丑了，...",
+      "author": "xzh_Tim",
+      "comments": 0
+    },
+    {
+      "title": "智谱旗下 AI 编程工具 ZCode 被扒静默上传完整 Git 历史",
+      "url": "https://www.oschina.net/news/502589",
+      "summary": "智谱的 AI 编程桌面端 ZCode，今天被扒出一个大问题。开发者 ferstar 发了一篇取证博客，说只要登录了账号，ZCode 会在后台静默把整个工作区——包...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "用 SQL 操作 Milvus：从检索到 ORM",
+      "url": "https://www.oschina.net/news/502588",
+      "summary": "Java 应用通常通过 Milvus SDK 写入数据和检索向量。对关系型数据库开发者来说，SQL 和 JDBC 更熟悉。jdbc-milvus 让这套使用方式也能用于 Milvus...",
+      "author": "哈库纳",
+      "comments": 0
+    },
+    {
+      "title": "华为发布“Peerium 计算架构”，让百万处理器成为一台计算机",
+      "url": "https://www.oschina.net/news/502587/huawei-new-computing-architecture-peerium",
+      "summary": "华为发布AI时代的全新计算架构 – Peerium计算架构。该架构能实现百万级处理器成为一台计算机，以满足不断发展的AI算力需求。 Peerium计算架构是基...",
+      "author": "菠萝的海子",
+      "comments": 0
+    },
+    {
+      "title": "华为云 All in Agentic Cloud，灵衢昇腾 950 智算集群全球上线",
+      "url": "https://www.oschina.net/news/502586/hc-agentic-infra-industry-ai",
+      "summary": "华为云这届全联接大会的调子，是\"Agentic Cloud\"。华为云 CEO 周跃峰演讲里那句被反复引用的判断是：智能体时代基础设施的核心，不再只是给算力，而...",
+      "author": "菠萝的海子",
+      "comments": 0
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：打通各应用关键信息，实现深度联动与统一查看，告别跨 APP 反复切换",
+      "url": "https://www.oschina.net/news/502585",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。...",
+      "author": "bklitecanway",
+      "comments": 0
+    },
+    {
+      "title": "Levyra：一个不上传数据、也不会放错歌的开源音乐播放器",
+      "url": "https://www.oschina.net/news/502584",
+      "summary": "Levyra 是一款面向 Android 和 Windows 的开源音乐播放器，由意大利开发者 Luca 独立开发维护，GitHub ID 为 LUC4N3X，采用 GPL-3.0 授权发布。仓库...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "面向船舶/计算机/数学专业，参赛可获中船海舟校招优先机会",
+      "url": "https://www.oschina.net/news/502583",
+      "summary": "一艘船的设计模型做完，里面躺着成千上万张曲面。这些曲面的数学表达大多是非均匀有理 B 样条，也就是 NURBS。它能用统一形式装下自由曲面和圆柱、...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "GLM-5.3-FlashX 上线，智谱把国产卡上的推理速度顶到 200 token/s",
+      "url": "https://www.oschina.net/news/502582",
+      "summary": "GLM-5.3 前阵子以\"Ox Alpha\"的匿名身份上线时，就已经是 OpenCode 和 OpenRouter 双平台调用量最大的模型。今天智谱给它加了个更快的版本，名字也直...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "🔥 优化及缺陷修复：开源 AI 无代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/502580",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本...",
+      "author": "NocoBase",
+      "comments": 0
+    },
+    {
+      "title": "开源鸿蒙城市技术沙龙·南京站——“OpenHarmony兼容性测评培训”圆满举行",
+      "url": "https://www.oschina.net/news/502579",
+      "summary": "2026年9月16日，由江苏省委网信办指导，开源鸿蒙项目群工作委员会主办，江苏润和软件股份有限公司、江苏润开鸿数字科技有限公司承办的“开放原子技...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "开源一站式智能终端 uniTerm v1.9.4 发布：跨工作区广播、SSH Kerberos / Agent 认证等 50 余项更新",
+      "url": "https://www.oschina.net/news/502575",
+      "summary": "uniTerm 是一款轻量级一站式开源终端软件。整合终端、文件传输、远程桌面、数据库客户端、容器等 5 大类协议于一身，覆盖 30+ 协议，安装包仅 14 M...",
+      "author": "ys-l",
+      "comments": 0
+    },
+    {
+      "title": "LinkAndroid v2.3.0 多窗口应用投屏上线，多应用并行独立操作",
+      "url": "https://www.oschina.net/news/502574",
+      "summary": "LinkAndroid v2.3.0 把投屏的范围从「整块手机屏幕」缩小到「单个应用」：每个应用独占一块虚拟屏、一个独立窗口，手机本体照常使用。 LinkAndroi...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "Mailez 1.0.1 发布：本次发布以提升运维自动化和缺陷修复为主",
+      "url": "https://www.oschina.net/news/502573",
+      "summary": "v1.0.1 以运维自动化和缺陷修复为主：管理台新增出站网络体检、变更式健康告警、IP 封禁引擎、定时加密备份四项能力；客户端接入新增 Delta Chat 扫...",
+      "author": "超级牛来了",
+      "comments": 0
+    },
+    {
+      "title": " 【HarmonyOS SDK Skills】 Push Kit自分类Skill 提升权益申请通过率",
+      "url": "https://www.oschina.net/news/502572",
+      "summary": "在消息推送体系中，通知消息分类直接影响用户的推送体验。服务通讯类、资讯营销类消息，在设备展示规则、频次限制上截然不同。HarmonyOS Push Kit ...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "学大教育与开源中国达成战略合作，共建中国教育AI基础设施",
+      "url": "https://www.oschina.net/news/502571",
+      "summary": "9 月 17 日，学大（厦门）教育科技集团股份有限公司（股票代码：000526.SZ）与上海开源共识智能科技股份公司（开源中国）在京签署战略合作协议，双...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "【HarmonyOS SDK Skills】AI 赋能 Push Kit 开发，鸿蒙应用推送能力接入",
+      "url": "https://www.oschina.net/news/502570",
+      "summary": "Push Kit（推送服务） 是 HarmonyOS SDK 为开发者提供的应用触达用户、激活留存、完善场景服务的核心开放能力。无论是通知提醒、后台消息还是应用内...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}
