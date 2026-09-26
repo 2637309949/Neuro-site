@@ -1,0 +1,279 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T13:36:32.197439+00:00",
+  "source": "huggingface",
+  "count": 30,
+  "columns": [
+    {
+      "name": "模型名",
+      "key": "model",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "下载量",
+      "key": "downloads",
+      "type": "metric",
+      "icon": "Download"
+    },
+    {
+      "name": "点赞数",
+      "key": "likes",
+      "type": "metric",
+      "icon": "Heart"
+    }
+  ],
+  "items": [
+    {
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "model": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "summary": "Text Generation",
+      "downloads": 3,
+      "likes": 1380
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "model": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "summary": "Image-Text-to-Text",
+      "downloads": 10,
+      "likes": 3380
+    },
+    {
+      "title": "convaiinnovations/laya",
+      "model": "convaiinnovations/laya",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "summary": "Text Classification",
+      "downloads": 12,
+      "likes": 825
+    },
+    {
+      "title": "XingChen-AGI/Xing4.0-29B-A4B",
+      "model": "XingChen-AGI/Xing4.0-29B-A4B",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "summary": "Text Generation",
+      "downloads": 2,
+      "likes": 793
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "model": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 14,
+      "likes": 15800
+    },
+    {
+      "title": "m-a-p/YuE2-3B",
+      "model": "m-a-p/YuE2-3B",
+      "url": "https://huggingface.co/m-a-p/YuE2-3B",
+      "summary": "Text-to-Audio",
+      "downloads": 4,
+      "likes": 899
+    },
+    {
+      "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "model": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 18,
+      "likes": 1460
+    },
+    {
+      "title": "harshatheg/Qwen-2.5-1B-RLCD",
+      "model": "harshatheg/Qwen-2.5-1B-RLCD",
+      "url": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+      "summary": "Text Generation",
+      "downloads": 4,
+      "likes": 465
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "model": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "Image-to-Video",
+      "downloads": 19,
+      "likes": 4500
+    },
+    {
+      "title": "ukisai/Swift-Qwen3.8-27b",
+      "model": "ukisai/Swift-Qwen3.8-27b",
+      "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 500
+    },
+    {
+      "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "model": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 990
+    },
+    {
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "model": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "summary": "27B",
+      "downloads": 20,
+      "likes": 4410
+    },
+    {
+      "title": "openbmb/MiniCPM5-2B",
+      "model": "openbmb/MiniCPM5-2B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "summary": "Text Generation",
+      "downloads": 8,
+      "likes": 1610
+    },
+    {
+      "title": "ukisai/Swift-Qwen3.8-27B-GGUF",
+      "model": "ukisai/Swift-Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27B-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 321
+    },
+    {
+      "title": "Qwen/Qwen3.8-Flash-Next",
+      "model": "Qwen/Qwen3.8-Flash-Next",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "summary": "Image-Text-to-Text",
+      "downloads": 24,
+      "likes": 5480
+    },
+    {
+      "title": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+      "model": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+      "summary": "Text Generation",
+      "downloads": 3,
+      "likes": 270
+    },
+    {
+      "title": "AlexWortega/openjev",
+      "model": "AlexWortega/openjev",
+      "url": "https://huggingface.co/AlexWortega/openjev",
+      "summary": "Text Classification",
+      "downloads": 16,
+      "likes": 258
+    },
+    {
+      "title": "meta-llama/Llama-3.1-8B-Instruct",
+      "model": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "summary": "Text Generation",
+      "downloads": 2024,
+      "likes": 7760
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-H3",
+      "model": "MiniMaxAI/MiniMax-H3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "summary": "Image-Text-to-Video",
+      "downloads": 13,
+      "likes": 5510
+    },
+    {
+      "title": "TokenRhythm/NeoHorse-1-9B",
+      "model": "TokenRhythm/NeoHorse-1-9B",
+      "url": "https://huggingface.co/TokenRhythm/NeoHorse-1-9B",
+      "summary": "Text Generation",
+      "downloads": 10,
+      "likes": 973
+    },
+    {
+      "title": "Edge0/Edge0-35B-A3B-preview",
+      "model": "Edge0/Edge0-35B-A3B-preview",
+      "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+      "summary": "Text Generation",
+      "downloads": 3,
+      "likes": 3550
+    },
+    {
+      "title": "internlm/Atria-Dawn-Preview",
+      "model": "internlm/Atria-Dawn-Preview",
+      "url": "https://huggingface.co/internlm/Atria-Dawn-Preview",
+      "summary": "753B",
+      "downloads": 4,
+      "likes": 206
+    },
+    {
+      "title": "TaichuAI/ZDTaichu5.0-9B",
+      "model": "TaichuAI/ZDTaichu5.0-9B",
+      "url": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 5,
+      "likes": 209
+    },
+    {
+      "title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "model": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "summary": "Image-Text-to-Text",
+      "downloads": 9,
+      "likes": 318
+    },
+    {
+      "title": "WarmBloodAban/Minimax-h3_Singularity",
+      "model": "WarmBloodAban/Minimax-h3_Singularity",
+      "url": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
+      "summary": "Image-to-Video",
+      "downloads": 2,
+      "likes": 556
+    },
+    {
+      "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "model": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 2,
+      "likes": 182
+    },
+    {
+      "title": "zai-org/GLM-5.3-Flash",
+      "model": "zai-org/GLM-5.3-Flash",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "summary": "Image-Text-to-Text",
+      "downloads": 13,
+      "likes": 2490
+    },
+    {
+      "title": "tencent/AuK",
+      "model": "tencent/AuK",
+      "url": "https://huggingface.co/tencent/AuK",
+      "summary": "Text-to-Speech",
+      "downloads": 10,
+      "likes": 336
+    },
+    {
+      "title": "Mothersuperior/yue2-mothersuperior-realaudio-tokenizer-v4",
+      "model": "Mothersuperior/yue2-mothersuperior-realaudio-tokenizer-v4",
+      "url": "https://huggingface.co/Mothersuperior/yue2-mothersuperior-realaudio-tokenizer-v4",
+      "summary": "Updated",
+      "downloads": 20,
+      "likes": 158
+    },
+    {
+      "title": "audnai/penclaw-GLM-5.3-abliterated",
+      "model": "audnai/penclaw-GLM-5.3-abliterated",
+      "url": "https://huggingface.co/audnai/penclaw-GLM-5.3-abliterated",
+      "summary": "Text Generation",
+      "downloads": 18,
+      "likes": 167
+    }
+  ]
+}

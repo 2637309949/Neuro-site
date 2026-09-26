@@ -1,0 +1,429 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T15:16:26.813086+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Check if matrix contains only specific values in numpy",
+      "url": "https://stackoverflow.com/questions/79983555/check-if-matrix-contains-only-specific-values-in-numpy",
+      "summary": "",
+      "tags": [
+        "python",
+        "numpy"
+      ],
+      "author": "Medulla Oblongata",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How do I use Bearer token with Python requests?",
+      "url": "https://stackoverflow.com/questions/79983574/how-do-i-use-bearer-token-with-python-requests",
+      "summary": "",
+      "tags": [
+        "python",
+        "text-to-speech"
+      ],
+      "author": "Traci Phillip",
+      "comments": 2,
+      "score": -3
+    },
+    {
+      "title": "How to set up a Python project on a headless Raspberry Pi Zero (not W)?",
+      "url": "https://stackoverflow.com/questions/79983569/how-to-set-up-a-python-project-on-a-headless-raspberry-pi-zero-not-w",
+      "summary": "",
+      "tags": [
+        "python",
+        "raspberry-pi"
+      ],
+      "author": "Peter Bill",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why shouldn&#39;t Airflow&#39;s standalone mode be used for production purposes?",
+      "url": "https://stackoverflow.com/questions/79983563/why-shouldnt-airflows-standalone-mode-be-used-for-production-purposes",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "airflow"
+      ],
+      "author": "Stevoisiak",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Change location of docker container logs",
+      "url": "https://stackoverflow.com/questions/79983581/change-location-of-docker-container-logs",
+      "summary": "",
+      "tags": [
+        "logging",
+        "raspbian",
+        "docker-container",
+        "docker-logs"
+      ],
+      "author": "wewa",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to unnest a list-column as new rows in pre-existing columns?",
+      "url": "https://stackoverflow.com/questions/79983560/how-to-unnest-a-list-column-as-new-rows-in-pre-existing-columns",
+      "summary": "",
+      "tags": [
+        "r",
+        "tidyr"
+      ],
+      "author": "Paul",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Apakah kodingcamp.com itu benar benar simulator software engineers javascript terbaik didunia",
+      "url": "https://stackoverflow.com/questions/79983577/apakah-kodingcamp-com-itu-benar-benar-simulator-software-engineers-javascript-te",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "arrays"
+      ],
+      "author": "nanangNSL",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Case insensitive HashSet[Object]",
+      "url": "https://stackoverflow.com/questions/79983537/case-insensitive-hashsetobject",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "hashset",
+        "case-insensitive",
+        "loose-typing"
+      ],
+      "author": "iRon",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Looking for free online resources to learn modern C++",
+      "url": "https://stackoverflow.com/questions/79983548/looking-for-free-online-resources-to-learn-modern-c",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c++"
+      ],
+      "author": "Amir Mohammad",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Is there a way to decipher nested and complex equations to its base components",
+      "url": "https://stackoverflow.com/questions/79983540/is-there-a-way-to-decipher-nested-and-complex-equations-to-its-base-components",
+      "summary": "",
+      "tags": [
+        "python",
+        "regex"
+      ],
+      "author": "frank",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Which PATH variable do I need to specify in execve() in order to launch my program?",
+      "url": "https://stackoverflow.com/questions/79983521/which-path-variable-do-i-need-to-specify-in-execve-in-order-to-launch-my-progr",
+      "summary": "",
+      "tags": [
+        "c",
+        "system-calls",
+        "execve"
+      ],
+      "author": "DLR",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Why can importlib.reload() leave existing class instances using stale method implementations?",
+      "url": "https://stackoverflow.com/questions/79983484/why-can-importlib-reload-leave-existing-class-instances-using-stale-method-imp",
+      "summary": "",
+      "tags": [
+        "python",
+        "module",
+        "cpython",
+        "python-importlib"
+      ],
+      "author": "ali-raza-py",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "Can anyone suggest me some project ideas or problem statements related to data analytics or machine learning?",
+      "url": "https://stackoverflow.com/questions/79983526/can-anyone-suggest-me-some-project-ideas-or-problem-statements-related-to-data-a",
+      "summary": "",
+      "tags": [
+        "advice",
+        "machine-learning",
+        "data-analysis",
+        "project"
+      ],
+      "author": "Palak Khaparde",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "In an unordered list is it possible to make the list items sortable but not draggable",
+      "url": "https://stackoverflow.com/questions/79983525/in-an-unordered-list-is-it-possible-to-make-the-list-items-sortable-but-not-drag",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "jquery",
+        "draggable",
+        "jquery-ui-sortable"
+      ],
+      "author": "stonypaul",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "SQL Server Database Mail do not send job notification",
+      "url": "https://stackoverflow.com/questions/79983529/sql-server-database-mail-do-not-send-job-notification",
+      "summary": "",
+      "tags": [
+        "sql",
+        "sql-server",
+        "email",
+        "agent",
+        "database-mail"
+      ],
+      "author": "Pazetto",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Informatica IDMC (The connection test failed because of the following error: Error establishing socket to host and port, Reason: Connection refused.)",
+      "url": "https://stackoverflow.com/questions/79983550/informatica-idmc-the-connection-test-failed-because-of-the-following-error-err",
+      "summary": "",
+      "tags": [
+        "informatica",
+        "informatica-powercenter",
+        "informatica-cloud"
+      ],
+      "author": "Pillindla Bharath Kumar",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Azure DevOps Push API : max file changes per push?",
+      "url": "https://stackoverflow.com/questions/79983534/azure-devops-push-api-max-file-changes-per-push",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "git",
+        "azure-devops-rest-api"
+      ],
+      "author": "ProtectorRTD",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How many replicas should I create?",
+      "url": "https://stackoverflow.com/questions/79983528/how-many-replicas-should-i-create",
+      "summary": "",
+      "tags": [
+        "advice",
+        "kubernetes",
+        "load-balancing"
+      ],
+      "author": "lukas",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Qt + CMake: Header files of promoted widgets are not found",
+      "url": "https://stackoverflow.com/questions/79983539/qt-cmake-header-files-of-promoted-widgets-are-not-found",
+      "summary": "",
+      "tags": [
+        "c++",
+        "qt",
+        "cmake",
+        "qt-creator"
+      ],
+      "author": "Atmo",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Is the postfix expression `f` sequenced before the function call expression `f()`?",
+      "url": "https://stackoverflow.com/questions/79983513/is-the-postfix-expression-f-sequenced-before-the-function-call-expression-f",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer"
+      ],
+      "author": "xmh0511",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Unable to access project – invitation received but no permission and project not visible",
+      "url": "https://stackoverflow.com/questions/79983531/unable-to-access-project-invitation-received-but-no-permission-and-project-not",
+      "summary": "",
+      "tags": [
+        "google-cloud-platform"
+      ],
+      "author": "DevV",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Python match case syntax gotcha",
+      "url": "https://stackoverflow.com/questions/79983502/python-match-case-syntax-gotcha",
+      "summary": "",
+      "tags": [
+        "python",
+        "structural-pattern-matching"
+      ],
+      "author": "Mortz",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "GDB stdin on Windows cmd",
+      "url": "https://stackoverflow.com/questions/79983504/gdb-stdin-on-windows-cmd",
+      "summary": "",
+      "tags": [
+        "c",
+        "cmd",
+        "gdb"
+      ],
+      "author": "Zakaria DOUIH",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Add more function to fixtures",
+      "url": "https://stackoverflow.com/questions/79983507/add-more-function-to-fixtures",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "playwright"
+      ],
+      "author": "Ivan",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Problem with sitemap reprocessing in Bing Webmaster Tools",
+      "url": "https://stackoverflow.com/questions/79983512/problem-with-sitemap-reprocessing-in-bing-webmaster-tools",
+      "summary": "",
+      "tags": [
+        "sitemap",
+        "bing",
+        "xml-sitemap",
+        "sitemap.xml",
+        "bing-webmaster-tools"
+      ],
+      "author": "Gabriel91",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "passing on geom_raster() breaks to geom_contour()",
+      "url": "https://stackoverflow.com/questions/79983489/passing-on-geom-raster-breaks-to-geom-contour",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2"
+      ],
+      "author": "David",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to invalidate CloudFront path if the filename contains an apostrophe?",
+      "url": "https://stackoverflow.com/questions/79983514/how-to-invalidate-cloudfront-path-if-the-filename-contains-an-apostrophe",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "typescript",
+        "amazon-web-services",
+        "amazon-cloudfront"
+      ],
+      "author": "goose_lake",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Visual Studio 2026 Solution Explorer Selected Item Color Token",
+      "url": "https://stackoverflow.com/questions/79983501/visual-studio-2026-solution-explorer-selected-item-color-token",
+      "summary": "",
+      "tags": [
+        "visual-studio-2026"
+      ],
+      "author": "kgolovchenko",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "LakeBridge in Databricks",
+      "url": "https://stackoverflow.com/questions/79983517/lakebridge-in-databricks",
+      "summary": "",
+      "tags": [
+        "databricks",
+        "data-engineering"
+      ],
+      "author": "Abhimanyu Kumar",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "ng2-pdfjs-viewer - Angular 17 - doesn&#39;t display PDF - working before",
+      "url": "https://stackoverflow.com/questions/79983500/ng2-pdfjs-viewer-angular-17-doesnt-display-pdf-working-before",
+      "summary": "",
+      "tags": [
+        "angular",
+        "ng2-pdfjs-viewer"
+      ],
+      "author": "hemant",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

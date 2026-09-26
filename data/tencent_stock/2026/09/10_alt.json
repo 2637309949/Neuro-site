@@ -1,0 +1,278 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T13:34:00.850925+00:00",
+  "source": "tencent_stock",
+  "count": 30,
+  "columns": [
+    {
+      "name": "股票名",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "涨跌幅",
+      "key": "change",
+      "type": "metric",
+      "directionToggle": true
+    },
+    {
+      "name": "最新价",
+      "key": "price",
+      "type": "text"
+    },
+    {
+      "name": "成交额",
+      "key": "volume",
+      "type": "metric"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "*ST清越",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688496&module=hs&type=hsj",
+      "summary": "",
+      "change": "-20.55%",
+      "price": "0.58",
+      "volume": 662
+    },
+    {
+      "title": "宜安科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300328&module=hs&type=hsj",
+      "summary": "",
+      "change": "-14.31%",
+      "price": "12.46",
+      "volume": 90119
+    },
+    {
+      "title": "斯莱克",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300382&module=hs&type=hsj",
+      "summary": "",
+      "change": "-14.21%",
+      "price": "15.58",
+      "volume": 83759
+    },
+    {
+      "title": "艾芬达",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz301575&module=hs&type=hsj",
+      "summary": "",
+      "change": "-13.43%",
+      "price": "21.92",
+      "volume": 28884
+    },
+    {
+      "title": "欧福蛋业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920371&module=hs&type=hsj",
+      "summary": "",
+      "change": "-12.53%",
+      "price": "8.31",
+      "volume": 15540
+    },
+    {
+      "title": "骑士乳业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920786&module=hs&type=hsj",
+      "summary": "",
+      "change": "-11.74%",
+      "price": "8.12",
+      "volume": 17559
+    },
+    {
+      "title": "田中精机",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300461&module=hs&type=hsj",
+      "summary": "",
+      "change": "-11.10%",
+      "price": "30.2",
+      "volume": 35162
+    },
+    {
+      "title": "天山生物",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300313&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.61%",
+      "price": "13.4",
+      "volume": 44152
+    },
+    {
+      "title": "深中华A",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000017&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.04%",
+      "price": "8.33",
+      "volume": 41545
+    },
+    {
+      "title": "华脉科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh603042&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.02%",
+      "price": "16.8",
+      "volume": 98869
+    },
+    {
+      "title": "*ST广糖",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000911&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.01%",
+      "price": "6.47",
+      "volume": 19288
+    },
+    {
+      "title": "中粮糖业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600737&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.00%",
+      "price": "17.82",
+      "volume": 368140
+    },
+    {
+      "title": "宏盛股份",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh603090&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.00%",
+      "price": "36.88",
+      "volume": 33223
+    },
+    {
+      "title": "深华发Ａ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000020&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.00%",
+      "price": "13.41",
+      "volume": 20933
+    },
+    {
+      "title": "泸天化",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000912&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.00%",
+      "price": "4.68",
+      "volume": 92804
+    },
+    {
+      "title": "楚天龙",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz003040&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.00%",
+      "price": "18.9",
+      "volume": 135289
+    },
+    {
+      "title": "千金药业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600479&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.99%",
+      "price": "12.71",
+      "volume": 112564
+    },
+    {
+      "title": "望变电气",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh603191&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.99%",
+      "price": "14.41",
+      "volume": 33881
+    },
+    {
+      "title": "永安药业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002365&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.98%",
+      "price": "13.98",
+      "volume": 68799
+    },
+    {
+      "title": "捷荣技术",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002855&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.97%",
+      "price": "14.99",
+      "volume": 33821
+    },
+    {
+      "title": "海南橡胶",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh601118&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.94%",
+      "price": "7.34",
+      "volume": 156412
+    },
+    {
+      "title": "海鸥住工",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002084&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.80%",
+      "price": "5.52",
+      "volume": 80636
+    },
+    {
+      "title": "金正大",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002470&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.71%",
+      "price": "2.51",
+      "volume": 177909
+    },
+    {
+      "title": "万邦医药",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz301520&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.56%",
+      "price": "57.22",
+      "volume": 59268
+    },
+    {
+      "title": "惠丰钻石",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920725&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.49%",
+      "price": "86.26",
+      "volume": 54492
+    },
+    {
+      "title": "华资实业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600191&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.46%",
+      "price": "10.14",
+      "volume": 22130
+    },
+    {
+      "title": "黄河旋风",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600172&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.27%",
+      "price": "15.36",
+      "volume": 378573
+    },
+    {
+      "title": "丰安股份",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920608&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.25%",
+      "price": "14.23",
+      "volume": 4678
+    },
+    {
+      "title": "深粮控股",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000019&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.22%",
+      "price": "7.68",
+      "volume": 65929
+    },
+    {
+      "title": "农发种业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600313&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.08%",
+      "price": "7.61",
+      "volume": 109835
+    }
+  ]
+}

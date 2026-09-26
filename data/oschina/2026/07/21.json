@@ -1,0 +1,173 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T15:18:03.298000+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "7-Zip 被曝缓冲区溢出漏洞，可被用于远程执行任意代码",
+      "url": "https://www.oschina.net/news/476199",
+      "summary": "安全研究机构 Zero Day Initiative 上周提交漏洞报告称，压缩软件 7-Zip 存在一项基于堆（Heap）的缓冲区溢出漏洞，ZDI 给了 7.0 分，据称黑客可利...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "“画中画中画”——Qwen Image 3.0 把四层 UI 塞进了一张图",
+      "url": "https://www.oschina.net/news/476175/qwen-image-3-0",
+      "summary": "阿里巴巴发布了 Qwen Image 3.0，图像生成模型系列的第三代。如果说 1.0 的关键词是\"准\"，2.0 是\"准、多、齐、美、真\"，3.0 只给了一个字——\"实\"...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "拒绝苹果、放弃留美：杨植麟和梁文锋的选择不止是个人的",
+      "url": "https://www.oschina.net/news/476129",
+      "summary": "7 月 18 日，卡内基梅隆大学教授 Russ Salakhutdinov 在 X 上发了一条帖子，24 小时内被浏览了 134 万次。 起因是一个叫 @signulll 的用户问了一个...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "ng-zorro-antd 22.0.0 发布，基于 Angular 的 UI 组件",
+      "url": "https://www.oschina.net/news/476127/ng-zorro-antd-22-0-0-released",
+      "summary": "ng-zorro-antd 是 Ant Design 的 Angular 实现，主要用于研发企业级中后台产品。全部代码开源并遵循 MIT 协议，任何企业、组织及个人均可免费使用。...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "国家超算互联网上线Kimi K3 API服务，3万亿参数大模型一键调用",
+      "url": "https://www.oschina.net/news/476124",
+      "summary": "近日，国家超算互联网正式上线Kimi K3模型API调用服务，企业与开发者无需繁琐环境配置，即可快速调用这一2.8万亿参数开源大模型的能力。     Ki...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "deepseek优化服务商推荐2026——R1推理链信源卡位TOP3深度测评",
+      "url": "https://www.oschina.net/news/476122",
+      "summary": "导语 截至2026年7月，DeepSeek-R1以其开源权重、深度推理能力与低成本部署优势，已成为国内政企与B2B客户高价值决策场景下被调用频次增长较快的大模...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "全链路研发智能体 —— 从 \"体感能用\" 到 \"实际可用\" 的工程实践",
+      "url": "https://my.oschina.net/u/4939618/blog/19712576",
+      "summary": "AI Coding 已改变研发方式，但单点代码生成只占研发工时 10-32%，整体提效有限。本文从我们团队在项目的真实交付复盘出发，提出 Harness 全链路研发...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Hyprland 0.56 发布",
+      "url": "https://www.oschina.net/news/476057/hyprland-0-56-released",
+      "summary": "Hyprland 0.56 现已发布，这是一款基于 wlroots 的动态平铺式 Wayland 合成器。本次更新包含大量修复和新功能： 新功能 布局改进 新增滚动和主界面...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Mumble 1.5.915 发布",
+      "url": "https://www.oschina.net/news/476045/mumble-1-5.915released",
+      "summary": "Mumble 1.5.915 现已发布，这是 Mumble 1.5.x 系列的第四个补丁。此补丁体积较小，但包含一些重要的服务器端修复。 值得注意的是，官方表示无法再提...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "C++ web框架 Paozhu 1.14.0 发布，html 生成 pdf 文件，xlsx 文件读写",
+      "url": "https://www.oschina.net/news/476009",
+      "summary": "C++ web框架 Paozhu 1.14.0 发布，加入html生成pdf文件，目前全球几乎唯一C++语言开源功能，速度非常快，自带images处理，生成二维码模块为内置，不...",
+      "author": "osc_91229770",
+      "comments": 0
+    },
+    {
+      "title": "她叫 Bard，谷歌后来把这个名字给了 AI",
+      "url": "https://www.oschina.net/news/475987",
+      "summary": "Claire Stapleton 在谷歌干了十二年。2007 年入职的时候，她还是个刚毕业的传播助理。后来她成了公司内部最有辨识度的声音——不是写代码的那个声音...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Kimi K3 到底有多强？国产模型超越 Claude Fable 5，半天实战编码测评",
+      "url": "https://www.oschina.net/news/475974",
+      "summary": "JeecgBoot AI 专题研究 | Kimi K3 编程能力深度实测：复杂前后端改造任务实战复盘 这两天 AI 编程圈有点疯狂，Kimi K3 的表现开始频繁引起关注。带...",
+      "author": "JEECG官方",
+      "comments": 0
+    },
+    {
+      "title": "三大国产模型 Kimi K3、GLM-5.2、DeepSeek V4 Pro 对比，谁编码能力第一？",
+      "url": "https://www.oschina.net/news/475972",
+      "summary": "JeecgBoot AI 专题研究 | Kimi K3、GLM-5.2、DeepSeek V4 Pro 编程实战体验与客观数据交叉验证 写在前面：从 Claude Code 封号开始的折腾 说实话，...",
+      "author": "JEECG官方",
+      "comments": 0
+    },
+    {
+      "title": "Fable 5 比开源模型贵三倍，Anthropic 的账怎么算？",
+      "url": "https://www.oschina.net/news/475956",
+      "summary": "同一周，两个中国模型追平了 Anthropic 的 Fable 5。Moonshot 的 Kimi K3 在 7 月 16 日发布，阿里巴巴的 Qwen 3.8 在 7 月 19 日宣布。两个都会开...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Gartner：全球 AI 模型与平台市场 2026 年规模将达 640 亿美元",
+      "url": "https://www.oschina.net/news/475932",
+      "summary": "Gartner 最新预测指出，全球终端用户在人工智能模型和平台上的支出将迎来爆发式增长。预计到 2026 年，该领域的市场规模将达到640. 52 亿美元，相...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Notepad-- v3.8.2 已经发布，文本编辑器",
+      "url": "https://www.oschina.net/news/475896",
+      "summary": "Notepad-- v3.8.2 已经发布，文本编辑器 此版本更新内容包括： windows Notepad--v3.8.2-plugin-Installer.exe 是win10下面的插件版安装包，会关联...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "2026国内AI创作工具选型指南：商用视频工具哪个性价比高？",
+      "url": "https://www.oschina.net/news/475887",
+      "summary": "2026年，AI视频和图像生成工具进入了实用阶段。但很多创作者和团队在实际选型时会遇到一个共同困境：市面上的工具不少，但能同时满足\"国内直接使用...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "GPT API中转站推荐：自建号池和共享号池到底差在哪？",
+      "url": "https://www.oschina.net/news/475838",
+      "summary": "直接回答 自建号池和共享号池是API中转站两种截然不同的运营模式，核心区别在于：自建号池由中转站自己注册和管理上游API账号，对供给有完全掌控力...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "MCP 协议将发布史上最大更新：不再有会话，不再有握手",
+      "url": "https://www.oschina.net/news/475822",
+      "summary": "Model Context Protocol（MCP）将推出自诞生以来最激进的一次更新。RC 从 5 月 21 日锁定，经历 10 周的 SDK 验证和社区反馈，最终版规范在 7 月 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "NetworkManager 1.58 发布，Linux 网络管理软件",
+      "url": "https://www.oschina.net/news/475818/networkmanager-1-58-released",
+      "summary": "NetworkManager 1.58 现已发布。本次版本更新为文本用户界面 nmtui 带来了一系列可用性改进。在为物理接口（以太网、Wi-Fi 等）创建配置文件时，新...",
+      "author": "白开水不加糖",
+      "comments": 0
+    }
+  ]
+}

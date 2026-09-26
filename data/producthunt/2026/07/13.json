@@ -1,0 +1,438 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T15:51:24.046513+00:00",
+  "source": "producthunt",
+  "count": 50,
+  "columns": [
+    {
+      "name": "产品名",
+      "key": "product",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist"
+    }
+  ],
+  "items": [
+    {
+      "title": "Marked QL：Finder中的Markdown实时预览工具",
+      "product": "Marked QL",
+      "url": "https://www.producthunt.com/products/marked-ql",
+      "summary": "Marked QL是Mac平台的Quick Look插件，支持Finder中实时预览Markdown文件，可导出PDF/HTML等格式，Mac App Store售价4.99美元。",
+      "author": "Brett Terpstra",
+      "tags": []
+    },
+    {
+      "title": "Loomal：AI代理身份基础设施平台",
+      "product": "Loomal",
+      "url": "https://www.producthunt.com/products/loomal",
+      "summary": "Loomal 为 AI 代理提供 DKIM 签名收件箱、加密保险箱和每次操作的双因素认证，统一 API，原生 MCP 支持，可在 5 分钟内实现服务器变现且不抽成。",
+      "author": "Rohan Chaubey",
+      "tags": []
+    },
+    {
+      "title": "Knockoff",
+      "product": "Knockoff",
+      "url": "https://www.producthunt.com/products/knockoff-2",
+      "summary": "Amazon, without the knockoffs",
+      "author": "Josh Pigford",
+      "tags": []
+    },
+    {
+      "title": "Osaurus：本地运行的开源 AI 代理",
+      "product": "Osaurus",
+      "url": "https://www.producthunt.com/products/osaurus",
+      "summary": "Osaurus 是基于 MIT 许可的开源 AI 代理，使用原生 Swift 开发，全部在本地 Mac 上运行，无需联网，已获 6.9k 星、17.4 万次下载，且无广告和商业推广。",
+      "author": "tpae",
+      "tags": []
+    },
+    {
+      "title": "Playground：AI驱动的全能设计编辑器",
+      "product": "Playground",
+      "url": "https://www.producthunt.com/products/nyx-4",
+      "summary": "Playground提供数千模板和多种风格，支持通过自然语言描述进行无限编辑，可生成贴纸、T恤、社交媒体图文、手机壁纸等，并可导出用于社交、商品和印刷。",
+      "author": "Garry Tan",
+      "tags": []
+    },
+    {
+      "title": "NoMac：无需Mac的iOS应用发布平台",
+      "product": "NoMac.app",
+      "url": "https://www.producthunt.com/products/nomac",
+      "summary": "NoMac提供无Mac的iOS应用全流程发布方案，支持在服务器上完成构建、TestFlight测试及App Store提交，可由AI代理自动化操作，实现跨平台持续集成。",
+      "author": "Gary Miklos",
+      "tags": []
+    },
+    {
+      "title": "Creatify AI媒体买手：全渠道广告自动化平台",
+      "product": "AI Media Buyer By Creatify",
+      "url": "https://www.producthunt.com/products/creatify",
+      "summary": "Creatify提供AI视频广告生成和AI媒体买手功能。用户连接Meta、Google、TikTok账号，AI自动审计预算、创建并优化广告，仅通过聊天指令即可完成投放与扩量，使用Anthropic Claude模型实现跨渠道自动化管理。",
+      "author": "Rohan Chaubey",
+      "tags": []
+    },
+    {
+      "title": "Product Hunt MCP：将Product Hunt数据接入任意LLM",
+      "product": "Fudge MCP",
+      "url": "https://www.producthunt.com/products/fudge-mcp",
+      "summary": "Product Hunt MCP Server 是开源工具，将Product Hunt的帖子、评论、用户等数据通过模型上下文协议（MCP）提供给任意支持MCP的LLM或智能体。可通过 pip 安装，配合 Zapier 或 mcp‑use SDK，无需编写胶水代码即可快速集成。",
+      "author": "Simdi Jinkins",
+      "tags": []
+    },
+    {
+      "title": "UnitPay：AI产品计费与价值验证平台",
+      "product": "UnitPay",
+      "url": "https://www.producthunt.com/products/unitpay",
+      "summary": "提供AI产品定价、计费、价值验证，支持VISA/Mastercard及多种电子货币，快速接入，符合俄罗斯54-FZ法规，兼容WooCommerce等平台。",
+      "author": "fmerian",
+      "tags": []
+    },
+    {
+      "title": "AgentKey：AI代理的一站式实时数据市场",
+      "product": "AgentKey",
+      "url": "https://www.producthunt.com/products/agentkey",
+      "summary": "AgentKey是一款插件，帮助AI代理通过单一指令连接实时外部数据，支持Claude Code、Codex等MCP平台。提供SaaS工具访问治理，包括人工审批、加密凭证分发和完整审计日志。",
+      "author": "Zac Zuo",
+      "tags": []
+    },
+    {
+      "title": "Simba 语音代理平台",
+      "product": "Simba Voice Agents",
+      "url": "https://www.producthunt.com/products/speechify",
+      "summary": "Simba Voice Agents 基于全球首位的 Simba 3.2 语音模型，提供亚百毫秒低延迟、流式传输、真实情感与 SSML 支持，可在 Speechify 开发者平台上构建生产级语音代理，实现实时通话、预订及后续处理。",
+      "author": "Luke Oliff",
+      "tags": []
+    },
+    {
+      "title": "TailMux：支持多 Tailscale 网络的 tmux 会话工具",
+      "product": "TailMux",
+      "url": "https://www.producthunt.com/products/tailmux",
+      "summary": "TailMux 是面向 Tailscale 的 tmux 会话管理工具，支持同时使用多个 tailnet，无需切换或部署虚拟机。提供会话模板、状态面板和安全启动方案，可在本地 AI 盒子、开发服务器、日志及长期运行的代理机器之间快速切换。另有基于浏览器的终端，集成 tmux、多标签页并优化移动端使用。",
+      "author": "Claudio Quaglia",
+      "tags": []
+    },
+    {
+      "title": "JustVibe：任务型免费搜索引擎，自动生成实用应用",
+      "product": "JustVibe",
+      "url": "https://www.producthunt.com/products/justvibe",
+      "summary": "JustVibe 是免费搜索引擎，用户输入任务指令（如‘规划东京五日行程’），即可即时返回可直接使用的功能页面或应用，提供 AI 即时答案，去除广告，并可与多种开发、设计、营销工具集成。",
+      "author": "Chris Messina",
+      "tags": []
+    },
+    {
+      "title": "FetchSandbox：记忆故障的状态化 API 集成测试工具",
+      "product": "FetchSandbox",
+      "url": "https://www.producthunt.com/products/fetchsandbox",
+      "summary": "FetchSandbox 提供基于 OpenAPI 规范的状态化沙箱，可在 IDE 中快速接入，支持 50+ 主流 API（如 Stripe、GitHub、Twilio），模拟 webhook、重试、状态变更及失败场景，复现真实 bug 并记录破坏点，避免消耗真实 API 配额。",
+      "author": "fmerian",
+      "tags": []
+    },
+    {
+      "title": "ServiceBeard：邮件与任务追踪同步工具",
+      "product": "ServiceBeard",
+      "url": "https://www.producthunt.com/products/servicebeard",
+      "summary": "ServiceBeard 将邮箱转化为问题看板，实现邮件与 issue tracker 同步，支持自托管且无使用上限，可替代 Linear、Superhuman 等产品。",
+      "author": "Joram van den Boezem",
+      "tags": []
+    },
+    {
+      "title": "AI 第二大脑 v2",
+      "product": "Second Brain for AI v2",
+      "url": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "summary": "AI 记忆系统，可跨工具关联信息。最新记忆默认呈现，旧记忆保留在图谱中并标记为已替代，支持追溯思路变化。可通过聊天获取视频、笔记等内容的摘要、建议、研究计划，并使用文档作为上下文。",
+      "author": "fmerian",
+      "tags": []
+    },
+    {
+      "title": "Miora：具记忆功能的可编辑画布创意工作室",
+      "product": "Miora",
+      "url": "https://www.producthunt.com/products/miora-2",
+      "summary": "基于多智能体的创意平台，用户可在可编辑画布上用自然语言生成视觉、视频、3D、原型等多模态资产，系统自动记录记忆并可转化为可复用技能，实现一人即全创意团队。",
+      "author": "Zac Zuo",
+      "tags": []
+    },
+    {
+      "title": "Kickbacks CLI 终端与菜单栏工具",
+      "product": "Kickbacks CLI",
+      "url": "https://www.producthunt.com/products/kickbacks-cli",
+      "summary": "Kickbacks CLI 是本地终端工具和 macOS 菜单栏应用，实时显示 Kickbacks.ai 账户状态、收益、广告历史等信息，可一键查看日、周、月收入。",
+      "author": "Gabe Perez",
+      "tags": []
+    },
+    {
+      "title": "San Fran Sim",
+      "product": "San Fran Sim",
+      "url": "https://www.producthunt.com/products/san-fran-sim",
+      "summary": "A startup tycoon game",
+      "author": "Daniel Kempe",
+      "tags": []
+    },
+    {
+      "title": "ChatGPT Work：跨应用协作的AI代理",
+      "product": "ChatGPT Work",
+      "url": "https://www.producthunt.com/products/chatgpt-work",
+      "summary": "OpenAI推出ChatGPT Work，作为跨应用文件协作的AI代理，可持续处理项目并生成成果。用户评价其为高效的工作伙伴，适用于头脑风暴、写作、编码等场景，但强调其作为辅助工具的定位。",
+      "author": "Adithya Shreshti",
+      "tags": []
+    },
+    {
+      "title": "Effects SDK：实时AI视频音频特效工具",
+      "product": "Effects SDK",
+      "url": "https://www.producthunt.com/products/effects-sdk",
+      "summary": "该 SDK 为开发者提供即插即用的 AI 视频、音频特效，支持网页、桌面和移动端，可实现背景模糊、虚拟背景等生产级功能。",
+      "author": "fmerian",
+      "tags": []
+    },
+    {
+      "title": "SoundPipe：Mac 虚拟音频混音板",
+      "product": "SoundPipe",
+      "url": "https://www.producthunt.com/products/soundpipe",
+      "summary": "SoundPipe 在 Mac 上创建虚拟音频设备，提供可视化连线界面、实时电平表、每通道音量调节和监听功能；一键安装，无需终端或内核扩展，延迟低于15 毫秒，支持任意采样率。",
+      "author": "Chris Battarbee",
+      "tags": []
+    },
+    {
+      "title": "助产呼吸训练应用",
+      "product": "Breathing In Labour",
+      "url": "https://www.producthunt.com/products/breathing-in-labour",
+      "summary": "一款无广告、专注的助产呼吸训练应用，内置经验证的分娩各阶段呼吸技巧，提供教育内容，帮助孕妇备孕。",
+      "author": "Artur Jankowski",
+      "tags": []
+    },
+    {
+      "title": "Basedash SCIM：自动同步组织身份",
+      "product": "Basedash SCIM",
+      "url": "https://www.producthunt.com/products/basedash",
+      "summary": "Basedash SCIM 可将工作区身份与公司目录保持一致，实现用户、组及成员关系的自动化同步，支持 SAML 与 OIDC 单点登录，确保组织变更时访问权限实时更新。",
+      "author": "Max Musing",
+      "tags": []
+    },
+    {
+      "title": "Cloudflare Drop：浏览器拖拽文件即刻部署",
+      "product": "Cloudflare Drop",
+      "url": "https://www.producthunt.com/products/cloudflare",
+      "summary": "在浏览器直接拖入文件夹或ZIP，即可在 Cloudflare 边缘网络上秒级部署静态站点，支持一小时预览并可自行认领永久保留，无需注册账号，TTL 60 分钟，边缘实时将 HTML 转为 Markdown，降低 AI 代理 token 消耗，集成计费与访问控制。",
+      "author": "Rohan Chaubey",
+      "tags": []
+    },
+    {
+      "title": "Yasmine Works：Slack 内的 AI 同事",
+      "product": "Yasmine Works",
+      "url": "https://www.producthunt.com/products/yasmine-works",
+      "summary": "Yasmine Works 将 AI 同事嵌入 Slack，每个频道拥有独立记忆、工具和集成，支持邮件、文档、数据、代码等任务，基于 Claude 订阅运行。",
+      "author": "Badr",
+      "tags": []
+    },
+    {
+      "title": "Scarlett：Slack 与 iMessage 的 AI 助手",
+      "product": "Scarlett.",
+      "url": "https://www.producthunt.com/products/tryscarlett",
+      "summary": "Scarlett 是一款 AI 助手，可在 Slack 与 iMessage 中运行，能够自动完成约 90% 的日常工作任务，帮助提升团队效率。",
+      "author": "Ben Lang",
+      "tags": []
+    },
+    {
+      "title": "Native SDK：原生桌面应用开发工具包",
+      "product": "Native SDK",
+      "url": "https://www.producthunt.com/products/vercel",
+      "summary": "提供跨平台框架，支持 Android、iOS、macOS 等平台，集成 React Native、Live2D Cubism、Antigravity 等 SDK，帮助快速构建原生桌面应用。",
+      "author": "Chris Messina",
+      "tags": []
+    },
+    {
+      "title": "Notion 推出 Ship OS：基于代理的全流程软件发布平台",
+      "product": "Ship OS by Notion",
+      "url": "https://www.producthunt.com/products/notion",
+      "summary": "Ship OS 是 Notion 的代理原生系统，自动收集反馈、快速生成文档，在 Notion 中统一调度规格、任务并同步至 Slack、GitHub、Cursor，加速代码交付与产品上线。",
+      "author": "Chris Messina",
+      "tags": []
+    },
+    {
+      "title": "StoryChief Connect：AI驱动的内容发布与多渠道集成",
+      "product": "StoryChief Connect",
+      "url": "https://www.producthunt.com/products/storychief-io",
+      "summary": "StoryChief Connect是StoryChief平台的新集成层，连接AI助手、业务数据源和发布渠道，实现内容在网站和社交媒体的一键发布与多渠道分发。",
+      "author": "Valeri Potchekailov",
+      "tags": []
+    },
+    {
+      "title": "Mispher：本地语音转文字与多功能代理",
+      "product": "Mispher",
+      "url": "https://www.producthunt.com/products/mispher-agentic-transcription-for-mac",
+      "summary": "Mispher 在 Mac 上实现本地语音转文字、文本清理、改写、翻译及任务执行代理，全部离线运行，无需云服务或账号，专为 Apple Silicon 优化。",
+      "author": "Daniel Saad",
+      "tags": []
+    },
+    {
+      "title": "Sim：开源 AI 代理与工作流工作空间",
+      "product": "Sim",
+      "url": "https://www.producthunt.com/products/sim-studio",
+      "summary": "Sim 是开源的 AI 代理工作空间，支持在可视化画布上快速搭建、部署和编排代理工作流，可连接 1000+ 第三方集成和大型语言模型，提供 Copilot 自动生成节点、错误修复及向量数据库文档上传等功能。",
+      "author": "Garry Tan",
+      "tags": []
+    },
+    {
+      "title": "RepStandard：实时计数的AI体重训练助手",
+      "product": "RepStandard",
+      "url": "https://www.producthunt.com/products/repstandard",
+      "summary": "RepStandard利用手机摄像头通过计算机视觉实时统计深蹲、俯卧撑、仰卧起坐和平板支撑的次数，全部在设备本地完成，保障隐私，无需佩戴额外设备。",
+      "author": "Edvinas",
+      "tags": []
+    },
+    {
+      "title": "Juicy - Mac 电池管理应用",
+      "product": "Juicy - Mac Battery App",
+      "url": "https://www.producthunt.com/products/juicy-battery-app",
+      "summary": "Juicy 是一款 Mac 电池管理工具，提供智能电量提醒、健康数据洞察和美观界面，并支持充电上限设置。已获 Apple “我们喜爱的应用”推荐，提供 3 天免费试用。",
+      "author": "Dominik Sobe",
+      "tags": []
+    },
+    {
+      "title": "GPT-5.6",
+      "product": "GPT-5.6",
+      "url": "https://www.producthunt.com/products/openai",
+      "summary": "A new standard for intelligence and efficiency",
+      "author": "Rajiv Ayyangar",
+      "tags": []
+    },
+    {
+      "title": "ConnectMachine 2.0：AI数字名片管理工具",
+      "product": "ConnectMachine 2.0",
+      "url": "https://www.producthunt.com/products/connectmachine-2",
+      "summary": "ConnectMachine 2.0是一款隐私优先的AI代理工具，支持创建自定义数字名片，通过语音或文字查询管理联系人网络。具备高精度OCR扫描、AI记录员和智能管家功能，可自动关联会议场景与联系人信息，解决‘遗忘面孔’问题。",
+      "author": "Rohan Chaubey",
+      "tags": []
+    },
+    {
+      "title": "ChatCut：AI 视频编辑器",
+      "product": "ChatCut",
+      "url": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+      "summary": "ChatCut是一款轻量级专业AI视频编辑器，支持在ChatGPT、桌面和网页上通过文字指令完成剪辑、字幕、配乐、配音、动态图形、素材和AI生成视频，所有编辑可随时修改。",
+      "author": "Zac Zuo",
+      "tags": []
+    },
+    {
+      "title": "PlugThis：AI零代码Chrome扩展生成器",
+      "product": "PlugThis",
+      "url": "https://www.producthunt.com/products/plugthis-chrome-extension-generator",
+      "summary": "PlugThis是一款AI驱动的Chrome扩展零代码生成器，用户只需用英文描述需求，即可自动生成符合Manifest V3的完整扩展，包括文件结构、权限配置和源码，约两分钟即可交付，代码归用户所有。",
+      "author": "fmerian",
+      "tags": []
+    },
+    {
+      "title": "Meta AI发布Muse Spark 1.1 多模态推理模型",
+      "product": "Muse Spark 1.1 by Meta AI",
+      "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+      "summary": "Muse Spark 1.1是Meta Superintelligence Labs推出的多模态推理模型，针对代理任务优化，显著提升工具与电脑使用、代码生成和多模态理解能力，AI指数提升8分，具备成本和代币使用效率优势。",
+      "author": "Adithya Shreshti",
+      "tags": []
+    },
+    {
+      "title": "Perfai Security：AI驱动的Vibe应用自动安全平台",
+      "product": "Perfai Security",
+      "url": "https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps",
+      "summary": "Perfai Security是一款面向AI生成的Vibe应用的自主安全平台，用户仅需粘贴应用URL，即可实时检测并修复新提交、功能或AI工作流产生的漏洞，支持自动重映射攻击面并更新安全测试。",
+      "author": "Rohan Chaubey",
+      "tags": []
+    },
+    {
+      "title": "Monogram AI：可视化交互AI助手",
+      "product": "Monogram AI",
+      "url": "https://www.producthunt.com/products/monogram-ai",
+      "summary": "该项目是一款AI助手，摒弃传统纯文本回复，能够根据用户提问实时生成动态、可交互的可视化界面。其核心技术在于即时构建完整UI，提升信息呈现与操作效率。",
+      "author": "Edouard Tabet",
+      "tags": []
+    },
+    {
+      "title": "ARKAD Wallet",
+      "product": "ARKAD Wallet",
+      "url": "https://www.producthunt.com/products/arkad-wallet",
+      "summary": "Control your budget with voice",
+      "author": "Maksim Pegov",
+      "tags": []
+    },
+    {
+      "title": "Tasks.txt：macOS 纯文本任务管理器",
+      "product": "Tasks.txt",
+      "url": "https://www.producthunt.com/products/tasks-txt",
+      "summary": "Tasks.txt 是一款免费原生 macOS 应用，使用纯文本 todo.txt 格式管理任务，提供全键盘快捷键，无云同步或账号登录，适合偏好简约高效的用户。",
+      "author": "Yevhen",
+      "tags": []
+    },
+    {
+      "title": "GPT‑Live：全双工语音对话模型",
+      "product": "GPT-Live",
+      "url": "https://www.producthunt.com/products/openai",
+      "summary": "GPT‑Live 是 OpenAI 推出的全双工语音模型，可在对话中同步听说，支持中断、暂停，并在后台调用更强模型完成搜索或推理，提供 9 种声音，实现更自然的实时交互。",
+      "author": "Zac Zuo",
+      "tags": []
+    },
+    {
+      "title": "Constellation Gate AI：AI安全网关",
+      "product": "Constellation Gate AI",
+      "url": "https://www.producthunt.com/products/gate-ai-2",
+      "summary": "Constellation Gate AI 是面向 AI 代理和模型 API 的安全网关，拦截所有请求与响应，阻止提示注入、隐藏敏感信息并实时执行策略，提供即插即用的防护层。",
+      "author": "Benjamin Jorgensen",
+      "tags": []
+    },
+    {
+      "title": "SEORCE推出Just Ask：WhatsApp聊天式SEO工具",
+      "product": "Just Ask by SEORCE",
+      "url": "https://www.producthunt.com/products/seorce",
+      "summary": "Just Ask让用户在WhatsApp上直接对话查询SEO、GEO、分析、反向链接及AI可见性数据，支持英文自然语言提问，实时返回可执行答案，免去仪表盘操作。",
+      "author": "Prince Kushwaha",
+      "tags": []
+    },
+    {
+      "title": "Glimpse：AI竞争情报助手",
+      "product": "Glimpse",
+      "url": "https://www.producthunt.com/products/glimpse-17",
+      "summary": "Glimpse 是一款 AI 竞争情报代理，实时监测竞争对手的广告、定价、招聘、内容、评价和 AI 搜索等动态，并生成最新的对战卡、胜率和潜在需求损失报告，支持 Slack 与邮箱推送，自动化完整竞争情报流程。",
+      "author": "Sven De Meyere",
+      "tags": []
+    },
+    {
+      "title": "Aura：Git 原生 AI 编码代理 IDE（开源）",
+      "product": "Aura: Agents + Git + Intent Open Source",
+      "url": "https://www.producthunt.com/products/aura-28",
+      "summary": "Aura 是基于 Git 的开源 IDE，提供 AI 编码代理的函数/类级别变更追踪、意图日志、AST 级别版本控制，并在提交前验证任务完成。",
+      "author": "Mo Ashique Kuthini",
+      "tags": []
+    },
+    {
+      "title": "Toyo：在 iMessage 中的 AI 执行助理，可拨打电话",
+      "product": "Toyo",
+      "url": "https://www.producthunt.com/products/toyo",
+      "summary": "Toyo 是一款个人 AI 助手，嵌入 iMessage，可通过文字对话协助工作并可直接拨打电话。用户可使用代码 PRODUCTHUNT 获得首月免费。",
+      "author": "fmerian",
+      "tags": []
+    },
+    {
+      "title": "Auriko：LLM调用交易平台",
+      "product": "Auriko",
+      "url": "https://www.producthunt.com/products/auriko",
+      "summary": "Auriko 将大模型提供商视为交易场所，通过套利引擎根据用户请求模式、代币价格、缓存、延迟、可靠性等因素选择最优推理路径，实现约30%成本下降。",
+      "author": "Justin Jincaid",
+      "tags": []
+    }
+  ]
+}

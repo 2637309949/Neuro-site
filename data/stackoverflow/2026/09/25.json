@@ -1,0 +1,433 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T14:35:45.710727+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Where is the Python documentation for handling ties with the built-in min function?",
+      "url": "https://stackoverflow.com/questions/80005838/where-is-the-python-documentation-for-handling-ties-with-the-built-in-min-functi",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-3.x",
+        "lambda",
+        "max",
+        "min"
+      ],
+      "author": "heretoinfinity",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to add a number to the beginning of each line with awk?",
+      "url": "https://stackoverflow.com/questions/80005807/how-to-add-a-number-to-the-beginning-of-each-line-with-awk",
+      "summary": "",
+      "tags": [
+        "awk"
+      ],
+      "author": "McAlkis",
+      "comments": 4,
+      "score": 1
+    },
+    {
+      "title": "How to reduce CPU and RAM usage in Rubocop LSP?",
+      "url": "https://stackoverflow.com/questions/80005828/how-to-reduce-cpu-and-ram-usage-in-rubocop-lsp",
+      "summary": "",
+      "tags": [
+        "rubocop",
+        "language-server-protocol"
+      ],
+      "author": "Chiara Ani",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Should one parallelize an independent calls to a synchronous method using tasks or using threads?",
+      "url": "https://stackoverflow.com/questions/80005808/should-one-parallelize-an-independent-calls-to-a-synchronous-method-using-tasks",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c#",
+        "multithreading",
+        "asp.net-core",
+        "parallel-processing"
+      ],
+      "author": "katarina zed",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "How to Automate Crystal Report with an LLM",
+      "url": "https://stackoverflow.com/questions/80005818/how-to-automate-crystal-report-with-an-llm",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "crystal-reports",
+        "agent"
+      ],
+      "author": "Faheem Anis",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to make proxy references / iterators satisfy C++20 concepts?",
+      "url": "https://stackoverflow.com/questions/80005824/how-to-make-proxy-references-iterators-satisfy-c20-concepts",
+      "summary": "",
+      "tags": [
+        "c++",
+        "iterator",
+        "c++20",
+        "c++-concepts",
+        "c++23"
+      ],
+      "author": "akerstjens",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Infinite rotation feedback loop (360&#176; spin) when trying to control a physical wheelchair using Meta Interaction SDK",
+      "url": "https://stackoverflow.com/questions/80005803/infinite-rotation-feedback-loop-360-spin-when-trying-to-control-a-physical-wh",
+      "summary": "",
+      "tags": [
+        "c#",
+        "unity-game-engine",
+        "virtual-reality",
+        "oculus",
+        "kinematics"
+      ],
+      "author": "yoryi",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to improve LSM tree performance in mixed read-and-writ workload",
+      "url": "https://stackoverflow.com/questions/80005826/how-to-improve-lsm-tree-performance-in-mixed-read-and-writ-workload",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "polardb"
+      ],
+      "author": "王禹杰",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "In Visual Studios 2022 on C++, how do you round to 0.05?",
+      "url": "https://stackoverflow.com/questions/80005779/in-visual-studios-2022-on-c-how-do-you-round-to-0-05",
+      "summary": "",
+      "tags": [
+        "c++",
+        "rounding"
+      ],
+      "author": "Erika Smith",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How can computer vision detect visible vehicle damage from inspection photos?",
+      "url": "https://stackoverflow.com/questions/80005811/how-can-computer-vision-detect-visible-vehicle-damage-from-inspection-photos",
+      "summary": "",
+      "tags": [
+        "machine-learning",
+        "image-processing",
+        "computer-vision",
+        "object-detection"
+      ],
+      "author": "tech ling",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "JAX FFI handler does not find my CUDA function exported with nanobind",
+      "url": "https://stackoverflow.com/questions/80005798/jax-ffi-handler-does-not-find-my-cuda-function-exported-with-nanobind",
+      "summary": "",
+      "tags": [
+        "python",
+        "c++",
+        "cuda",
+        "jax",
+        "nanobind"
+      ],
+      "author": "alo bre",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to clone the current repo into a folder in workspace?",
+      "url": "https://stackoverflow.com/questions/80005812/how-to-clone-the-current-repo-into-a-folder-in-workspace",
+      "summary": "",
+      "tags": [
+        "jenkins",
+        "jenkins-pipeline",
+        "git-clone"
+      ],
+      "author": "davidalayachew",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Problem with CGAL 3D mesh generation example",
+      "url": "https://stackoverflow.com/questions/80005810/problem-with-cgal-3d-mesh-generation-example",
+      "summary": "",
+      "tags": [
+        "cgal"
+      ],
+      "author": "NoComp300",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I detect duplicate geometry in a CAD drawing programmatically?",
+      "url": "https://stackoverflow.com/questions/80005806/how-can-i-detect-duplicate-geometry-in-a-cad-drawing-programmatically",
+      "summary": "",
+      "tags": [
+        "drawing",
+        "autocad",
+        "cad",
+        "dxf",
+        "dwg"
+      ],
+      "author": "Indiancad",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Correcting faulty N-body simulation using velocity Verlet integration",
+      "url": "https://stackoverflow.com/questions/80005775/correcting-faulty-n-body-simulation-using-velocity-verlet-integration",
+      "summary": "",
+      "tags": [
+        "python",
+        "numerical-methods",
+        "astronomy"
+      ],
+      "author": "Joe_Hudson",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Bifurcating executable runtime when benchmarked",
+      "url": "https://stackoverflow.com/questions/80005761/bifurcating-executable-runtime-when-benchmarked",
+      "summary": "",
+      "tags": [
+        "c++",
+        "arrays",
+        "c++11",
+        "optimization",
+        "static"
+      ],
+      "author": "Przemek M",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Why does a custom __prepare__ namespace become a mappingproxy with refcount 2, and how does attribute lookup still work?",
+      "url": "https://stackoverflow.com/questions/80005786/why-does-a-custom-prepare-namespace-become-a-mappingproxy-with-refcount-2-a",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "YKT",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Dapper on a 3 tier architecture",
+      "url": "https://stackoverflow.com/questions/80005787/dapper-on-a-3-tier-architecture",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "vb.net",
+        "database-design",
+        "dapper"
+      ],
+      "author": "somecallmetim",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How do I disable when wsl ask for a password?",
+      "url": "https://stackoverflow.com/questions/80005784/how-do-i-disable-when-wsl-ask-for-a-password",
+      "summary": "",
+      "tags": [
+        "windows-subsystem-for-linux"
+      ],
+      "author": "Yasheen Bambaranda",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How to remote logout an user from a device",
+      "url": "https://stackoverflow.com/questions/80005777/how-to-remote-logout-an-user-from-a-device",
+      "summary": "",
+      "tags": [
+        "authentication",
+        "firebase-cloud-messaging",
+        "remote-access"
+      ],
+      "author": "Shreeram",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Decaying template types",
+      "url": "https://stackoverflow.com/questions/80005763/decaying-template-types",
+      "summary": "",
+      "tags": [
+        "c++",
+        "templates"
+      ],
+      "author": "mzoll",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Extract Multiple Variants and Patterns of Middle Initials within First and Last Name",
+      "url": "https://stackoverflow.com/questions/80005733/extract-multiple-variants-and-patterns-of-middle-initials-within-first-and-last",
+      "summary": "",
+      "tags": [
+        "excel",
+        "regex",
+        "excel-formula",
+        "extract"
+      ],
+      "author": "Miaka3",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to set -rpath for a rust executable inside build.rs",
+      "url": "https://stackoverflow.com/questions/80005782/how-to-set-rpath-for-a-rust-executable-inside-build-rs",
+      "summary": "",
+      "tags": [
+        "rust"
+      ],
+      "author": "Harry",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "React App.jsx page not able to make web socket connection with Spring Boot backend",
+      "url": "https://stackoverflow.com/questions/80005752/react-app-jsx-page-not-able-to-make-web-socket-connection-with-spring-boot-backe",
+      "summary": "",
+      "tags": [
+        "java",
+        "reactjs",
+        "spring",
+        "spring-boot",
+        "spring-websocket"
+      ],
+      "author": "Vineet Mishra",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "React form doesn&#39;t submit when pressing Enter in an input field",
+      "url": "https://stackoverflow.com/questions/80005758/react-form-doesnt-submit-when-pressing-enter-in-an-input-field",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "author": "Ehan Siddique",
+      "comments": 3,
+      "score": -2
+    },
+    {
+      "title": "What are the most effective modern resources and practice paths to master C#?",
+      "url": "https://stackoverflow.com/questions/80005743/what-are-the-most-effective-modern-resources-and-practice-paths-to-master-c",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "0x5278",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Problems debugging Flutter App using Xcode 27&#39;s iOS 27 Simulator (via Device Hub)",
+      "url": "https://stackoverflow.com/questions/80005746/problems-debugging-flutter-app-using-xcode-27s-ios-27-simulator-via-device-hub",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "xcode",
+        "vs-code",
+        "ios-simulator"
+      ],
+      "author": "Les",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "What are some good python practices for beginners?",
+      "url": "https://stackoverflow.com/questions/80005742/what-are-some-good-python-practices-for-beginners",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "Riya kumawat",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Uncaught Error: prompt() is not supported",
+      "url": "https://stackoverflow.com/questions/80005724/uncaught-error-prompt-is-not-supported",
+      "summary": "",
+      "tags": [
+        "javascript"
+      ],
+      "author": "Alex",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Is there a more optimal way to assign a calculated value to a Const?",
+      "url": "https://stackoverflow.com/questions/80005736/is-there-a-more-optimal-way-to-assign-a-calculated-value-to-a-const",
+      "summary": "",
+      "tags": [
+        "vba"
+      ],
+      "author": "raxinvars",
+      "comments": 0,
+      "score": -2
+    }
+  ]
+}

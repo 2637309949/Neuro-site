@@ -1,0 +1,443 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T12:50:45.530554+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Please provide me the right answers with any proof or documentation",
+      "url": "https://stackoverflow.com/questions/80002603/please-provide-me-the-right-answers-with-any-proof-or-documentation",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html5-audio",
+        "mobile-chrome"
+      ],
+      "author": "Yatharth Goyal",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Decryption program for a custom Encryption I wrote",
+      "url": "https://stackoverflow.com/questions/80002609/decryption-program-for-a-custom-encryption-i-wrote",
+      "summary": "",
+      "tags": [
+        "java",
+        "encryption",
+        "bluej",
+        "mojibake"
+      ],
+      "author": "SOBHAN MUKHERJEE stad",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "workers in playwright with parallel exectecution true is not working properly",
+      "url": "https://stackoverflow.com/questions/80002596/workers-in-playwright-with-parallel-exectecution-true-is-not-working-properly",
+      "summary": "",
+      "tags": [
+        "playwright",
+        "playwright-typescript"
+      ],
+      "author": "pratik37",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Pass input from a component A to component B without adding B to A",
+      "url": "https://stackoverflow.com/questions/80002582/pass-input-from-a-component-a-to-component-b-without-adding-b-to-a",
+      "summary": "",
+      "tags": [
+        "java",
+        "swing"
+      ],
+      "author": "Grinding For Reputation",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "`scanf` doesn&#39;t return `EOF` until Ctrl-Z plus Return is pressed thrice consecutively?",
+      "url": "https://stackoverflow.com/questions/80002578/scanf-doesnt-return-eof-until-ctrl-z-plus-return-is-pressed-thrice-consecut",
+      "summary": "",
+      "tags": [
+        "c",
+        "windows",
+        "scanf",
+        "console-application",
+        "eof"
+      ],
+      "author": "I Like Python",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "cant set a malloc to a property of a struct pointer of an array of malloced pointers",
+      "url": "https://stackoverflow.com/questions/80002589/cant-set-a-malloc-to-a-property-of-a-struct-pointer-of-an-array-of-malloced-poin",
+      "summary": "",
+      "tags": [
+        "c",
+        "pointers",
+        "struct",
+        "properties"
+      ],
+      "author": "cyber_iluliaq",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "break axis on barplot for very low count",
+      "url": "https://stackoverflow.com/questions/80002586/break-axis-on-barplot-for-very-low-count",
+      "summary": "",
+      "tags": [
+        "ggplot2",
+        "axis"
+      ],
+      "author": "Matteo",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Replace classic whitespace with unbreakable space",
+      "url": "https://stackoverflow.com/questions/80002566/replace-classic-whitespace-with-unbreakable-space",
+      "summary": "",
+      "tags": [
+        "php",
+        "string",
+        "replace",
+        "typography"
+      ],
+      "author": "Martin Paon",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I detect interactive logon, logoff, lock and unlock events in C#?",
+      "url": "https://stackoverflow.com/questions/80002576/how-can-i-detect-interactive-logon-logoff-lock-and-unlock-events-in-c",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net",
+        "windows",
+        "event-log"
+      ],
+      "author": "enzom83",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to scroll the TextField to above the keyboard immediately after user tap on it?",
+      "url": "https://stackoverflow.com/questions/80002570/how-to-scroll-the-textfield-to-above-the-keyboard-immediately-after-user-tap-on",
+      "summary": "",
+      "tags": [
+        "swiftui"
+      ],
+      "author": "Nghia",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Webscrape tool suggestion",
+      "url": "https://stackoverflow.com/questions/80002568/webscrape-tool-suggestion",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "web-scraping"
+      ],
+      "author": "Amol Budhwant",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How can I get input from terminal without blocking Tk mainloop?",
+      "url": "https://stackoverflow.com/questions/80002531/how-can-i-get-input-from-terminal-without-blocking-tk-mainloop",
+      "summary": "",
+      "tags": [
+        "tcl",
+        "tk-toolkit",
+        "tclsh"
+      ],
+      "author": "UndoingTech",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to Implement OAuth 2.0 for Service-to-Service Communication in Spring Boot Microservices?",
+      "url": "https://stackoverflow.com/questions/80002551/how-to-implement-oauth-2-0-for-service-to-service-communication-in-spring-boot-m",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring-boot",
+        "authentication",
+        "microservices",
+        "spring-security-oauth2"
+      ],
+      "author": "Sayan Das",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "py4j.protocol.Py4JJavaError: An error occurred while calling o71.getDeclaredMethod in flink 2.2.1",
+      "url": "https://stackoverflow.com/questions/80002556/py4j-protocol-py4jjavaerror-an-error-occurred-while-calling-o71-getdeclaredmeth",
+      "summary": "",
+      "tags": [
+        "python",
+        "apache-flink",
+        "flink-streaming",
+        "pyflink"
+      ],
+      "author": "Joseph Hwang",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "ShareLink has an issue with saving a CSV file on a device",
+      "url": "https://stackoverflow.com/questions/80002560/sharelink-has-an-issue-with-saving-a-csv-file-on-a-device",
+      "summary": "",
+      "tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "transferable",
+        "swiftui-sharelink"
+      ],
+      "author": "Grigory Konovalov",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Grails PageRenderer dysfunction in deployed war",
+      "url": "https://stackoverflow.com/questions/80002557/grails-pagerenderer-dysfunction-in-deployed-war",
+      "summary": "",
+      "tags": [
+        "grails"
+      ],
+      "author": "sodastream",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Copilot studio - NetSuite MCP server",
+      "url": "https://stackoverflow.com/questions/80002547/copilot-studio-netsuite-mcp-server",
+      "summary": "",
+      "tags": [
+        "netsuite",
+        "integration",
+        "agent",
+        "model-context-protocol",
+        "microsoft-copilot-studio"
+      ],
+      "author": "Uday Jampala",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "gl::load_with error : Non-primitive conversion: converting `glfw::GLProc` to `*const std::os::raw::c_void` [E0605]",
+      "url": "https://stackoverflow.com/questions/80002546/glload-with-error-non-primitive-conversion-converting-glfwglproc-to-c",
+      "summary": "",
+      "tags": [
+        "rust",
+        "glfw"
+      ],
+      "author": "long",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "ReactJS (19.2) Server &quot;LEFT JOIN&quot; get all Results from 2. Table in first Query?",
+      "url": "https://stackoverflow.com/questions/80002481/reactjs-19-2-server-left-join-get-all-results-from-2-table-in-first-query",
+      "summary": "",
+      "tags": [
+        "javascript"
+      ],
+      "author": "Kijupo",
+      "comments": 3,
+      "score": -1
+    },
+    {
+      "title": "Expanding class members following open/closed principles",
+      "url": "https://stackoverflow.com/questions/80002473/expanding-class-members-following-open-closed-principles",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "templates",
+        "template-instantiation"
+      ],
+      "author": "Caleb Foster",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "What do these errors mean",
+      "url": "https://stackoverflow.com/questions/80002523/what-do-these-errors-mean",
+      "summary": "",
+      "tags": [
+        "c++",
+        "multithreading"
+      ],
+      "author": "Mikaela Matthews",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Downloading Apple-hosted asset packs in a SwiftUI macOS app",
+      "url": "https://stackoverflow.com/questions/80002501/downloading-apple-hosted-asset-packs-in-a-swiftui-macos-app",
+      "summary": "",
+      "tags": [
+        "swift",
+        "xcode",
+        "macos",
+        "swiftui",
+        "background-assets-framework"
+      ],
+      "author": "Berry Blue",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "SHAppBarMessage: my own window gets pushed out of the AppBar space it just registered, before my own function call even returns",
+      "url": "https://stackoverflow.com/questions/80002486/shappbarmessage-my-own-window-gets-pushed-out-of-the-appbar-space-it-just-regis",
+      "summary": "",
+      "tags": [
+        "winapi",
+        "electron",
+        "taskbar",
+        "windows-shell"
+      ],
+      "author": "Tony Tellez",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to automatically detect no internet connection and show an offline screen in React Native (Expo)?",
+      "url": "https://stackoverflow.com/questions/80002468/how-to-automatically-detect-no-internet-connection-and-show-an-offline-screen-in",
+      "summary": "",
+      "tags": [
+        "react-native",
+        "expo",
+        "offline-caching",
+        "react-native-community-netinfo"
+      ],
+      "author": "nidhishree rao",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "django bug, please help me to fix this",
+      "url": "https://stackoverflow.com/questions/80002525/django-bug-please-help-me-to-fix-this",
+      "summary": "",
+      "tags": [
+        "django"
+      ],
+      "author": "DeoSant",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Does @NullMarked package imply non-nullablity on a field level?",
+      "url": "https://stackoverflow.com/questions/80002412/does-nullmarked-package-imply-non-nullablity-on-a-field-level",
+      "summary": "",
+      "tags": [
+        "java",
+        "jspecify"
+      ],
+      "author": "Jakub Ch.",
+      "comments": 3,
+      "score": 4
+    },
+    {
+      "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
+      "url": "https://stackoverflow.com/questions/80002375/why-does-subprocess-runcmd-shell-true-with-shlex-quote-break-on-windows",
+      "summary": "",
+      "tags": [
+        "python",
+        "windows",
+        "shell",
+        "subprocess",
+        "cross-platform"
+      ],
+      "author": "kainat khattak",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "NumPy neural network from scratch for regression: is my implementation correct, and what hyperparameters or feature engineering should I try next?",
+      "url": "https://stackoverflow.com/questions/80002496/numpy-neural-network-from-scratch-for-regression-is-my-implementation-correct",
+      "summary": "",
+      "tags": [
+        "python",
+        "numpy",
+        "machine-learning",
+        "deep-learning",
+        "neural-network"
+      ],
+      "author": "Anonymous Tech",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How do I make my website change layouts depending on screen size?",
+      "url": "https://stackoverflow.com/questions/80002451/how-do-i-make-my-website-change-layouts-depending-on-screen-size",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "bootstrap-5"
+      ],
+      "author": "waterscripts",
+      "comments": 3,
+      "score": 3
+    },
+    {
+      "title": "Updating Git for Windows unattended with PowerShell returns an error when run against remote servers",
+      "url": "https://stackoverflow.com/questions/80002487/updating-git-for-windows-unattended-with-powershell-returns-an-error-when-run-ag",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "powershell-core",
+        "git-for-windows"
+      ],
+      "author": "Jeramy",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

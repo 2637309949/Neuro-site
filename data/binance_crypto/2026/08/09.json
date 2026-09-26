@@ -1,0 +1,278 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T13:57:40.150325+00:00",
+  "source": "binance_crypto",
+  "count": 30,
+  "columns": [
+    {
+      "name": "币种",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "涨跌幅",
+      "key": "change",
+      "type": "metric",
+      "directionToggle": true
+    },
+    {
+      "name": "最新价",
+      "key": "price",
+      "type": "text"
+    },
+    {
+      "name": "24h成交额",
+      "key": "volume",
+      "type": "metric"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "TUT/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/TUT_USDT",
+      "summary": "",
+      "change": "122.55%",
+      "price": "0.15058",
+      "volume": 245765243
+    },
+    {
+      "title": "BMT/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/BMT_USDT",
+      "summary": "",
+      "change": "80.72%",
+      "price": "0.02324",
+      "volume": 24059282
+    },
+    {
+      "title": "CREAM/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/CREAM_USDT",
+      "summary": "",
+      "change": "65.35%",
+      "price": "2.1",
+      "volume": 276098
+    },
+    {
+      "title": "PNT/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/PNT_USDT",
+      "summary": "",
+      "change": "45.23%",
+      "price": "0.035",
+      "volume": 261845
+    },
+    {
+      "title": "MUBARAK/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/MUBARAK_USDT",
+      "summary": "",
+      "change": "36.43%",
+      "price": "0.01996",
+      "volume": 13996310
+    },
+    {
+      "title": "COOKIE/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/COOKIE_USDT",
+      "summary": "",
+      "change": "33.33%",
+      "price": "0.0128",
+      "volume": 6949603
+    },
+    {
+      "title": "BROCCOLI714/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/BROCCOLI714_USDT",
+      "summary": "",
+      "change": "30.61%",
+      "price": "0.02018",
+      "volume": 7942139
+    },
+    {
+      "title": "CATI/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/CATI_USDT",
+      "summary": "",
+      "change": "25.30%",
+      "price": "0.05081",
+      "volume": 6390461
+    },
+    {
+      "title": "IOTX/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/IOTX_USDT",
+      "summary": "",
+      "change": "24.08%",
+      "price": "0.00304",
+      "volume": 9749671
+    },
+    {
+      "title": "BANANAS31/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/BANANAS31_USDT",
+      "summary": "",
+      "change": "18.17%",
+      "price": "0.008499",
+      "volume": 2548360
+    },
+    {
+      "title": "KDA/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/KDA_USDT",
+      "summary": "",
+      "change": "17.65%",
+      "price": "0.006",
+      "volume": 343775
+    },
+    {
+      "title": "PUMP/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/PUMP_USDT",
+      "summary": "",
+      "change": "16.71%",
+      "price": "0.002682",
+      "volume": 14489621
+    },
+    {
+      "title": "UTK/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/UTK_USDT",
+      "summary": "",
+      "change": "16.23%",
+      "price": "0.00795",
+      "volume": 10207949
+    },
+    {
+      "title": "THE/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/THE_USDT",
+      "summary": "",
+      "change": "15.43%",
+      "price": "0.0636",
+      "volume": 3754065
+    },
+    {
+      "title": "PEOPLE/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/PEOPLE_USDT",
+      "summary": "",
+      "change": "15.01%",
+      "price": "0.0082",
+      "volume": 1779106
+    },
+    {
+      "title": "SAGA/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/SAGA_USDT",
+      "summary": "",
+      "change": "14.24%",
+      "price": "0.01572",
+      "volume": 16324645
+    },
+    {
+      "title": "BOME/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/BOME_USDT",
+      "summary": "",
+      "change": "14.20%",
+      "price": "0.0007247",
+      "volume": 1565194
+    },
+    {
+      "title": "CLV/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/CLV_USDT",
+      "summary": "",
+      "change": "13.97%",
+      "price": "0.02937",
+      "volume": 349015
+    },
+    {
+      "title": "JOE/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/JOE_USDT",
+      "summary": "",
+      "change": "13.83%",
+      "price": "0.0288",
+      "volume": 634849
+    },
+    {
+      "title": "SHELL/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/SHELL_USDT",
+      "summary": "",
+      "change": "13.76%",
+      "price": "0.0215",
+      "volume": 1142509
+    },
+    {
+      "title": "MDX/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/MDX_USDT",
+      "summary": "",
+      "change": "13.52%",
+      "price": "0.0345",
+      "volume": 314139
+    },
+    {
+      "title": "PARTI/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/PARTI_USDT",
+      "summary": "",
+      "change": "13.45%",
+      "price": "0.027",
+      "volume": 3000600
+    },
+    {
+      "title": "LISTA/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/LISTA_USDT",
+      "summary": "",
+      "change": "13.09%",
+      "price": "0.0622",
+      "volume": 1951574
+    },
+    {
+      "title": "TOWNS/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/TOWNS_USDT",
+      "summary": "",
+      "change": "12.17%",
+      "price": "0.00258",
+      "volume": 2184820
+    },
+    {
+      "title": "WAVES/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/WAVES_USDT",
+      "summary": "",
+      "change": "11.97%",
+      "price": "1.076",
+      "volume": 438682
+    },
+    {
+      "title": "ESP/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/ESP_USDT",
+      "summary": "",
+      "change": "10.71%",
+      "price": "0.07202",
+      "volume": 3746152
+    },
+    {
+      "title": "PROM/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/PROM_USDT",
+      "summary": "",
+      "change": "10.22%",
+      "price": "2.2",
+      "volume": 642114
+    },
+    {
+      "title": "DYM/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/DYM_USDT",
+      "summary": "",
+      "change": "9.54%",
+      "price": "0.0155",
+      "volume": 4691006
+    },
+    {
+      "title": "SOLV/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/SOLV_USDT",
+      "summary": "",
+      "change": "9.28%",
+      "price": "0.00259",
+      "volume": 2457885
+    },
+    {
+      "title": "BANK/USDT",
+      "url": "https://www.binance.com/zh-CN/trade/BANK_USDT",
+      "summary": "",
+      "change": "9.16%",
+      "price": "0.0429",
+      "volume": 15838003
+    }
+  ]
+}

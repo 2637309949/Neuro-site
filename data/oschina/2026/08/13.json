@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T10:22:16.789726+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "关于公开征集“元社区”研发设计类工业软件共性技术资源的通知",
+      "url": "https://www.oschina.net/news/501920",
+      "summary": "为推动研发设计类工业软件技术复用与产业协同，北京开元工业软件研究院（筹）正式启动共性技术资源征集工作。入库资源将获得研究院官方认证背书、精...",
+      "author": "卡卡西xi",
+      "comments": 0
+    },
+    {
+      "title": "轻量级运维极速引擎 OpsFlash v0.1.0 正式发布",
+      "url": "https://www.oschina.net/news/501919",
+      "summary": "OpsFlash 轻量级运维极速引擎 (The Flash Engine for Micro-Ops) OpsFlash 是一款基于 Wails v3 + Go + Vue 3 的跨平台桌面运维工具。单二进制分发...",
+      "author": "FLY的狐狸",
+      "comments": 0
+    },
+    {
+      "title": "Qwen 团队开源 Qwen3.8-2.4T，首次将 Max 级模型开放给社区",
+      "url": "https://www.oschina.net/news/501918",
+      "summary": "阿里通义千问团队在HuggingFace上正式开源了Qwen3.8-2.4T-A95B，这是Qwen开源模型家族中迄今为止能力最强的一代，也是Qwen-Max级别模型首次向社区开...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "xAI 发布 Grok 4.6，智能指数追平 GPT-5.6 Sol",
+      "url": "https://www.oschina.net/news/501917/grok-4-6",
+      "summary": "xAI于2026年8月12日正式发布Grok 4.6，在AI智能指数（Artificial Analysis Intelligence Index）上获得61分，追平了GPT-5.6 Sol（Max），仅落后Cla...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "研究者发现可以从商业 LLM API 中窃取推理轨迹",
+      "url": "https://www.oschina.net/news/501916/stolen-thoughts",
+      "summary": "Anthropic、OpenAI 和 Google 返回给客户端的加密推理链（chain-of-thought）是可以被完整窃取的。 一篇名为\"Stealing Reasoning Traces from Pro...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "和平之翼代码生成器帆版本尝鲜版三，蛋糕商城示例哑数据模式代码生成",
+      "url": "https://www.oschina.net/news/501915",
+      "summary": "和平之翼代码生成器帆版本已发布尝鲜版三，详细演示了蛋糕商城示例哑数据模式代码生成。和平之翼代码生成器帆版本尝鲜版三完善支持图片功能，新增支...",
+      "author": "火鸟1995",
+      "comments": 0
+    },
+    {
+      "title": "百融智能「硅基员工」进入美妆健康行业，AI重构存量用户增长链路",
+      "url": "https://www.oschina.net/news/501914",
+      "summary": "当消费行业从流量竞争进入存量竞争,品牌增长的逻辑也在发生变化。 过去相当长一段时间,美妆健康品牌更习惯通过广告投放、渠道扩张和新品营销获得增...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "GEO系统API对接选型策略：从技术评估到投放落地",
+      "url": "https://www.oschina.net/news/501913",
+      "summary": "在生成式AI搜索快速迭代的当下，GEO系统已成为企业数字营销战略中不可忽视的一环。然而，GEO系统的落地效果在很大程度上取决于API对接平台的选择...",
+      "author": "oschina官方",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek V4 Pro 正式版 API 上线，增强 Agent 能力",
+      "url": "https://www.oschina.net/news/501912/deepseek-v4-pro-0813",
+      "summary": "DeepSeek团队昨晚在社群宣布，DeepSeek V4 Pro正式版已经更新至API，调用模型名不变。新版本增强了Agent能力，支持Responses API和Codex接入。 De...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Tailscale 花费六个月追踪一个 16 年的 SQLite 漏洞",
+      "url": "https://www.oschina.net/news/501911/tailscale-sqlite-wal-reset-bug",
+      "summary": "去年年底，Tailscale 的 uptime开始变得不稳定。19 次独立的数据库损坏事件，横跨六个月——每次都是同一个 SQLite bug 在作祟。 Tailscale 控制平...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "wastnet 轻松开发 WebSocket 服务实战",
+      "url": "https://www.oschina.net/news/501910",
+      "summary": "用 wastnet 几分钟写一个 WebSocket 服务 实时双向通信是很多应用的刚需：聊天室、推送通知、在线协作、行情播报……这些都离不开 WebSocket。was...",
+      "author": "wycst",
+      "comments": 0
+    },
+    {
+      "title": ":trophy: 腾讯 APIJSON 8.3 🧠 A2API :rocket: KingbaseES 3 模式、金融项目",
+      "url": "https://www.oschina.net/news/501909",
+      "summary": "腾讯 APIJSON 是一种专为 API 而生的 JSON 网络传输协议 以及 基于这套协议实现的 ORM 库。 为各种增删改查提供了完全自动化的万能 API，零代码实时...",
+      "author": "孤独的探索号",
+      "comments": 0
+    },
+    {
+      "title": "FocusAny v2.1.0 15 条新命令，把 FocusAny 变成可编程的效率中枢",
+      "url": "https://www.oschina.net/news/501907",
+      "summary": "FocusAny 是一款常驻快捷键的 AI 效率工具条，全局搜索、剪贴板、40+ 大模型、可视化工作流、插件市场都在里面。v2.1.0 给它装上了命令行：插件安装...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "ZSvirt 正式开源，将企业级虚拟化带入开源社区",
+      "url": "https://www.oschina.net/news/501906/zsvirt-is-open-source",
+      "summary": "ZSvirt 现以 GPL 3.0 协议正式开源，完整源代码已在 GitHub 公开，ISO 安装包与技术文档可在社区官网获取。 吉隆坡/上海，2026 年 8 月 12 日。由基...",
+      "author": "ZStack社区版",
+      "comments": 0
+    },
+    {
+      "title": "智算中心进入\"经营时代\"：东软Neusoft SDA给算力资产算清三本账",
+      "url": "https://www.oschina.net/news/501905",
+      "summary": "AI基础设施正在经历一次重要转折。 过去几年，行业关注的是建成多少智算中心、部署多少GPU、形成多少算力规模。今天，随着AI从技术试验走向规模化应...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Gitee CLI 开源，无需离开终端，即可完成 Gitee 日常工作。",
+      "url": "https://gitee.com/oschina/gitee-cli",
+      "summary": "但当任务走到「把这个分支提个 PR」「顺手建个仓库」「把这批 issue 归档」时，它们往往就卡住了，网页界面点不动，裸调 REST API 又要记住一堆端点...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "在 Windows 上管理多个 Claude Code / Codex 终端：Termexo 的 PTY、会话恢复与模型切换设计",
+      "url": "https://my.oschina.net/gemron/blog/19737026",
+      "summary": "当 Windows 上同时跑着几个 Claude Code、Codex 终端时，“窗口能不能并排” 其实只是第一层问题。更难的是知道哪个 Agent 正在等待输入、哪个需要...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "林俊旸官宣创业公司“Pragmatik Labs”",
+      "url": "https://www.oschina.net/news/501902",
+      "summary": "前阿里通义千问（Qwen）团队核心成员林俊旸官宣了其创业公司：语用科技（Pragmatik Labs）。 今日凌晨，他在 X 上发布了这条消息。\"a life update\"...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Mojo 1.0 稳定版正式发布：三年打磨，终于能用在生产环境了",
+      "url": "https://www.oschina.net/news/501901/modular-26-5-mojo-1-0-is-here",
+      "summary": "2023 年发布时，Mojo 编程语言被宣传为\"Python 的超集，C 的速度\"。三年后，它兑现了其中一半的承诺，正式发布了 1.0。 Modular 团队在公告中强调，...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "谷歌力撑 Go ，称其为 AI 辅助软件工程的理想编程语言",
+      "url": "https://www.oschina.net/news/501900/go-is-an-ideal-language-for-ai-assisted-software-engineering",
+      "summary": "当 AI 帮你写代码时，你选什么语言？Google 的答案是 Go——不是因为它好写，而是因为它好读、好审、好维护。 Google 官方博客发表了一篇立场鲜明的...",
+      "author": "局",
+      "comments": 0
+    }
+  ]
+}

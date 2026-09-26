@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T14:42:33.110516+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": ":fire:xbatis-ddl-auto 1.0.1 ORM DDL，最强 mybatis ORM DDL",
+      "url": "https://www.oschina.net/news/484664",
+      "summary": "官网 https://xbatis.cn xbatis-ddl-auto 是一个基于 xbatis 实体元数据的轻量自动建表工具。 它复用 xbatis 的 @Table、@TableId、@TableField...",
+      "author": "Ai东",
+      "comments": 1
+    },
+    {
+      "title": ":fire: xbatis 1.10.7 正式发版，mybatis 系列最好用最简单最方便的 ORM !!!",
+      "url": "https://www.oschina.net/news/484660",
+      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用...",
+      "author": "Ai东",
+      "comments": 1
+    },
+    {
+      "title": "1723 天，1460 次提交：canvas-editor 富文本编辑器，今天 1.0 了",
+      "url": "https://www.oschina.net/news/484598",
+      "summary": "1723 天前,我提交了 Canvas Editor 的第一行代码。1460 次提交之后,它正式发布了 1.0.0。 促成 1.0 的最后一块拼图,是一个挂了 1556 天的 issue(#4...",
+      "author": "黄云飞hufe",
+      "comments": 0
+    },
+    {
+      "title": "Furion v4.9.9.52 已经发布，让 .NET 开发更简单，更通用，更流行",
+      "url": "https://www.oschina.net/news/484413",
+      "summary": "Furion v4.9.9.52 已经发布，让 .NET 开发更简单，更通用，更流行 此版本更新内容包括： 更新日志：https://furion.net/docs/category/upgrade/ 新...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "Furion v4.9.9.51 已经发布，让 .NET 开发更简单，更通用，更流行",
+      "url": "https://www.oschina.net/news/484377",
+      "summary": "Furion v4.9.9.51 已经发布，让 .NET 开发更简单，更通用，更流行 此版本更新内容包括： 更新日志：https://furion.net/docs/category/upgrade/ 新...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "OpenAI 宣布 GPT-5.6 Luna 价格下降 80%",
+      "url": "https://www.oschina.net/news/484069",
+      "summary": "OpenAI 宣布 GPT-5.6 Luna 价格下降 80%。输入从每百万 token 1 美元砍到 0.2 美元，输出从 6 美元砍到 1.2 美元。GPT-5.6 Terra 降 20%。旗舰 So...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：补丁管理正式上线，助力补丁全生命周期治理",
+      "url": "https://www.oschina.net/news/483964",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。...",
+      "author": "bklitecanway",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek-V4-Flash 官方 API 现已正式上线公测",
+      "url": "https://www.oschina.net/news/483929",
+      "summary": "DeepSeek V4 Flash 正式版今天上线了。模型结构和参数规模没变，还是 MoE 284B、激活 13B、100 万 token 上下文——只重新做了后训练。但改完之后，...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "纳德拉终于想起微软还有个操作系统了",
+      "url": "https://www.oschina.net/news/483871",
+      "summary": "7 月 29 日的 2026 Q4 财报电话会上，微软 CEO 说了一句让 Windows 用户等了十年的话：\"在 Windows 上，我们正在加大投资，以确保它拥有最好的质量...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "深信服Agent挑战赛获奖名单公布！见证生产级AI落地的扎实一步",
+      "url": "https://www.oschina.net/news/483849",
+      "summary": "7月24日，历时三个月的「基于FastGPT深信服商业版Agent实战挑战赛」复赛正式收官！ 由琥珀资本合伙人、微软解决方案总监，以及深信服架构师、产研、...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "英伟达又被开源大佬问候了，但这次不是祖师爷 Linus Torvalds",
+      "url": "https://www.oschina.net/news/483844",
+      "summary": "7 月 20 日，Eric S. Raymond 在 X 上发了一条帖子，核心判断一句话：闭源驱动已死（\"binary-driver secrecy is dead\"，二进制驱动保密的产业均衡态...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": ":fire: Solon AI v4.0.4 发布（智能体开发框架，支持 Java8 到 Java26）",
+      "url": "https://www.oschina.net/news/483694",
+      "summary": "Solon AI Solon AI 是一款面向 Java 开发者 的全栈智能体（Agent）应用开发框架。它秉承 Solon 家族一贯的“克制、高效、开放”理念，向上抽象统一...",
+      "author": "梅子酒好吃",
+      "comments": 0
+    },
+    {
+      "title": "我做了一个支持 CI/CD 流水线部署的床头闹钟",
+      "url": "https://www.oschina.net/news/483672",
+      "summary": "\"我要的闹钟，市面上买不到。\" Ars Technica 高级编辑 Lee Hutchinson 最近被床头闹钟惹毛了。每次断电或夏令时切换，他都要站在柜子旁按住 TIME 键...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "MiniMax H3 正式上线，视频模型也开始玩全模态了",
+      "url": "https://www.oschina.net/news/483640",
+      "summary": "上个月 MiniMax 刚用 M3 在文本模型上刷了一波存在感，今天 H3 来了——一款全模态生成模型，而且承诺几天内开源权重。 先看能力边界。H3 接受文本...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Anthropic 的 AI 摸到了密码学天花板",
+      "url": "https://www.oschina.net/news/483634",
+      "summary": "密码学家 Matthew Green 看完 Anthropic 最新的密码分析成果后，写了篇博客。标题很克制：「一些想法」，但内容不克制。 先说 Anthropic 做了什么。...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Agents-Flex v2.2.6 已经发布，大语言模型应用开发框架",
+      "url": "https://www.oschina.net/news/483595",
+      "summary": "Agents-Flex v2.2.6 已经发布，大语言模型应用开发框架 此版本更新内容包括： chore(deps): update fastjson2 dependency to version 2.0.63 feat(...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "2026上海SEO服务生态观察：从关键词排名到AI答案占位的选型逻辑",
+      "url": "https://www.oschina.net/news/483575",
+      "summary": "在2026年的上海商业版图中,搜索引擎优化早已不是“发外链、堆关键词”那么简单。行业数据显示,2026年上海地区企业数字化营销预算中,SEO与GEO相关投...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "国家人社AI蓝图铺开，东软为何能率先交卷？",
+      "url": "https://www.oschina.net/news/483574",
+      "summary": "在劳动人事争议仲裁中，这样的场景并不少见： 一名劳动者完成工伤认定后，因工伤待遇问题与用人单位产生争议，需要申请劳动仲裁。过去，他可能要请...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "gt-checksum 4.0.2 已经发布，静态数据库校验修复工具",
+      "url": "https://www.oschina.net/news/483557",
+      "summary": "gt-checksum 4.0.2 已经发布，静态数据库校验修复工具 此版本更新内容包括： v4.0.2 关键变化 功能新增：新增 hashAlgorithm 参数，支持选择 xxha...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "EasyGoAdmin 敏捷开发框架 Gin+AntdVue 版本 v3.1.1 发布",
+      "url": "https://www.oschina.net/news/483545",
+      "summary": "v3.1.1 更新内容： 1、修复近期用户反馈的问题； 一款 Go 语言基于 Gin、Vue3、AntDesign、MySQL 等框架精心打造的一款模块化、插件化、高性能的前...",
+      "author": "easygoadmin",
+      "comments": 0
+    }
+  ]
+}

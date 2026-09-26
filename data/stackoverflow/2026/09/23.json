@@ -1,0 +1,440 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T14:14:07.786343+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Mac users can&#39;t see all the files on the server",
+      "url": "https://stackoverflow.com/questions/80005260/mac-users-cant-see-all-the-files-on-the-server",
+      "summary": "",
+      "tags": [
+        "macos",
+        "smb",
+        "nfd"
+      ],
+      "author": "H&#229;kan Eriksson",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Encoding issues between Java WebSocket server and JavaScript client",
+      "url": "https://stackoverflow.com/questions/80005262/encoding-issues-between-java-websocket-server-and-javascript-client",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "websocket",
+        "client-server",
+        "java-websocket"
+      ],
+      "author": "Pestro",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Is there a way to force GCC (or Clang?) to emit function bodies with a single exit point at the very end?",
+      "url": "https://stackoverflow.com/questions/80005252/is-there-a-way-to-force-gcc-or-clang-to-emit-function-bodies-with-a-single-ex",
+      "summary": "",
+      "tags": [
+        "c",
+        "gcc",
+        "code-generation",
+        "jit"
+      ],
+      "author": "dumbass",
+      "comments": 0,
+      "score": 3
+    },
+    {
+      "title": "Windows ui automation",
+      "url": "https://stackoverflow.com/questions/80005249/windows-ui-automation",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "user33149796",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Anaconda Navigator?",
+      "url": "https://stackoverflow.com/questions/80005233/anaconda-navigator",
+      "summary": "",
+      "tags": [
+        "python",
+        "spyder",
+        "anaconda3"
+      ],
+      "author": "Rozemarijn Dik",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Git tool to git-revise an uncommitted hunk into a selected commit and updating affected refs",
+      "url": "https://stackoverflow.com/questions/80005245/git-tool-to-git-revise-an-uncommitted-hunk-into-a-selected-commit-and-updating-a",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "git"
+      ],
+      "author": "user2394284",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to add TaskToken to existing JSON object when executing a callback function in AWS Step Functions?",
+      "url": "https://stackoverflow.com/questions/80005207/how-to-add-tasktoken-to-existing-json-object-when-executing-a-callback-function",
+      "summary": "",
+      "tags": [
+        "amazon-web-services",
+        "aws-lambda",
+        "aws-step-functions"
+      ],
+      "author": "danrockcoll",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How do I get Eclipse IDE to show emoji in color?",
+      "url": "https://stackoverflow.com/questions/80005230/how-do-i-get-eclipse-ide-to-show-emoji-in-color",
+      "summary": "",
+      "tags": [
+        "eclipse",
+        "fonts"
+      ],
+      "author": "darzington",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why does Stack Exchange OAuth PKCE return valid access tokens but write operations fail with 400/403 errors?",
+      "url": "https://stackoverflow.com/questions/80005229/why-does-stack-exchange-oauth-pkce-return-valid-access-tokens-but-write-operatio",
+      "summary": "",
+      "tags": [
+        "stackexchange-api"
+      ],
+      "author": "Supriya Parkhe",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Microsoft changing the URLs of the Main account features: MC1462460",
+      "url": "https://stackoverflow.com/questions/80005239/microsoft-changing-the-urls-of-the-main-account-features-mc1462460",
+      "summary": "",
+      "tags": [
+        "azure",
+        "azure-active-directory",
+        "microsoft-entra-id"
+      ],
+      "author": "erahal",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "youtube_player_flutter not working on iOS — what is the best alternative?",
+      "url": "https://stackoverflow.com/questions/80005219/youtube-player-flutter-not-working-on-ios-what-is-the-best-alternative",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "ios",
+        "flutter",
+        "dart",
+        "mobile"
+      ],
+      "author": "Susheel Patel",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to keep &quot;direct&quot; initialization errors ? Is it possible?",
+      "url": "https://stackoverflow.com/questions/80005205/how-to-keep-direct-initialization-errors-is-it-possible",
+      "summary": "",
+      "tags": [
+        "c++",
+        "initialization",
+        "c++17",
+        "language-lawyer",
+        "std-byte"
+      ],
+      "author": "darune",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Start C# app in ubuntu from .desktop vs starting from command line",
+      "url": "https://stackoverflow.com/questions/80005224/start-c-app-in-ubuntu-from-desktop-vs-starting-from-command-line",
+      "summary": "",
+      "tags": [
+        "c#",
+        "linux",
+        "launcher",
+        "system.diagnostics"
+      ],
+      "author": "FSO931s",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I implement a random dice roll system with different outcomes?",
+      "url": "https://stackoverflow.com/questions/80005201/how-can-i-implement-a-random-dice-roll-system-with-different-outcomes",
+      "summary": "",
+      "tags": [
+        "advice",
+        "godot"
+      ],
+      "author": "Michael Douglas",
+      "comments": 0,
+      "score": -11
+    },
+    {
+      "title": "Fitted presentation sizing not working for sheet with native toolbar",
+      "url": "https://stackoverflow.com/questions/80005173/fitted-presentation-sizing-not-working-for-sheet-with-native-toolbar",
+      "summary": "",
+      "tags": [
+        "ios",
+        "swiftui",
+        "ipad",
+        "swiftui-sheet",
+        "swiftui-toolbar"
+      ],
+      "author": "Benzy Neez",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Understanding std::chrono file time differences",
+      "url": "https://stackoverflow.com/questions/80005175/understanding-stdchrono-file-time-differences",
+      "summary": "",
+      "tags": [
+        "c++",
+        "timezone",
+        "c++-chrono"
+      ],
+      "author": "The Welder",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Xcode 27.0 RC hangs indefinitely at “Preparing to upload” when uploading to App Store Connect",
+      "url": "https://stackoverflow.com/questions/80005223/xcode-27-0-rc-hangs-indefinitely-at-preparing-to-upload-when-uploading-to-app",
+      "summary": "",
+      "tags": [
+        "xcode",
+        "app-store-connect"
+      ],
+      "author": "strato_cruiser",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Why deleting attribute doesn’t raise SyntaxError for deleting literal in Python",
+      "url": "https://stackoverflow.com/questions/80005127/why-deleting-attribute-doesn-t-raise-syntaxerror-for-deleting-literal-in-python",
+      "summary": "",
+      "tags": [
+        "python",
+        "attributes"
+      ],
+      "author": "antialiased",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How should I publish multiple Redis Stream events concurrently in TypeScript?",
+      "url": "https://stackoverflow.com/questions/80005191/how-should-i-publish-multiple-redis-stream-events-concurrently-in-typescript",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "node.js",
+        "typescript",
+        "redis",
+        "event-stream"
+      ],
+      "author": "Hussain Ahmad",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Does PolarDB for MySQL support tiered storage for monthly partitions?",
+      "url": "https://stackoverflow.com/questions/80005190/does-polardb-for-mysql-support-tiered-storage-for-monthly-partitions",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "polardb"
+      ],
+      "author": "boyu",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Partial record as input Type in functions",
+      "url": "https://stackoverflow.com/questions/80005202/partial-record-as-input-type-in-functions",
+      "summary": "",
+      "tags": [
+        "modelica"
+      ],
+      "author": "AngeliqueR",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How do I load images from svelte subfolders where the +page.svelte page is?",
+      "url": "https://stackoverflow.com/questions/80005148/how-do-i-load-images-from-svelte-subfolders-where-the-page-svelte-page-is",
+      "summary": "",
+      "tags": [
+        "image",
+        "svelte",
+        "sveltekit"
+      ],
+      "author": "KenMatsuo",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Read keystrokes from Unix and Windows terminals",
+      "url": "https://stackoverflow.com/questions/80005158/read-keystrokes-from-unix-and-windows-terminals",
+      "summary": "",
+      "tags": [
+        "c++",
+        "keyboard",
+        "xterm",
+        "termios"
+      ],
+      "author": "Richard Kirk",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Does requests.Session pick up changes to the file contents of a provided cert?",
+      "url": "https://stackoverflow.com/questions/80005199/does-requests-session-pick-up-changes-to-the-file-contents-of-a-provided-cert",
+      "summary": "",
+      "tags": [
+        "python-requests",
+        "urllib3"
+      ],
+      "author": "Lukas",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Bounded type parameter lists and backwards-compatible Python syntax",
+      "url": "https://stackoverflow.com/questions/80005171/bounded-type-parameter-lists-and-backwards-compatible-python-syntax",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-typing",
+        "pep-695"
+      ],
+      "author": "A. Gocht",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Why does UPDATE fail to resolve a FIELD column that SELECT can read?",
+      "url": "https://stackoverflow.com/questions/80005143/why-does-update-fail-to-resolve-a-field-column-that-select-can-read",
+      "summary": "",
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ],
+      "author": "Alex Chen",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Flutter app shows default counter instead of my custom StatefulWidget (TodoApp)",
+      "url": "https://stackoverflow.com/questions/80005138/flutter-app-shows-default-counter-instead-of-my-custom-statefulwidget-todoapp",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "android",
+        "flutter",
+        "windows",
+        "state"
+      ],
+      "author": "Kyvin Magalona",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Using nested repeaters with dynamic data",
+      "url": "https://stackoverflow.com/questions/80005116/using-nested-repeaters-with-dynamic-data",
+      "summary": "",
+      "tags": [
+        "c#",
+        "asp.net",
+        "repeater"
+      ],
+      "author": "John DiBella",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to bypass PostgreSQL&#39;s 100 function parameter limitation for IN and FIELD",
+      "url": "https://stackoverflow.com/questions/80005090/how-to-bypass-postgresqls-100-function-parameter-limitation-for-in-and-field",
+      "summary": "",
+      "tags": [
+        "sql",
+        "postgresql",
+        "stored-procedures",
+        "stored-functions",
+        "sql-in"
+      ],
+      "author": "Oliver Cox",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "Why does updating a struct array sequentially become 4x slower when threads write to adjacent indices?",
+      "url": "https://stackoverflow.com/questions/80005091/why-does-updating-a-struct-array-sequentially-become-4x-slower-when-threads-writ",
+      "summary": "",
+      "tags": [
+        "c++",
+        "multithreading",
+        "performance",
+        "cpu-architecture",
+        "false-sharing"
+      ],
+      "author": "bsduck",
+      "comments": 1,
+      "score": 1
+    }
+  ]
+}

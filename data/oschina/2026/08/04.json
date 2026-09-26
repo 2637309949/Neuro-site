@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T15:35:54.358959+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "FFmpeg 9.0 发布：代号“Lei”，以此纪念中国开发者雷霄骅",
+      "url": "https://www.oschina.net/news/487289",
+      "summary": "全球知名开源多媒体框架 FFmpeg 今天正式发布了 9.0 版本。这个版本除了带来新一代音视频处理能力和硬件加速支持之外，还有一个特殊之处：FFmpeg ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "梁文锋被扒出早年微博小号，孤身前往无人区来一场相当 deep 的 seek 旅行",
+      "url": "https://www.oschina.net/news/487233",
+      "summary": "梁文锋的早期微博账号被挖出来了。 账号叫「程序小王子」，简介写的是「流年似水，秋叶相随」。从发布记录来看，这个账号发布的内容以户外风景为主...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "亚马逊成本失控：AI 写代码烧掉 1215 万元，超预算 860%",
+      "url": "https://www.oschina.net/news/487225",
+      "summary": "外媒近日曝光了亚马逊的多份内部报告显示，AI 导致公司在多个项目上超支。《金融时报》报道称，仅一个项目的成本超支就高达 180 万美元（约合人民币...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "九有数据库“可信多模 AI 数据底座关键技术及应用”通过科技成果评价",
+      "url": "https://www.oschina.net/news/487222",
+      "summary": "近日，深圳九有数据库有限公司（以下简称“九有”）联合北京大学共同攻关的“可信多模AI数据底座关键技术及应用”项目，顺利通过先进技术成果西部转...",
+      "author": "菠萝的海子",
+      "comments": 0
+    },
+    {
+      "title": "Redisson 4.7.0 发布，官方推荐的 Redis 客户端",
+      "url": "https://www.oschina.net/news/487199/redisson-4-7-0-released",
+      "summary": "Redisson 4.7.0 现已发布，这是一个 Java 编写的 Redis 客户端，具备驻内存数据网格（In-Memory Data Grid）功能，并获得了 Redis 的官方推荐。 ...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Hugging Face CEO 发声：中国正在开源模型上碾压我们",
+      "url": "https://www.oschina.net/news/487177/hugging-face-china-ai-race-open-models",
+      "summary": "\"他们正在开源模型上碾压我们。\" Hugging Face CEO Clément Delangue 在 CNBC 的采访里没有拐弯抹角。他说中国正在赢得 AI 竞赛，而且按目前的速度...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "当 AI agent 把源码变成了最好的扩展系统，开发者工具必须开源",
+      "url": "https://www.oschina.net/news/487144",
+      "summary": "五年前，David Crawshaw 问过很多软件工程师一个问题：你写过什么给自己用的程序？答案几乎都是没有。工程师们整天用别人写的程序写程序给别人用。...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Loop Engineering：让 AI Agent 自己跑起来的工程方法",
+      "url": "https://my.oschina.net/u/6769809/blog/19729119",
+      "summary": "Loop Engineering 不是什么新工具，而是一种新的思维模式： 你的工作不再是引导人工智能，而是设计能够代表你引导人工智能的系统。",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek Harness 宣布内测邀请，全网最大规模开源 Agent 路演现场诞生",
+      "url": "https://www.oschina.net/news/487110",
+      "summary": "一条内测招募帖，发出去的时候大概没人想到它会变成一场开源 Agent 生态的路演。 8月1日，DeepSeek Harness 团队负责人崔添翼（tianyi）在 X 上发帖...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "商汤 SenseNova U1.5-Lite-Preview 开源",
+      "url": "https://www.oschina.net/news/487067",
+      "summary": "商汤科技宣布面向社区开源轻量级统一多模态模型的预览版本 SenseNova U1.5-Lite-Preview。 公告称，SenseNova U1.5-Lite-Preview并非简单的模型规模...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Ubuntu 将核心系统包从 deb 转成了 snap",
+      "url": "https://www.oschina.net/news/487026/ubuntu-hwctl-deb-to-snap-transition",
+      "summary": "Ubuntu 正在把又一个核心系统包从 deb 转为 snap。这次是 hwctl——一个用来检查 Ubuntu 硬件认证状态的命令行工具。 Canonical 工程师 Alan Griff...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Semi Design v2.102.0 发布，抖音企业级 UI 库",
+      "url": "https://www.oschina.net/news/487021/semi-design-2-102-0-released",
+      "summary": "Semi Design 是现代、全面、灵活的设计系统和 UI 库，由字节跳动抖音前端与 UED 团队设计、开发并维护，是一款包含设计语言、React 组件、主题等开...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "智谱 GLM-5.3 提前曝光",
+      "url": "https://www.oschina.net/news/487000",
+      "summary": "智谱的下一代模型还没发布，官网和代码仓库已经把它抖出来了。 2026 年 8 月 3 日，智谱旗下 AI 编程工具 ZCode 的官网悄然上线了 \"ZCode for GLM...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "API 智能开发平台 5.3 发布",
+      "url": "https://www.oschina.net/news/486996/crabc-5-3-released",
+      "summary": "ApiGo 是是一款基于 AI 技术的企业级低代码 API 开发与治理平台。 通过智能化配置快速将数据变成标准 REST API，生成 AI Skill 技能， 实现从设计...",
+      "author": "鲨鱼不刷牙",
+      "comments": 0
+    },
+    {
+      "title": "千万级基金就位！国家超算互联网启动用户体验官招募计划",
+      "url": "https://www.oschina.net/news/486945",
+      "summary": "为践行全国一体化算力网建设理念、推动算力资源普惠千行百业，近日国家超算互联网平台启动“用户体验官”招募计划，并设立总价值1000万元的体验基金...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "打破数据孤岛！qKnow 开源版 v2.4.0 重磅上线 MCP 模块，让你的 Agent 无缝连接真实世界",
+      "url": "https://www.oschina.net/news/486938",
+      "summary": "qKnow开源版v2.4.0新增MCP远程工具管理模块，支持通过HTTP方式接入MCP服务，并可在Agent编排中选择已经启用的MCP工具。本次版本还增加了开源协议提...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "Gitee AI 队友正式上线，免费领 500 Credits 体验额度",
+      "url": "https://www.oschina.net/news/486884",
+      "summary": "提一个 Issue，AI 自动理解需求、编写代码并提交 Pull Request。 创建一个项目，AI 持续跟踪任务进度，提前识别延期和交付风险。 提交一段代码，A...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Dario Amodei 担心新人来 Anthropic 只为金钱，不为使命",
+      "url": "https://www.oschina.net/news/486872",
+      "summary": "顶级 AI 研究员在两家公司之间来回跳，中间只隔了几天。 Lilian Weng 上周刚宣布因健康原因离开 Thinking Machines Lab，说自己作为联合创始人的角...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "IBM 报告：1/4 的恶意攻击由 AI 驱动，单起平均造成 600 万美元损失",
+      "url": "https://www.oschina.net/news/486852",
+      "summary": "根据 IBM《2026年数据泄露成本报告》，在恶意数据泄露事件中，AI 驱动的攻击占比达四分之一，较去年增长了56%。此类事件单起平均造成 600 万美元损...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "ShopXO 免费开源商城系统 v6.9.1 版本已发布",
+      "url": "https://www.oschina.net/news/486846",
+      "summary": "更新日志  1.【新增】OSS文件插件，支持图片样式处理，兼容PHP8.0及以上环境 2.【新增】朋友代付插件，移动端可用，支付弹窗预留钩子，附带支付单...",
+      "author": "ShopXO开源商城",
+      "comments": 0
+    }
+  ]
+}

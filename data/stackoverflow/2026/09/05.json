@@ -1,0 +1,436 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T12:39:37.568188+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Do Kubernetes LoadBalancer services need to be deleted before terraform destroy when EKS is provisioned by Terraform but NLBs are not?",
+      "url": "https://stackoverflow.com/questions/80000975/do-kubernetes-loadbalancer-services-need-to-be-deleted-before-terraform-destroy",
+      "summary": "",
+      "tags": [
+        "amazon-web-services",
+        "kubernetes",
+        "terraform",
+        "amazon-eks",
+        "infrastructure-as-code"
+      ],
+      "author": "Mohammad Jawad Barati",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "When does GitHub-flavored markdown render `#&#171;number&#187;` as a rich link?",
+      "url": "https://stackoverflow.com/questions/80000956/when-does-github-flavored-markdown-render-number-as-a-rich-link",
+      "summary": "",
+      "tags": [
+        "github-flavored-markdown"
+      ],
+      "author": "Heiko Thei&#223;en",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Send an email from Outlook account using Python",
+      "url": "https://stackoverflow.com/questions/80000948/send-an-email-from-outlook-account-using-python",
+      "summary": "",
+      "tags": [
+        "python",
+        "email",
+        "outlook"
+      ],
+      "author": "Lakshit Sharma",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How should dbt intermediate models be organized across Snowflake databases and schemas?",
+      "url": "https://stackoverflow.com/questions/80000950/how-should-dbt-intermediate-models-be-organized-across-snowflake-databases-and-s",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "snowflake-cloud-data-platform",
+        "dbt"
+      ],
+      "author": "Foxbat",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "TeeChart Standard VCL components buggy in RAD Studio 13",
+      "url": "https://stackoverflow.com/questions/80000954/teechart-standard-vcl-components-buggy-in-rad-studio-13",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++builder",
+        "teechart"
+      ],
+      "author": "AtleB",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Why do register_tm_clones and deregister_tm_clones get tacked on to simple programs?",
+      "url": "https://stackoverflow.com/questions/80000952/why-do-register-tm-clones-and-deregister-tm-clones-get-tacked-on-to-simple-progr",
+      "summary": "",
+      "tags": [
+        "c++",
+        "transactions",
+        "executable-format"
+      ],
+      "author": "einpoklum",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How do I trigger a dialog Form by clicking a table row?",
+      "url": "https://stackoverflow.com/questions/80000947/how-do-i-trigger-a-dialog-form-by-clicking-a-table-row",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "shadcnui"
+      ],
+      "author": "Marco Pasquali",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Calling deleted function - continued",
+      "url": "https://stackoverflow.com/questions/80000931/calling-deleted-function-continued",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++11",
+        "containers",
+        "smart-pointers"
+      ],
+      "author": "Igor",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Is &amp;p-&gt;member well-defined for a device pointer p in CUDA host code?",
+      "url": "https://stackoverflow.com/questions/80000943/is-p-member-well-defined-for-a-device-pointer-p-in-cuda-host-code",
+      "summary": "",
+      "tags": [
+        "c++",
+        "pointers",
+        "cuda"
+      ],
+      "author": "TRH",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to integrate multiple completely independent account systems into a single application?",
+      "url": "https://stackoverflow.com/questions/80000932/how-to-integrate-multiple-completely-independent-account-systems-into-a-single-a",
+      "summary": "",
+      "tags": [
+        "advice",
+        "asp.net-identity",
+        "abp-framework"
+      ],
+      "author": "easy",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Calling deleted function",
+      "url": "https://stackoverflow.com/questions/80000915/calling-deleted-function",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++11",
+        "containers",
+        "smart-pointers"
+      ],
+      "author": "Igor",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Black-box optimisation Machine Learning Portfolio",
+      "url": "https://stackoverflow.com/questions/80000930/black-box-optimisation-machine-learning-portfolio",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "github",
+        "machine-learning"
+      ],
+      "author": "mountain_vs_ocean",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How to disable HDR drawing when using custom NSImageCell/NSImageView",
+      "url": "https://stackoverflow.com/questions/80000949/how-to-disable-hdr-drawing-when-using-custom-nsimagecell-nsimageview",
+      "summary": "",
+      "tags": [
+        "appkit",
+        "nsimageview",
+        "hdr",
+        "nsimagecell"
+      ],
+      "author": "Marek H",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "TransitionGroup smooth move causing container height to decrease",
+      "url": "https://stackoverflow.com/questions/80000933/transitiongroup-smooth-move-causing-container-height-to-decrease",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "css",
+        "vue.js",
+        "vuejs-transition-group"
+      ],
+      "author": "Player Possum",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "I need to generate ASCII art fast enough to make animated pictures. It can&#39;t be done with print commands (that takes forever), it needs to use math",
+      "url": "https://stackoverflow.com/questions/80000921/i-need-to-generate-ascii-art-fast-enough-to-make-animated-pictures-it-cant-be",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Megatron1000",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Input value for total number of pages in a REDCap survey?",
+      "url": "https://stackoverflow.com/questions/80000885/input-value-for-total-number-of-pages-in-a-redcap-survey",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "redcap"
+      ],
+      "author": "bcarothers",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to convert e-nfa with complex symbols to dfa",
+      "url": "https://stackoverflow.com/questions/80000903/how-to-convert-e-nfa-with-complex-symbols-to-dfa",
+      "summary": "",
+      "tags": [
+        "c",
+        "regex",
+        "dfa",
+        "nfa"
+      ],
+      "author": "&#205;caro Santana",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Reading Alpha Numeric data in R",
+      "url": "https://stackoverflow.com/questions/80000910/reading-alpha-numeric-data-in-r",
+      "summary": "",
+      "tags": [
+        "r"
+      ],
+      "author": "Paramjit Gill",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Deneb/Vega custom visual shows generic &quot;sad face&quot; icon instead of empty-state message — is this expected behavior for empty datasets?",
+      "url": "https://stackoverflow.com/questions/80000864/deneb-vega-custom-visual-shows-generic-sad-face-icon-instead-of-empty-state-me",
+      "summary": "",
+      "tags": [
+        "powerbi",
+        "visualization",
+        "vega-lite",
+        "vega",
+        "deneb"
+      ],
+      "author": "ben",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to run a process that survives after parent process dies? subprocess.CREATE_NEW_PROCESS_GROUP is not working",
+      "url": "https://stackoverflow.com/questions/80000882/how-to-run-a-process-that-survives-after-parent-process-dies-subprocess-create",
+      "summary": "",
+      "tags": [
+        "python",
+        "subprocess",
+        "popen"
+      ],
+      "author": "Power of Wilson",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How does &quot;val myViewModel: MyViewModel = viewModel()&quot; work in Android Kotlin?",
+      "url": "https://stackoverflow.com/questions/80000896/how-does-val-myviewmodel-myviewmodel-viewmodel-work-in-android-kotlin",
+      "summary": "",
+      "tags": [
+        "android",
+        "kotlin"
+      ],
+      "author": "markspace",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "javascript accessing object value or name",
+      "url": "https://stackoverflow.com/questions/80000821/javascript-accessing-object-value-or-name",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "javascript-objects"
+      ],
+      "author": "JKomp",
+      "comments": 4,
+      "score": 4
+    },
+    {
+      "title": "When modifying (&quot;modding&quot;) a game I get Error CS1061 in reference to code from &quot;From The Depths Try 2&quot;",
+      "url": "https://stackoverflow.com/questions/80000693/when-modifying-modding-a-game-i-get-error-cs1061-in-reference-to-code-from",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net-standard-2.1"
+      ],
+      "author": "ExhaustedBeginner",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to write a single function that allows filtering a collection of objects based on an arbitrary number of passed Types?",
+      "url": "https://stackoverflow.com/questions/80000774/how-to-write-a-single-function-that-allows-filtering-a-collection-of-objects-bas",
+      "summary": "",
+      "tags": [
+        "c++",
+        "templates"
+      ],
+      "author": "Permafrost",
+      "comments": 3,
+      "score": 3
+    },
+    {
+      "title": "Best practices for preventing technical debt and security vulnerabilities when 70%+ of our codebase is generated by AI assistants like Copilot/Cursor?",
+      "url": "https://stackoverflow.com/questions/80000887/best-practices-for-preventing-technical-debt-and-security-vulnerabilities-when-7",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "performance",
+        "artificial-intelligence",
+        "github-copilot",
+        "technical-debt"
+      ],
+      "author": "Jawad Ul Hassan",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to type-hint a function that returns as many values as in its input?",
+      "url": "https://stackoverflow.com/questions/80000799/how-to-type-hint-a-function-that-returns-as-many-values-as-in-its-input",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-typing",
+        "variadic-functions"
+      ],
+      "author": "schtandard",
+      "comments": 2,
+      "score": 4
+    },
+    {
+      "title": "Who do I have to pay if I develop a game using OpenGL?",
+      "url": "https://stackoverflow.com/questions/80000890/who-do-i-have-to-pay-if-i-develop-a-game-using-opengl",
+      "summary": "",
+      "tags": [
+        "opengl",
+        "glfw",
+        "freeglut",
+        "glad"
+      ],
+      "author": "user32594841",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Is Vultr Shared CPU 4 vCPU / 8 GB enough for a small Spring Boot production app with PostgreSQL and ClamAV?",
+      "url": "https://stackoverflow.com/questions/80000892/is-vultr-shared-cpu-4-vcpu-8-gb-enough-for-a-small-spring-boot-production-app",
+      "summary": "",
+      "tags": [
+        "java",
+        "postgresql",
+        "vultr"
+      ],
+      "author": "Andr&#233; Blos",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Why isn&#39;t my type checker (Pyright) complaining about a clear type violation?",
+      "url": "https://stackoverflow.com/questions/80000853/why-isnt-my-type-checker-pyright-complaining-about-a-clear-type-violation",
+      "summary": "",
+      "tags": [
+        "python",
+        "typechecking",
+        "pyright"
+      ],
+      "author": "iamthebull",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Adding graphics to ggplot using a loop",
+      "url": "https://stackoverflow.com/questions/80000807/adding-graphics-to-ggplot-using-a-loop",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2"
+      ],
+      "author": "The Ratman",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

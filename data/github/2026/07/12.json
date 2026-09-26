@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T14:38:38.307104+00:00",
+  "source": "github",
+  "count": 17,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "Dicklesworthstone/destructive_command_guard",
+      "repo": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "summary": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": 2465,
+      "today_stars": 444
+    },
+    {
+      "title": "wonderwhy-er/DesktopCommanderMCP",
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "summary": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 7887,
+      "today_stars": 207
+    },
+    {
+      "title": "HKUDS/Vibe-Trading",
+      "repo": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "summary": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 20176,
+      "today_stars": 776
+    },
+    {
+      "title": "PrefectHQ/prefect",
+      "repo": "PrefectHQ/prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "summary": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars": 23036,
+      "today_stars": 55
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "summary": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 118301,
+      "today_stars": 549
+    },
+    {
+      "title": "anthropics/claude-cookbooks",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "summary": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 48187,
+      "today_stars": 464
+    },
+    {
+      "title": "home-assistant/core",
+      "repo": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "summary": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 88884,
+      "today_stars": 404
+    },
+    {
+      "title": "Crosstalk-Solutions/project-nomad",
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "summary": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 33636,
+      "today_stars": 122
+    },
+    {
+      "title": "ColeMurray/background-agents",
+      "repo": "ColeMurray/background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "summary": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "stars": 2173,
+      "today_stars": 9
+    },
+    {
+      "title": "k1tbyte/Wand-Enhancer",
+      "repo": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "summary": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars": 6645,
+      "today_stars": 661
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "repo": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "summary": "",
+      "language": "TypeScript",
+      "stars": 13652,
+      "today_stars": 79
+    },
+    {
+      "title": "virattt/ai-hedge-fund",
+      "repo": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "summary": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 61253,
+      "today_stars": 109
+    },
+    {
+      "title": "chen08209/FlClash",
+      "repo": "chen08209/FlClash",
+      "url": "https://github.com/chen08209/FlClash",
+      "summary": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Dart",
+      "stars": 45134,
+      "today_stars": 151
+    },
+    {
+      "title": "davila7/claude-code-templates",
+      "repo": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "summary": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars": 29159,
+      "today_stars": 274
+    },
+    {
+      "title": "par274/sharpemu",
+      "repo": "par274/sharpemu",
+      "url": "https://github.com/par274/sharpemu",
+      "summary": "An experimental PlayStation 5 emulator project.",
+      "language": "C#",
+      "stars": 1038,
+      "today_stars": 436
+    },
+    {
+      "title": "malisper/pgrust",
+      "repo": "malisper/pgrust",
+      "url": "https://github.com/malisper/pgrust",
+      "summary": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars": 2308,
+      "today_stars": 518
+    },
+    {
+      "title": "Nutlope/hallmark",
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 4004,
+      "today_stars": 210
+    }
+  ]
+}
