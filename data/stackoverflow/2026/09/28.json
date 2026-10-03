@@ -1,0 +1,436 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T06:47:22.420842+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to import array-of-arrays (nested array) data files?",
+      "url": "https://stackoverflow.com/questions/80006367/how-to-import-array-of-arrays-nested-array-data-files",
+      "summary": "",
+      "tags": [
+        "arrays",
+        "vector",
+        "dolphindb"
+      ],
+      "author": "Nathaniel",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to animate multiple lines of marquee text separately in JavaScript?",
+      "url": "https://stackoverflow.com/questions/80006366/how-to-animate-multiple-lines-of-marquee-text-separately-in-javascript",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "arrays",
+        "animation",
+        "marquee"
+      ],
+      "author": "RandomDoe2026",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Why do these operations violate data-race rule even though the standard permits the implementation specifies them as atomic operations?",
+      "url": "https://stackoverflow.com/questions/80006362/why-do-these-operations-violate-data-race-rule-even-though-the-standard-permits",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "atomic"
+      ],
+      "author": "xmh0511",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Does &quot;removal in v7&quot; mean that it will be discontinued in Spring Batch major version 7?",
+      "url": "https://stackoverflow.com/questions/80006352/does-removal-in-v7-mean-that-it-will-be-discontinued-in-spring-batch-major-ver",
+      "summary": "",
+      "tags": [
+        "spring-batch"
+      ],
+      "author": "futokiyo",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Memory-efficient way of coding pipeline in R and running it in native terminal",
+      "url": "https://stackoverflow.com/questions/80006351/memory-efficient-way-of-coding-pipeline-in-r-and-running-it-in-native-terminal",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "command-line-interface",
+        "rstudio",
+        "ram"
+      ],
+      "author": "Sir_newt_one",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "SQL vs R cleaning large rideshare, which approach is more efficient for 1M+ rows?",
+      "url": "https://stackoverflow.com/questions/80006346/sql-vs-r-cleaning-large-rideshare-which-approach-is-more-efficient-for-1m-rows",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "sql",
+        "r",
+        "google-bigquery",
+        "data-cleaning"
+      ],
+      "author": "Sabri Yahya",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Which entities are strong entities and which are weak entities? Why?",
+      "url": "https://stackoverflow.com/questions/80006347/which-entities-are-strong-entities-and-which-are-weak-entities-why",
+      "summary": "",
+      "tags": [
+        "entity-relationship"
+      ],
+      "author": "hiếu nguyễn",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Trait Bounding a Generic Associated type in Rust",
+      "url": "https://stackoverflow.com/questions/80006328/trait-bounding-a-generic-associated-type-in-rust",
+      "summary": "",
+      "tags": [
+        "generics",
+        "rust",
+        "type-systems",
+        "generic-associated-types",
+        "trait-bounds"
+      ],
+      "author": "MrMoon01000010",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "jquery datepicker icon disappears after autopostback",
+      "url": "https://stackoverflow.com/questions/80006310/jquery-datepicker-icon-disappears-after-autopostback",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "jquery",
+        "asp.net",
+        "datepicker",
+        "webforms"
+      ],
+      "author": "John DiBella",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "AJAX Image Uploader that will let me edit the image name before I upload it, and then write the name and description to a table",
+      "url": "https://stackoverflow.com/questions/80006330/ajax-image-uploader-that-will-let-me-edit-the-image-name-before-i-upload-it-and",
+      "summary": "",
+      "tags": [
+        "c#",
+        "asp.net",
+        "ajax",
+        "file-upload"
+      ],
+      "author": "John DiBella",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to concatenate two variables to assign one variable in Python?",
+      "url": "https://stackoverflow.com/questions/80006339/how-to-concatenate-two-variables-to-assign-one-variable-in-python",
+      "summary": "",
+      "tags": [
+        "python",
+        "string",
+        "concatenation"
+      ],
+      "author": "Joe1036",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "RVO versus passing by reference",
+      "url": "https://stackoverflow.com/questions/80006329/rvo-versus-passing-by-reference",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c++",
+        "return-value-optimization",
+        "std-expected"
+      ],
+      "author": "Romain",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why is my command printing errors when doing Start-Job?",
+      "url": "https://stackoverflow.com/questions/80006333/why-is-my-command-printing-errors-when-doing-start-job",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "start-job"
+      ],
+      "author": "davidalayachew",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How do I reprocess unchanged documents with a new chunker in GraphRAG-SDK?",
+      "url": "https://stackoverflow.com/questions/80006338/how-do-i-reprocess-unchanged-documents-with-a-new-chunker-in-graphrag-sdk",
+      "summary": "",
+      "tags": [
+        "graphrag",
+        "falkordb"
+      ],
+      "author": "Teeny Weeny",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Return multiple text and associated number from string",
+      "url": "https://stackoverflow.com/questions/80006227/return-multiple-text-and-associated-number-from-string",
+      "summary": "",
+      "tags": [
+        "sql",
+        "sql-server"
+      ],
+      "author": "IchBinDicky",
+      "comments": 5,
+      "score": 1
+    },
+    {
+      "title": "How do I align a `position: absolute` `span` by its baseline/cap?",
+      "url": "https://stackoverflow.com/questions/80006327/how-do-i-align-a-position-absolute-span-by-its-baseline-cap",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "Coarse Rosinflower",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Detecting keypress and keyrelease on arrow keys",
+      "url": "https://stackoverflow.com/questions/80006215/detecting-keypress-and-keyrelease-on-arrow-keys",
+      "summary": "",
+      "tags": [
+        "python",
+        "pyqt6"
+      ],
+      "author": "Iain",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "My digital certificate contain root ca as issuer but issued by intermediate. Why",
+      "url": "https://stackoverflow.com/questions/80006324/my-digital-certificate-contain-root-ca-as-issuer-but-issued-by-intermediate-why",
+      "summary": "",
+      "tags": [
+        "openssl",
+        "certificate",
+        "authoritykeyidentifier"
+      ],
+      "author": "Yuma Technical Inc.",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Why is this loop unroll on the avx512 pagecpy I made faster than before?",
+      "url": "https://stackoverflow.com/questions/80006288/why-is-this-loop-unroll-on-the-avx512-pagecpy-i-made-faster-than-before",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c",
+        "memory",
+        "x86-64",
+        "avx512"
+      ],
+      "author": "Richard Ejinkonye",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How to fix an issue with random images not showing",
+      "url": "https://stackoverflow.com/questions/80006260/how-to-fix-an-issue-with-random-images-not-showing",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "image",
+        "random"
+      ],
+      "author": "Aurora Lane",
+      "comments": 3,
+      "score": -2
+    },
+    {
+      "title": "files require-once not executing",
+      "url": "https://stackoverflow.com/questions/80006302/files-require-once-not-executing",
+      "summary": "",
+      "tags": [
+        "php",
+        "require-once"
+      ],
+      "author": "Mike McP",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Menubar does not appear",
+      "url": "https://stackoverflow.com/questions/80006233/menubar-does-not-appear",
+      "summary": "",
+      "tags": [
+        "c++",
+        "imgui"
+      ],
+      "author": "Natan Camargos",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "Git bash commands",
+      "url": "https://stackoverflow.com/questions/80006309/git-bash-commands",
+      "summary": "",
+      "tags": [
+        "git",
+        "github",
+        "gitlab"
+      ],
+      "author": "Mbishibishi Flavien",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "What to do as a beginner game developer?",
+      "url": "https://stackoverflow.com/questions/80006265/what-to-do-as-a-beginner-game-developer",
+      "summary": "",
+      "tags": [
+        "advice",
+        "game-development"
+      ],
+      "author": "oceanmallik",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "Why do fixed &amp; free form return different multiplication results?",
+      "url": "https://stackoverflow.com/questions/80006307/why-do-fixed-free-form-return-different-multiplication-results",
+      "summary": "",
+      "tags": [
+        "fortran"
+      ],
+      "author": "GuyMatz",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Unable to view driver when installing windows on a dos laptop",
+      "url": "https://stackoverflow.com/questions/80006304/unable-to-view-driver-when-installing-windows-on-a-dos-laptop",
+      "summary": "",
+      "tags": [
+        "windows",
+        "installation"
+      ],
+      "author": "Anas Khan",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Why does HWAddressSanitizer miss a heap over-read that AddressSanitizer reports?",
+      "url": "https://stackoverflow.com/questions/80006242/why-does-hwaddresssanitizer-miss-a-heap-over-read-that-addresssanitizer-reports",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "android",
+        "c++",
+        "c",
+        "linux"
+      ],
+      "author": "Akira Patafio",
+      "comments": 1,
+      "score": 7
+    },
+    {
+      "title": "Query gives unknown column in field list",
+      "url": "https://stackoverflow.com/questions/80006277/query-gives-unknown-column-in-field-list",
+      "summary": "",
+      "tags": [
+        "sql",
+        "mysql"
+      ],
+      "author": "Lucas Mascheroni",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How to associate static information for cond forms?",
+      "url": "https://stackoverflow.com/questions/80006306/how-to-associate-static-information-for-cond-forms",
+      "summary": "",
+      "tags": [
+        "racket",
+        "rhombus"
+      ],
+      "author": "vinipsmaker",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to refactor hardcoded coordinate offsets when drawing custom composite shapes in C# GDI+?",
+      "url": "https://stackoverflow.com/questions/80006291/how-to-refactor-hardcoded-coordinate-offsets-when-drawing-custom-composite-shape",
+      "summary": "",
+      "tags": [
+        "c#",
+        "winforms",
+        "refactoring",
+        "gdi+",
+        "graphicspath"
+      ],
+      "author": "Reaper",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T06:48:42.570734+00:00",
+  "source": "github",
+  "count": 9,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "paperclipai/paperclip",
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "summary": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 90767,
+      "today_stars": 2401
+    },
+    {
+      "title": "vectorize-io/hindsight",
+      "repo": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "summary": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 38409,
+      "today_stars": 4520
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 40870,
+      "today_stars": 3086
+    },
+    {
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 59721,
+      "today_stars": 790
+    },
+    {
+      "title": "InfinityLoop1308/PipePipe",
+      "repo": "InfinityLoop1308/PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "summary": "An open-source Android app to let you browse YouTube and other services freely.",
+      "language": "Shell",
+      "stars": 6689,
+      "today_stars": 242
+    },
+    {
+      "title": "vercel-labs/scriptc",
+      "repo": "vercel-labs/scriptc",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "summary": "TypeScript-to-Native Compiler",
+      "language": "TypeScript",
+      "stars": 5499,
+      "today_stars": 102
+    },
+    {
+      "title": "mvschwarz/openrig",
+      "repo": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "summary": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "language": "TypeScript",
+      "stars": 1180,
+      "today_stars": 114
+    },
+    {
+      "title": "dream-num/univer",
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 20779,
+      "today_stars": 895
+    },
+    {
+      "title": "willfaust/Madeira",
+      "repo": "willfaust/Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "summary": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "stars": 882,
+      "today_stars": 83
+    }
+  ]
+}

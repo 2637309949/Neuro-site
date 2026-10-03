@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T14:27:06.444660+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Token 预算管理：长对话不崩溃的秘密",
+      "url": "https://www.oschina.net/news/492373",
+      "summary": "本文来自 AI Helper 项目的真实工程实践。AI Helper 是一个开源的 Chrome 智能助手扩展，采用 ReAct 推理循环架构，内置 44 个工具，支持多轮工具...",
+      "author": "席WC",
+      "comments": 0
+    },
+    {
+      "title": "Claude Code 将自动模式设为默认，称人类审批只抓到 13.6% 危险命令",
+      "url": "https://www.oschina.net/news/492362/auto-mode-default-in-claude-code",
+      "summary": "Anthropic 宣布，从 8 月 14 日起，Claude Code 在 Pro、Max、Team 计划上将默认启用自动模式（auto mode）。这个决定背后，是两组让人不安的数据。...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "AI 辅助编程顶多是一台煎牛排机，当不了厨师",
+      "url": "https://www.oschina.net/news/492343",
+      "summary": "「AI 不是厨师。它顶多是一台煎牛排机。」 Serhii Sydorets 写了一篇博客，把 AI 辅助编程比作煎牛排——任何人都能把肉扔进锅里弄熟，但要稳定产出...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "他把芯片制造做成了“过山车大亨”：一个浏览器里的半导体工厂",
+      "url": "https://www.oschina.net/news/492323/chip-tycoon",
+      "summary": "如果你玩过《过山车大亨》，你大概记得那种俯瞰视角——小人在公园里走来走去，游乐设施运转着，一切都在你的注视下运行。现在想象同样的视角，但公...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "一名开发者将 Android 手机换成了 Linux，称“AOSP 已死”",
+      "url": "https://www.oschina.net/news/492313/switch-android-to-linux",
+      "summary": "Runarcn 是一名挪威开发者，他在博客上写了一篇文章，标题很直白：《I'm switching my phone from Android to Linux》。 他的核心论点很简单：AOS...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "LLM 的极限不在算力，在语言本身",
+      "url": "https://www.oschina.net/news/492309/llms-cant-jump",
+      "summary": "一篇标题叫 \"Position: LLMs Can't Jump\" 的论文近日在 Hacker News 引起了众多程序员关注，讨论层层递进，从语言的有损编码一直聊到爱因斯坦的思考...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Atlassian Rovo 被曝可绕过管控泄露 Jira 和 Confluence 数据，厂商两个月没回复",
+      "url": "https://www.oschina.net/news/492298/atlassian-rovo-exfiltrates-data",
+      "summary": "安全公司 PromptArmor 发布了一篇报告，披露 Atlassian 的 AI agent Rovo 存在严重的数据泄露漏洞：攻击者可以通过 indirect prompt injection（间...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "一个 4B 开源模型，检索能力追平了 GPT-5.6 Sol，成本降到 1/100",
+      "url": "https://www.oschina.net/news/492295",
+      "summary": "Neon 和 Castform 联合发布了一篇博客，展示了一个惊人的结果：一个 4B 参数的开源模型，经过 RL 后训练之后，在检索任务上的准确率追平了 GPT-5....",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Vibelf：面向 Scratch 的 AI 编程助手",
+      "url": "https://www.oschina.net/news/492287/vibelf-scratch",
+      "summary": "VibelF 是一款用于 Scratch 的 AI 编程助手（AI Copilot）。打开 app.vibelf.com 就是一个对话界面。你说「我想做一个猫抓老鼠的游戏」，它不给你生...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "如何让机器人规模化落地？云深处打造“开箱即用”行业产品！",
+      "url": "https://www.oschina.net/news/492278",
+      "summary": "如今，造出能跑善跳的机器人早已算不上难题，硬件产业链成熟之后，海内外不少厂商都能做出参数亮眼的机型。当下，行业的竞争早已变了赛道：比拼重心...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "技嘉 GO27Q32 正式发布：五重 QD-OLED 面板加持，320Hz 极速与影院级画面兼得",
+      "url": "https://www.oschina.net/news/492187",
+      "summary": "技嘉科技旗下 QD-OLED 电竞显示器阵容再添旗舰新作。GO27Q32 将于 2026 年 9 月 15 日正式上市，以 27 英寸 QHD 分辨率、三星显示 Penta Tandem 五...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": ":tada:为 AI 员工分配插件技能：开源无代码 / 低代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/492087",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支：main、next 和 develop。 main：截至目前最稳定的版本，推...",
+      "author": "NocoBase",
+      "comments": 0
+    },
+    {
+      "title": "字节跳动正在训练 10 万亿参数的 AI 模型",
+      "url": "https://www.oschina.net/news/492049",
+      "summary": "根据 Financial Times 的报道，字节跳动正在训练一个 10 万亿参数的 AI 模型，目前处于预训练阶段。 10 万亿是什么概念？Anthropic 目前最大的模型...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "REBUILD 4.4.6 已经发布，高度可定制化企业管理系统",
+      "url": "https://www.oschina.net/news/492016",
+      "summary": "REBUILD 4.4.6 已经发布，高度可定制化企业管理系统。 此版本更新内容包括： [新增] 自定义操作 固定值支持 {RAND} 随机数变量 [修复] 数字（小数）...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "PublicCMS V4.0.202608.a 已经发布，基于 Java 的开源 CMS 系统",
+      "url": "https://www.oschina.net/news/492013",
+      "summary": "PublicCMS V4.0.202608.a 已经发布，基于 Java 的开源 CMS 系统 此版本更新内容包括： 新功能： 添加多语言支持 添加内容预览 添加内容来源管理 为...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "wastnet 开源首发，零依赖自研 Java HTTP/2 框架，性能对标 Undertow !",
+      "url": "https://www.oschina.net/news/491960",
+      "summary": "这个项目一直是个人在使用，选择开源没有什么动机理由，就是想开源了，如果非要说一个，那就是它多少弥补了国产 Java 自研 HTTP/2 框架这块空白——...",
+      "author": "wycst",
+      "comments": 0
+    },
+    {
+      "title": "近百项AI创新成果集结中关村 技术落地与产业迭代提速",
+      "url": "https://www.oschina.net/news/491901",
+      "summary": "8月8日，2026 Link-X Demo Day人工智能创新项目展在北京中关村举办。本次活动由星连资本、华清普智AI孵化器主办，汇聚近2000名产业、学术、投资人士...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Windows 11 内置天气 App 占用内存超过 1GB",
+      "url": "https://www.oschina.net/news/491873/windows-11-s-built-in-weather-app-wastes-more-than-1gb-of-ram",
+      "summary": "Windows 11 内置天气应用，占用了超过 1GB 内存。 Notebookcheck 的测试发现这个数字时，反复确认了多次。不是 100MB，不是 500MB，是 1 个 G。一个...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "2026 CSDI ：AGI 前夜，属于懂 Agent、更懂模型的长期深耕企业",
+      "url": "https://my.oschina.net/u/4806939/blog/19736176",
+      "summary": "AI 竞争的基本单位，正在从 “一个模型” 变成 “一套体系”。",
+      "author": "哈哈欧尼OSC",
+      "comments": 0
+    },
+    {
+      "title": "DataBuff v0.1.7 发布 · 平台自监控与自排障",
+      "url": "https://www.oschina.net/news/491813",
+      "summary": "DataBuff 是一款面向云原生与微服务场景的开源 AI Native OpenTelemetry APM，采用 OTLP 标准接入、Apache Doris 统一存储，Web 端提供拓扑 / Tr...",
+      "author": "乒乓狂魔",
+      "comments": 0
+    }
+  ]
+}

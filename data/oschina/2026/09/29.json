@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:46:53.967313+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Goodlink 支持同时运行多个Local端和Remote端 全网最简单、最快、零成本的内网穿透",
+      "url": "https://www.oschina.net/news/502808",
+      "summary": "外出办公, 对比市面上的远程工具, 无论画质、软件适配, 都不如 windows 自带的远程桌面, 但外出如何使用 windows远程桌面？ 是否可以无需远程桌面,...",
+      "author": "kony9",
+      "comments": 0
+    },
+    {
+      "title": "Meta 挖走 MongoDB 的 CEO 去管企业 AI，后者股价一天崩了 18%",
+      "url": "https://www.oschina.net/news/502807",
+      "summary": "Meta 把 MongoDB 的 CEO 挖走了，代价是 MongoDB 股价周一早盘崩了 18%。Chirantan \"CJ\" Desai 上任才不到一年，就从数据库软件公司的最高位跳去 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Codeaha v1.0.0 正式发布—本地优先的 AI 编程伙伴",
+      "url": "https://www.oschina.net/news/502806",
+      "summary": "Codeaha｜码悟 Code + Aha，看见代码的顿悟时刻 本地优先、国产大模型友好的 AI 编程 Agent。 基于 GoFrame + Eino + mark3labs/mcp-go + GF sqlit...",
+      "author": "FLY的狐狸",
+      "comments": 0
+    },
+    {
+      "title": "Linux 内核要扔掉自己的 LZ4 fork，改为直接引入和同步上游代码",
+      "url": "https://www.oschina.net/news/502802",
+      "summary": "Linux 内核里的 LZ4 压缩实现，终于要停止维护自己的那份「fork」了。三星的 Michal Wilczynski 提交了一个 RFC 补丁系列（9 个 patch），把内核里...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "荷兰政府基于 NixOS 打造替代 Windows 的办公系统",
+      "url": "https://www.oschina.net/news/502799",
+      "summary": "荷兰政府正在给自己造一套基于 Linux 的办公系统，替代 Windows 和 Office。这套系统叫 DAWO（Digitaal Autonome Werkomgeving Overheid，自治数字...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Jeff 开源发布：22 毫秒出一次决策的小模型、0.8B 微调在 benchmark 上逼近 Jev",
+      "url": "https://www.oschina.net/news/502796",
+      "summary": "一个叫 Jeff 的开源项目，把「专做快速决策的小模型」这条路又往前推了一步。它是 Qwen3.5 和 Gemma 4 的微调版本，定位是“zero-shot（零样本）”...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "代码索引快70%、编译构建快40%，HarmonyOS 7（API 26）能帮开发者省下多少时间？",
+      "url": "https://www.oschina.net/news/502795",
+      "summary": "（文章来源：CSDN） “新机一发，先通宵适配。” 这是开发者老张最近的日常。三折叠、阔直板样机到了手里，同一个购物App：直板上好好的，但折叠屏...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Claude Sonnet 5.5 发布：速度快 3 成、Agent 编程评测从 10% 跳到 70%",
+      "url": "https://www.oschina.net/news/502794/claude-sonnet-5-5",
+      "summary": "Claude 5.5 家族的第二个成员今天发布：Sonnet 5.5。Anthropic 把它定位成 Opus 5.5 的「快而省」互补款——专攻范围明确的高频日常任务、修 bug、...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Java Web 服务器 wastnet mvc 开发实战",
+      "url": "https://www.oschina.net/news/502793",
+      "summary": "用 wastnet MVC 写接口服务（实战教程） wastnet 是一款完全自研、零第三方依赖的轻量级 Java 网络应用框架，核心基于 JDK 原生 NIO 构建 Reactor ...",
+      "author": "wycst",
+      "comments": 0
+    },
+    {
+      "title": "CyreneAdmin 1.5.0 发布：新增 i18n 与 E2E 测试，全面升级前后端依赖",
+      "url": "https://www.oschina.net/news/502792",
+      "summary": "CyreneAdmin 是一款面向企业级应用的后台管理系统脚手架，同时支持 Spring Boot 与 Solon 双框架，内置权限控制、用户管理、菜单配置、操作日...",
+      "author": "CoCoTeaNet",
+      "comments": 0
+    },
+    {
+      "title": "🔥「可信Data+智能体AI」本体工作坊",
+      "url": "https://www.oschina.net/event/8598411",
+      "summary": "",
+      "author": "造物社区官方",
+      "comments": 0
+    },
+    {
+      "title": "AMD 花 82 亿美元买下李飞飞的 World Labs，她直接空降成首席科学家",
+      "url": "https://www.oschina.net/news/502790/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "summary": "AMD 用 82 亿美元换了一张通往「真实世界 AI」的门票。周一官方宣布收购 World Labs——这位由李飞飞 2024 年创立的旧金山 AI 实验室，曾经投资过它...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": ":clap:工单管理系统 WGCAT v1.3.1 新增知识库",
+      "url": "https://www.oschina.net/news/502789",
+      "summary": "WGCAT 是 WGCLOUD 团队精心开发的一款工单管理系统，设计一如既往的的简单实用，具有部署方便，上手容易，性能优秀，界面友好等特点。 WGCAT 工...",
+      "author": "王逅逅",
+      "comments": 0
+    },
+    {
+      "title": "Manus 2.0 发布：自研框架 Cascade 省 32% 成本，视频编辑器把时间线交到你手上",
+      "url": "https://www.oschina.net/news/502788/manus-2-0",
+      "summary": "Manus 2.0 今天上线，官方把它定义成一次架构级更新，而不是又一个小版本。整场发布围绕一个根本问题展开：下一代 Manus 应该长什么样？答案落成三...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "2026 openKylin 社区年度技术贡献评选开启，共享高光时刻！",
+      "url": "https://www.oschina.net/news/502787",
+      "summary": "在广大开发者与社区伙伴的携手努力下，OpenAtom openKylin（简称\"openKylin\"）社区又迎来了一年创新涌动、协作共进的丰收征程。为感谢在过去一年中...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "JuiceFS 企业版 5.4：从千亿文件到百万客户端",
+      "url": "https://www.oschina.net/news/502786/juicefs-enterprise-edition-v5-4",
+      "summary": "继 JuiceFS 企业版 v5.3 支撑千亿文件规模之后，v5.4 进一步在超大规模场景下提升多项能力。千亿文件规模下，单次操作的细小开销也会累积成显著的资...",
+      "author": "Juicedata",
+      "comments": 0
+    },
+    {
+      "title": "保留存储不等于数据不用迁：替代边界核验",
+      "url": "https://www.oschina.net/news/502785",
+      "summary": "企业启动VMware替代，往往很快进入厂商比较，却忽略了一个更早的决策：本次只替换计算虚拟化，还是同时调整存储架构？两条路线的迁移范围、设备投入...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "联想万全与 AIOS：集群调度还是统一治理",
+      "url": "https://www.oschina.net/news/502784",
+      "summary": "企业讨论AI基础设施平台，起点往往并不相同。有的团队需要一个模型接口，有的已经采购GPU却难以分配资源，还有的希望把本地模型交给多个部门使用。...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "腾讯 TCS 容器底座：套件范围别漏模块",
+      "url": "https://www.oschina.net/news/502783",
+      "summary": "企业采购容器云，通常不只是为了创建几个Kubernetes集群。开发团队希望应用能够发布，运维团队需要定位问题，采购方则要知道软件、基础设施和服务分...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "新华三 UIS 与 FusionCube：BOM 怎么写清",
+      "url": "https://www.oschina.net/news/502782",
+      "summary": "选择超融合一体机，采购方通常希望少一些软硬件拼装工作，让设备到场后能够按明确方案上线。但“一体机”只是交付形态，不能单独回答数据库是否适配...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}

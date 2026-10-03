@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T14:03:38.417958+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "让 gzip 当语言模型？压得最小的地方，就是它“觉得”最像原文的地方",
+      "url": "https://www.oschina.net/news/502676/gzip-lm",
+      "summary": "Nathan Barry 提出了一个脑洞实验：能不能让 gzip 当语言模型？不要神经网络、不要训练参数，就用你操作系统里那个现成的压缩器——拿语料喂进它的...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "北京开源创新赛奖金公布，三个赛道共 52 个获奖名额",
+      "url": "https://www.oschina.net/news/502675",
+      "summary": "9 月 22 日，第四届开放原子大赛·2026 开源行业解决方案创新赛（下称北京开源创新赛）公布奖金方案。三个赛道独立评奖，基础奖项 30 个、特设奖项...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "Jev 工程学：为 Coding Agent 而作",
+      "url": "https://www.oschina.net/news/502674",
+      "summary": "GitHub 上有人把 TypeSafe 创始人 Diogo Almeida 的那份《Jev 工程学》设计笔记做了完整中文翻译，连原结构带七张插图一起保留。翻译者自称与 Type...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "专家解读大飞机硬核赛题，参赛可享中国商飞校招绿色通道",
+      "url": "https://www.oschina.net/news/502672",
+      "summary": "2026 上海开源软件应用创新大赛正火热报名中。近日，中国商飞为本次大赛的「AI+工业软件赛道」出了两道硬核赛题。 中国商飞全称中国商用飞机有限责...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "Cloudflare 把 Python Workers 转正了：FastAPI、Django 照跑，不再写胶水代码",
+      "url": "https://www.oschina.net/news/502671/cloudflare-python-workers-ga",
+      "summary": "Cloudflare 把 Python Workers 标记为正式可用（GA）。这事从两年前说要做到现在，终于落定——Python 从此是 Cloudflare 开发者平台上的头等语言，...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Sun 到底错在哪？一个等不来它回电的客户，讲完了整个故事",
+      "url": "https://www.oschina.net/news/502670/what-sun-got-wrong",
+      "summary": "Bryan Cantrill 发了篇怀旧又扎心的文章，标题就叫《What Sun got wrong》。他当年是 Sun 的内核工程师，后来一手发起 DTrace，如今是 Oxide 的联合...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "AMD 市值破万亿，但靠的从来不只是 GPU",
+      "url": "https://www.oschina.net/news/502669/perpetual-underdog-amd-nips-joins-the-1t-club",
+      "summary": "AMD 的市值周一短暂突破了 1 万亿美元——对芯片设计公司来说，挤进这个俱乐部的屈指可数。但媒体对它评价仍是“永远处于劣势的一方”（perpetual...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "ModStartCMS v10.2.0 重构前台布局、强化安全防御、升级自动化测试体验",
+      "url": "https://www.oschina.net/news/502668",
+      "summary": "ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。 系统完...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "资质齐全政府电子签章服务商盘点：立约笔及主流款合规对比",
+      "url": "https://www.oschina.net/news/502667",
+      "summary": "政务电子签章资质要求与盘点说明 针对政务场景电子签章选型的核心需求，本次盘点仅基于公开可核验的资质信息展开，不做排名打分、不涉及价格对比，...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "选政务电子签章平台：有落地案例的5个核验判断标准",
+      "url": "https://www.oschina.net/news/502666",
+      "summary": "政务电子签章选型核心速览 很多政务单位启动电子签章系统采购时，第一反应是先搜索品牌排行榜、筛选头部厂商，其实更实用的顺序不是先比品牌，而是...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "AI科研绘图合规红线：2026期刊政策收紧下的工具选型与风险定价",
+      "url": "https://www.oschina.net/news/502664",
+      "summary": "2026年AI科研绘图的核心约束已从\"功能是否够用\"转向\"使用是否合规\"。Elsevier于8月更新期刊AI政策，将投稿图像分为三大类并实施差异化管控；Nat...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "SpaceXAI 发布 Grok 4.7：跟 Claude Fable 同榜，价格砍到三分之一",
+      "url": "https://www.oschina.net/news/502663/x-ai-grok-4-7",
+      "summary": "SpaceXAI（改名的 xAI）发布了 Grok 4.7，官方口径是\"最擅长编码和知识工作的模型\"——比同级模型快两倍、便宜一半。这句话与其说是技术宣言，不如...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Xiaomi MiMo-V2.6 系列正式发布，大规模扩展 RL 并全面开源",
+      "url": "https://www.oschina.net/news/502662/xiaomi-mimo-v2-6",
+      "summary": "小米开源了 MiMo-V2.6 系列，Pro 和 Flash 两个原生全模态模型一起放出。 这名字在国内开源圈已经不算陌生，但这次发布的重点不在模型本身，而在它...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "6+1+3 混合模型 + 四层智能体编排：踩坑无数后搞懂的 AI 底座设计",
+      "url": "https://www.oschina.net/news/502661",
+      "summary": "做了这么久 AI 平台，最头疼的就是模型选型和智能体编排。 单一大模型搞不定所有场景，智能体多步执行又容易漂移，安全风控还不能拖后腿。 今天分享...",
+      "author": "55873 生态系统 - 研发",
+      "comments": 0
+    },
+    {
+      "title": "有人拿 Jev 给聊天软件配了个“AI 副驾”——读懂对方意图，但不替你发",
+      "url": "https://www.oschina.net/news/502660",
+      "summary": "TypeSafe 最近开源了他们叫 \"System One Model\" 的东西——Jev，一个放弃字符串生成、直接输出类型安全概率化决策的模型，专为软件里的分类/路由/...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "2026年8款主流电子签章系统性能评测 政企选型实用参考",
+      "url": "https://www.oschina.net/news/502659",
+      "summary": "电子签章系统定义与本次评测说明 2026年国内政企数字化转型持续深化，电子签章系统作为印章管控与签约数字化的核心工具，需求规模同比增长超35%。本...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "2026 年 5 大主流指纹浏览器横向对比，NexBrowser拿下榜首",
+      "url": "https://www.oschina.net/news/502658",
+      "summary": "笔者本人是亚马逊跨境电商从业者，也是chatgpt,claude等ai产品的重度用户，现在这个时代，想要正常的使用AI工具，经营跨境店铺，没一个好用的 指纹...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "一人公司如何建立长期可维护的技术体系",
+      "url": "https://www.oschina.net/news/502657",
+      "summary": "一套技术方案刚搭起来时，最容易看到的是功能：能够收集资料、生成内容、连接客户工作。几个月后，更重要的问题才逐渐出现：服务调整怎么办，资料怎...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "DjangoAdmin 敏捷开发框架 Flask+EleVue 版本 v2.8.2 发布",
+      "url": "https://www.oschina.net/news/502655",
+      "summary": "v2.8.2 更新内容： 1、大版本全新重构； 基于 Flask、Vue3、TypeScript、ElementPlus、Vite、VueRouter 等技术栈构建的前后端分离企业级数据中台解...",
+      "author": "djangoadmin",
+      "comments": 0
+    },
+    {
+      "title": "灵界 OS 5.0 稳定版 · 开箱教程上线",
+      "url": "https://www.oschina.net/news/502654",
+      "summary": "这次更新，加了一个开箱教程。 之前新用户进来，桌面一堆按钮，不知道从哪开始。所以这次做了个完整的首次体验流程： 更新内容： · 欢迎动画：进入...",
+      "author": "xzh_Tim",
+      "comments": 0
+    }
+  ]
+}

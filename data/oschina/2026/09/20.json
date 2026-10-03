@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T13:36:41.559730+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "MiniMax Code CLI 开源，取得了 76.7% 的任务通过率",
+      "url": "https://www.oschina.net/news/502619/minimax-code-cli",
+      "summary": "MiniMax 把 AI 编程工具的核心组件开源了。MiniMax Code CLI 的 v0.4.12 版本面向全球开发者正式开放，并用 MIT 协议放出了源码——它是 MiniMax ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Agentic时代，鸿蒙以系统级底座与AI开发平台，激活开发者创新盛放",
+      "url": "https://www.oschina.net/news/502618",
+      "summary": "近日，华为全联接大会2026在上海盛大开幕。会上，华为介绍了全面向Agent（智能体）架构演进的HarmonyOS 7及系列AI开发工具。这一技术跃迁标志着操作...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "轻量级运维极速引擎 OpsFlash v0.6.0 正式发布",
+      "url": "https://www.oschina.net/news/502617",
+      "summary": "变更： 脚本库合并到命令库：脚本库不再作为独立模块，脚本数据迁移至命令库统一管理；参数化需求由环境变量替代原 {{key}} 流程参数 导航栏重构：...",
+      "author": "FLY的狐狸",
+      "comments": 0
+    },
+    {
+      "title": "技术第3篇，【架构实战】55873 数据安全：72 小时临时清理 + 永久存证，一套可审计的分级存储设计",
+      "url": "https://www.oschina.net/news/502616",
+      "summary": "本文是 55873 生态系统技术白皮书第 3 篇 —— 数据安全体系。完整拆解分级存储策略设计，包括 72 小时临时清理的技术保障、核心数据永久存证的技术...",
+      "author": "55873 生态系统 - 研发",
+      "comments": 0
+    },
+    {
+      "title": "百度搭子用户规模环比增长9倍，发布企业版移动端、开发平台与共创计划",
+      "url": "https://www.oschina.net/news/502615",
+      "summary": "9月20日，百度智能云超级智能体大会深圳站举行。会上，百度搭子升级企业版多人协作能力，发布企业版移动端和智能体开发平台，并启动生态共创计划。...",
+      "author": "卡卡西xi",
+      "comments": 0
+    },
+    {
+      "title": "阶跃星辰发布 Step 5 Preview，面向真实世界 Agentic 任务的旗舰基座模型",
+      "url": "https://www.oschina.net/news/502614/stepfun-step-5-preview",
+      "summary": "阶跃星辰新版旗舰模型 Step 5 发布了 Preview 版本，它给自己定的命题不是单项性能多强，而是\"帕累托前沿\"——能力、成本、效率、场景覆盖之间那条...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "智谱披露 GLM-5.3 初显 RSI：模型开始优化承载自己的推理系统",
+      "url": "https://www.oschina.net/news/502613/zai-glm-built-its-inference-infrastructure",
+      "summary": "智谱创始人、首席科学家唐杰和 GLM 团队发了一篇长文，题目已经把姿态放得很低：\"这还不是完整意义上的递归自我改进（RSI），但已经出现了早期形态...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "微信 AI 团队开源 WeKnora：知识库不再只动嘴，还能“动手”执行",
+      "url": "https://www.oschina.net/news/502612",
+      "summary": "微信AI团队开源了个知识管理框架，叫 WeKnora（维娜拉），最新 0.8.0 版本刚放出。定位一句话：让知识库不只是\"能查到答案\"，而是\"能动手去执行\"—...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "华为多维探索 Agentic 计算：超节点 + 集群，从算子打到 Agent 开发范式",
+      "url": "https://www.oschina.net/news/502611/huawei-hc2026-agentic-thinkpro-pto-cann",
+      "summary": "Agentic 时代给算力带来的麻烦，比想象中具体。大量 Agent 跑长程复杂任务，输出等待时延高、通信带宽压力大、内存消耗激增，算力分布和互联方式都...",
+      "author": "菠萝的海子",
+      "comments": 0
+    },
+    {
+      "title": "企业智能体连接数据库方案对比分析",
+      "url": "https://www.oschina.net/news/502610",
+      "summary": "一、企业智能体数据应用落地现状 当前企业智能体已从试点走向规模化应用，核心特征是\"自助化、常态化、高频化\"：智能体替代大量人工数据查询与报表...",
+      "author": "鲨鱼不刷牙",
+      "comments": 0
+    },
+    {
+      "title": "前 OpenAI 研究员发布 Jev 模型，旨在帮助软件做出快速、结构化的决策",
+      "url": "https://www.oschina.net/news/502609/typesafe-ai-system-one-models-and-jev",
+      "summary": "TypeSafe AI 前两天从隐身状态出来了。这个实验室由前 OpenAI 研究员 Diogo Almeida 创办，他参与过 ChatGPT 背后的指令跟随方法研究。这次发布的不...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "技术第2篇，【架构经验】前期费点劲把底座打牢，后面怎么扩展都稳 ——55873 五引擎设计复盘",
+      "url": "https://www.oschina.net/news/502608",
+      "summary": "本文是 55873 生态系统技术白皮书第 2 篇 —— 五引擎核心原理。详细拆解自研五引擎隔离架构，涵盖请求流转逻辑、引擎间通信协议、量化性能基线、故...",
+      "author": "55873 生态系统 - 研发",
+      "comments": 0
+    },
+    {
+      "title": "技术第1篇，【架构实战】55873 生态系统：从单体到微内核，一套可无限扩展的五引擎 AI 平台架构设计",
+      "url": "https://www.oschina.net/news/502606",
+      "summary": "本文是 55873 生态系统技术白皮书第 1 篇 —— 整体架构总览。从设计理念到五层架构，完整拆解这套面向可信 AI 评测与数字文脉资产的微内核架构...",
+      "author": "55873 生态系统 - 研发",
+      "comments": 0
+    },
+    {
+      "title": "专访 申俊伟 | 人在真正忙碌起来的时候，反而会减少很多焦虑",
+      "url": "https://my.oschina.net/u/4806939/blog/19763765",
+      "summary": "OSC技术影响力合伙人-专访 | 申俊伟（轻口味）",
+      "author": "哈哈欧尼OSC",
+      "comments": 0
+    },
+    {
+      "title": "DDR5大容量装机需求升温 技嘉D5 Single Boost带来单条高频新选择",
+      "url": "https://www.oschina.net/news/502604",
+      "summary": "随着游戏、内容创作以及AI应用对内存容量的需求持续提升，D5内存的价格也水涨船高，因此对于新装机用户来说，大容量单条DDR5内存正在成为装机的全新...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "中国商用车驶向欧洲，东软凭什么成为一汽解放的 “软件副驾”？",
+      "url": "https://www.oschina.net/news/502603",
+      "summary": "IAA Transportation 2026，一汽解放展台前客流如织。人们纷纷将视线投向一块屏幕上的导航界面。 演示人员输入目的地——从汉堡港到慕尼黑工业园，屏...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "华为全联接大会2026 | 携手客户、伙伴与开发者，openJiuwen生态成果重磅展出",
+      "url": "https://www.oschina.net/news/502602",
+      "summary": "9月17-19日，华为全联接大会2026在上海世博中心与上海世博展览馆举行。由华为2012实验室、华为云、终端、计算等团队联合构建的开源AI Agent平台ope...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Testin云测大模型测试选型测评：AI自动化迭代提质降本方案",
+      "url": "https://www.oschina.net/news/502601",
+      "summary": "大模型、智能Agent、企业AI知识库的常态化迭代，让传统人工测试与脚本化自动化测试的弊端持续放大，成为制约AI产品提质降本的核心瓶颈。脚本频繁失...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "HarmonyOS AI开发工具加速应用创新 构建Agentic时代开发新范式",
+      "url": "https://www.oschina.net/news/502600",
+      "summary": "9月18日，华为全联接大会2026期间，HDD·HarmonyOS 创新论坛在上海举办。本次论坛重点介绍了一站式鸿蒙应用AI 开发工具 DevEco Code 以及鸿蒙应用...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "HarmonyOS创新论坛在沪举办 共探智能化时代鸿蒙应用创新实践",
+      "url": "https://www.oschina.net/news/502599",
+      "summary": "9月18日，华为全联接大会2026期间，HDD·HarmonyOS创新论坛（HarmonyOS 7专场）在上海举办。论坛汇聚华为技术专家与支付宝、莱特英语、小卡健康等生...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}

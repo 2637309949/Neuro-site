@@ -1,0 +1,280 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T13:43:18.926072+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "summary": "",
+      "author": "speckx",
+      "comments": 370,
+      "score": 1175
+    },
+    {
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "summary": "",
+      "author": "floathub",
+      "comments": 1001,
+      "score": 878
+    },
+    {
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "summary": "",
+      "author": "colinprince",
+      "comments": 295,
+      "score": 764
+    },
+    {
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "summary": "",
+      "author": "thepoet",
+      "comments": 193,
+      "score": 592
+    },
+    {
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "summary": "",
+      "author": "gavide",
+      "comments": 74,
+      "score": 591
+    },
+    {
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "summary": "",
+      "author": "Jach",
+      "comments": 367,
+      "score": 509
+    },
+    {
+      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
+      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "summary": "",
+      "author": "backlit4034",
+      "comments": 353,
+      "score": 447
+    },
+    {
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "summary": "",
+      "author": "rcymerys",
+      "comments": 419,
+      "score": 417
+    },
+    {
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "summary": "",
+      "author": "dash2",
+      "comments": 338,
+      "score": 332
+    },
+    {
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "summary": "",
+      "author": "matklad",
+      "comments": 62,
+      "score": 310
+    },
+    {
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "summary": "",
+      "author": "aakil",
+      "comments": 197,
+      "score": 307
+    },
+    {
+      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 167,
+      "score": 258
+    },
+    {
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "summary": "",
+      "author": "NKosmatos",
+      "comments": 60,
+      "score": 221
+    },
+    {
+      "title": "The coolest anti-surveillance tools at Defcon [video]",
+      "url": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
+      "summary": "",
+      "author": "neom",
+      "comments": 37,
+      "score": 221
+    },
+    {
+      "title": "Stop Making TUIs",
+      "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+      "summary": "",
+      "author": "underdeserver",
+      "comments": 306,
+      "score": 213
+    },
+    {
+      "title": "Three important steps in my maturation process",
+      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "summary": "",
+      "author": "tdullien",
+      "comments": 79,
+      "score": 173
+    },
+    {
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "summary": "",
+      "author": "toebee",
+      "comments": 39,
+      "score": 158
+    },
+    {
+      "title": "OTel isn’t going well",
+      "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "summary": "",
+      "author": "hn_acker",
+      "comments": 61,
+      "score": 154
+    },
+    {
+      "title": "People of ACM – Russ Cox",
+      "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+      "summary": "",
+      "author": "signa11",
+      "comments": 14,
+      "score": 146
+    },
+    {
+      "title": "Everyone says assembly is untyped—everyone is wrong",
+      "url": "https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/",
+      "summary": "",
+      "author": "adamrezich",
+      "comments": 48,
+      "score": 105
+    },
+    {
+      "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+      "summary": "",
+      "author": "gmays",
+      "comments": 50,
+      "score": 103
+    },
+    {
+      "title": "Zig’s io.threaded is neat",
+      "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
+      "summary": "",
+      "author": "chilipepperhott",
+      "comments": 55,
+      "score": 101
+    },
+    {
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
+      "summary": "",
+      "author": "simonpure",
+      "comments": 30,
+      "score": 85
+    },
+    {
+      "title": "A revisit of remote Spectre attacks on Cloudflare Workers",
+      "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
+      "summary": "",
+      "author": "albertpedersen",
+      "comments": 3,
+      "score": 67
+    },
+    {
+      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "summary": "",
+      "author": "sbulaev",
+      "comments": 3,
+      "score": 57
+    },
+    {
+      "title": "How Thailand Resisted Colonization",
+      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+      "summary": "",
+      "author": "karakoram",
+      "comments": 13,
+      "score": 55
+    },
+    {
+      "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
+      "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
+      "summary": "",
+      "author": "corysama",
+      "comments": 0,
+      "score": 52
+    },
+    {
+      "title": "Z80–The 1970s Microprocessor Still Alive",
+      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
+      "summary": "",
+      "author": "asdefghyk",
+      "comments": 20,
+      "score": 47
+    },
+    {
+      "title": "Galactic Compass 2: now with new augmented reality mode",
+      "url": "https://interconnected.org/home/2026/08/21/galactic",
+      "summary": "",
+      "author": "bobbiechen",
+      "comments": 2,
+      "score": 21
+    },
+    {
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "summary": "",
+      "author": "mooreds",
+      "comments": 0,
+      "score": 13
+    }
+  ]
+}

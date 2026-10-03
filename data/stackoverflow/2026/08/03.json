@@ -1,0 +1,432 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T15:51:58.048878+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to make sentence DSL in Ruby?",
+      "url": "https://stackoverflow.com/questions/79990123/how-to-make-sentence-dsl-in-ruby",
+      "summary": "",
+      "tags": [
+        "ruby",
+        "dsl"
+      ],
+      "author": "KPEBETKA",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Printing the index without errors",
+      "url": "https://stackoverflow.com/questions/79990134/printing-the-index-without-errors",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "Khalid",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Confusion about pipe (&quot;|&quot;) character in an environment variable in different Windows CLI tools",
+      "url": "https://stackoverflow.com/questions/79990130/confusion-about-pipe-character-in-an-environment-variable-in-different-win",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "cmd",
+        "git-bash"
+      ],
+      "author": "J-bob",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Keep debug data generated in a SQL Server stored procedure that triggers transaction rollback",
+      "url": "https://stackoverflow.com/questions/79990131/keep-debug-data-generated-in-a-sql-server-stored-procedure-that-triggers-transac",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "sql-server",
+        "azure-sql-database"
+      ],
+      "author": "Buda Florin",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Is it possible to detect installed mobile apps from a web page scanned via QR code to trigger specific deep links?",
+      "url": "https://stackoverflow.com/questions/79990136/is-it-possible-to-detect-installed-mobile-apps-from-a-web-page-scanned-via-qr-co",
+      "summary": "",
+      "tags": [
+        "http-redirect",
+        "qr-code",
+        "deep-linking",
+        "mobile-browser"
+      ],
+      "author": "Bilal Yılmaz",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to create a multivariable polynomial using SymEngine C++?",
+      "url": "https://stackoverflow.com/questions/79990139/how-to-create-a-multivariable-polynomial-using-symengine-c",
+      "summary": "",
+      "tags": [
+        "c++",
+        "symbolic-math",
+        "symengine"
+      ],
+      "author": "Miron",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Regex to match only one word and not zero or 2 words",
+      "url": "https://stackoverflow.com/questions/79990117/regex-to-match-only-one-word-and-not-zero-or-2-words",
+      "summary": "",
+      "tags": [
+        "php",
+        "regex"
+      ],
+      "author": "AxEgo",
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "title": "How do I access multiple entries from a JSON file, that I appended to a &lt;select&gt;",
+      "url": "https://stackoverflow.com/questions/79990112/how-do-i-access-multiple-entries-from-a-json-file-that-i-appended-to-a-select",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "json"
+      ],
+      "author": "Orc2000",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Web app requests take 30-59s client-side while Executions log shows 1-2s — delay outside script execution",
+      "url": "https://stackoverflow.com/questions/79990118/web-app-requests-take-30-59s-client-side-while-executions-log-shows-1-2s-delay",
+      "summary": "",
+      "tags": [
+        "performance",
+        "google-apps-script",
+        "google-sheets-api",
+        "latency"
+      ],
+      "author": "user2579351",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Flutter web app isn&#39;t verifying by google OAuth Consent screen -&gt; Branding",
+      "url": "https://stackoverflow.com/questions/79990115/flutter-web-app-isnt-verifying-by-google-oauth-consent-screen-branding",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "google-oauth",
+        "google-crawlers",
+        "google-cloud-console"
+      ],
+      "author": "Muhammad Rehan",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Clang refuses to inherit constructor with `error: dependent using declaration resolved to type without &#39;typename&#39;`",
+      "url": "https://stackoverflow.com/questions/79990100/clang-refuses-to-inherit-constructor-with-error-dependent-using-declaration-re",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer"
+      ],
+      "author": "HolyBlackCat",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why does passing NULL to a variadic function trigger a &quot;varFuncNullUB&quot; warning?",
+      "url": "https://stackoverflow.com/questions/79990062/why-does-passing-null-to-a-variadic-function-trigger-a-varfuncnullub-warning",
+      "summary": "",
+      "tags": [
+        "c",
+        "variadic",
+        "cppcheck"
+      ],
+      "author": "Darek",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "Can I get my compiler to complain about namespaces spanning the end of an include file?",
+      "url": "https://stackoverflow.com/questions/79990081/can-i-get-my-compiler-to-complain-about-namespaces-spanning-the-end-of-an-includ",
+      "summary": "",
+      "tags": [
+        "c++",
+        "namespaces",
+        "syntax-error",
+        "compiler-warnings",
+        "static-analysis"
+      ],
+      "author": "einpoklum",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Lost .local directory moved to another drive. How to kill icons and links in desktop and other records",
+      "url": "https://stackoverflow.com/questions/79990098/lost-local-directory-moved-to-another-drive-how-to-kill-icons-and-links-in-des",
+      "summary": "",
+      "tags": [
+        "linux",
+        "linux-mint"
+      ],
+      "author": "Sergey Efimov",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How to implement a Connected Button Group in Jetpack Compose Material 3?",
+      "url": "https://stackoverflow.com/questions/79990096/how-to-implement-a-connected-button-group-in-jetpack-compose-material-3",
+      "summary": "",
+      "tags": [
+        "android",
+        "android-jetpack-compose"
+      ],
+      "author": "Stanisław Olszak",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "What are Microsoft Resource Identifiers?",
+      "url": "https://stackoverflow.com/questions/79990082/what-are-microsoft-resource-identifiers",
+      "summary": "",
+      "tags": [
+        "microsoft-graph-api",
+        "format",
+        "microsoft-teams",
+        "identifier"
+      ],
+      "author": "cachius",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "macOS Accessibility API: how can I get caret bounds in Chromium/Electron apps when AXBoundsForRange fails",
+      "url": "https://stackoverflow.com/questions/79990036/macos-accessibility-api-how-can-i-get-caret-bounds-in-chromium-electron-apps-wh",
+      "summary": "",
+      "tags": [
+        "swift",
+        "macos",
+        "electron",
+        "accessibility"
+      ],
+      "author": "Fiodorov Andrei",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why getComputedStyle for a 15px border-width returns 14.5455px on 110% page zoom?",
+      "url": "https://stackoverflow.com/questions/79990054/why-getcomputedstyle-for-a-15px-border-width-returns-14-5455px-on-110-page-zoom",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "Zxd2025",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Google Play rejects Data Safety account deletion URL as missing app or developer reference",
+      "url": "https://stackoverflow.com/questions/79990086/google-play-rejects-data-safety-account-deletion-url-as-missing-app-or-developer",
+      "summary": "",
+      "tags": [
+        "android",
+        "google-play-console"
+      ],
+      "author": "Mohit Gupta",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Post data in MAUI when application is closing",
+      "url": "https://stackoverflow.com/questions/79990077/post-data-in-maui-when-application-is-closing",
+      "summary": "",
+      "tags": [
+        "post",
+        "maui"
+      ],
+      "author": "t232006",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Oracle APEX Interactive Grid - Enterable Popup LOV issue",
+      "url": "https://stackoverflow.com/questions/79990079/oracle-apex-interactive-grid-enterable-popup-lov-issue",
+      "summary": "",
+      "tags": [
+        "oracle-database",
+        "apex",
+        "interactive-grid"
+      ],
+      "author": "Bhavin Adhvaryu",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to pass a scopedvalue to a child thread?",
+      "url": "https://stackoverflow.com/questions/79990029/how-to-pass-a-scopedvalue-to-a-child-thread",
+      "summary": "",
+      "tags": [
+        "java",
+        "structured-concurrency"
+      ],
+      "author": "Priyshrm",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "ASP.NET Core 10 MVC: internal server error when not using RazorRuntimeCompilation with VS Code C# debugger",
+      "url": "https://stackoverflow.com/questions/79990026/asp-net-core-10-mvc-internal-server-error-when-not-using-razorruntimecompilatio",
+      "summary": "",
+      "tags": [
+        "c#",
+        "visual-studio-code",
+        "razor",
+        "asp.net-core-mvc",
+        "asp.net-core-10.0"
+      ],
+      "author": "Emvidasch",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Flutter Windows build fails with Firebase Auth linker errors (__imp__CrtDbgReport, __imp__invalid_parameter)",
+      "url": "https://stackoverflow.com/questions/79990052/flutter-windows-build-fails-with-firebase-auth-linker-errors-imp-crtdbgrepor",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "firebase",
+        "flutter-dependencies"
+      ],
+      "author": "VDTe",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Exoplayer: Subtitles in jetpack compose",
+      "url": "https://stackoverflow.com/questions/79990071/exoplayer-subtitles-in-jetpack-compose",
+      "summary": "",
+      "tags": [
+        "android",
+        "kotlin",
+        "android-jetpack-compose",
+        "exoplayer"
+      ],
+      "author": "AsfhtgkDavid",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "AG Charts custom renderer tooltip is read with HTML tags by an NVDA screen reader",
+      "url": "https://stackoverflow.com/questions/79990035/ag-charts-custom-renderer-tooltip-is-read-with-html-tags-by-an-nvda-screen-reade",
+      "summary": "",
+      "tags": [
+        "nvda",
+        "ag-charts"
+      ],
+      "author": "VKN",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Meta Embedded Signup ignores only_waba_sharing and opens PHONE_NUMBER_SETUP",
+      "url": "https://stackoverflow.com/questions/79990070/meta-embedded-signup-ignores-only-waba-sharing-and-opens-phone-number-setup",
+      "summary": "",
+      "tags": [
+        "facebook-graph-api",
+        "whatsapp-cloud-api"
+      ],
+      "author": "Emir",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "ADB over TCP not working for Realwear navigator 520 on corporate network",
+      "url": "https://stackoverflow.com/questions/79990053/adb-over-tcp-not-working-for-realwear-navigator-520-on-corporate-network",
+      "summary": "",
+      "tags": [
+        "android",
+        "tcp",
+        "adb"
+      ],
+      "author": "Chhandosee Bhattacharya",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Adobe Sign embedded signing URL not showing user&#39;s saved signature — how to make it identity-bound?",
+      "url": "https://stackoverflow.com/questions/79990058/adobe-sign-embedded-signing-url-not-showing-users-saved-signature-how-to-make",
+      "summary": "",
+      "tags": [
+        "adobe",
+        "digital-signature",
+        "identity"
+      ],
+      "author": "Sughosh S V",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Logging with Vertx and log4j2 failing at large number of request",
+      "url": "https://stackoverflow.com/questions/79990014/logging-with-vertx-and-log4j2-failing-at-large-number-of-request",
+      "summary": "",
+      "tags": [
+        "java",
+        "log4j2",
+        "vert.x"
+      ],
+      "author": "Blesson",
+      "comments": 1,
+      "score": 1
+    }
+  ]
+}

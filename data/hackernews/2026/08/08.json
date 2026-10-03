@@ -1,0 +1,280 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T13:55:44.625869+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "summary": "",
+      "author": "RickJWagner",
+      "comments": 871,
+      "score": 783
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "",
+      "author": "tosh",
+      "comments": 409,
+      "score": 685
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "summary": "",
+      "author": "delduca",
+      "comments": 356,
+      "score": 494
+    },
+    {
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "summary": "",
+      "author": "inigyou",
+      "comments": 400,
+      "score": 414
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "summary": "",
+      "author": "piotrgrabowski",
+      "comments": 91,
+      "score": 372
+    },
+    {
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "summary": "",
+      "author": "Meleagris",
+      "comments": 164,
+      "score": 334
+    },
+    {
+      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "summary": "",
+      "author": "aanet",
+      "comments": 69,
+      "score": 301
+    },
+    {
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "summary": "",
+      "author": "poly2it",
+      "comments": 154,
+      "score": 300
+    },
+    {
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "summary": "",
+      "author": "wglb",
+      "comments": 60,
+      "score": 290
+    },
+    {
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "summary": "",
+      "author": "moelf",
+      "comments": 103,
+      "score": 281
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "summary": "",
+      "author": "moonikakiss",
+      "comments": 227,
+      "score": 267
+    },
+    {
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "summary": "",
+      "author": "aagha",
+      "comments": 70,
+      "score": 225
+    },
+    {
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "summary": "",
+      "author": "m3h",
+      "comments": 57,
+      "score": 202
+    },
+    {
+      "title": "Carl's Required Reading",
+      "url": "https://carlkolon.com/reading/",
+      "summary": "",
+      "author": "cckolon",
+      "comments": 26,
+      "score": 198
+    },
+    {
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "summary": "",
+      "author": "epestr",
+      "comments": 58,
+      "score": 196
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "summary": "",
+      "author": "artninja1988",
+      "comments": 184,
+      "score": 189
+    },
+    {
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "summary": "",
+      "author": "MarcoDewey",
+      "comments": 40,
+      "score": 177
+    },
+    {
+      "title": "Radical Study Suggests Life on Earth Arose Twice",
+      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+      "summary": "",
+      "author": "jnord",
+      "comments": 105,
+      "score": 169
+    },
+    {
+      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "summary": "",
+      "author": "sbulaev",
+      "comments": 145,
+      "score": 143
+    },
+    {
+      "title": "SupererDuperer",
+      "url": "https://www.shirtpocket.com/blog/supererduperer",
+      "summary": "",
+      "author": "zdw",
+      "comments": 27,
+      "score": 132
+    },
+    {
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "summary": "",
+      "author": "bhavansig",
+      "comments": 28,
+      "score": 114
+    },
+    {
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "summary": "",
+      "author": "882542F3884314B",
+      "comments": 99,
+      "score": 86
+    },
+    {
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "summary": "",
+      "author": "01-_-",
+      "comments": 5,
+      "score": 78
+    },
+    {
+      "title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
+      "url": "https://github.com/alfikpl/ao486",
+      "summary": "",
+      "author": "csmantle",
+      "comments": 4,
+      "score": 36
+    },
+    {
+      "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
+      "summary": "",
+      "author": "denismenace",
+      "comments": 2,
+      "score": 27
+    },
+    {
+      "title": "k-Coloring is Faster than Computing the Chromatic Number",
+      "url": "https://arxiv.org/abs/2607.25973",
+      "summary": "",
+      "author": "matt_d",
+      "comments": 3,
+      "score": 26
+    },
+    {
+      "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+      "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+      "summary": "",
+      "author": "eternalreturn",
+      "comments": 16,
+      "score": 21
+    },
+    {
+      "title": "Tell Abu Hureyra (prehistoric archaeological site)",
+      "url": "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra",
+      "summary": "",
+      "author": "dieselgate",
+      "comments": 1,
+      "score": 18
+    },
+    {
+      "title": "Show HN: Sign language translation with smart glasses",
+      "url": "https://github.com/aadisang/hand-wave",
+      "summary": "",
+      "author": "aadisang",
+      "comments": 5,
+      "score": 13
+    },
+    {
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "summary": "",
+      "author": "mooreds",
+      "comments": 0,
+      "score": 13
+    }
+  ]
+}
