@@ -1,0 +1,426 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T14:24:59.579456+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Efficiently reviewing local LLM-generated worktrees",
+      "url": "https://stackoverflow.com/questions/79991944/efficiently-reviewing-local-llm-generated-worktrees",
+      "summary": "",
+      "tags": [
+        "advice",
+        "visual-studio-code",
+        "claude-code"
+      ],
+      "author": "David Maze",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "ThenInclude() does not appear to work with ToList()",
+      "url": "https://stackoverflow.com/questions/79991945/theninclude-does-not-appear-to-work-with-tolist",
+      "summary": "",
+      "tags": [
+        "c#",
+        "linq",
+        "entity-framework-core"
+      ],
+      "author": "Jean-David Lanz",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Why does my audio player not pause on mobile?",
+      "url": "https://stackoverflow.com/questions/79991943/why-does-my-audio-player-not-pause-on-mobile",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "Eden Leadbeatter",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I access the PHP used in a Docker container from the console?",
+      "url": "https://stackoverflow.com/questions/79991949/how-can-i-access-the-php-used-in-a-docker-container-from-the-console",
+      "summary": "",
+      "tags": [
+        "php",
+        "docker"
+      ],
+      "author": "Watchduck",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "STM32WL55 DMA mode cannot change dynamically",
+      "url": "https://stackoverflow.com/questions/79991948/stm32wl55-dma-mode-cannot-change-dynamically",
+      "summary": "",
+      "tags": [
+        "audio",
+        "stm32",
+        "dma",
+        "nucleo",
+        "i2s"
+      ],
+      "author": "mehmet",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does BFD-ld create two separate read-only (R) LOAD segments instead of merging them?",
+      "url": "https://stackoverflow.com/questions/79991946/why-does-bfd-ld-create-two-separate-read-only-r-load-segments-instead-of-mergi",
+      "summary": "",
+      "tags": [
+        "assembly",
+        "linker",
+        "ld",
+        "elf",
+        "linker-scripts"
+      ],
+      "author": "nostromo",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How do I make it so that the script responds differently for each element?",
+      "url": "https://stackoverflow.com/questions/79991937/how-do-i-make-it-so-that-the-script-responds-differently-for-each-element",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "author": "Xenon7N",
+      "comments": 2,
+      "score": -3
+    },
+    {
+      "title": "Vertx multiple ssl connections in parallel over event loop",
+      "url": "https://stackoverflow.com/questions/79991931/vertx-multiple-ssl-connections-in-parallel-over-event-loop",
+      "summary": "",
+      "tags": [
+        "vert.x",
+        "vertx-httpclient"
+      ],
+      "author": "himanshu_mps",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Function pointer comparisons do not produce meaningful results since their addresses are not guaranteed to be unique",
+      "url": "https://stackoverflow.com/questions/79991903/function-pointer-comparisons-do-not-produce-meaningful-results-since-their-addre",
+      "summary": "",
+      "tags": [
+        "advice",
+        "rust",
+        "function-pointers"
+      ],
+      "author": "Code4R7",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Italizice all but predefined strings with ggtext",
+      "url": "https://stackoverflow.com/questions/79991928/italizice-all-but-predefined-strings-with-ggtext",
+      "summary": "",
+      "tags": [
+        "ggtext"
+      ],
+      "author": "David",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "I am creating a dynamic formula to count the number of records based on these criteria",
+      "url": "https://stackoverflow.com/questions/79991909/i-am-creating-a-dynamic-formula-to-count-the-number-of-records-based-on-these-cr",
+      "summary": "",
+      "tags": [
+        "advice",
+        "excel",
+        "excel-formula"
+      ],
+      "author": "Ruel Ariola",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "OpenGL rendering works for manually created entities but fails for identical entities loaded from JSON",
+      "url": "https://stackoverflow.com/questions/79991898/opengl-rendering-works-for-manually-created-entities-but-fails-for-identical-ent",
+      "summary": "",
+      "tags": [
+        "opengl",
+        "game-engine",
+        "json-deserialization"
+      ],
+      "author": "kian h",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Is there a difference between setting FileSystemInfo.LastWriteTime and using File.SetLastWriteTime?",
+      "url": "https://stackoverflow.com/questions/79991921/is-there-a-difference-between-setting-filesysteminfo-lastwritetime-and-using-fil",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net"
+      ],
+      "author": "ispiro",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Polkadot background for a section of my react-native game",
+      "url": "https://stackoverflow.com/questions/79991917/polkadot-background-for-a-section-of-my-react-native-game",
+      "summary": "",
+      "tags": [
+        "advice",
+        "react-native",
+        "expo"
+      ],
+      "author": "Scott van Duin",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "c++20 concepts: how to requires a class with specific name of static function",
+      "url": "https://stackoverflow.com/questions/79991858/c20-concepts-how-to-requires-a-class-with-specific-name-of-static-function",
+      "summary": "",
+      "tags": [
+        "c++",
+        "static-methods",
+        "c++-concepts"
+      ],
+      "author": "Qin Yanfei",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "How to divide a Python script in a shorter script and a module?",
+      "url": "https://stackoverflow.com/questions/79991869/how-to-divide-a-python-script-in-a-shorter-script-and-a-module",
+      "summary": "",
+      "tags": [
+        "python",
+        "jupyter-notebook"
+      ],
+      "author": "janpeter",
+      "comments": 4,
+      "score": -2
+    },
+    {
+      "title": "Excel/Calc parametric reference, multiple criteria, array multiplication in match()",
+      "url": "https://stackoverflow.com/questions/79991892/excel-calc-parametric-reference-multiple-criteria-array-multiplication-in-matc",
+      "summary": "",
+      "tags": [
+        "excel",
+        "calc"
+      ],
+      "author": "R. Jahn",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "A quetion about : WebView2Aot",
+      "url": "https://stackoverflow.com/questions/79991887/a-quetion-about-webview2aot",
+      "summary": "",
+      "tags": [
+        ".net",
+        "webview2",
+        "native-aot"
+      ],
+      "author": "Salvatore Di Dio",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How can I handle Registry missing encoding with id vortex.variant after rolling back Milvus 3.0?",
+      "url": "https://stackoverflow.com/questions/79991897/how-can-i-handle-registry-missing-encoding-with-id-vortex-variant-after-rolling",
+      "summary": "",
+      "tags": [
+        "milvus",
+        "vector-search"
+      ],
+      "author": "D Ff",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How to test Stripe automated payouts",
+      "url": "https://stackoverflow.com/questions/79991882/how-to-test-stripe-automated-payouts",
+      "summary": "",
+      "tags": [
+        "next.js",
+        "stripe-payments"
+      ],
+      "author": "user33017258",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Modifying an AWS load balancer listener rule with terraform",
+      "url": "https://stackoverflow.com/questions/79991890/modifying-an-aws-load-balancer-listener-rule-with-terraform",
+      "summary": "",
+      "tags": [
+        "terraform",
+        "terraform-provider-aws",
+        "aws-application-load-balancer"
+      ],
+      "author": "JamesP",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Best way to export Excel with multiple sheets",
+      "url": "https://stackoverflow.com/questions/79991823/best-way-to-export-excel-with-multiple-sheets",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "c#",
+        "excel",
+        "export-to-excel"
+      ],
+      "author": "LahiruKalutotage",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Why prefer constructor injection over setter and field injection?",
+      "url": "https://stackoverflow.com/questions/79991867/why-prefer-constructor-injection-over-setter-and-field-injection",
+      "summary": "",
+      "tags": [
+        "spring",
+        "constructor-injection"
+      ],
+      "author": "Shameer Hosur",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Play Store &quot;Install&quot; button missing for returning users + Encrypted Storage surviving uninstalls",
+      "url": "https://stackoverflow.com/questions/79991854/play-store-install-button-missing-for-returning-users-encrypted-storage-surv",
+      "summary": "",
+      "tags": [
+        "android",
+        "flutter",
+        "caching"
+      ],
+      "author": "Suraj Raghuvanshi",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why does getClass().getResource() return null for an image in a Swing JButton (ImageIcon NullPointerException)?",
+      "url": "https://stackoverflow.com/questions/79991853/why-does-getclass-getresource-return-null-for-an-image-in-a-swing-jbutton-i",
+      "summary": "",
+      "tags": [
+        "java",
+        "jar",
+        "resources"
+      ],
+      "author": "LostgamerFJ",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Show javascript text on an html file",
+      "url": "https://stackoverflow.com/questions/79991801/show-javascript-text-on-an-html-file",
+      "summary": "",
+      "tags": [
+        "javascript"
+      ],
+      "author": "Sumo",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "Loading the stylesheet &#39;http://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;ver=1.3.12&#39; violates the following Content Security Policy directive",
+      "url": "https://stackoverflow.com/questions/79991807/loading-the-stylesheet-http-fonts-googleapis-com-cssfamily-opensans400-700",
+      "summary": "",
+      "tags": [
+        "content-security-policy"
+      ],
+      "author": "Steve",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "How should I structure a SaaS application that supports multiple business types?",
+      "url": "https://stackoverflow.com/questions/79991846/how-should-i-structure-a-saas-application-that-supports-multiple-business-types",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "next.js",
+        "architecture",
+        "software-design",
+        "saas"
+      ],
+      "author": "Dulana",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Specific usage methods and code examples for Collection types in PolarDB for Oracle (O engine)?",
+      "url": "https://stackoverflow.com/questions/79991861/specific-usage-methods-and-code-examples-for-collection-types-in-polardb-for-ora",
+      "summary": "",
+      "tags": [
+        "polardb"
+      ],
+      "author": "Eyc",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "mongodb-agent vulnerability free image",
+      "url": "https://stackoverflow.com/questions/79991852/mongodb-agent-vulnerability-free-image",
+      "summary": "",
+      "tags": [
+        "mongodb",
+        "docker",
+        "security",
+        "standards-compliance"
+      ],
+      "author": "Aditya Shrivastav",
+      "comments": 0,
+      "score": -10
+    }
+  ]
+}

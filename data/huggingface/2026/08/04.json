@@ -1,0 +1,279 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T15:35:46.410378+00:00",
+  "source": "huggingface",
+  "count": 30,
+  "columns": [
+    {
+      "name": "模型名",
+      "key": "model",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "下载量",
+      "key": "downloads",
+      "type": "metric",
+      "icon": "Download"
+    },
+    {
+      "name": "点赞数",
+      "key": "likes",
+      "type": "metric",
+      "icon": "Heart"
+    }
+  ],
+  "items": [
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "model": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "summary": "Text Generation",
+      "downloads": 4,
+      "likes": 2230
+    },
+    {
+      "title": "moonshotai/Kimi-K3",
+      "model": "moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "summary": "Image-Text-to-Text",
+      "downloads": 8,
+      "likes": 9970
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-H3",
+      "model": "MiniMaxAI/MiniMax-H3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "summary": "Image-Text-to-Video",
+      "downloads": 2,
+      "likes": 1850
+    },
+    {
+      "title": "Comfy-Org/MiniMax-H3",
+      "model": "Comfy-Org/MiniMax-H3",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+      "summary": "Updated",
+      "downloads": 1,
+      "likes": 552
+    },
+    {
+      "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "model": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 1490
+    },
+    {
+      "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "model": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "summary": "20B",
+      "downloads": 1,
+      "likes": 460
+    },
+    {
+      "title": "baidu/Unlimited-OCR",
+      "model": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Image-Text-to-Text",
+      "downloads": 6,
+      "likes": 3870
+    },
+    {
+      "title": "thinkingmachines/Inkling-Small",
+      "model": "thinkingmachines/Inkling-Small",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-Small",
+      "summary": "Image-Text-to-Text",
+      "downloads": 5,
+      "likes": 277
+    },
+    {
+      "title": "unsloth/Kimi-K3-GGUF",
+      "model": "unsloth/Kimi-K3-GGUF",
+      "url": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 6,
+      "likes": 298
+    },
+    {
+      "title": "Audio8/Audio8-TTS-Preview-0.6b",
+      "model": "Audio8/Audio8-TTS-Preview-0.6b",
+      "url": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+      "summary": "Text-to-Speech",
+      "downloads": 4,
+      "likes": 234
+    },
+    {
+      "title": "microsoft/Mage-VL",
+      "model": "microsoft/Mage-VL",
+      "url": "https://huggingface.co/microsoft/Mage-VL",
+      "summary": "Image-Text-to-Text",
+      "downloads": 6,
+      "likes": 251
+    },
+    {
+      "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+      "model": "Kwaipilot/KAT-Coder-V2.5-Dev",
+      "url": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+      "summary": "Text Generation",
+      "downloads": 7,
+      "likes": 464
+    },
+    {
+      "title": "zai-org/GLM-5.2",
+      "model": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Text Generation",
+      "downloads": 2,
+      "likes": 4810
+    },
+    {
+      "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
+      "model": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
+      "url": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
+      "summary": "Image-Text-to-Text",
+      "downloads": 23,
+      "likes": 173
+    },
+    {
+      "title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+      "model": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+      "url": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+      "summary": "Text Generation",
+      "downloads": 6,
+      "likes": 184
+    },
+    {
+      "title": "XYZAILab/XYZ-Aquila-mini",
+      "model": "XYZAILab/XYZ-Aquila-mini",
+      "url": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini",
+      "summary": "Text Generation",
+      "downloads": 6,
+      "likes": 401
+    },
+    {
+      "title": "lodestones/Kroma",
+      "model": "lodestones/Kroma",
+      "url": "https://huggingface.co/lodestones/Kroma",
+      "summary": "Text-to-Image",
+      "downloads": 3,
+      "likes": 171
+    },
+    {
+      "title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
+      "model": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
+      "url": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 1,
+      "likes": 358
+    },
+    {
+      "title": "owensong/Inflect-Micro-v2",
+      "model": "owensong/Inflect-Micro-v2",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "summary": "Text-to-Speech",
+      "downloads": 5,
+      "likes": 405
+    },
+    {
+      "title": "Nanbeige/Nanbeige4.2-3B",
+      "model": "Nanbeige/Nanbeige4.2-3B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+      "summary": "Text Generation",
+      "downloads": 3,
+      "likes": 663
+    },
+    {
+      "title": "XYZAILab/XYZ-Aquila-pro",
+      "model": "XYZAILab/XYZ-Aquila-pro",
+      "url": "https://huggingface.co/XYZAILab/XYZ-Aquila-pro",
+      "summary": "Text Generation",
+      "downloads": 6,
+      "likes": 357
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Flash",
+      "model": "deepseek-ai/DeepSeek-V4-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+      "summary": "Text Generation",
+      "downloads": 22,
+      "likes": 2009
+    },
+    {
+      "title": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "model": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 5,
+      "likes": 262
+    },
+    {
+      "title": "poolside/Laguna-S-2.1",
+      "model": "poolside/Laguna-S-2.1",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+      "summary": "Text Generation",
+      "downloads": 8,
+      "likes": 917
+    },
+    {
+      "title": "empero-ai/Qwythos-27B-v1",
+      "model": "empero-ai/Qwythos-27B-v1",
+      "url": "https://huggingface.co/empero-ai/Qwythos-27B-v1",
+      "summary": "Image-Text-to-Text",
+      "downloads": 6,
+      "likes": 129
+    },
+    {
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "model": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Image-Text-to-Text",
+      "downloads": 17,
+      "likes": 3290
+    },
+    {
+      "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+      "model": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+      "url": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
+      "summary": "Text Generation",
+      "downloads": 12,
+      "likes": 174
+    },
+    {
+      "title": "LGAI-EXAONE/K-EXAONE-2.0-750B-A37B",
+      "model": "LGAI-EXAONE/K-EXAONE-2.0-750B-A37B",
+      "url": "https://huggingface.co/LGAI-EXAONE/K-EXAONE-2.0-750B-A37B",
+      "summary": "Text Generation",
+      "downloads": 1,
+      "likes": 111
+    },
+    {
+      "title": "LiquidAI/LFM2.5-Encoder-350M",
+      "model": "LiquidAI/LFM2.5-Encoder-350M",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-Encoder-350M",
+      "summary": "Fill-Mask",
+      "downloads": 7,
+      "likes": 103
+    },
+    {
+      "title": "amd/Instella-MoE-16B-A3B-Think",
+      "model": "amd/Instella-MoE-16B-A3B-Think",
+      "url": "https://huggingface.co/amd/Instella-MoE-16B-A3B-Think",
+      "summary": "Text Generation",
+      "downloads": 11,
+      "likes": 151
+    }
+  ]
+}

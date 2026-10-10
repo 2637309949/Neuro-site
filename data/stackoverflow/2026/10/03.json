@@ -1,0 +1,423 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T14:18:47.718538+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to create movable and resizable native text in flutter?",
+      "url": "https://stackoverflow.com/questions/80007687/how-to-create-movable-and-resizable-native-text-in-flutter",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "author": "user33181735",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "For SQL, how to use CONCAT",
+      "url": "https://stackoverflow.com/questions/80007675/for-sql-how-to-use-concat",
+      "summary": "",
+      "tags": [
+        "advice",
+        "sql"
+      ],
+      "author": "Empty DaBoi",
+      "comments": 2,
+      "score": -4
+    },
+    {
+      "title": "How to solve `Error CS0246: The type or namespace name &#39;Sylvan&#39; could not be found`",
+      "url": "https://stackoverflow.com/questions/80007679/how-to-solve-error-cs0246-the-type-or-namespace-name-sylvan-could-not-be-fou",
+      "summary": "",
+      "tags": [
+        ".net",
+        "visual-studio",
+        "solution",
+        "exceldatareader",
+        "s"
+      ],
+      "author": "katarina zed",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I implement email tracking and reduce the chance of transactional emails going to spam?",
+      "url": "https://stackoverflow.com/questions/80007676/how-can-i-implement-email-tracking-and-reduce-the-chance-of-transactional-emails",
+      "summary": "",
+      "tags": [
+        "email",
+        "webhooks",
+        "amazon-ses",
+        "email-delivery"
+      ],
+      "author": "Abhishek Khupse",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to Make RichEditBox Scrollable While Highlighting Text",
+      "url": "https://stackoverflow.com/questions/80007636/how-to-make-richeditbox-scrollable-while-highlighting-text",
+      "summary": "",
+      "tags": [
+        "c#",
+        "windows",
+        "xaml",
+        "winui-3",
+        "winui"
+      ],
+      "author": "True Blue",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How to get result(text) from NamedOnnxValue?",
+      "url": "https://stackoverflow.com/questions/80007632/how-to-get-resulttext-from-namedonnxvalue",
+      "summary": "",
+      "tags": [
+        "c#",
+        "onnx",
+        "onnx-coreml"
+      ],
+      "author": "Angella Yu",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Extend AHK Script To Ignore Arrow Keys If Input Field Has Focus",
+      "url": "https://stackoverflow.com/questions/80007651/extend-ahk-script-to-ignore-arrow-keys-if-input-field-has-focus",
+      "summary": "",
+      "tags": [
+        "focus",
+        "autohotkey",
+        "spotify"
+      ],
+      "author": "Simon Ferndriger",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "CARLA 0.9.15 hangs in Vulkan WaitUntilIdle on H800 with NVIDIA 535.54.03",
+      "url": "https://stackoverflow.com/questions/80007661/carla-0-9-15-hangs-in-vulkan-waituntilidle-on-h800-with-nvidia-535-54-03",
+      "summary": "",
+      "tags": [
+        "ubuntu",
+        "nvidia",
+        "vulkan"
+      ],
+      "author": "my Sun",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "SDL3&#39;s KMS/DRM for Intel graphics using buildroot",
+      "url": "https://stackoverflow.com/questions/80007650/sdl3s-kms-drm-for-intel-graphics-using-buildroot",
+      "summary": "",
+      "tags": [
+        "x86-64",
+        "opencl",
+        "buildroot",
+        "sdl-3"
+      ],
+      "author": "Misora Grilo",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Custom image to lightbox on ajax request with getuikit.com",
+      "url": "https://stackoverflow.com/questions/80007667/custom-image-to-lightbox-on-ajax-request-with-getuikit-com",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "lightbox",
+        "getuikit"
+      ],
+      "author": "woody180",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How to run JSNice?",
+      "url": "https://stackoverflow.com/questions/80007642/how-to-run-jsnice",
+      "summary": "",
+      "tags": [
+        "javascript"
+      ],
+      "author": "nonhuman",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How to remove row of empty line on terminal caused by &quot;\\x1b[2J&quot; in C?",
+      "url": "https://stackoverflow.com/questions/80007635/how-to-remove-row-of-empty-line-on-terminal-caused-by-x1b2j-in-c",
+      "summary": "",
+      "tags": [
+        "c"
+      ],
+      "author": "Ellan Aqira",
+      "comments": 0,
+      "score": 3
+    },
+    {
+      "title": "MySQL2 vs Sequelize for a large-scale Node.js application",
+      "url": "https://stackoverflow.com/questions/80007633/mysql2-vs-sequelize-for-a-large-scale-node-js-application",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "node.js",
+        "mariadb"
+      ],
+      "author": "Venkatesh Mahalingam",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Use JavascriptMessageListener with remote container",
+      "url": "https://stackoverflow.com/questions/80007608/use-javascriptmessagelistener-with-remote-container",
+      "summary": "",
+      "tags": [
+        "c#",
+        "ironpdf"
+      ],
+      "author": "Karelzarath",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "ASP.NET Core Facebook OAuth intercepted by Facebook App Intent Filters - and nothing shows up",
+      "url": "https://stackoverflow.com/questions/80007617/asp-net-core-facebook-oauth-intercepted-by-facebook-app-intent-filters-and-not",
+      "summary": "",
+      "tags": [
+        "asp.net-core",
+        "facebook",
+        "facebook-oauth"
+      ],
+      "author": "drizin",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Vector of std::string_view from std::filesystem::path is not correctly passed as a parameter",
+      "url": "https://stackoverflow.com/questions/80007494/vector-of-stdstring-view-from-stdfilesystempath-is-not-correctly-passed-as",
+      "summary": "",
+      "tags": [
+        "c++",
+        "vector",
+        "string-view"
+      ],
+      "author": "Natan Camargos",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "Return an empty array from a function",
+      "url": "https://stackoverflow.com/questions/80007541/return-an-empty-array-from-a-function",
+      "summary": "",
+      "tags": [
+        "arrays",
+        "vba"
+      ],
+      "author": "ArcticPuma ",
+      "comments": 2,
+      "score": -2
+    },
+    {
+      "title": "С++ operator class",
+      "url": "https://stackoverflow.com/questions/80007542/%d0%a1-operator-class",
+      "summary": "",
+      "tags": [
+        "c++"
+      ],
+      "author": "Фейзулах Ахмедов",
+      "comments": 5,
+      "score": -1
+    },
+    {
+      "title": "How I make a PyTorch model bit-identical outputs across different GPUs, cuDNN versions, and CPU fallback, with no source of nondeterminism anywhere?",
+      "url": "https://stackoverflow.com/questions/80007514/how-i-make-a-pytorch-model-bit-identical-outputs-across-different-gpus-cudnn-ve",
+      "summary": "",
+      "tags": [
+        "pytorch",
+        "floating-point",
+        "cuda"
+      ],
+      "author": "Zi Ba",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Input validation by data type best practices in C",
+      "url": "https://stackoverflow.com/questions/80007403/input-validation-by-data-type-best-practices-in-c",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c"
+      ],
+      "author": "Terry Wendt",
+      "comments": 3,
+      "score": -1
+    },
+    {
+      "title": "Hibernate 7 join ManyToOne including null values and multiple keys",
+      "url": "https://stackoverflow.com/questions/80007550/hibernate-7-join-manytoone-including-null-values-and-multiple-keys",
+      "summary": "",
+      "tags": [
+        "spring-boot",
+        "spring-data-jpa",
+        "one-to-many",
+        "hibernate-mapping"
+      ],
+      "author": "GonAlonso",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to disable Y-axis panning and make Y-axis use calculated min and max value from highest and lowest price of the current candles on chart",
+      "url": "https://stackoverflow.com/questions/80007600/how-to-disable-y-axis-panning-and-make-y-axis-use-calculated-min-and-max-value-f",
+      "summary": "",
+      "tags": [
+        "flutter"
+      ],
+      "author": "Raphael Tunji",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "ASAN error on std::tuple pointer element assignment",
+      "url": "https://stackoverflow.com/questions/80007599/asan-error-on-stdtuple-pointer-element-assignment",
+      "summary": "",
+      "tags": [
+        "c++",
+        "stdtuple"
+      ],
+      "author": "Igor",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "VSCode, CMake, MinGW, gcov: no coverage",
+      "url": "https://stackoverflow.com/questions/80007584/vscode-cmake-mingw-gcov-no-coverage",
+      "summary": "",
+      "tags": [
+        "vs-code",
+        "cmake",
+        "code-coverage",
+        "ctest"
+      ],
+      "author": "avigt",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Play two songs back to back in autoplay",
+      "url": "https://stackoverflow.com/questions/80007590/play-two-songs-back-to-back-in-autoplay",
+      "summary": "",
+      "tags": [
+        "html",
+        "audio-streaming"
+      ],
+      "author": "jctech2025",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Does emeditor support dual-column layout?",
+      "url": "https://stackoverflow.com/questions/80007594/does-emeditor-support-dual-column-layout",
+      "summary": "",
+      "tags": [
+        "emeditor"
+      ],
+      "author": "qiz_newbie",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "Does an item expired in a MemoryCache become available for garbage collection?",
+      "url": "https://stackoverflow.com/questions/80007502/does-an-item-expired-in-a-memorycache-become-available-for-garbage-collection",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net"
+      ],
+      "author": "Calimero",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "How to get plural string resource outside of Composable?",
+      "url": "https://stackoverflow.com/questions/80007554/how-to-get-plural-string-resource-outside-of-composable",
+      "summary": "",
+      "tags": [
+        "kotlin",
+        "android-jetpack-compose"
+      ],
+      "author": "chris_cm",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Finding value within nested dictionary with arrays",
+      "url": "https://stackoverflow.com/questions/80007452/finding-value-within-nested-dictionary-with-arrays",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "BConn63",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "VSCode Retain a multi-agent setup with both .claude and .github folders now that setting for chat.instructionsFilesLocations is deprecated",
+      "url": "https://stackoverflow.com/questions/80007564/vscode-retain-a-multi-agent-setup-with-both-claude-and-github-folders-now-that",
+      "summary": "",
+      "tags": [
+        "vs-code",
+        "vscode-copilot",
+        "claude-code"
+      ],
+      "author": "yo conway",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

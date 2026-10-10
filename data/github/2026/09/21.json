@@ -1,0 +1,153 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T15:55:00.803633+00:00",
+  "source": "github",
+  "count": 12,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "BuilderIO/agent-native",
+      "repo": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "summary": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": 5694,
+      "today_stars": 607
+    },
+    {
+      "title": "trycua/cua",
+      "repo": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "summary": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 25559,
+      "today_stars": 609
+    },
+    {
+      "title": "Open-Dev-Society/OpenStock",
+      "repo": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "summary": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 17441,
+      "today_stars": 843
+    },
+    {
+      "title": "akitaonrails/ai-memory",
+      "repo": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 7508,
+      "today_stars": 217
+    },
+    {
+      "title": "coder/coder",
+      "repo": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "summary": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 16313,
+      "today_stars": 461
+    },
+    {
+      "title": "anthropics/financial-services",
+      "repo": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "summary": "",
+      "language": "Python",
+      "stars": 35682,
+      "today_stars": 425
+    },
+    {
+      "title": "cloudflare/quiche",
+      "repo": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "summary": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 12232,
+      "today_stars": 69
+    },
+    {
+      "title": "mvt-project/mvt",
+      "repo": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "summary": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 13433,
+      "today_stars": 177
+    },
+    {
+      "title": "zhouxiaoka/autoclip",
+      "repo": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "summary": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "stars": 8080,
+      "today_stars": 266
+    },
+    {
+      "title": "ruanyf/weekly",
+      "repo": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "summary": "科技爱好者周刊，每周五发布",
+      "language": "",
+      "stars": 103845,
+      "today_stars": 221
+    },
+    {
+      "title": "Crosstalk-Solutions/project-nomad",
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "summary": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+      "language": "TypeScript",
+      "stars": 37677,
+      "today_stars": 360
+    },
+    {
+      "title": "yynxxxxx/Codex-X",
+      "repo": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "summary": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": 3629,
+      "today_stars": 79
+    }
+  ]
+}

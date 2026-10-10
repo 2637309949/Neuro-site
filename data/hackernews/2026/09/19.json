@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T13:08:04.895668+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "summary": "",
+      "author": "theanonymousone",
+      "comments": 480,
+      "score": 890
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "summary": "",
+      "author": "jcbhmr",
+      "comments": 294,
+      "score": 741
+    },
+    {
+      "title": "OpenJev",
+      "url": "https://openjev.com/",
+      "summary": "",
+      "author": "ilreb",
+      "comments": 273,
+      "score": 643
+    },
+    {
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "summary": "",
+      "author": "joeriddles",
+      "comments": 345,
+      "score": 522
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "summary": "",
+      "author": "f311a",
+      "comments": 84,
+      "score": 388
+    },
+    {
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "",
+      "author": "ereiamjh",
+      "comments": 241,
+      "score": 376
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "summary": "",
+      "author": "emigre",
+      "comments": 128,
+      "score": 347
+    },
+    {
+      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+      "summary": "",
+      "author": "csmantle",
+      "comments": 105,
+      "score": 312
+    },
+    {
+      "title": "The first new cat species discovered in 100 years",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "summary": "",
+      "author": "ohjeez",
+      "comments": 108,
+      "score": 290
+    },
+    {
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "summary": "",
+      "author": "z-mach9",
+      "comments": 84,
+      "score": 235
+    },
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "summary": "",
+      "author": "HenryNdubuaku",
+      "comments": 89,
+      "score": 206
+    },
+    {
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "summary": "",
+      "author": "synack",
+      "comments": 75,
+      "score": 201
+    },
+    {
+      "title": "Warez: The Infrastructure and Aesthetics of Piracy (2021)",
+      "url": "https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157",
+      "summary": "",
+      "author": "succinct_ideas",
+      "comments": 87,
+      "score": 179
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "summary": "",
+      "author": "nsoonhui",
+      "comments": 95,
+      "score": 170
+    },
+    {
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "summary": "",
+      "author": "num42",
+      "comments": 117,
+      "score": 167
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "summary": "",
+      "author": "maxall4",
+      "comments": 99,
+      "score": 148
+    },
+    {
+      "title": "Science Is Open Software",
+      "url": "https://jepedersen.dk/blog/202505_research/",
+      "summary": "",
+      "author": "jegp",
+      "comments": 41,
+      "score": 109
+    },
+    {
+      "title": "“The Secret Life of Circuits” is here",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 30,
+      "score": 107
+    },
+    {
+      "title": "Laya the open source version of Jev",
+      "url": "https://laya.convaiinnovations.com/",
+      "summary": "",
+      "author": "nandakishor_ml",
+      "comments": 16,
+      "score": 105
+    },
+    {
+      "title": "Why building a Rust LSP is hard",
+      "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+      "summary": "",
+      "author": "agluszak",
+      "comments": 39,
+      "score": 101
+    },
+    {
+      "title": "SDCC – Small Device C Compiler",
+      "url": "https://sdcc.sourceforge.net/",
+      "summary": "",
+      "author": "lioeters",
+      "comments": 20,
+      "score": 100
+    },
+    {
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "summary": "",
+      "author": "rochansinha",
+      "comments": 14,
+      "score": 97
+    },
+    {
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
+      "summary": "",
+      "author": "evacchi",
+      "comments": 19,
+      "score": 72
+    },
+    {
+      "title": "Goroutine Leak Profiles",
+      "url": "https://go.dev/blog/goroutine-leak-profiles",
+      "summary": "",
+      "author": "torutofu",
+      "comments": 5,
+      "score": 46
+    },
+    {
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "summary": "",
+      "author": "noobplus",
+      "comments": 4,
+      "score": 40
+    },
+    {
+      "title": "Ctenophores: Wonders of Biology",
+      "url": "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-biological-wonders-20260916/",
+      "summary": "",
+      "author": "randomImmigrant",
+      "comments": 6,
+      "score": 39
+    },
+    {
+      "title": "Communication by means of modulated Johnson noise",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2201337119",
+      "summary": "",
+      "author": "austinallegro",
+      "comments": 8,
+      "score": 20
+    },
+    {
+      "title": "Veronese's Dogs",
+      "url": "https://publicdomainreview.org/essay/veroneses-dogs",
+      "summary": "",
+      "author": "prismatic",
+      "comments": 2,
+      "score": 18
+    },
+    {
+      "title": "From Stonemasons to Carpenters",
+      "url": "https://thelastsoftwareengineer.substack.com/p/from-stonemasons-to-carpenters",
+      "summary": "",
+      "author": "azhenley",
+      "comments": 2,
+      "score": 17
+    },
+    {
+      "title": "Show HN: I wrote a custom assembler for CHIP-8 in C++",
+      "url": "https://github.com/Tackx/c8-ass",
+      "summary": "",
+      "author": "tack1234",
+      "comments": 0,
+      "score": 13
+    }
+  ]
+}

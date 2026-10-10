@@ -1,0 +1,189 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T14:37:08.000032+00:00",
+  "source": "github",
+  "count": 16,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "paperclipai/paperclip",
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "summary": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 83772,
+      "today_stars": 1853
+    },
+    {
+      "title": "anthropics/claude-plugins-official",
+      "repo": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 36781,
+      "today_stars": 62
+    },
+    {
+      "title": "vectorize-io/hindsight",
+      "repo": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "summary": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": 28727,
+      "today_stars": 1652
+    },
+    {
+      "title": "obra/superpowers",
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 291478,
+      "today_stars": 465
+    },
+    {
+      "title": "mattpocock/skills",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 269486,
+      "today_stars": 671
+    },
+    {
+      "title": "dream-num/univer",
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "language": "TypeScript",
+      "stars": 18181,
+      "today_stars": 1048
+    },
+    {
+      "title": "anthropics/skills",
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "summary": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 178113,
+      "today_stars": 155
+    },
+    {
+      "title": "androoAGI/starnet",
+      "repo": "androoAGI/starnet",
+      "url": "https://github.com/androoAGI/starnet",
+      "summary": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+      "language": "JavaScript",
+      "stars": 323,
+      "today_stars": 113
+    },
+    {
+      "title": "derv82/wifit3",
+      "repo": "derv82/wifit3",
+      "url": "https://github.com/derv82/wifit3",
+      "summary": "Wifite but USB-only & cross-platform.",
+      "language": "Python",
+      "stars": 736,
+      "today_stars": 168
+    },
+    {
+      "title": "kelseyhightower/kubernetes-the-hard-way",
+      "repo": "kelseyhightower/kubernetes-the-hard-way",
+      "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+      "summary": "Bootstrap Kubernetes the hard way. No scripts.",
+      "language": "",
+      "stars": 50038,
+      "today_stars": 105
+    },
+    {
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "summary": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 57185,
+      "today_stars": 1181
+    },
+    {
+      "title": "shy3130/tick-stock-panel",
+      "repo": "shy3130/tick-stock-panel",
+      "url": "https://github.com/shy3130/tick-stock-panel",
+      "summary": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "language": "Python",
+      "stars": 5063,
+      "today_stars": 31
+    },
+    {
+      "title": "google/ax",
+      "repo": "google/ax",
+      "url": "https://github.com/google/ax",
+      "summary": "Google's open agentic orchestration runtime",
+      "language": "Go",
+      "stars": 11164,
+      "today_stars": 1386
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "repo": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "summary": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "language": "Python",
+      "stars": 4294,
+      "today_stars": 360
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "repo": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "summary": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 70974,
+      "today_stars": 527
+    },
+    {
+      "title": "openbao/openbao",
+      "repo": "openbao/openbao",
+      "url": "https://github.com/openbao/openbao",
+      "summary": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+      "language": "Go",
+      "stars": 7556,
+      "today_stars": 16
+    }
+  ]
+}

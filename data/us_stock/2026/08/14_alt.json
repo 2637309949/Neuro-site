@@ -1,0 +1,278 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-16T13:42:35.219592+00:00",
+  "source": "us_stock",
+  "count": 30,
+  "columns": [
+    {
+      "name": "股票名",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "涨跌幅",
+      "key": "change",
+      "type": "metric",
+      "directionToggle": true
+    },
+    {
+      "name": "最新价",
+      "key": "price",
+      "type": "text"
+    },
+    {
+      "name": "成交额",
+      "key": "volume",
+      "type": "metric"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "AVGO",
+      "url": "https://finance.yahoo.com/quote/AVGO/",
+      "summary": "",
+      "change": "-4.60%",
+      "price": "392.99",
+      "volume": 29432900
+    },
+    {
+      "title": "ORCL",
+      "url": "https://finance.yahoo.com/quote/ORCL/",
+      "summary": "",
+      "change": "-3.41%",
+      "price": "150.52",
+      "volume": 21832100
+    },
+    {
+      "title": "ADBE",
+      "url": "https://finance.yahoo.com/quote/ADBE/",
+      "summary": "",
+      "change": "-3.37%",
+      "price": "264.02",
+      "volume": 2874100
+    },
+    {
+      "title": "CRM",
+      "url": "https://finance.yahoo.com/quote/CRM/",
+      "summary": "",
+      "change": "-3.23%",
+      "price": "196.21",
+      "volume": 8659300
+    },
+    {
+      "title": "INTC",
+      "url": "https://finance.yahoo.com/quote/INTC/",
+      "summary": "",
+      "change": "-1.90%",
+      "price": "102.50",
+      "volume": 95105600
+    },
+    {
+      "title": "YUM",
+      "url": "https://finance.yahoo.com/quote/YUM/",
+      "summary": "",
+      "change": "-1.78%",
+      "price": "148.11",
+      "volume": 1723600
+    },
+    {
+      "title": "IBM",
+      "url": "https://finance.yahoo.com/quote/IBM/",
+      "summary": "",
+      "change": "-1.70%",
+      "price": "234.32",
+      "volume": 4519900
+    },
+    {
+      "title": "FDX",
+      "url": "https://finance.yahoo.com/quote/FDX/",
+      "summary": "",
+      "change": "-1.29%",
+      "price": "334.64",
+      "volume": 1314900
+    },
+    {
+      "title": "NKE",
+      "url": "https://finance.yahoo.com/quote/NKE/",
+      "summary": "",
+      "change": "-1.21%",
+      "price": "40.73",
+      "volume": 23578800
+    },
+    {
+      "title": "META",
+      "url": "https://finance.yahoo.com/quote/META/",
+      "summary": "",
+      "change": "-1.19%",
+      "price": "589.85",
+      "volume": 8731600
+    },
+    {
+      "title": "UPS",
+      "url": "https://finance.yahoo.com/quote/UPS/",
+      "summary": "",
+      "change": "-1.08%",
+      "price": "104.50",
+      "volume": 4240100
+    },
+    {
+      "title": "AXP",
+      "url": "https://finance.yahoo.com/quote/AXP/",
+      "summary": "",
+      "change": "-1.01%",
+      "price": "342.48",
+      "volume": 1529500
+    },
+    {
+      "title": "CSCO",
+      "url": "https://finance.yahoo.com/quote/CSCO/",
+      "summary": "",
+      "change": "-0.99%",
+      "price": "111.68",
+      "volume": 29390600
+    },
+    {
+      "title": "AMZN",
+      "url": "https://finance.yahoo.com/quote/AMZN/",
+      "summary": "",
+      "change": "-0.84%",
+      "price": "262.65",
+      "volume": 27184900
+    },
+    {
+      "title": "TGT",
+      "url": "https://finance.yahoo.com/quote/TGT/",
+      "summary": "",
+      "change": "-0.78%",
+      "price": "154.48",
+      "volume": 3615300
+    },
+    {
+      "title": "SPGI",
+      "url": "https://finance.yahoo.com/quote/SPGI/",
+      "summary": "",
+      "change": "-0.76%",
+      "price": "418.80",
+      "volume": 1736900
+    },
+    {
+      "title": "NVDA",
+      "url": "https://finance.yahoo.com/quote/NVDA/",
+      "summary": "",
+      "change": "-0.71%",
+      "price": "225.16",
+      "volume": 75504000
+    },
+    {
+      "title": "BHP",
+      "url": "https://finance.yahoo.com/quote/BHP/",
+      "summary": "",
+      "change": "-0.71%",
+      "price": "86.78",
+      "volume": 2410400
+    },
+    {
+      "title": "EMR",
+      "url": "https://finance.yahoo.com/quote/EMR/",
+      "summary": "",
+      "change": "-0.66%",
+      "price": "163.17",
+      "volume": 2144400
+    },
+    {
+      "title": "BRK-B",
+      "url": "https://finance.yahoo.com/quote/BRK-B/",
+      "summary": "",
+      "change": "-0.63%",
+      "price": "504.03",
+      "volume": 3961400
+    },
+    {
+      "title": "HD",
+      "url": "https://finance.yahoo.com/quote/HD/",
+      "summary": "",
+      "change": "-0.57%",
+      "price": "338.86",
+      "volume": 3072500
+    },
+    {
+      "title": "ETN",
+      "url": "https://finance.yahoo.com/quote/ETN/",
+      "summary": "",
+      "change": "-0.50%",
+      "price": "451.51",
+      "volume": 1401000
+    },
+    {
+      "title": "V",
+      "url": "https://finance.yahoo.com/quote/V/",
+      "summary": "",
+      "change": "-0.48%",
+      "price": "364.15",
+      "volume": 8105600
+    },
+    {
+      "title": "BLK",
+      "url": "https://finance.yahoo.com/quote/BLK/",
+      "summary": "",
+      "change": "-0.45%",
+      "price": "1173.73",
+      "volume": 514900
+    },
+    {
+      "title": "SHW",
+      "url": "https://finance.yahoo.com/quote/SHW/",
+      "summary": "",
+      "change": "-0.45%",
+      "price": "359.10",
+      "volume": 1123200
+    },
+    {
+      "title": "NFLX",
+      "url": "https://finance.yahoo.com/quote/NFLX/",
+      "summary": "",
+      "change": "-0.41%",
+      "price": "78.16",
+      "volume": 26705100
+    },
+    {
+      "title": "WMT",
+      "url": "https://finance.yahoo.com/quote/WMT/",
+      "summary": "",
+      "change": "-0.34%",
+      "price": "115.27",
+      "volume": 14506600
+    },
+    {
+      "title": "FCX",
+      "url": "https://finance.yahoo.com/quote/FCX/",
+      "summary": "",
+      "change": "-0.34%",
+      "price": "66.49",
+      "volume": 8197700
+    },
+    {
+      "title": "GOOGL",
+      "url": "https://finance.yahoo.com/quote/GOOGL/",
+      "summary": "",
+      "change": "-0.26%",
+      "price": "345.90",
+      "volume": 17753300
+    },
+    {
+      "title": "CB",
+      "url": "https://finance.yahoo.com/quote/CB/",
+      "summary": "",
+      "change": "-0.25%",
+      "price": "343.64",
+      "volume": 2433200
+    }
+  ]
+}

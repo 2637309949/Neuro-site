@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T13:37:41.251042+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "summary": "",
+      "author": "denysvitali",
+      "comments": 1256,
+      "score": 1323
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "summary": "",
+      "author": "jatins",
+      "comments": 882,
+      "score": 790
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "summary": "",
+      "author": "HieronymusBosch",
+      "comments": 169,
+      "score": 540
+    },
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "summary": "",
+      "author": "tatersolid",
+      "comments": 165,
+      "score": 304
+    },
+    {
+      "title": "Movie Scene Map – 13,312 films, series, games, anime and manga",
+      "url": "https://moviescenemap.com/",
+      "summary": "",
+      "author": "Flightmussy",
+      "comments": 39,
+      "score": 301
+    },
+    {
+      "title": "Sonic Pi",
+      "url": "https://sonic-pi.net/",
+      "summary": "",
+      "author": "Bluestein",
+      "comments": 46,
+      "score": 213
+    },
+    {
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "summary": "",
+      "author": "schmuhblaster",
+      "comments": 70,
+      "score": 206
+    },
+    {
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "url": "https://www.norirobotics.com/",
+      "summary": "",
+      "author": "AntonioLi",
+      "comments": 60,
+      "score": 185
+    },
+    {
+      "title": "Fine, I'll build my own text editor",
+      "url": "https://dbushell.com/2026/09/01/text-editor/",
+      "summary": "",
+      "author": "Alephinitesimal",
+      "comments": 174,
+      "score": 184
+    },
+    {
+      "title": "Commodore 64 released September 1, 1982",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "summary": "",
+      "author": "giuliomagnifico",
+      "comments": 91,
+      "score": 183
+    },
+    {
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "summary": "",
+      "author": "masteranza",
+      "comments": 72,
+      "score": 165
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "summary": "",
+      "author": "philipkiely",
+      "comments": 38,
+      "score": 137
+    },
+    {
+      "title": "WebFPGA (2019)",
+      "url": "https://webfpga.io/",
+      "summary": "",
+      "author": "gurjeet",
+      "comments": 34,
+      "score": 96
+    },
+    {
+      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "summary": "",
+      "author": "joozio",
+      "comments": 48,
+      "score": 86
+    },
+    {
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "summary": "",
+      "author": "amunozo",
+      "comments": 53,
+      "score": 71
+    },
+    {
+      "title": "Sweden pauses Denmark power cable over EU grid rules",
+      "url": "https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/",
+      "summary": "",
+      "author": "leonidasrup",
+      "comments": 32,
+      "score": 45
+    },
+    {
+      "title": "A Note from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "summary": "",
+      "author": "rwky",
+      "comments": 5,
+      "score": 42
+    },
+    {
+      "title": "A Small Telescope That Surprised Me",
+      "url": "https://adfr.io/thoughts/20260831_a_small_telescope_that_surprised_me/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 18,
+      "score": 39
+    },
+    {
+      "title": "It's OK to hardcode feature flags (2025)",
+      "url": "https://code.mendhak.com/hardcode-feature-flags/",
+      "summary": "",
+      "author": "biscuits1",
+      "comments": 22,
+      "score": 37
+    },
+    {
+      "title": "Open Battery Information",
+      "url": "https://github.com/mnh-jansson/open-battery-information",
+      "summary": "",
+      "author": "toomuchtodo",
+      "comments": 10,
+      "score": 31
+    },
+    {
+      "title": "Move in C++ without a std:move",
+      "url": "https://andreasfertig.com/blog/2026/09/move-in-cpp-without-a-stdmove/",
+      "summary": "",
+      "author": "dalvrosa",
+      "comments": 14,
+      "score": 22
+    },
+    {
+      "title": "Dutch central bank moves share of gold from U.S., Canada to London",
+      "url": "https://nltimes.nl/2026/09/02/dutch-central-bank-moves-share-gold-us-canada-london-cites-instability",
+      "summary": "",
+      "author": "TechTechTech",
+      "comments": 9,
+      "score": 20
+    },
+    {
+      "title": "Banca Etica Suspends A/I's Account While Condemning the Sanctions Behind It",
+      "url": "https://sabot.media/post/banca-etica-statement-english",
+      "summary": "",
+      "author": "rendx",
+      "comments": 9,
+      "score": 18
+    },
+    {
+      "title": "Ending my elixir exploratory writing",
+      "url": "https://lucassifoni.info/blog/the-end-of-this-elixir-log/",
+      "summary": "",
+      "author": "ffin",
+      "comments": 4,
+      "score": 18
+    },
+    {
+      "title": "HomeOS – A self-hosted family dashboard for a kitchen touchscreen",
+      "url": "https://github.com/danialkhilji/HomeOS",
+      "summary": "",
+      "author": "danialkhilji",
+      "comments": 15,
+      "score": 17
+    },
+    {
+      "title": "The Lost Art of Carrying Loads",
+      "url": "https://www.carryology.com/insights/the-lost-art-of-carrying-loads/",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 11,
+      "score": 17
+    },
+    {
+      "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+      "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+      "summary": "",
+      "author": "DamonHD",
+      "comments": 3,
+      "score": 17
+    },
+    {
+      "title": "Bugs happen: The easy way to compare solo PQ to ECC+PQ",
+      "url": "https://blog.cr.yp.to/20260704-bugs.html",
+      "summary": "",
+      "author": "zdw",
+      "comments": 2,
+      "score": 11
+    },
+    {
+      "title": "Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/pala.70064",
+      "summary": "",
+      "author": "bryanrasmussen",
+      "comments": 2,
+      "score": 5
+    },
+    {
+      "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+      "url": "https://careers.telli.com/",
+      "summary": "",
+      "author": "sebselassie",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

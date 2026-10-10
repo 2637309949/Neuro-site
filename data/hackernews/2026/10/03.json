@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T14:20:14.560628+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "summary": "",
+      "author": "hn_acker",
+      "comments": 329,
+      "score": 693
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "summary": "",
+      "author": "CoryOndrejka",
+      "comments": 126,
+      "score": 540
+    },
+    {
+      "title": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "summary": "",
+      "author": "soheilpro",
+      "comments": 293,
+      "score": 478
+    },
+    {
+      "title": "FLUX 3 Image",
+      "url": "https://bfl.ai/models/flux-3-image",
+      "summary": "",
+      "author": "minimaxir",
+      "comments": 83,
+      "score": 377
+    },
+    {
+      "title": "Extra Big Ass Intelligence",
+      "url": "https://www.extrabigassintelligence.com/",
+      "summary": "",
+      "author": "34679",
+      "comments": 79,
+      "score": 362
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "summary": "",
+      "author": "mariuz",
+      "comments": 62,
+      "score": 326
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "summary": "",
+      "author": "azhenley",
+      "comments": 90,
+      "score": 321
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "summary": "",
+      "author": "alstonite",
+      "comments": 100,
+      "score": 311
+    },
+    {
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "summary": "",
+      "author": "polvi",
+      "comments": 290,
+      "score": 306
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "summary": "",
+      "author": "bookofjoe",
+      "comments": 129,
+      "score": 294
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "summary": "",
+      "author": "fibo",
+      "comments": 82,
+      "score": 283
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "summary": "",
+      "author": "usernomdeguerre",
+      "comments": 98,
+      "score": 270
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "summary": "",
+      "author": "signa11",
+      "comments": 168,
+      "score": 248
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "summary": "",
+      "author": "PaulHoule",
+      "comments": 117,
+      "score": 246
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "url": "https://developer.apple.com/news/?id=p6zjojqw",
+      "summary": "",
+      "author": "notfirstpost",
+      "comments": 161,
+      "score": 234
+    },
+    {
+      "title": "Muse Gadgets",
+      "url": "https://gadgets.muse.ai",
+      "summary": "",
+      "author": "anant",
+      "comments": 94,
+      "score": 213
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "summary": "",
+      "author": "ThibWeb",
+      "comments": 147,
+      "score": 185
+    },
+    {
+      "title": "Cloudflare OHTTP gateway",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "summary": "",
+      "author": "est",
+      "comments": 47,
+      "score": 124
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "url": "https://blog.kagi.com/update-orion-linux-windows",
+      "summary": "",
+      "author": "pentagrama",
+      "comments": 55,
+      "score": 114
+    },
+    {
+      "title": "Make Tmux the OS",
+      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+      "summary": "",
+      "author": "weaksauce",
+      "comments": 51,
+      "score": 103
+    },
+    {
+      "title": "Show HN: Germany's new sovereign AI model Kolibri",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "summary": "",
+      "author": "tejaskumar__",
+      "comments": 66,
+      "score": 91
+    },
+    {
+      "title": "The Escalation of War in Ethiopia",
+      "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+      "summary": "",
+      "author": "mooreds",
+      "comments": 29,
+      "score": 58
+    },
+    {
+      "title": "GitHub's new dashboard experience now the default",
+      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "summary": "",
+      "author": "vanyauhalin",
+      "comments": 63,
+      "score": 52
+    },
+    {
+      "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "summary": "",
+      "author": "bastitx",
+      "comments": 9,
+      "score": 50
+    },
+    {
+      "title": "C++ Insights – See your source code with the eyes of a Compiler",
+      "url": "https://github.com/andreasfertig/cppinsights",
+      "summary": "",
+      "author": "rramadass",
+      "comments": 2,
+      "score": 34
+    },
+    {
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "url": "https://offrun.dev/",
+      "summary": "",
+      "author": "arunbhatia",
+      "comments": 10,
+      "score": 26
+    },
+    {
+      "title": "Scientists invent underwater umbrellas to protect coral reefs",
+      "url": "https://gizmodo.com/scientists-invent-underwater-umbrellas-to-protect-coral-reefs-and-it-appears-to-be-working-2000819444",
+      "summary": "",
+      "author": "giuliomagnifico",
+      "comments": 12,
+      "score": 20
+    },
+    {
+      "title": "On building a worm detector",
+      "url": "https://bencology.bearblog.dev/mapping-individual-and-collective-worm-movements/",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 2,
+      "score": 16
+    },
+    {
+      "title": "I Quit OpenAI Because Its Culture Is Broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+      "summary": "",
+      "author": "Brajeshwar",
+      "comments": 3,
+      "score": 14
+    },
+    {
+      "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+      "summary": "",
+      "author": "nedwin",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

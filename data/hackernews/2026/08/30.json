@@ -1,0 +1,280 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T14:26:15.944042+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "summary": "",
+      "author": "zackb",
+      "comments": 195,
+      "score": 495
+    },
+    {
+      "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
+      "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
+      "summary": "",
+      "author": "shscs911",
+      "comments": 213,
+      "score": 473
+    },
+    {
+      "title": "Hy4 preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "summary": "",
+      "author": "shenli3514",
+      "comments": 211,
+      "score": 353
+    },
+    {
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "summary": "",
+      "author": "DeepLogin",
+      "comments": 224,
+      "score": 352
+    },
+    {
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "summary": "",
+      "author": "davidmckenna",
+      "comments": 197,
+      "score": 324
+    },
+    {
+      "title": "Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "summary": "",
+      "author": "JumpCrisscross",
+      "comments": 85,
+      "score": 243
+    },
+    {
+      "title": "RISC-V is now officially supported by CPython",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "summary": "",
+      "author": "lumpa",
+      "comments": 43,
+      "score": 237
+    },
+    {
+      "title": "SQLite as a Document Database (2020)",
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "summary": "",
+      "author": "lioeters",
+      "comments": 54,
+      "score": 229
+    },
+    {
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "summary": "",
+      "author": "defrost",
+      "comments": 153,
+      "score": 228
+    },
+    {
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
+      "summary": "",
+      "author": "sashk",
+      "comments": 73,
+      "score": 143
+    },
+    {
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "summary": "",
+      "author": "joebig",
+      "comments": 37,
+      "score": 139
+    },
+    {
+      "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+      "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 22,
+      "score": 117
+    },
+    {
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "summary": "",
+      "author": "vntok",
+      "comments": 47,
+      "score": 115
+    },
+    {
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "summary": "",
+      "author": "sparsesignal",
+      "comments": 92,
+      "score": 83
+    },
+    {
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "summary": "",
+      "author": "greenlightning",
+      "comments": 25,
+      "score": 77
+    },
+    {
+      "title": "The Einstein-Szilard Refrigerator (2020)",
+      "url": "https://invention.si.edu/invention-stories/einstein-szilard-refrigerator",
+      "summary": "",
+      "author": "EndXA",
+      "comments": 26,
+      "score": 72
+    },
+    {
+      "title": "Benchmarking Pocket-Scale Inference",
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "summary": "",
+      "author": "sys42590",
+      "comments": 8,
+      "score": 67
+    },
+    {
+      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\") (1999)",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+      "summary": "",
+      "author": "Bluestein",
+      "comments": 16,
+      "score": 66
+    },
+    {
+      "title": "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
+      "url": "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0",
+      "summary": "",
+      "author": "arjxn-py",
+      "comments": 6,
+      "score": 62
+    },
+    {
+      "title": "Spark: Sparklines in your shell",
+      "url": "https://git.zx2c4.com/spark/about/",
+      "summary": "",
+      "author": "hskimse",
+      "comments": 10,
+      "score": 46
+    },
+    {
+      "title": "What my dad taught me about AI coding in the 90s",
+      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+      "summary": "",
+      "author": "askmike",
+      "comments": 5,
+      "score": 46
+    },
+    {
+      "title": "Orbs",
+      "url": "https://ampcode.com/notes/orbs-explained",
+      "summary": "",
+      "author": "tosh",
+      "comments": 18,
+      "score": 45
+    },
+    {
+      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+      "summary": "",
+      "author": "klelatti",
+      "comments": 2,
+      "score": 42
+    },
+    {
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+      "summary": "",
+      "author": "martyvis",
+      "comments": 15,
+      "score": 40
+    },
+    {
+      "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
+      "url": "https://github.com/AniketWathore/bolnee-chat",
+      "summary": "",
+      "author": "AniketWathore",
+      "comments": 0,
+      "score": 29
+    },
+    {
+      "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+      "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+      "summary": "",
+      "author": "Bluestein",
+      "comments": 2,
+      "score": 26
+    },
+    {
+      "title": "No AI Fridays",
+      "url": "https://noaifridays.com/",
+      "summary": "",
+      "author": "xendo",
+      "comments": 9,
+      "score": 25
+    },
+    {
+      "title": "Automating Immersive Reading",
+      "url": "https://smoores.dev/post/automating_immersive_reading/",
+      "summary": "",
+      "author": "smoores",
+      "comments": 8,
+      "score": 25
+    },
+    {
+      "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+      "url": "https://github.com/fugue-labs/monty-go",
+      "summary": "",
+      "author": "networked",
+      "comments": 1,
+      "score": 24
+    },
+    {
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "summary": "",
+      "author": "zdw",
+      "comments": 3,
+      "score": 12
+    }
+  ]
+}

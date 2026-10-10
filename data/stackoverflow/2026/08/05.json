@@ -1,0 +1,433 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T15:26:07.742903+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to fix these &quot;hermes could not build&quot; errors?",
+      "url": "https://stackoverflow.com/questions/79990743/how-to-fix-these-hermes-could-not-build-errors",
+      "summary": "",
+      "tags": [
+        "react-native",
+        "react-native-cli"
+      ],
+      "author": "s4nk37",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to deploy local Django project on Server?",
+      "url": "https://stackoverflow.com/questions/79990729/how-to-deploy-local-django-project-on-server",
+      "summary": "",
+      "tags": [
+        "advice",
+        "django",
+        "database",
+        "postgresql",
+        "server"
+      ],
+      "author": "Sagar Patil",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to build a shared lock using Atomics",
+      "url": "https://stackoverflow.com/questions/79990737/how-to-build-a-shared-lock-using-atomics",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "multithreading",
+        "atomic",
+        "sharedarraybuffer"
+      ],
+      "author": "Bledder",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Banno UIS API /enrollment/start 404 Not Found Errors",
+      "url": "https://stackoverflow.com/questions/79990727/banno-uis-api-enrollment-start-404-not-found-errors",
+      "summary": "",
+      "tags": [
+        "banno-digital-toolkit"
+      ],
+      "author": "Matthew Lenarz",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why does Flutter cold start take significantly longer on Impeller/OpenGL ES than Impeller/Vulkan?",
+      "url": "https://stackoverflow.com/questions/79990731/why-does-flutter-cold-start-take-significantly-longer-on-impeller-opengl-es-than",
+      "summary": "",
+      "tags": [
+        "android",
+        "flutter",
+        "performance",
+        "startup",
+        "impeller"
+      ],
+      "author": "Abdullah Shahzad",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "When should a Python project be reorganized into packages instead of keeping modules in the project root?",
+      "url": "https://stackoverflow.com/questions/79990707/when-should-a-python-project-be-reorganized-into-packages-instead-of-keeping-mod",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "python"
+      ],
+      "author": "mxbndwld",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Finding the complement of an original data table &amp; the distinct entries of that data table with dplyr in R. All duplicates must be retained",
+      "url": "https://stackoverflow.com/questions/79990723/finding-the-complement-of-an-original-data-table-the-distinct-entries-of-that",
+      "summary": "",
+      "tags": [
+        "r",
+        "dplyr"
+      ],
+      "author": "m.yday",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "HTML-FORM-ISSUE",
+      "url": "https://stackoverflow.com/questions/79990718/html-form-issue",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "dom"
+      ],
+      "author": "user28144741",
+      "comments": 0,
+      "score": -9
+    },
+    {
+      "title": "SslHandshakeException using Mailkit and Private Relay",
+      "url": "https://stackoverflow.com/questions/79990721/sslhandshakeexception-using-mailkit-and-private-relay",
+      "summary": "",
+      "tags": [
+        "c#",
+        "docker",
+        "mailkit"
+      ],
+      "author": "E.Benedos",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "What&#39;s the recommended pattern for implementing row-level security in a LangChain RAG application?",
+      "url": "https://stackoverflow.com/questions/79990683/whats-the-recommended-pattern-for-implementing-row-level-security-in-a-langchai",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "langchain",
+        "rag"
+      ],
+      "author": "Vishwajeet Joshi",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "At what point does it become good practice to indent the content of a &lt;p&gt; tag?",
+      "url": "https://stackoverflow.com/questions/79990687/at-what-point-does-it-become-good-practice-to-indent-the-content-of-a-p-tag",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "html",
+        "formatting",
+        "indentation"
+      ],
+      "author": "Flynn Hogan",
+      "comments": 3,
+      "score": -1
+    },
+    {
+      "title": "How did you become an expert in Programming before AI",
+      "url": "https://stackoverflow.com/questions/79990682/how-did-you-become-an-expert-in-programming-before-ai",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python"
+      ],
+      "author": "Dominic Mulenga",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How do I register a VB class that gives a run-time error &#39;Class not registered&#39;?",
+      "url": "https://stackoverflow.com/questions/79990689/how-do-i-register-a-vb-class-that-gives-a-run-time-error-class-not-registered",
+      "summary": "",
+      "tags": [
+        "vb6"
+      ],
+      "author": "Daniel Antonic",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How can I deploy an ONNX neural network model to an embedded target?",
+      "url": "https://stackoverflow.com/questions/79990680/how-can-i-deploy-an-onnx-neural-network-model-to-an-embedded-target",
+      "summary": "",
+      "tags": [
+        "c",
+        "deployment",
+        "embedded",
+        "onnx"
+      ],
+      "author": "jens.m2313",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "Meta Marketing API async batch gets stuck in INITIAL or PENDING_DEPENDENCY",
+      "url": "https://stackoverflow.com/questions/79990702/meta-marketing-api-async-batch-gets-stuck-in-initial-or-pending-dependency",
+      "summary": "",
+      "tags": [
+        "facebook-graph-api",
+        "facebook-marketing-api",
+        "facebook-batch-request"
+      ],
+      "author": "HedgehogNSK",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Tensorflow lite uses all of my flash (Seeeduino)",
+      "url": "https://stackoverflow.com/questions/79990696/tensorflow-lite-uses-all-of-my-flash-seeeduino",
+      "summary": "",
+      "tags": [
+        "tensorflow",
+        "arduino",
+        "tensorflow-lite",
+        "tflite",
+        "seeeduino"
+      ],
+      "author": "Chet",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Is fetching std::chrono::steady_clock inside a critical section necessary to theoretically align C++ happens-before with real-time order?",
+      "url": "https://stackoverflow.com/questions/79990614/is-fetching-stdchronosteady-clock-inside-a-critical-section-necessary-to-the",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "atomic"
+      ],
+      "author": "xmh0511",
+      "comments": 3,
+      "score": -1
+    },
+    {
+      "title": "Autodesk Model Derivative POST job returns HTTP 403 despite available APS Free API allocation",
+      "url": "https://stackoverflow.com/questions/79990685/autodesk-model-derivative-post-job-returns-http-403-despite-available-aps-free-a",
+      "summary": "",
+      "tags": [
+        "autodesk-forge",
+        "autodesk-model-derivative"
+      ],
+      "author": "user32995708",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Is there a way to get the old design of tabs in VS Code?",
+      "url": "https://stackoverflow.com/questions/79990665/is-there-a-way-to-get-the-old-design-of-tabs-in-vs-code",
+      "summary": "",
+      "tags": [
+        "visual-studio-code"
+      ],
+      "author": "joachim",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How do I escape a string for use in a POSIX-compliant shell command-line?",
+      "url": "https://stackoverflow.com/questions/79990678/how-do-i-escape-a-string-for-use-in-a-posix-compliant-shell-command-line",
+      "summary": "",
+      "tags": [
+        "c++",
+        "string",
+        "shell",
+        "command-line",
+        "escaping"
+      ],
+      "author": "einpoklum",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to display custom metric on AWS Cloud Watch Dashboard - Based On AWS CLI output",
+      "url": "https://stackoverflow.com/questions/79990692/how-to-display-custom-metric-on-aws-cloud-watch-dashboard-based-on-aws-cli-out",
+      "summary": "",
+      "tags": [
+        "amazon-web-services",
+        "monitoring",
+        "amazon-cloudwatch"
+      ],
+      "author": "Coco",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "CollectionView and BindableLayout are treated as comparable, but don&#39;t seem to be?",
+      "url": "https://stackoverflow.com/questions/79990688/collectionview-and-bindablelayout-are-treated-as-comparable-but-dont-seem-to-b",
+      "summary": "",
+      "tags": [
+        "maui"
+      ],
+      "author": "Christopher",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Can I sort the entries of my tsconfig.json file?",
+      "url": "https://stackoverflow.com/questions/79990668/can-i-sort-the-entries-of-my-tsconfig-json-file",
+      "summary": "",
+      "tags": [
+        "typescript"
+      ],
+      "author": "Roger C S Wernersson",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "CouchDB Python client 1.2 hangs connecting to CouchDB when timeout=None",
+      "url": "https://stackoverflow.com/questions/79990675/couchdb-python-client-1-2-hangs-connecting-to-couchdb-when-timeout-none",
+      "summary": "",
+      "tags": [
+        "python",
+        "couchdb",
+        "freeze",
+        "couchdb-python"
+      ],
+      "author": "Sven",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Update join query in Spring Boot",
+      "url": "https://stackoverflow.com/questions/79990657/update-join-query-in-spring-boot",
+      "summary": "",
+      "tags": [
+        "spring-boot"
+      ],
+      "author": "guigolum",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Google Play Protect flags my Android app as harmful before publishing",
+      "url": "https://stackoverflow.com/questions/79990611/google-play-protect-flags-my-android-app-as-harmful-before-publishing",
+      "summary": "",
+      "tags": [
+        "android",
+        "android-studio",
+        "google-play",
+        "apk",
+        "google-play-protect"
+      ],
+      "author": "shahram6809",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Spring Data JDBC Scrolling",
+      "url": "https://stackoverflow.com/questions/79990674/spring-data-jdbc-scrolling",
+      "summary": "",
+      "tags": [
+        "spring-data",
+        "spring-data-jdbc"
+      ],
+      "author": "Barracuda",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to reduce Vector file source polling backoff latency?",
+      "url": "https://stackoverflow.com/questions/79990653/how-to-reduce-vector-file-source-polling-backoff-latency",
+      "summary": "",
+      "tags": [
+        "logging"
+      ],
+      "author": "Arkii",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "CI/CD from GitHub to Plesk",
+      "url": "https://stackoverflow.com/questions/79990649/ci-cd-from-github-to-plesk",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "cicd",
+        "plesk"
+      ],
+      "author": "theking2",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Quantization of Neural Networks on Microcontrollers",
+      "url": "https://stackoverflow.com/questions/79990629/quantization-of-neural-networks-on-microcontrollers",
+      "summary": "",
+      "tags": [
+        "advice",
+        "neural-network",
+        "embedded",
+        "onnx",
+        "quantization"
+      ],
+      "author": "Michael Ende",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}

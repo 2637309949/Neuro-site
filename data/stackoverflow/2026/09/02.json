@@ -1,0 +1,426 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T13:36:10.111374+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Can I perform a (LEFT) JOIN with a potentially not-existing table?",
+      "url": "https://stackoverflow.com/questions/80000204/can-i-perform-a-left-join-with-a-potentially-not-existing-table",
+      "summary": "",
+      "tags": [
+        "sql",
+        "mysql"
+      ],
+      "author": "Caulder",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Is it possible to store the definition of a table in a database?",
+      "url": "https://stackoverflow.com/questions/80000203/is-it-possible-to-store-the-definition-of-a-table-in-a-database",
+      "summary": "",
+      "tags": [
+        "mysql"
+      ],
+      "author": "Caulder",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Claude sometimes don&#39;t start, I didn&#39;t get the source of the problem now",
+      "url": "https://stackoverflow.com/questions/80000194/claude-sometimes-dont-start-i-didnt-get-the-source-of-the-problem-now",
+      "summary": "",
+      "tags": [
+        "claude-code"
+      ],
+      "author": "Franz",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Laravel 8: file-based structured logs with correlation ID, or keep everything in MySQL?",
+      "url": "https://stackoverflow.com/questions/80000199/laravel-8-file-based-structured-logs-with-correlation-id-or-keep-everything-in",
+      "summary": "",
+      "tags": [
+        "advice",
+        "php",
+        "laravel"
+      ],
+      "author": "Samuel Ara&#250;jo Silveira",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to exclude a file or a folder in a robocopy two-ways backup .bat",
+      "url": "https://stackoverflow.com/questions/80000185/how-to-exclude-a-file-or-a-folder-in-a-robocopy-two-ways-backup-bat",
+      "summary": "",
+      "tags": [
+        "batch-file",
+        "batch-processing",
+        "batch-rename"
+      ],
+      "author": "Rayzeur",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does a let chain keep the let operand&#39;s temporary alive in the body, but drop the boolean operand&#39;s temporary before it?",
+      "url": "https://stackoverflow.com/questions/80000179/why-does-a-let-chain-keep-the-let-operands-temporary-alive-in-the-body-but-dro",
+      "summary": "",
+      "tags": [
+        "rust"
+      ],
+      "author": "Teeny Weeny",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How should a WordPress custom-field plugin expose repeater data to Gutenberg blocks?",
+      "url": "https://stackoverflow.com/questions/80000188/how-should-a-wordpress-custom-field-plugin-expose-repeater-data-to-gutenberg-blo",
+      "summary": "",
+      "tags": [
+        "php",
+        "wordpress",
+        "plugins"
+      ],
+      "author": "Manish Pathak",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "functions.config() has been removed in firebase-functions v7. Migrate to environment parameters using the params module",
+      "url": "https://stackoverflow.com/questions/80000192/functions-config-has-been-removed-in-firebase-functions-v7-migrate-to-environ",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "firebase",
+        "google-cloud-functions"
+      ],
+      "author": "Mitchy",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Can&#39;t Access Ansible Role Variables from Lookup Plugin",
+      "url": "https://stackoverflow.com/questions/80000190/cant-access-ansible-role-variables-from-lookup-plugin",
+      "summary": "",
+      "tags": [
+        "ansible",
+        "ansible-role"
+      ],
+      "author": "chrixm",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "What does constexpr atomic&lt;T&gt;::wait() do at compile time?",
+      "url": "https://stackoverflow.com/questions/80000170/what-does-constexpr-atomictwait-do-at-compile-time",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "atomic",
+        "deadlock",
+        "c++26"
+      ],
+      "author": "Jan Schultke",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "Mapping np array to Fortran array in gdb using Python API",
+      "url": "https://stackoverflow.com/questions/80000166/mapping-np-array-to-fortran-array-in-gdb-using-python-api",
+      "summary": "",
+      "tags": [
+        "python",
+        "fortran",
+        "gdb"
+      ],
+      "author": "aitzkora",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Finding function addresses without the use of GetProcAddr()",
+      "url": "https://stackoverflow.com/questions/80000091/finding-function-addresses-without-the-use-of-getprocaddr",
+      "summary": "",
+      "tags": [
+        "c",
+        "windows",
+        "function",
+        "winapi"
+      ],
+      "author": "kenjirou",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Is splitting rarely-queried wide columns into a separate table a sound way to speed up scans on unindexed columns?",
+      "url": "https://stackoverflow.com/questions/80000131/is-splitting-rarely-queried-wide-columns-into-a-separate-table-a-sound-way-to-sp",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "sql-server",
+        "indexing"
+      ],
+      "author": "Boush",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Get browser address within plugin shortcode that uses REST API",
+      "url": "https://stackoverflow.com/questions/80000115/get-browser-address-within-plugin-shortcode-that-uses-rest-api",
+      "summary": "",
+      "tags": [
+        "php",
+        "wordpress"
+      ],
+      "author": "Didier mac cormick",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Is the result of sin() accurate for large values in current (2026) Microsoft C(++) libraries / runtimes?",
+      "url": "https://stackoverflow.com/questions/80000151/is-the-result-of-sin-accurate-for-large-values-in-current-2026-microsoft-c",
+      "summary": "",
+      "tags": [
+        "advice",
+        "math",
+        "double",
+        "shared-libraries",
+        "redistributable"
+      ],
+      "author": "Binarus",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Data cleaning and Data preprocessing",
+      "url": "https://stackoverflow.com/questions/80000158/data-cleaning-and-data-preprocessing",
+      "summary": "",
+      "tags": [
+        "data-cleaning",
+        "data-preprocessing"
+      ],
+      "author": "G. Vinay Kumar Varma",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How to make nginx use case insensitive files",
+      "url": "https://stackoverflow.com/questions/80000150/how-to-make-nginx-use-case-insensitive-files",
+      "summary": "",
+      "tags": [
+        "advice",
+        "linux",
+        "nginx"
+      ],
+      "author": "daba",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does my React component fetch data again when I navigate back to the page?",
+      "url": "https://stackoverflow.com/questions/80000144/why-does-my-react-component-fetch-data-again-when-i-navigate-back-to-the-page",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "react-hooks"
+      ],
+      "author": "Muhammad",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Unable to delete a orphaned VPN gateway",
+      "url": "https://stackoverflow.com/questions/80000145/unable-to-delete-a-orphaned-vpn-gateway",
+      "summary": "",
+      "tags": [
+        "azure",
+        "azure-vpn"
+      ],
+      "author": "lokesh",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Postman saving option disappeared - only see the clear response option",
+      "url": "https://stackoverflow.com/questions/80000118/postman-saving-option-disappeared-only-see-the-clear-response-option",
+      "summary": "",
+      "tags": [
+        "postman",
+        "base64",
+        "postman-testcase",
+        "postman-native-app"
+      ],
+      "author": "taha nghimi",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "What things about QNetworkAccessManager should I know?",
+      "url": "https://stackoverflow.com/questions/80000111/what-things-about-qnetworkaccessmanager-should-i-know",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c++"
+      ],
+      "author": "MrNeon777",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "I have an saas application idea",
+      "url": "https://stackoverflow.com/questions/80000105/i-have-an-saas-application-idea",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Ali Raza",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How Develop A Software Features Without Show",
+      "url": "https://stackoverflow.com/questions/80000110/how-develop-a-software-features-without-show",
+      "summary": "",
+      "tags": [
+        "git",
+        "github-actions"
+      ],
+      "author": "Senior-Moe",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "CBC solver reports &quot;optimal&quot; solution but pyomo model variables are `None` valued",
+      "url": "https://stackoverflow.com/questions/80000103/cbc-solver-reports-optimal-solution-but-pyomo-model-variables-are-none-value",
+      "summary": "",
+      "tags": [
+        "python",
+        "linear-programming",
+        "pyomo",
+        "coin-or-cbc"
+      ],
+      "author": "Bill",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Why does VS Code indicate errors upon using assertions from GoogleTest?",
+      "url": "https://stackoverflow.com/questions/80000058/why-does-vs-code-indicate-errors-upon-using-assertions-from-googletest",
+      "summary": "",
+      "tags": [
+        "c++",
+        "vs-code",
+        "googletest"
+      ],
+      "author": "Berry Delight",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Get the estimated row count in Cassandra with CQL (estimated_rows)",
+      "url": "https://stackoverflow.com/questions/80000107/get-the-estimated-row-count-in-cassandra-with-cql-estimated-rows",
+      "summary": "",
+      "tags": [
+        "cassandra",
+        "cql"
+      ],
+      "author": "chris_cm",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Improving Code Understanding with Claude Code",
+      "url": "https://stackoverflow.com/questions/80000089/improving-code-understanding-with-claude-code",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "user31517931",
+      "comments": 0,
+      "score": -9
+    },
+    {
+      "title": "Can I specify a fixed length for array vector columns when creating a table?",
+      "url": "https://stackoverflow.com/questions/80000098/can-i-specify-a-fixed-length-for-array-vector-columns-when-creating-a-table",
+      "summary": "",
+      "tags": [
+        "arrays",
+        "vector",
+        "dolphindb"
+      ],
+      "author": "Stephanie",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "ROS2 lidar visualization not moving with robot in gazebo harmonic",
+      "url": "https://stackoverflow.com/questions/80000099/ros2-lidar-visualization-not-moving-with-robot-in-gazebo-harmonic",
+      "summary": "",
+      "tags": [
+        "visualization",
+        "robotics",
+        "ros2",
+        "lidar",
+        "gazebo-simu"
+      ],
+      "author": "Dharmik Suthar",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I scan an S3-compatible object storage file with VirusTotal API using Node.js?",
+      "url": "https://stackoverflow.com/questions/80000090/how-can-i-scan-an-s3-compatible-object-storage-file-with-virustotal-api-using-no",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "express",
+        "aws-s3-client"
+      ],
+      "author": "Sourav",
+      "comments": 0,
+      "score": -6
+    }
+  ]
+}

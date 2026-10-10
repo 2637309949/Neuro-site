@@ -1,0 +1,278 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T14:17:59.438519+00:00",
+  "source": "tencent_board",
+  "count": 30,
+  "columns": [
+    {
+      "name": "板块名",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "涨跌幅",
+      "key": "change",
+      "type": "metric",
+      "directionToggle": true
+    },
+    {
+      "name": "主力净流入",
+      "key": "netInflow",
+      "type": "metric"
+    },
+    {
+      "name": "领涨股",
+      "key": "leadStock",
+      "type": "text"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "贵金属",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801053&module=hy",
+      "summary": "",
+      "change": "-5.37%",
+      "netInflow": -122855,
+      "leadStock": "恒邦股份"
+    },
+    {
+      "title": "工业金属",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801055&module=hy",
+      "summary": "",
+      "change": "-2.72%",
+      "netInflow": -378986,
+      "leadStock": "和胜股份"
+    },
+    {
+      "title": "元件",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801083&module=hy",
+      "summary": "",
+      "change": "-2.41%",
+      "netInflow": -775918,
+      "leadStock": "澳弘电子"
+    },
+    {
+      "title": "油服工程",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801962&module=hy",
+      "summary": "",
+      "change": "-2.25%",
+      "netInflow": -18275,
+      "leadStock": "*ST准油"
+    },
+    {
+      "title": "非金属材料Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801039&module=hy",
+      "summary": "",
+      "change": "-2.07%",
+      "netInflow": -858,
+      "leadStock": "力量钻石"
+    },
+    {
+      "title": "小金属",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801054&module=hy",
+      "summary": "",
+      "change": "-1.89%",
+      "netInflow": -116620,
+      "leadStock": "安宁股份"
+    },
+    {
+      "title": "航天装备Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801741&module=hy",
+      "summary": "",
+      "change": "-1.76%",
+      "netInflow": -28034,
+      "leadStock": "星网宇达"
+    },
+    {
+      "title": "其他电子Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801082&module=hy",
+      "summary": "",
+      "change": "-1.34%",
+      "netInflow": -43937,
+      "leadStock": "新亚制程"
+    },
+    {
+      "title": "燃气Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801163&module=hy",
+      "summary": "",
+      "change": "-1.33%",
+      "netInflow": -6676,
+      "leadStock": "长春燃气"
+    },
+    {
+      "title": "金属新材料",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801051&module=hy",
+      "summary": "",
+      "change": "-1.31%",
+      "netInflow": -25235,
+      "leadStock": "深圳新星"
+    },
+    {
+      "title": "饰品",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801133&module=hy",
+      "summary": "",
+      "change": "-1.26%",
+      "netInflow": -9873,
+      "leadStock": "ST新华锦"
+    },
+    {
+      "title": "电力",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801161&module=hy",
+      "summary": "",
+      "change": "-1.22%",
+      "netInflow": -153014,
+      "leadStock": "新中港"
+    },
+    {
+      "title": "化学原料",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801033&module=hy",
+      "summary": "",
+      "change": "-1.21%",
+      "netInflow": -45313,
+      "leadStock": "雪天盐业"
+    },
+    {
+      "title": "地面兵装Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801743&module=hy",
+      "summary": "",
+      "change": "-1.11%",
+      "netInflow": -19734,
+      "leadStock": "光电股份"
+    },
+    {
+      "title": "证券Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801193&module=hy",
+      "summary": "",
+      "change": "-1.10%",
+      "netInflow": -153904,
+      "leadStock": "湘财股份"
+    },
+    {
+      "title": "塑料",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801036&module=hy",
+      "summary": "",
+      "change": "-1.05%",
+      "netInflow": -71989,
+      "leadStock": "沃顿科技"
+    },
+    {
+      "title": "化学纤维",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801032&module=hy",
+      "summary": "",
+      "change": "-1.00%",
+      "netInflow": -7653,
+      "leadStock": "优彩资源"
+    },
+    {
+      "title": "厨卫电器",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801114&module=hy",
+      "summary": "",
+      "change": "-0.99%",
+      "netInflow": 2622,
+      "leadStock": "亿田智能"
+    },
+    {
+      "title": "普钢",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801044&module=hy",
+      "summary": "",
+      "change": "-0.97%",
+      "netInflow": 2342,
+      "leadStock": "*ST八钢"
+    },
+    {
+      "title": "多元金融",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801191&module=hy",
+      "summary": "",
+      "change": "-0.97%",
+      "netInflow": -18727,
+      "leadStock": "海德股份"
+    },
+    {
+      "title": "航空装备Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801742&module=hy",
+      "summary": "",
+      "change": "-0.91%",
+      "netInflow": -67080,
+      "leadStock": "航新科技"
+    },
+    {
+      "title": "炼化及贸易",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801963&module=hy",
+      "summary": "",
+      "change": "-0.89%",
+      "netInflow": -7139,
+      "leadStock": "和顺石油"
+    },
+    {
+      "title": "电网设备",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801738&module=hy",
+      "summary": "",
+      "change": "-0.85%",
+      "netInflow": -96697,
+      "leadStock": "积成电子"
+    },
+    {
+      "title": "煤炭开采",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801951&module=hy",
+      "summary": "",
+      "change": "-0.78%",
+      "netInflow": -2849,
+      "leadStock": "大有能源"
+    },
+    {
+      "title": "军工电子Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801745&module=hy",
+      "summary": "",
+      "change": "-0.77%",
+      "netInflow": -57153,
+      "leadStock": "景嘉微"
+    },
+    {
+      "title": "包装印刷",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801141&module=hy",
+      "summary": "",
+      "change": "-0.76%",
+      "netInflow": -1652,
+      "leadStock": "新宏泽"
+    },
+    {
+      "title": "调味发酵品Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801129&module=hy",
+      "summary": "",
+      "change": "-0.73%",
+      "netInflow": -29803,
+      "leadStock": "佳隆股份"
+    },
+    {
+      "title": "IT服务Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801103&module=hy",
+      "summary": "",
+      "change": "-0.72%",
+      "netInflow": -95759,
+      "leadStock": "博汇科技"
+    },
+    {
+      "title": "电池",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801737&module=hy",
+      "summary": "",
+      "change": "-0.65%",
+      "netInflow": -205693,
+      "leadStock": "万里股份"
+    },
+    {
+      "title": "环境治理",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801971&module=hy",
+      "summary": "",
+      "change": "-0.65%",
+      "netInflow": -16816,
+      "leadStock": "万德斯"
+    }
+  ]
+}

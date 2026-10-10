@@ -1,0 +1,433 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T15:44:59.303431+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Push experimental git branch to GitHub",
+      "url": "https://stackoverflow.com/questions/80006755/push-experimental-git-branch-to-github",
+      "summary": "",
+      "tags": [
+        "git",
+        "github",
+        "git-branch"
+      ],
+      "author": "emagar",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How is the number of bins/bin width determined in a seaborn histogram by default?",
+      "url": "https://stackoverflow.com/questions/80006752/how-is-the-number-of-bins-bin-width-determined-in-a-seaborn-histogram-by-default",
+      "summary": "",
+      "tags": [
+        "python",
+        "seaborn",
+        "histogram"
+      ],
+      "author": "Marton Horvath",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Ruby on Rails SQLException: no such table: main.tos: (ActiveRecord::StatementInvalid)",
+      "url": "https://stackoverflow.com/questions/80006753/ruby-on-rails-sqlexception-no-such-table-main-tos-activerecordstatementinv",
+      "summary": "",
+      "tags": [
+        "ruby-on-rails",
+        "ruby"
+      ],
+      "author": "Euan Pound",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to log reason Spring Boot tests are not using cached application context?",
+      "url": "https://stackoverflow.com/questions/80006741/how-to-log-reason-spring-boot-tests-are-not-using-cached-application-context",
+      "summary": "",
+      "tags": [
+        "spring",
+        "spring-boot",
+        "spring-test"
+      ],
+      "author": "Nicholas DiPiazza",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "using swift create .rar file right-click menu items for",
+      "url": "https://stackoverflow.com/questions/80006740/using-swift-create-rar-file-right-click-menu-items-for",
+      "summary": "",
+      "tags": [
+        "swift",
+        "xcode",
+        "macos",
+        "contextmenu",
+        "right-click"
+      ],
+      "author": "long",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Can a null pointer be an operand of unary *?",
+      "url": "https://stackoverflow.com/questions/80006718/can-a-null-pointer-be-an-operand-of-unary",
+      "summary": "",
+      "tags": [
+        "c",
+        "language-lawyer"
+      ],
+      "author": "n.m.is-an-unemployed-ai-agent",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "From a base class List, accessing a method that multiple child classes have but not the base class",
+      "url": "https://stackoverflow.com/questions/80006719/from-a-base-class-list-accessing-a-method-that-multiple-child-classes-have-but",
+      "summary": "",
+      "tags": [
+        "c#",
+        "list",
+        "inheritance"
+      ],
+      "author": "Nikola M",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "&quot;PHP Fatal error: Max execution time of exceeded&quot; when calling time() function",
+      "url": "https://stackoverflow.com/questions/80006722/php-fatal-error-max-execution-time-of-exceeded-when-calling-time-function",
+      "summary": "",
+      "tags": [
+        "php"
+      ],
+      "author": "Daniel Baettig",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Best Practice for &quot;Explicit class-template instantiation forces instantiation of a member whose `requires`-clause is never satisfied&quot;",
+      "url": "https://stackoverflow.com/questions/80006695/best-practice-for-explicit-class-template-instantiation-forces-instantiation-of",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "compiler-errors",
+        "dllexport",
+        "clang-cl"
+      ],
+      "author": "Jakobimatrix",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Difference between passing a component versus a function to a component",
+      "url": "https://stackoverflow.com/questions/80006726/difference-between-passing-a-component-versus-a-function-to-a-component",
+      "summary": "",
+      "tags": [
+        "advice",
+        "reactjs"
+      ],
+      "author": "bugblast",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "AWS ECS/Fargate SQS autoscaling with min capacity 0: how to bootstrap from 0 tasks using backlog-per-task target tracking?",
+      "url": "https://stackoverflow.com/questions/80006730/aws-ecs-fargate-sqs-autoscaling-with-min-capacity-0-how-to-bootstrap-from-0-tas",
+      "summary": "",
+      "tags": [
+        "amazon-web-services",
+        "aws-fargate",
+        "autoscaling",
+        "aws-auto-scaling"
+      ],
+      "author": "Edgar Meva",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "&quot;Object has been deleted&quot; error in Word add-in that used to work fine",
+      "url": "https://stackoverflow.com/questions/80006684/object-has-been-deleted-error-in-word-add-in-that-used-to-work-fine",
+      "summary": "",
+      "tags": [
+        "c#",
+        "ms-word",
+        "vsto"
+      ],
+      "author": "ApsSanj",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Error when using JavaCC with a token used in two different contexts",
+      "url": "https://stackoverflow.com/questions/80006680/error-when-using-javacc-with-a-token-used-in-two-different-contexts",
+      "summary": "",
+      "tags": [
+        "java",
+        "bnf",
+        "javacc"
+      ],
+      "author": "Herv&#233; Girod",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to group an array of objects by a specific property?",
+      "url": "https://stackoverflow.com/questions/80006702/how-to-group-an-array-of-objects-by-a-specific-property",
+      "summary": "",
+      "tags": [
+        "typescript"
+      ],
+      "author": "Nilesh Deore",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Is there a circular, colorblind-friendly color scale in ggplot?",
+      "url": "https://stackoverflow.com/questions/80006616/is-there-a-circular-colorblind-friendly-color-scale-in-ggplot",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2",
+        "colors",
+        "viridis"
+      ],
+      "author": "smb",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Android BLE scan performance significantly degrades in the background",
+      "url": "https://stackoverflow.com/questions/80006700/android-ble-scan-performance-significantly-degrades-in-the-background",
+      "summary": "",
+      "tags": [
+        "android",
+        "bluetooth",
+        "bluetooth-lowenergy"
+      ],
+      "author": "user33170498",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How should I prevent HTML injection in user input added to a C# HTML email?",
+      "url": "https://stackoverflow.com/questions/80006688/how-should-i-prevent-html-injection-in-user-input-added-to-a-c-html-email",
+      "summary": "",
+      "tags": [
+        "html",
+        "email",
+        "security",
+        "user-input"
+      ],
+      "author": "Bronyte",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Tickspot API: How Can an Admin Retrieve Only Their Own Projects and Tasks?",
+      "url": "https://stackoverflow.com/questions/80006690/tickspot-api-how-can-an-admin-retrieve-only-their-own-projects-and-tasks",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "Divya Maggu",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Opening a support ticket does not work anymore",
+      "url": "https://stackoverflow.com/questions/80006693/opening-a-support-ticket-does-not-work-anymore",
+      "summary": "",
+      "tags": [
+        "alexa-skills-kit",
+        "alexa-smart-home-skill"
+      ],
+      "author": "Benjamin Vornholt",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How suitable is the Senfar AMR 4-wheel steering chassis for autonomous navigation?",
+      "url": "https://stackoverflow.com/questions/80006691/how-suitable-is-the-senfar-amr-4-wheel-steering-chassis-for-autonomous-navigatio",
+      "summary": "",
+      "tags": [
+        "ros",
+        "robotics",
+        "ros2"
+      ],
+      "author": "Tony Stark",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Write a protocol method that allows slight variations",
+      "url": "https://stackoverflow.com/questions/80006644/write-a-protocol-method-that-allows-slight-variations",
+      "summary": "",
+      "tags": [
+        "python",
+        "duck-typing"
+      ],
+      "author": "Train-Case",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Rails ActiveStorage incompatibility with openssl 3.x",
+      "url": "https://stackoverflow.com/questions/80006672/rails-activestorage-incompatibility-with-openssl-3-x",
+      "summary": "",
+      "tags": [
+        "ruby-on-rails",
+        "openssl",
+        "md5"
+      ],
+      "author": "Jussi Hirvi",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Flutter Stream Video: handle incoming call Answer in background without opening Flutter UI first",
+      "url": "https://stackoverflow.com/questions/80006651/flutter-stream-video-handle-incoming-call-answer-in-background-without-opening",
+      "summary": "",
+      "tags": [
+        "android",
+        "flutter",
+        "firebase-cloud-messaging"
+      ],
+      "author": "Zohaib Ali",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "INNO Setup script .NET check incorrectly reaching Result=False",
+      "url": "https://stackoverflow.com/questions/80006647/inno-setup-script-net-check-incorrectly-reaching-result-false",
+      "summary": "",
+      "tags": [
+        "inno-setup"
+      ],
+      "author": "Art Hansen",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Laravel Event Listener Queue Not Processing Automatically on Hostinger",
+      "url": "https://stackoverflow.com/questions/80006627/laravel-event-listener-queue-not-processing-automatically-on-hostinger",
+      "summary": "",
+      "tags": [
+        "php",
+        "laravel",
+        "cron",
+        "hostinger"
+      ],
+      "author": "Durganand Kumar Thakur",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Inconsistent query results using node-oracledb 6.10.0 compared to Oracle client",
+      "url": "https://stackoverflow.com/questions/80006596/inconsistent-query-results-using-node-oracledb-6-10-0-compared-to-oracle-client",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "oracle-database",
+        "nestjs",
+        "sql-order-by",
+        "node-oracledb"
+      ],
+      "author": "Akhil",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "GKE Multi-Cluster Services: &quot;Endpoint update for unknown service&quot; when exporting from a Shared VPC service project to a cluster in a peered VPC",
+      "url": "https://stackoverflow.com/questions/80006639/gke-multi-cluster-services-endpoint-update-for-unknown-service-when-exporting",
+      "summary": "",
+      "tags": [
+        "google-kubernetes-engine",
+        "gke-networking"
+      ],
+      "author": "Iurii Kustov",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does Pyright reject protocol methods with a &quot;pass&quot; body?",
+      "url": "https://stackoverflow.com/questions/80006598/why-does-pyright-reject-protocol-methods-with-a-pass-body",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright",
+        "duck-typing"
+      ],
+      "author": "Train-Case",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Integrating a CNN model for Seagrass Identification into a PHP application",
+      "url": "https://stackoverflow.com/questions/80006614/integrating-a-cnn-model-for-seagrass-identification-into-a-php-application",
+      "summary": "",
+      "tags": [
+        "advice",
+        "php",
+        "machine-learning",
+        "computer-vision"
+      ],
+      "author": "Y0uie Mabug-at",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How can we make a navigation bar?",
+      "url": "https://stackoverflow.com/questions/80006611/how-can-we-make-a-navigation-bar",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "Shahzaib Ahmad",
+      "comments": 0,
+      "score": -9
+    }
+  ]
+}

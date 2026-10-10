@@ -1,0 +1,173 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T15:15:42.068577+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "bbs-go v4.4.3 已经发布，基于 Go 开发的论坛系统",
+      "url": "https://www.oschina.net/news/477014",
+      "summary": "bbs-go v4.4.3 已经发布，基于 Go 开发的论坛系统。 v4.4.3 中文 本次版本聚焦 PostgreSQL 支持、安装流程修复、移动端话题导航体验优化，以及 RE...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "7-Zip曝出高危漏洞：解压即中招",
+      "url": "https://www.oschina.net/news/476990",
+      "summary": "安全研究员近日公布了7-Zip远程代码执行漏洞CVE-2026-14266，攻击者可制作包含特殊XZ数据的恶意压缩包，诱导用户使用7-Zip打开或解压，从而触发堆缓...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "RStudio 2026.07.1 发布，R 语言的集成开发环境",
+      "url": "https://www.oschina.net/news/476961/rstudio-2026-07-1",
+      "summary": "RStudio 2026.07.1 现已发布，具体更新内容包括： Fixed RStudio (#18230)：修复了在求值包含空参数的[ subset（例如mtcars[, 1:3]）的表达式后，...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "gRPC 1.83.0 发布，跨语言 RPC 框架",
+      "url": "https://www.oschina.net/news/476934/grpc-1-83-0-released",
+      "summary": "gRPC 是可以在任何环境中运行的现代开源高性能 RPC 框架。gRPC 1.83.0 现已发布，此版本包含改进、优化和错误修复，主要亮点如下： Core [Security...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "【论文解读】复数 CVNet：跳过 FFT，Jetson 上 2.75 ms 如何完成雷达手势识别？",
+      "url": "https://my.oschina.net/u/9756519/blog/19725038",
+      "summary": "这篇工作选择直接吃 FMCW 原始复值 ADC 立方体，用 (2+1) D 复值卷积在时域学空时特征，并把 Monte Carlo Dropout 与 Deep Ensemble 接进不确定性估...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "VirtualBox 7.2.14 发布",
+      "url": "https://www.oschina.net/news/476831/virtualbox-7-2-14-released",
+      "summary": "VirtualBox 是一款功能强大的 x86 虚拟机软件，它不仅具有丰富的特色，而且性能也很优异。VirtualBox 7.2.14 现已发布，这是一个维护版本。修复或新...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "开源直播与录制工具 OBS Studio 32.2.0 发布",
+      "url": "https://www.oschina.net/news/476791/obs-studio-32-2-0-released",
+      "summary": "OBS Studio 是一款免费且开源的用于视频录制以及直播串流的软件，提供实时高性能的视频 / 音频捕捉与混合，以及无限的场景模式帮助用户通过自定义实...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "他维护了“如何编写不可维护代码”作者遗留下来的代码",
+      "url": "https://www.oschina.net/news/476776",
+      "summary": "如果你的代码活了三十年还没死，最后被一个陌生人修好了，你会怎么想？ 这件事上周发生在了 Roedy Green 身上。不过他已经没法知道了，因为其本人已...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "腾讯发布首个自研创意智能体 Miora",
+      "url": "https://www.oschina.net/news/476728",
+      "summary": "腾讯宣布旗下首个创意智能体 Miora (腾讯设计妙境) 已正式全量上线，新用户注册即可获得 1000 积分。 根据介绍，Miora 是一个由多 AI Agent 协作驱...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "宇树科技发布 UnifoLM-OminiA-0.3",
+      "url": "https://www.oschina.net/news/476701",
+      "summary": "宇树科技近日发布人形机器人通用智能模型 UnifoLM-OminiA-0.3，该模型支持全模态交互理解，可统筹家居、康养等多场景任务，实现机器人从环境感知、...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "从具身智脑到产业生态：灵境智源亮相WAIC 2026，探索具身智能底座新路径",
+      "url": "https://www.oschina.net/news/476643",
+      "summary": "2026世界人工智能大会暨人工智能全球治理高级别会议（WAIC）7月17日至20日在上海举行，主题为“智能伙伴 共创未来”，聚焦人工智能、产业赋能与全球...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "DevEco Code & DevEco CLI 版本上新！助力应用开发更高效！",
+      "url": "https://www.oschina.net/news/476624",
+      "summary": "DevEco Code & DevEco CLI 新版本上线！本次更新紧扣开发者核心痛点，聚焦新特性、优化点、问题修复等维度，进一步提升AI辅助开发的体验。 那么，本...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Next.js v16.2.11 发布",
+      "url": "https://www.oschina.net/news/476610/nextjs-16-2-11-released",
+      "summary": "Next.js v16.2.11 现已发布。此版本包含针对以下安全公告的修复程序： High： App Router 中利用服务器操作引发的拒绝服务漏洞 在采用 Turbopack ...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "如何在 Elasticsearch 中使用 BBQ 将 Jina v5 嵌入缩小 29 倍而不损失召回率",
+      "url": "https://my.oschina.net/u/3343882/blog/19725387",
+      "summary": "一项动手测试，对 Elasticsearch 中的 BBQ 与 float32 向量索引进行了比较，测量了五种语言下的内存占用、磁盘占用以及 recall@10。...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Firefox 153.0 发布",
+      "url": "https://www.oschina.net/news/476582/firefox-153-0-released",
+      "summary": "Firefox 153.0 现已发布，具体更新内容如下： New Windows 系统现已支持 High Dynamic Range (HDR) 视频播放——此功能需要在 Windows Settings -...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Kimi K3 实战对标 Fable 5：开源模型在 SWE-bench 上几乎打平了",
+      "url": "https://www.oschina.net/news/476574/kimi-k3-fable-compared-by-fireworks-ai",
+      "summary": "前两天报道过一篇分析（Fable 5 比开源模型贵三倍，Anthropic 的账怎么算？），讨论 Anthropic 的 Fable 5 比开源模型贵了三倍，商业模式能不能撑住...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Grafana 13.1.1 发布，系统指标监控与分析平台",
+      "url": "https://www.oschina.net/news/476557/grafana-13-1-1-released",
+      "summary": "Grafana 是一个用于监控和可观察性的开源平台，可视化来自 Prometheus、Loki、Elasticsearch、InfluxDB、Postgres 等多个来源的指标、日志等。 Gr...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Google Gemini 一口气发了三个新模型，还有一个只给政府用",
+      "url": "https://www.oschina.net/news/476554/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
+      "summary": "Google 今天更新了 Gemini Flash 系列，一口气推出三个新型号，外加两个预告。 重头戏是 Gemini 3.6 Flash。Google 管它叫\"主力马\"，主攻编程、知识...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "GPT-5.6 为了在测试里拿高分，黑了 Hugging Face 的生产环境",
+      "url": "https://www.oschina.net/news/476550/hugging-face-model-evaluation-security-incident",
+      "summary": "AI 为了达成目标能干出什么事？OpenAI 和 Hugging Face 刚一起复盘了一件事：一个被关在沙箱里做安全测试的模型，逃了出来，黑了另一家公司的生产环...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "绚星完成AI原生研发体系重构，迈入AI Native企业新阶段",
+      "url": "https://www.oschina.net/news/476521",
+      "summary": "绚星智慧科技（NASDAQ: YXT，前身为云学堂）近日宣布，公司已完成研发体系AI原生化升级，实现全流程AI自主代码开发与维护，正式迈入AI Native Ent...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}
