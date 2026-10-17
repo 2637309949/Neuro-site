@@ -1,0 +1,180 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T13:08:02.234829+00:00",
+  "source": "github",
+  "count": 15,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 15162,
+      "today_stars": 3162
+    },
+    {
+      "title": "trycua/cua",
+      "repo": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "summary": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 23914,
+      "today_stars": 383
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 96702,
+      "today_stars": 547
+    },
+    {
+      "title": "coder/coder",
+      "repo": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "summary": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 15455,
+      "today_stars": 406
+    },
+    {
+      "title": "anthropics/claude-code",
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 146539,
+      "today_stars": 482
+    },
+    {
+      "title": "Open-Dev-Society/OpenStock",
+      "repo": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "summary": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 15733,
+      "today_stars": 477
+    },
+    {
+      "title": "higgsfield-ai/higgsfield",
+      "repo": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "summary": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "stars": 4706,
+      "today_stars": 325
+    },
+    {
+      "title": "docling-project/docling",
+      "repo": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "summary": "Get your documents ready for gen AI",
+      "language": "Python",
+      "stars": 66761,
+      "today_stars": 94
+    },
+    {
+      "title": "cloudflare/quiche",
+      "repo": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "summary": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 11875,
+      "today_stars": 5
+    },
+    {
+      "title": "asciimoo/hister",
+      "repo": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "summary": "Your own search engine",
+      "language": "Go",
+      "stars": 5106,
+      "today_stars": 430
+    },
+    {
+      "title": "ruanyf/weekly",
+      "repo": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "summary": "科技爱好者周刊，每周五发布",
+      "language": "",
+      "stars": 102982,
+      "today_stars": 144
+    },
+    {
+      "title": "ZuodaoTech/everyone-can-use-english",
+      "repo": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "summary": "人人都能用英语",
+      "language": "TypeScript",
+      "stars": 37678,
+      "today_stars": 31
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 24990,
+      "today_stars": 280
+    },
+    {
+      "title": "cactus-compute/needle",
+      "repo": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "summary": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "language": "Python",
+      "stars": 11430,
+      "today_stars": 207
+    },
+    {
+      "title": "yynxxxxx/Codex-X",
+      "repo": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "summary": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "language": "Rust",
+      "stars": 3321,
+      "today_stars": 64
+    }
+  ]
+}

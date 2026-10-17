@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T14:31:46.279055+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Jync v1.7.2 Oracle 目标端兼容性加固",
+      "url": "https://www.oschina.net/news/503022",
+      "summary": "本版主题是 Oracle 目标端兼容性加固：修复小写表名同步到 Oracle 会建出「大写正常表 + 带引号小写孪生表」两份对象的问题，并补齐 Oracle 12c 自...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "ToolForge v0.1.9 发布：键鼠统计、Excel 查看器、PDF OCR、SVG 转换等功能上线",
+      "url": "https://www.oschina.net/news/503021",
+      "summary": "最近一直在持续开发和完善自己的开源项目 ToolForge。 今天，ToolForge v0.1.9 正式发布！ ToolForge 是一款基于 Rust + Tauri 2 构建的开源桌面工...",
+      "author": "trendforge",
+      "comments": 0
+    },
+    {
+      "title": "Mailez v1.0.2 发布：多签名支持、导航优化与安全加固",
+      "url": "https://www.oschina.net/news/503018",
+      "summary": "Mailez 是一个自托管邮件服务器解决方案，为自有域名提供完整的 SMTP/IMAP/POP3、CardDAV/CalDAV 服务，附带 React Webmail 和管理控制台，支持一键...",
+      "author": "超级牛来了",
+      "comments": 0
+    },
+    {
+      "title": "国内首款 SFTP 工具 iFreeSftp 发布 v0.8.0：双窗格多标签 + 服务端命令通道，让每个人都能轻松使用 SFTP",
+      "url": "https://www.oschina.net/news/503017",
+      "summary": "近日，国内首款 SFTP 工具 iFreeSftp 发布 v0.8.0（Windows 10 1809+ / Windows 11，x64，免安装解压即用，AGPL-3.0 开源）。它是一款免费、开源的...",
+      "author": "freeshine",
+      "comments": 0
+    },
+    {
+      "title": "从 Agent 到 Loop：AI 正如何重构软件工程？｜QCon 上海 2026 即将开幕",
+      "url": "https://www.oschina.net/event/8598415",
+      "summary": "10 月 22—24 日，来自阿里巴巴、腾讯、字节跳动、美团、小红书、蚂蚁集团、无问芯穹、阶跃星辰、快手、百度、网易、微软、华为、携程、平安等企业...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "腾子的 OrcaTerm 又又又更新了！！！",
+      "url": "https://www.oschina.net/news/503013",
+      "summary": "OrcaTerm 目前的 AI 功能，Token 免费随便用。有日常写代码、查问题需求的可以试试。现在更新了 Tmux 会话保持功能。 在 OrcaTerm 本机终端里开 tm...",
+      "author": "zoomlion09042809",
+      "comments": 0
+    },
+    {
+      "title": "Nebula 正式更名 BucketForge！基于 Rust + Tauri 的开源多云存储管理器发布 v1.14.0",
+      "url": "https://www.oschina.net/news/503012",
+      "summary": "最近一直在维护自己开发的开源多云对象存储管理工具 Nebula。 今天正式发布 v1.14.0，同时也宣布一个重要变化： Nebula 正式更名为 BucketForge！ ...",
+      "author": "trendforge",
+      "comments": 0
+    },
+    {
+      "title": "鲁大师2026年手机Q3季报：天玑9600 Pro助力vivo拿下性能榜首",
+      "url": "https://www.oschina.net/news/503011",
+      "summary": "2026年3季度，国内手机市场算是正式迈进了2nm旗舰大年。9月前后，联发科天玑9600 Pro、高通第六代骁龙8超级至尊版、小米玄戒O3三颗芯片接连发布，v...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Gemini 4 Argon 全球上线，主打 Coding、企业工作流和网络安全",
+      "url": "https://www.oschina.net/news/503010/google-deepmind-gemini4-models-argon",
+      "summary": "Google DeepMind 今早官宣：Gemini 4 Argon 全球可用，公司把它定义为『从头到尾解决你最棘手问题的模型』，押注的三个方向是人尽皆知的码农旧战场...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "sqltoy-orm6.0.6发版，信创首选orm框架！",
+      "url": "https://www.oschina.net/news/503009",
+      "summary": "信创换库，为什么越来越多团队首选 SqlToy？ 一个 ORM，25 种数据库方言。从 Oracle 到达梦、金仓、瀚高、神通，一套 SQL 全库运行；从 count 优化...",
+      "author": "zhongxuchen",
+      "comments": 0
+    },
+    {
+      "title": "Jync v1.7.1 发布 日志 CDC 从 1 种扩到 4 种（v1.6.0 / v1.7.0）",
+      "url": "https://www.oschina.net/news/503008",
+      "summary": "相比 v1.5.0 新增 日志 CDC 从 1 种扩到 4 种（v1.6.0 / v1.7.0） Oracle LogMiner（v1.6.0）：挖掘 redo 日志流式回放，七项就绪探测，SCN 位点 ...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "Jync v1.5.0发布： 日志 CDC(MySQL binlog)捕获策略",
+      "url": "https://www.oschina.net/news/503007",
+      "summary": "日志 CDC:探测 → 基线 → 流式 → 接管 → 优雅停机 就绪探测(七项检查):版本(MySQL ≥ 5.7)、log_bin 开启、binlog_format=ROW、binlog_row_imag...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "天工07背后：东软智行如何把旗舰算力变成座舱新体验",
+      "url": "https://www.oschina.net/news/503006",
+      "summary": "一辆车开进地下车库，网络信号消失，驾驶员说出下一条指令，座舱还能不能听懂？ 这样的日常时刻，正在成为汽车智能化的新考场。 10月10日，红旗天工...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "DjangoAdmin 敏捷开发框架 FastAPI+EleVue 版本 v2.7.3 发布",
+      "url": "https://www.oschina.net/news/503005",
+      "summary": "v2.7.3 更新内容： 1、修复近期用户反馈的问题； 基于 FastAPI、Vue3、TypeScript、ElementPlus、Vite、VueRouter 等技术栈构建的前后端分离企业级...",
+      "author": "djangoadmin",
+      "comments": 0
+    },
+    {
+      "title": "拾趣 Magpie：macOS 划词 AI 工具",
+      "url": "https://www.oschina.net/news/503004",
+      "summary": "macOS 划词 AI 工具 划选或双击，浮动条随即弹出：翻译、解释、总结实时呈现；复制、搜索、写入 Obsidian、预填日历，结果直接落地。图片、视频与扫...",
+      "author": "anziguoer",
+      "comments": 0
+    },
+    {
+      "title": "纯 Rust 重写 Word：5 天斩获 6000+ star、完全净室实现",
+      "url": "https://www.oschina.net/news/503003",
+      "summary": "一个纯 Rust 写出来的 Word，5 天涨到 6185 颗 star。WordCraft 是 ArtCraft 团队做的微软 Word 干净室重实现——不碰 Word 的代码，只按公开规范和...",
+      "author": "局",
+      "comments": 6
+    },
+    {
+      "title": "绿盟科技登榜\"2026 IDC中国金融科技中坚力量50\"",
+      "url": "https://www.oschina.net/news/503002",
+      "summary": "近日，国际数据公司（IDC）正式公布\"2026 IDC中国金融科技中坚力量50\"榜单（2026 IDC China FinTech Power Force 50）。该榜单旨在寻找那些已具备金...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "倒计时3天！1016GOPS2026・上海站，参会指南请收好！",
+      "url": "https://www.oschina.net/news/503001",
+      "summary": "第 30 届智能体驱动的 GOPS 全球运维大会暨研运数智化峰会【1016~17】即将在上海火热开启，我们带着满满的诚意，邀您齐聚上海！ 2026 年智能体深度...",
+      "author": "哈哈欧尼OSC",
+      "comments": 0
+    },
+    {
+      "title": "Palantir CTO 上电视骂 AI 安全是“邪教”，还戏称 AI 研究者靠抽烟表信仰",
+      "url": "https://www.oschina.net/news/503000",
+      "summary": "Palantir 首席技术官 Shyam Sankar 在 CBS《Face the Nation》上抛出了几个惹火的判断。节目开头，主持人 Margaret Brennan 先甩了个民意数字：CBS...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "16个获奖名额，总奖池33万，“地心飞行”AIGC大赛全网征集创意视频",
+      "url": "https://www.oschina.net/news/502999",
+      "summary": "如果硬盘里正好躺着一部做完的超现实题材片子，或者你一直想用 AI 拍一段扣人心弦的冒险，现在有一场大赛正在等你的作品。 第四届开放原子大赛·2...",
+      "author": "大东",
+      "comments": 0
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T12:56:22.482067+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Why does removing an entry from a HashMap during iteration throw ConcurrentModificationException?",
+      "url": "https://stackoverflow.com/questions/80010732/why-does-removing-an-entry-from-a-hashmap-during-iteration-throw-concurrentmodif",
+      "summary": "",
+      "tags": [
+        "java",
+        "collections",
+        "hashmap",
+        "iterator"
+      ],
+      "author": "ARUN KUMAR I A",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to test rate limit in Rails?",
+      "url": "https://stackoverflow.com/questions/80010727/how-to-test-rate-limit-in-rails",
+      "summary": "",
+      "tags": [
+        "ruby-on-rails",
+        "ruby",
+        "rspec",
+        "automated-tests",
+        "rate-limiting"
+      ],
+      "author": "Chiara Ani",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to run an executable using Win32 API in x86 ASM?",
+      "url": "https://stackoverflow.com/questions/80010721/how-to-run-an-executable-using-win32-api-in-x86-asm",
+      "summary": "",
+      "tags": [
+        "assembly",
+        "winapi",
+        "executable"
+      ],
+      "author": "GoofyKetchup",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Problem with PHP function with referenced (&amp;) parameter",
+      "url": "https://stackoverflow.com/questions/80010701/problem-with-php-function-with-referenced-parameter",
+      "summary": "",
+      "tags": [
+        "php"
+      ],
+      "author": "Hans",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "doxygen generation reports clang errors - how can I tell which file compilation triggered them?",
+      "url": "https://stackoverflow.com/questions/80010696/doxygen-generation-reports-clang-errors-how-can-i-tell-which-file-compilation",
+      "summary": "",
+      "tags": [
+        "compiler-errors",
+        "include",
+        "doxygen",
+        "documentation-generation"
+      ],
+      "author": "einpoklum",
+      "comments": 2,
+      "score": -2
+    },
+    {
+      "title": "GridDB Python client returns an unexpected type for TQL aggregation results",
+      "url": "https://stackoverflow.com/questions/80010688/griddb-python-client-returns-an-unexpected-type-for-tql-aggregation-results",
+      "summary": "",
+      "tags": [
+        "griddb"
+      ],
+      "author": "Jessica Williams",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Substitution with sed in an address range using variables",
+      "url": "https://stackoverflow.com/questions/80010662/substitution-with-sed-in-an-address-range-using-variables",
+      "summary": "",
+      "tags": [
+        "bash",
+        "sed",
+        "command-line"
+      ],
+      "author": "LobaLuna",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Python can&#39;t find function from imported module - first time creating an __init__.py file",
+      "url": "https://stackoverflow.com/questions/80010672/python-cant-find-function-from-imported-module-first-time-creating-an-init",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "OutThere",
+      "comments": 3,
+      "score": -3
+    },
+    {
+      "title": "PS5 - AnyPS5 - GitHub - http://github.com/boykopovar/AnyPShttp://github.com/boykopovar/AnyPS5 - PkgConfig | NOT find PkgConfig PKG_CONFIG_EXECUTABLE",
+      "url": "https://stackoverflow.com/questions/80010673/ps5-anyps5-github-http-github-com-boykopovar-anypshttp-github-com-boyk",
+      "summary": "",
+      "tags": [
+        "c++",
+        "github",
+        "cmake",
+        "config"
+      ],
+      "author": "Nico",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Handle captcha in Playwright",
+      "url": "https://stackoverflow.com/questions/80010682/handle-captcha-in-playwright",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "playwright",
+        "captcha"
+      ],
+      "author": "Ghulam Mohammad",
+      "comments": 0,
+      "score": -9
+    },
+    {
+      "title": "Can setting/retrieving properties on any HTML element be a security risk?",
+      "url": "https://stackoverflow.com/questions/80010606/can-setting-retrieving-properties-on-any-html-element-be-a-security-risk",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "author": "KooiInc",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "CameraX PreviewView.getBitmap() returns null",
+      "url": "https://stackoverflow.com/questions/80010675/camerax-previewview-getbitmap-returns-null",
+      "summary": "",
+      "tags": [
+        "android",
+        "google-mlkit"
+      ],
+      "author": "Maria Sumer",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Why cant the input() command let me output more commands?",
+      "url": "https://stackoverflow.com/questions/80010607/why-cant-the-input-command-let-me-output-more-commands",
+      "summary": "",
+      "tags": [
+        "python",
+        "user-input"
+      ],
+      "author": "dieselengine",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "Pydantic v2: default a generic Literal discriminator from its type parameter",
+      "url": "https://stackoverflow.com/questions/80010667/pydantic-v2-default-a-generic-literal-discriminator-from-its-type-parameter",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-3.x",
+        "pydantic",
+        "pydantic-v2"
+      ],
+      "author": "Bhargav",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "I&#39;m getting an error in qemu when trying to run linux",
+      "url": "https://stackoverflow.com/questions/80010670/im-getting-an-error-in-qemu-when-trying-to-run-linux",
+      "summary": "",
+      "tags": [
+        "linux",
+        "qemu"
+      ],
+      "author": "Neo Matrix",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How to implement RK45 algorithm for N-body simulation",
+      "url": "https://stackoverflow.com/questions/80010655/how-to-implement-rk45-algorithm-for-n-body-simulation",
+      "summary": "",
+      "tags": [
+        "python",
+        "physics",
+        "numerical-methods",
+        "astronomy",
+        "runge-kutta"
+      ],
+      "author": "Joe_Hudson",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Assembler for zos addressability problem when using db2 (exec sql)",
+      "url": "https://stackoverflow.com/questions/80010664/assembler-for-zos-addressability-problem-when-using-db2-exec-sql",
+      "summary": "",
+      "tags": [
+        "assembly",
+        "db2",
+        "zos"
+      ],
+      "author": "cocoabsb",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to formulate a string to png and not corrupt the png?",
+      "url": "https://stackoverflow.com/questions/80010524/how-to-formulate-a-string-to-png-and-not-corrupt-the-png",
+      "summary": "",
+      "tags": [
+        "c"
+      ],
+      "author": "Tarek",
+      "comments": 1,
+      "score": -11
+    },
+    {
+      "title": "How to link SPIRV-Cross to SDL_shadercross in a CMake project?",
+      "url": "https://stackoverflow.com/questions/80010661/how-to-link-spirv-cross-to-sdl-shadercross-in-a-cmake-project",
+      "summary": "",
+      "tags": [
+        "c",
+        "cmake",
+        "sdl",
+        "spir-v",
+        "sdl-3"
+      ],
+      "author": "reddz_",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "QGraphicsScene subclass will not add items which reimplement QGraphicsItem.itemChange, due to diamond-inherited QGraphicsScene subclass",
+      "url": "https://stackoverflow.com/questions/80010623/qgraphicsscene-subclass-will-not-add-items-which-reimplement-qgraphicsitem-itemc",
+      "summary": "",
+      "tags": [
+        "python",
+        "qt",
+        "pyside6",
+        "diamond-problem"
+      ],
+      "author": "robert driscoll",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why do the slices of my pie chart have different radii and wrong proportions?",
+      "url": "https://stackoverflow.com/questions/80010616/why-do-the-slices-of-my-pie-chart-have-different-radii-and-wrong-proportions",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2",
+        "pie-chart"
+      ],
+      "author": "N8E",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "Fillable PDF unfillable in Acrobat after being modified by PdfSharp library, but remains fillable in web browsers",
+      "url": "https://stackoverflow.com/questions/80010653/fillable-pdf-unfillable-in-acrobat-after-being-modified-by-pdfsharp-library-but",
+      "summary": "",
+      "tags": [
+        "c#",
+        "pdf",
+        "pdfsharp"
+      ],
+      "author": "Ruud A.",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Synchronous text file reading in browser",
+      "url": "https://stackoverflow.com/questions/80010550/synchronous-text-file-reading-in-browser",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "asynchronous"
+      ],
+      "author": "lulook",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Issue with Powershell function written in $PROFILE path",
+      "url": "https://stackoverflow.com/questions/80010585/issue-with-powershell-function-written-in-profile-path",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "function",
+        "variables",
+        "scope"
+      ],
+      "author": "Lithleo",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Replace consecutive if statements with for loop &amp; switch in C",
+      "url": "https://stackoverflow.com/questions/80010176/replace-consecutive-if-statements-with-for-loop-switch-in-c",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c",
+        "if-statement",
+        "switch-statement",
+        "embedded"
+      ],
+      "author": "p_a321",
+      "comments": 7,
+      "score": 5
+    },
+    {
+      "title": "vim: Stop underlining line numbers",
+      "url": "https://stackoverflow.com/questions/80010622/vim-stop-underlining-line-numbers",
+      "summary": "",
+      "tags": [
+        "vim",
+        "numbers",
+        "underline"
+      ],
+      "author": "Jacob Salomon",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Nested asyncio.timeout(): both expired() return True, how to tell which one raised?",
+      "url": "https://stackoverflow.com/questions/80010603/nested-asyncio-timeout-both-expired-return-true-how-to-tell-which-one-rais",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-3.x"
+      ],
+      "author": "Bhargav",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Dealing with various AH01215: PHP errors",
+      "url": "https://stackoverflow.com/questions/80010596/dealing-with-various-ah01215-php-errors",
+      "summary": "",
+      "tags": [
+        "php",
+        "joomla",
+        "joomla1.5"
+      ],
+      "author": "user33212186",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Postfix Header Checks seem to ignore headers",
+      "url": "https://stackoverflow.com/questions/80010522/postfix-header-checks-seem-to-ignore-headers",
+      "summary": "",
+      "tags": [
+        "linux",
+        "email",
+        "postfix-mta"
+      ],
+      "author": "Sebastian",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "React PWA. What is the best library to load different audio languages from an YouTube video. since the official API doesn’t support it?",
+      "url": "https://stackoverflow.com/questions/80010580/react-pwa-what-is-the-best-library-to-load-different-audio-languages-from-an-yo",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "progressive-web-apps",
+        "video.js"
+      ],
+      "author": "In&#234;s Gomes",
+      "comments": 0,
+      "score": -6
+    }
+  ]
+}

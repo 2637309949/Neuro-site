@@ -1,0 +1,171 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T13:56:51.403409+00:00",
+  "source": "github",
+  "count": 14,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 109786,
+      "today_stars": 2221
+    },
+    {
+      "title": "volcengine/OpenViking",
+      "repo": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "summary": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": 29865,
+      "today_stars": 803
+    },
+    {
+      "title": "chaitanyagiri/munder-difflin",
+      "repo": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "summary": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": 2483,
+      "today_stars": 797
+    },
+    {
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "summary": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 29581,
+      "today_stars": 767
+    },
+    {
+      "title": "akitaonrails/ai-memory",
+      "repo": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 3085,
+      "today_stars": 609
+    },
+    {
+      "title": "nautechsystems/nautilus_trader",
+      "repo": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": 26283,
+      "today_stars": 522
+    },
+    {
+      "title": "mattpocock/skills",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 222928,
+      "today_stars": 1214
+    },
+    {
+      "title": "obra/superpowers",
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 274019,
+      "today_stars": 514
+    },
+    {
+      "title": "jundot/omlx",
+      "repo": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "summary": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 19682,
+      "today_stars": 467
+    },
+    {
+      "title": "santifer/career-ops",
+      "repo": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "summary": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": 65456,
+      "today_stars": 193
+    },
+    {
+      "title": "immich-app/immich",
+      "repo": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "summary": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 111624,
+      "today_stars": 636
+    },
+    {
+      "title": "amadeusprotocol/node",
+      "repo": "amadeusprotocol/node",
+      "url": "https://github.com/amadeusprotocol/node",
+      "summary": "",
+      "language": "Rust",
+      "stars": 4187,
+      "today_stars": 1415
+    },
+    {
+      "title": "marceloprates/prettymaps",
+      "repo": "marceloprates/prettymaps",
+      "url": "https://github.com/marceloprates/prettymaps",
+      "summary": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
+      "language": "Python",
+      "stars": 12809,
+      "today_stars": 58
+    },
+    {
+      "title": "genlayerlabs/genlayer-project-boilerplate",
+      "repo": "genlayerlabs/genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "summary": "",
+      "language": "TypeScript",
+      "stars": 16130,
+      "today_stars": 421
+    }
+  ]
+}

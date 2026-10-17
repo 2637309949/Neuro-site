@@ -1,0 +1,425 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T07:18:19.614808+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Calculate only cell and its dependants",
+      "url": "https://stackoverflow.com/questions/80008611/calculate-only-cell-and-its-dependants",
+      "summary": "",
+      "tags": [
+        "excel",
+        "vba"
+      ],
+      "author": "Dan W",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "In chrome console &quot;cannot read properties of undefined&quot;",
+      "url": "https://stackoverflow.com/questions/80008618/in-chrome-console-cannot-read-properties-of-undefined",
+      "summary": "",
+      "tags": [
+        "reactjs"
+      ],
+      "author": "Anuj Kumar",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "User Application doesn&#39;t start on the RFID Reader Zebra FX7500",
+      "url": "https://stackoverflow.com/questions/80008610/user-application-doesnt-start-on-the-rfid-reader-zebra-fx7500",
+      "summary": "",
+      "tags": [
+        "python",
+        "shell",
+        "rfid",
+        "zebra-rfid-sdk"
+      ],
+      "author": "Rafal S",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Kibana: How can I create a dashboard directly from _security/user API data without an index, Data View, or Vega?",
+      "url": "https://stackoverflow.com/questions/80008616/kibana-how-can-i-create-a-dashboard-directly-from-security-user-api-data-witho",
+      "summary": "",
+      "tags": [
+        "elasticsearch",
+        "indexing",
+        "kibana",
+        "dashboard",
+        "vega"
+      ],
+      "author": "Nikhil Pal",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Difference between host, device , end host and node",
+      "url": "https://stackoverflow.com/questions/80008608/difference-between-host-device-end-host-and-node",
+      "summary": "",
+      "tags": [
+        "computer-science"
+      ],
+      "author": "Satvinder",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why does the GCC compiler specify its operands and mnemonics using the low-order bytes instead of using the appropriate word size?",
+      "url": "https://stackoverflow.com/questions/80008585/why-does-the-gcc-compiler-specify-its-operands-and-mnemonics-using-the-low-order",
+      "summary": "",
+      "tags": [
+        "c",
+        "assembly",
+        "gcc",
+        "x86-64",
+        "compiler-construction"
+      ],
+      "author": "PEREZ MONSIVAIS JOSE DE JESUS ",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "R kernel couldn&#39;t be connected",
+      "url": "https://stackoverflow.com/questions/80008607/r-kernel-couldnt-be-connected",
+      "summary": "",
+      "tags": [
+        "jupyter-notebook"
+      ],
+      "author": "Shuaiyu Wu",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "`typeof` operator may return unpadded structs?",
+      "url": "https://stackoverflow.com/questions/80008596/typeof-operator-may-return-unpadded-structs",
+      "summary": "",
+      "tags": [
+        "c",
+        "language-lawyer",
+        "abi",
+        "c23"
+      ],
+      "author": "DannyNiu",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to correctly parse a nested JSON list using jsonlite::fromJSON in R without dimension or length replacement errors?",
+      "url": "https://stackoverflow.com/questions/80008601/how-to-correctly-parse-a-nested-json-list-using-jsonlitefromjson-in-r-without",
+      "summary": "",
+      "tags": [
+        "r",
+        "json",
+        "parsing"
+      ],
+      "author": "Geetansh Rajesh",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to compile Python .py files to .so with Cython in Buildozer/python-for-android and package them correctly?",
+      "url": "https://stackoverflow.com/questions/80008603/how-to-compile-python-py-files-to-so-with-cython-in-buildozer-python-for-andro",
+      "summary": "",
+      "tags": [
+        "kivy",
+        "cython",
+        "buildozer",
+        "python-for-android",
+        "pygame-ce"
+      ],
+      "author": "ياسين مفتاح",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Bixby Home Studio: voice intent list is empty and /intent/params returns 500",
+      "url": "https://stackoverflow.com/questions/80008604/bixby-home-studio-voice-intent-list-is-empty-and-intent-params-returns-500",
+      "summary": "",
+      "tags": [
+        "bixby"
+      ],
+      "author": "WhileTrue",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Nested members using std::shared_ptr",
+      "url": "https://stackoverflow.com/questions/80008577/nested-members-using-stdshared-ptr",
+      "summary": "",
+      "tags": [
+        "c++",
+        "shared-ptr"
+      ],
+      "author": "Natan Camargos",
+      "comments": 3,
+      "score": 2
+    },
+    {
+      "title": "How to declare quorum queues with RabbitAmqpAdmin in Spring AMQP 1.0?",
+      "url": "https://stackoverflow.com/questions/80008597/how-to-declare-quorum-queues-with-rabbitamqpadmin-in-spring-amqp-1-0",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring-boot",
+        "amqp",
+        "spring-amqp"
+      ],
+      "author": "Huy Anh",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to feed select form links back into CrawlSpider engine for pagination",
+      "url": "https://stackoverflow.com/questions/80008595/how-to-feed-select-form-links-back-into-crawlspider-engine-for-pagination",
+      "summary": "",
+      "tags": [
+        "scrapy"
+      ],
+      "author": "Local Function",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Windows and nginx and php, relative html folder outside nginx folder not working?",
+      "url": "https://stackoverflow.com/questions/80008589/windows-and-nginx-and-php-relative-html-folder-outside-nginx-folder-not-working",
+      "summary": "",
+      "tags": [
+        "php",
+        "nginx"
+      ],
+      "author": "Mich_Lloid",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How can I make a csv file in C++ containing data from arrays so I can visualize them in Python?",
+      "url": "https://stackoverflow.com/questions/80008564/how-can-i-make-a-csv-file-in-c-containing-data-from-arrays-so-i-can-visualize",
+      "summary": "",
+      "tags": [
+        "c++",
+        "csv",
+        "export-to-csv"
+      ],
+      "author": "Omar Osman Mahamoud",
+      "comments": 2,
+      "score": -3
+    },
+    {
+      "title": "What is wrong with this SQL Server procedure?",
+      "url": "https://stackoverflow.com/questions/80008561/what-is-wrong-with-this-sql-server-procedure",
+      "summary": "",
+      "tags": [
+        "sql-server",
+        "stored-procedures"
+      ],
+      "author": "Jonathan Sachs",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How does dependency injection work at a low level?",
+      "url": "https://stackoverflow.com/questions/80008542/how-does-dependency-injection-work-at-a-low-level",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c#",
+        ".net-core"
+      ],
+      "author": "Daniel Garc&#237;a",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How can I get the Angular component name from a global ErrorHandler in a production build?",
+      "url": "https://stackoverflow.com/questions/80008523/how-can-i-get-the-angular-component-name-from-a-global-errorhandler-in-a-product",
+      "summary": "",
+      "tags": [
+        "angular"
+      ],
+      "author": "Kasun Sanjeewa",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Parse XML file with namespaces using SimpleXML",
+      "url": "https://stackoverflow.com/questions/80008519/parse-xml-file-with-namespaces-using-simplexml",
+      "summary": "",
+      "tags": [
+        "php",
+        "xml",
+        "simplexml"
+      ],
+      "author": "Federico",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Rust Ownership and Lifetimes in Multi-threaded Matrix Multiplication (No Locks)",
+      "url": "https://stackoverflow.com/questions/80008554/rust-ownership-and-lifetimes-in-multi-threaded-matrix-multiplication-no-locks",
+      "summary": "",
+      "tags": [
+        "multithreading",
+        "rust",
+        "matrix-multiplication"
+      ],
+      "author": "NonDairyNeutrino",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why does either.fold(identity, _ -&gt; fail()) trigger the &quot;dead code&quot; warning with -Wdead-code?",
+      "url": "https://stackoverflow.com/questions/80008555/why-does-either-foldidentity-fail-trigger-the-dead-code-warning-with",
+      "summary": "",
+      "tags": [
+        "scala",
+        "scalatest",
+        "dead-code",
+        "scalac",
+        "scala-2.13"
+      ],
+      "author": "M. Justin",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to backup a Jupyter Notebook?",
+      "url": "https://stackoverflow.com/questions/80008544/how-to-backup-a-jupyter-notebook",
+      "summary": "",
+      "tags": [
+        "jupyter-notebook"
+      ],
+      "author": "Dav&#237; Ribeiro",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "combining speaker diarization and speech adaptation causes a code 13 INTERNAL error",
+      "url": "https://stackoverflow.com/questions/80008576/combining-speaker-diarization-and-speech-adaptation-causes-a-code-13-internal-er",
+      "summary": "",
+      "tags": [
+        "speech-to-text",
+        "chirp"
+      ],
+      "author": "Jeremy HIRTH",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to split and name Audio Hijack Recordings based on Spotify Metadata",
+      "url": "https://stackoverflow.com/questions/80008550/how-to-split-and-name-audio-hijack-recordings-based-on-spotify-metadata",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "audio",
+        "applescript",
+        "spotify"
+      ],
+      "author": "Gustavo Hernandez",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How to request JSON data from NYT, BLS, Census, and NewsAPI using Python requests?",
+      "url": "https://stackoverflow.com/questions/80008553/how-to-request-json-data-from-nyt-bls-census-and-newsapi-using-python-request",
+      "summary": "",
+      "tags": [
+        "python",
+        "json",
+        "testing"
+      ],
+      "author": "Eternity_Fox",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How to read two elements of an array using operator&gt;&gt; in C++?",
+      "url": "https://stackoverflow.com/questions/80008335/how-to-read-two-elements-of-an-array-using-operator-in-c",
+      "summary": "",
+      "tags": [
+        "c++",
+        "arrays"
+      ],
+      "author": "Carlos Barbosa",
+      "comments": 4,
+      "score": 0
+    },
+    {
+      "title": "CS50s finance - stuck at : buy handles valid purchase",
+      "url": "https://stackoverflow.com/questions/80008526/cs50s-finance-stuck-at-buy-handles-valid-purchase",
+      "summary": "",
+      "tags": [
+        "python",
+        "cs50"
+      ],
+      "author": "Urquhart",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Some redraws are suspended during a drag gesture",
+      "url": "https://stackoverflow.com/questions/80008530/some-redraws-are-suspended-during-a-drag-gesture",
+      "summary": "",
+      "tags": [
+        "swiftui"
+      ],
+      "author": "Andromeda",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to test NgRx (v22) effects using vitest?",
+      "url": "https://stackoverflow.com/questions/80008543/how-to-test-ngrx-v22-effects-using-vitest",
+      "summary": "",
+      "tags": [
+        "angular",
+        "ngrx",
+        "vitest"
+      ],
+      "author": "mcpierce",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}
