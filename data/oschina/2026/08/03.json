@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T15:53:44.404394+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Zadig v5.0 发布：AI 发布专员与 AI 审查专员上线",
+      "url": "https://my.oschina.net/koderover/blog/19732505",
+      "summary": "我们团队这几天最大的卡点不是 AI 写得不够好，是 AI 写得太好了。 好到审查排期从两天的活儿拖成了五天。PR 一堆起来没人敢合，发布窗口推了又推。...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Dgraph v25.4.0 发布，具有图形后端的原生 GraphQL 数据库",
+      "url": "https://www.oschina.net/news/486391/dgraph-25-4-0-released",
+      "summary": "Dgraph 是一个水平可扩展的分布式 GraphQL 数据库，有一个图形后端。作为一个原生的 GraphQL 数据库，它严格控制数据在磁盘上的排列方式，以优化查...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "竹知了：一个零依赖的单文件 HTML，把儿时竹蝉玩具搬进浏览器",
+      "url": "https://www.oschina.net/news/486374",
+      "summary": "竹知了（zhuzhiliao）是那种小时候路边摊上几块钱的玩意儿——一根小竹签，一个竹筒，一头系着涂了松香的线。甩起来，竹膜震动，发出“哇——哇”的...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "LinkAndroid v2.1.0 已经发布，全能手机连接助手",
+      "url": "https://www.oschina.net/news/486327",
+      "summary": "LinkAndroid v2.1.0 已经发布，全能手机连接助手 此版本更新内容包括： 新增 scrcpy 升级到 4.1 版本 测试项目根目录统一解析工具 projectRoot() ...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "Arch Linux 十年核心维护者宣布离职",
+      "url": "https://www.oschina.net/news/486320",
+      "summary": "在 Arch Linux 担任开发者、软件包维护者和安全团队成员约十年后，Morten Linderud（昵称 Foxboron）宣布将离开该项目。 在此期间，Linderud 主要负...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "《低空经济网络安全场景化研究报告》发布：筑牢“万盾”防线，守护“千翼”苍穹",
+      "url": "https://www.oschina.net/news/486314",
+      "summary": "近日，绿盟科技联合工业和信息化部电子第五研究所、西北工业大学及广东省数字安全协会，共同发布了《低空经济网络安全场景化研究报告》（以下简称“...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "30倍效率升级：解锁医学影像数据要素价值化的真实路径",
+      "url": "https://www.oschina.net/news/486307",
+      "summary": "完成一例腹部CT影像标注，张医生过去需要约120个小时。他必须在数百张连续影像上，一笔一笔勾画边界，一层一层识别肌肉组织。如今，使用东软飞标医...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "AI 将系统从 COBOL 迁移到 Java，连 bug 也一起带过去",
+      "url": "https://www.oschina.net/news/486304",
+      "summary": "一批研究 COBOL 代码迁移的工程师发表论文，提出把 AI 锁进笼子。 标题很克制：《Agentic Method for Deterministic Validation of Legacy Code Mi...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Apache Dubbo-go v3.3.2 正式发布",
+      "url": "https://my.oschina.net/dubbogo/blog/19732396",
+      "summary": "这个版本面向生产环境，重心在内核稳定性。我们彻底收敛了旧配置体系，扩展了 Triple 协议与泛化调用能力，加强了应用级元数据和服务治理，同时集中...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "EasyPostman v6.0.18 已经发布，开源接口调试与压测工具",
+      "url": "https://www.oschina.net/news/486280",
+      "summary": "EasyPostman v6.0.18 已经发布，开源接口调试与压测工具 此版本更新内容包括： 新增轻量级音视频响应预览，支持音频播放及系统播放器兜底 优化小屏...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "DBPanel 1.0.6 发布：增强网站管理、安全策略与运维体验",
+      "url": "https://www.oschina.net/news/486273",
+      "summary": "发布日期：2026 年 8 月 3 日 DBPanel 1.0.6 正式发布。 本版本聚焦 单管理员使用场景下的功能完善与稳定性提升，重点优化网站访问配置、数据库表操...",
+      "author": "静静的风",
+      "comments": 0
+    },
+    {
+      "title": "Calibre 9.12 发布，功能强大的开源电子书工具",
+      "url": "https://www.oschina.net/news/486252/calibre-9-12-released",
+      "summary": "Calibre 开源项目是 Calibre 官方出的电子书管理工具。它可以查看，转换，编辑和分类所有主流格式的电子书。Calibre 是个跨平台软件，可以在 Linu...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "SwiftUI 问世七年了，为什么开发者还在骂它？",
+      "url": "https://www.oschina.net/news/486248",
+      "summary": "Yakov Manshin 发了一期长达 40 分钟的 YouTube 视频，标题是\"SwiftUI 七年后：一个平庸的故事\"。视频核心观点很简单：SwiftUI 发布七年了，仍然像...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Elastic 的 AI agent 为你编写自动化流程",
+      "url": "https://my.oschina.net/u/3343882/blog/19732209",
+      "summary": "Elastic Workflows 接受纯文本提示词，并生成你可以检查、版本控制和针对 Elasticsearch 数据运行的 YAML。现在已正式发布，支持 Slack 中的人机协...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "DBeaver 26.1.4 发布",
+      "url": "https://www.oschina.net/news/486167/dbeaver-26-1-4-released",
+      "summary": "DBeaver 是一个免费开源的通用数据库工具，适用于开发人员和数据库管理员。DBeaver 26.1.4 现已发布，具体更新内容包括： AI 助手： 现在可以通过键...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "传音TEX AI语音算法团队斩获MLC-SLM 2026国际挑战赛Task 1亚军",
+      "url": "https://www.oschina.net/news/486154",
+      "summary": "近日，在国际语音领域顶级会议INTERSPEECH 2026卫星活动——第二届多语种对话语音语言模型挑战赛 （Multilingual Conversational Speech Language...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "自变量机器人开源 HOST 框架，让机器人看 29 秒视频就学会一个技能",
+      "url": "https://www.oschina.net/news/486146",
+      "summary": "花几十秒给人示范一个动作，人要练很多次。但对机器人，一次就够了。 今天，自变量机器人（X SQUARE ROBOT）联合北京理工大学、清华大学发布了 HO...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "snackjson v4.0.58 已经发布，高性能 Jsonpath 框架",
+      "url": "https://www.oschina.net/news/486130",
+      "summary": "snackjson v4.0.58 已经发布，高性能 Jsonpath 框架 此版本更新内容包括： 添加 TypeChecker 类型安全检测机制 \r\noptions.addChecker(clzName -> ...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "RuleGo v0.37.0 发布：工业协议与时序库全面覆盖、Nacos 微服务发现、流计算 CEP",
+      "url": "https://www.oschina.net/news/486059/rulego-0-37-0-released",
+      "summary": "RuleGo 是一个基于 Go 语言的轻量级、高性能、嵌入式规则引擎。它通过规则链（JSON/可视化）编排组件，实现复杂业务逻辑的声明式管理，在物联网、边...",
+      "author": "rulego_team",
+      "comments": 0
+    },
+    {
+      "title": "【Skyeye 云 V2.6.8 重磅更新】商城，设备，MES，导入导出等模块全面升级",
+      "url": "https://www.oschina.net/news/486054",
+      "summary": "Skyeye 云智能制造，智能制造一体化，采用 SpringBoot+ UNI-APP + Ant Design Vue 的零代码平台开发模式。包含 100 多种电子流程，CRM、PM、ERP、M...",
+      "author": "Skyeye云",
+      "comments": 0
+    }
+  ]
+}

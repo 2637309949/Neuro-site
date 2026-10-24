@@ -1,0 +1,431 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T14:17:04.618881+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Focus effect applied to a div does nothing",
+      "url": "https://stackoverflow.com/questions/80011331/focus-effect-applied-to-a-div-does-nothing",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "JacaneU",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "openxlsx2 and long hyperlinks",
+      "url": "https://stackoverflow.com/questions/80011337/openxlsx2-and-long-hyperlinks",
+      "summary": "",
+      "tags": [
+        "r",
+        "hyperlink",
+        "openxlsx2"
+      ],
+      "author": "drmariod",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "AZCopy &quot;File Creation Error destination file has no known flags&quot;",
+      "url": "https://stackoverflow.com/questions/80011334/azcopy-file-creation-error-destination-file-has-no-known-flags",
+      "summary": "",
+      "tags": [
+        "advice",
+        "azure",
+        "azcopy"
+      ],
+      "author": "DinahMoeHumm",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I use different output templates for different log levels with Serilog when using appsettings for configuration?",
+      "url": "https://stackoverflow.com/questions/80011341/how-can-i-use-different-output-templates-for-different-log-levels-with-serilog-w",
+      "summary": "",
+      "tags": [
+        "json",
+        ".net",
+        "serilog",
+        "appsettings"
+      ],
+      "author": "Wipqozn",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "White flicker after animation",
+      "url": "https://stackoverflow.com/questions/80011316/white-flicker-after-animation",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "animation",
+        "flicker"
+      ],
+      "author": "Alp",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I conditionally load a JavaScript file only on WooCommerce product pages in WordPress?",
+      "url": "https://stackoverflow.com/questions/80011303/how-can-i-conditionally-load-a-javascript-file-only-on-woocommerce-product-pages",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "wordpress"
+      ],
+      "author": "Alpa Ribadiya",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "Mouse&#39;s cursor is freezing not active until toggle the mouse&#39;s switch",
+      "url": "https://stackoverflow.com/questions/80011325/mouses-cursor-is-freezing-not-active-until-toggle-the-mouses-switch",
+      "summary": "",
+      "tags": [
+        "c++",
+        "linux",
+        "shell",
+        "ubuntu"
+      ],
+      "author": "sudo",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Alexa custom skill in nl-NL locale is never invoked (&quot;Ik weet niet zeker hoe ik je daarmee kan helpen&quot;) while model builds successfully",
+      "url": "https://stackoverflow.com/questions/80011328/alexa-custom-skill-in-nl-nl-locale-is-never-invoked-ik-weet-niet-zeker-hoe-ik",
+      "summary": "",
+      "tags": [
+        "python",
+        "alexa-skills-kit"
+      ],
+      "author": "Justin Debuss",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "What sort of smoothing function is this?",
+      "url": "https://stackoverflow.com/questions/80011310/what-sort-of-smoothing-function-is-this",
+      "summary": "",
+      "tags": [
+        "r",
+        "smoothing"
+      ],
+      "author": "AkselA",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "&quot;ERROR [6/6] RUN npm run build&quot; importing a file outside &quot;src/&quot;",
+      "url": "https://stackoverflow.com/questions/80011306/error-6-6-run-npm-run-build-importing-a-file-outside-src",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "node.js"
+      ],
+      "author": "Lucas Cherbuin",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Quantum Espresso The calculation on gipaw.x causes an error: Program received signal SIGSEGV: Segmentation fault - invalid memory reference",
+      "url": "https://stackoverflow.com/questions/80011305/quantum-espresso-the-calculation-on-gipaw-x-causes-an-error-program-received-si",
+      "summary": "",
+      "tags": [
+        "physics"
+      ],
+      "author": "Александр Евстратенко",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Determining the Global Position of a Rect",
+      "url": "https://stackoverflow.com/questions/80011301/determining-the-global-position-of-a-rect",
+      "summary": "",
+      "tags": [
+        "pygame",
+        "position",
+        "rect",
+        "pygame-surface"
+      ],
+      "author": "Zeyn",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Does FairPlay capture protection extend to HTML images beneath a video with mix-blend-mode in Safari?",
+      "url": "https://stackoverflow.com/questions/80011302/does-fairplay-capture-protection-extend-to-html-images-beneath-a-video-with-mix",
+      "summary": "",
+      "tags": [
+        "css",
+        "safari",
+        "drm",
+        "fairplay"
+      ],
+      "author": "Edmond R&#228;tzel - GalleryDock",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Why I get that response when I try to install library to Laravel inside Docker container?",
+      "url": "https://stackoverflow.com/questions/80011291/why-i-get-that-response-when-i-try-to-install-library-to-laravel-inside-docker-c",
+      "summary": "",
+      "tags": [
+        "php",
+        "laravel",
+        "composer-php"
+      ],
+      "author": "Nihad Namatli",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Flaky tests on laravel imports",
+      "url": "https://stackoverflow.com/questions/80011286/flaky-tests-on-laravel-imports",
+      "summary": "",
+      "tags": [
+        "php",
+        "laravel",
+        "testing"
+      ],
+      "author": "KvdLingen",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How should I define structs if I want to load data into them and then immediately change its type",
+      "url": "https://stackoverflow.com/questions/80011241/how-should-i-define-structs-if-i-want-to-load-data-into-them-and-then-immediatel",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "json",
+        "rust",
+        "struct",
+        "serde"
+      ],
+      "author": "cknott",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Unable to copy file hex1bpty.exe",
+      "url": "https://stackoverflow.com/questions/80011271/unable-to-copy-file-hex1bpty-exe",
+      "summary": "",
+      "tags": [
+        ".net",
+        "dotnet-aspire"
+      ],
+      "author": "Arash.Zandi",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Buttons disappear while using &#39;TAB&#39; key in my SWT UI",
+      "url": "https://stackoverflow.com/questions/80011255/buttons-disappear-while-using-tab-key-in-my-swt-ui",
+      "summary": "",
+      "tags": [
+        "java",
+        "eclipse",
+        "swt"
+      ],
+      "author": "Praveen Balasubramaniam",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why doesn&#39;t this static_assert pass in GCC, but passes in Clang and MSVC?",
+      "url": "https://stackoverflow.com/questions/80011258/why-doesnt-this-static-assert-pass-in-gcc-but-passes-in-clang-and-msvc",
+      "summary": "",
+      "tags": [
+        "c++",
+        "templates"
+      ],
+      "author": "Zebrafish",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "What is difference between #embed and #include in C",
+      "url": "https://stackoverflow.com/questions/80011157/what-is-difference-between-embed-and-include-in-c",
+      "summary": "",
+      "tags": [
+        "c",
+        "include",
+        "embed",
+        "c23"
+      ],
+      "author": "Mahdi Hosseini",
+      "comments": 2,
+      "score": 7
+    },
+    {
+      "title": "Switch / IF Errors",
+      "url": "https://stackoverflow.com/questions/80011115/switch-if-errors",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "boolean-expression"
+      ],
+      "author": "SpaceBroom",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "One app, two windows, but not split screen",
+      "url": "https://stackoverflow.com/questions/80011240/one-app-two-windows-but-not-split-screen",
+      "summary": "",
+      "tags": [
+        "android"
+      ],
+      "author": "criztovyl",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Draw letters in python console given x y coordinates and characters",
+      "url": "https://stackoverflow.com/questions/80011231/draw-letters-in-python-console-given-x-y-coordinates-and-characters",
+      "summary": "",
+      "tags": [
+        "python",
+        "console"
+      ],
+      "author": "TitanJamison",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Hibernate 6.6.x throws NullPointerException when using LEFT JOIN FETCH for ManyToOne associations",
+      "url": "https://stackoverflow.com/questions/80011242/hibernate-6-6-x-throws-nullpointerexception-when-using-left-join-fetch-for-manyt",
+      "summary": "",
+      "tags": [
+        "hibernate",
+        "jpa",
+        "orm"
+      ],
+      "author": "sundar saba",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "An empty alarm window makes APPROX_COUNT_DISTINCT fail with a HyperLogLog error",
+      "url": "https://stackoverflow.com/questions/80011247/an-empty-alarm-window-makes-approx-count-distinct-fail-with-a-hyperloglog-error",
+      "summary": "",
+      "tags": [
+        "aggregate-functions",
+        "apache-iotdb",
+        "tablemodel"
+      ],
+      "author": "Sarah Turner",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "Access Eiffel attributes inside external C++ code",
+      "url": "https://stackoverflow.com/questions/80011237/access-eiffel-attributes-inside-external-c-code",
+      "summary": "",
+      "tags": [
+        "c++",
+        "eiffel"
+      ],
+      "author": "jjj",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "What constitutes a unit test vs. an integration test in Rust? Testing best practices",
+      "url": "https://stackoverflow.com/questions/80011234/what-constitutes-a-unit-test-vs-an-integration-test-in-rust-testing-best-pract",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "unit-testing",
+        "testing",
+        "rust"
+      ],
+      "author": "Quantasm",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How do I add another parent to a Jujutsu commit?",
+      "url": "https://stackoverflow.com/questions/80011235/how-do-i-add-another-parent-to-a-jujutsu-commit",
+      "summary": "",
+      "tags": [
+        "jujutsu"
+      ],
+      "author": "Ztyx",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "&quot;ffconcat merge method is not supported for fMP4 streams. Using append instead&quot;",
+      "url": "https://stackoverflow.com/questions/80011215/ffconcat-merge-method-is-not-supported-for-fmp4-streams-using-append-instead",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "ffmpeg",
+        "twitch",
+        "yt-dlp"
+      ],
+      "author": "user33219714",
+      "comments": 1,
+      "score": -7
+    },
+    {
+      "title": "How to fix &quot;copilot-runtime: failed to load runtime cdylib&quot;?",
+      "url": "https://stackoverflow.com/questions/80011211/how-to-fix-copilot-runtime-failed-to-load-runtime-cdylib",
+      "summary": "",
+      "tags": [
+        "macos",
+        "github",
+        "github-copilot",
+        "visual-studio-code-server"
+      ],
+      "author": "Kaitlynn Rodney",
+      "comments": 0,
+      "score": -4
+    }
+  ]
+}

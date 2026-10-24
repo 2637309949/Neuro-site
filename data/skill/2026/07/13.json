@@ -1,0 +1,279 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T15:52:16.302068+00:00",
+  "source": "skill",
+  "count": 30,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    }
+  ],
+  "items": [
+    {
+      "title": "Guizang Social Card Skill：Claude Code 图文生成工具",
+      "repo": "op7418/guizang-social-card-skill",
+      "url": "https://github.com/op7418/guizang-social-card-skill",
+      "summary": "该 Skill 适配 Claude Code/Agent 环境，可根据文章、文案、截图等自动生成小红书 3:4、公众号 21:9/1:1 封面。内置电子杂志与瑞士两套视觉系统，提供 28 个版式骨架、10 套主题，支持 Live Photo 动态卡，单文件 HTML 输出 PNG。",
+      "language": "HTML",
+      "stars": 5001
+    },
+    {
+      "title": "旅行行程可视化工具 travel-plan-viz",
+      "repo": "zexuanw958-svg/travel-plan-viz",
+      "url": "https://github.com/zexuanw958-svg/travel-plan-viz",
+      "summary": "一款 Claude Code/Codex 通用 Skill，可将旅行计划生成单文件、离线可读、手机优先的 HTML 页面，包含交互地图、每日时间轴、出发前提醒、航班/酒店/美食建议，支持实时调研与可迭代更新。",
+      "language": "JavaScript",
+      "stars": 266
+    },
+    {
+      "title": "universal-examprep-skill：一键生成考试知识库与测验",
+      "repo": "ZeKaiNie/universal-examprep-skill",
+      "url": "https://github.com/ZeKaiNie/universal-examprep-skill",
+      "summary": "将课件、笔记、试卷转为章节化知识库和测验库，严格仅依据材料回答，双语支持，100%拒绝虚假信息。",
+      "language": "Python",
+      "stars": 251
+    },
+    {
+      "title": "MCK PPT 设计系统（AI原生）",
+      "repo": "likaku/Mck-ppt-design-skill",
+      "url": "https://github.com/likaku/Mck-ppt-design-skill",
+      "summary": "提供70种平面化布局的PowerPoint设计系统，基于python-pptx实现，可pip安装。支持AI Agent直接调用，内置封面、目录、仪表盘等模板，并配备Harness工程模式的5阶段生成流程。",
+      "language": "Python",
+      "stars": 215
+    },
+    {
+      "title": "论文答辩 PPTX 生成 Skill",
+      "repo": "zouchenzhen/thesis-defense-pptx-skill",
+      "url": "https://github.com/zouchenzhen/thesis-defense-pptx-skill",
+      "summary": "该 Skill 能从本地论文 PDF/LaTeX 自动提取内容，按指定 PPT 模板生成可编辑的答辩 PPTX，保留封面、字体、配色等样式，并支持逐页 PNG 导出、版式检查和文字溢出检测。",
+      "language": "Python",
+      "stars": 205
+    },
+    {
+      "title": "BLCaptain Style Skill：中文图文卡片生成工具",
+      "repo": "dososo/blcaptain-style-skill",
+      "url": "https://github.com/dososo/blcaptain-style-skill",
+      "summary": "将文本转为小红书/公众号图文卡片，采用3种视觉语言、35+模板、11套主题色、14+图库、3独家影像配方，支持多画幅，输出稳定。",
+      "language": "JavaScript",
+      "stars": 113
+    },
+    {
+      "title": "开源双语AI视频提示技能：Vibe Creating",
+      "repo": "Alisa0808/vibe-creating-skill",
+      "url": "https://github.com/Alisa0808/vibe-creating-skill",
+      "summary": "开源双语AI视频提示技能，将创意转化为模型可用的文本视频提示。支持Claude、Gemini等主流模型，通过判断优先机制优化提示工程，适配Seedance 2.0、Veo等10+视频生成平台。",
+      "language": "JavaScript",
+      "stars": 102
+    },
+    {
+      "title": "创意总监技能工具",
+      "repo": "smixs/creative-director-skill",
+      "url": "https://github.com/smixs/creative-director-skill",
+      "summary": "AI创意总监工具，基于SIT、TRIZ、横向思维等方法生成广告概念，使用Cannes Lions评估引擎并对照571个获奖案例库，递归优化至质量阈值，提供结构化创意流程与评估。",
+      "language": "Python",
+      "stars": 98
+    },
+    {
+      "title": "AleaBito Serenity 技能套件",
+      "repo": "lanfuli/aleabito-serenity-skills",
+      "url": "https://github.com/lanfuli/aleabito-serenity-skills",
+      "summary": "AleaBito 的 Serenity 技能套件基于其 11 个月的公开数据，提供跟踪、分析和预测关注点的 Claude/Codex 代理技能，并配备实时看板。",
+      "language": "JavaScript",
+      "stars": 89
+    },
+    {
+      "title": "pin-llm-wiki：多编辑器自动化 Karpathy LLM Wiki 工具",
+      "repo": "ndjordjevic/pin-llm-wiki",
+      "url": "https://github.com/ndjordjevic/pin-llm-wiki",
+      "summary": "此 Skill 可在 Claude、Cursor 与 Copilot 中自动化 Karpathy LLM Wiki 工作流，支持将网页、GitHub 与 YouTube 链接导入，生成结构化、可引用、交叉链接的知识库，并自动进行代码检查。",
+      "language": "Python",
+      "stars": 76
+    },
+    {
+      "title": "前置部署式销售：AI时代企业销售方法",
+      "repo": "vonarmen-wq/forward-deployed-selling",
+      "url": "https://github.com/vonarmen-wq/forward-deployed-selling",
+      "summary": "该方法在AWS内部经过二十年实践，适用于$50万至$5亿交易。通过免费Claude技能，60秒安装即可让代理获得完整销售剧本，支持邮件、账户计划、执行摘要等。",
+      "language": "",
+      "stars": 67
+    },
+    {
+      "title": "docx模板翻译技能",
+      "repo": "zouchenzhen/docx-template-translator-skill",
+      "url": "https://github.com/zouchenzhen/docx-template-translator-skill",
+      "summary": "将 LaTeX、PDF 或 Markdown 转为指定 Word 模板的 Codex/Claude 技能，支持毕业论文、学位论文等场景，采用 inspect‑adaptive‑finalize 流程，兼容 Windows+Word 导出 PDF。",
+      "language": "Python",
+      "stars": 57
+    },
+    {
+      "title": "AI科研技能库",
+      "repo": "jxtse/scientific-research-skills",
+      "url": "https://github.com/jxtse/scientific-research-skills",
+      "summary": "该仓库提供面向AI编码代理的科研技能，涵盖研究方法与工具集成，包含安装与配置流程，支持Claude Code、OpenClaw等平台。",
+      "language": "Python",
+      "stars": 56
+    },
+    {
+      "title": "Claude 内容生成器",
+      "repo": "sociilabs/claude-content-writer",
+      "url": "https://github.com/sociilabs/claude-content-writer",
+      "summary": "多平台支持、分阶段流程、SEO 优化与反 AI 审计，支持无限品牌写作配置。",
+      "language": "JavaScript",
+      "stars": 42
+    },
+    {
+      "title": "Backblaze B2 云存储管理 Claude Skill",
+      "repo": "backblaze-labs/claude-skill-b2-cloud-storage",
+      "url": "https://github.com/backblaze-labs/claude-skill-b2-cloud-storage",
+      "summary": "终端管理Backblaze B2云存储，支持列举/搜索文件、审计使用、检测陈旧/大文件、评估安全并安全清理。基于Agent Skills规范，兼容Claude Code等技能型代理。",
+      "language": "Python",
+      "stars": 39
+    },
+    {
+      "title": "国家队持仓估计工具",
+      "repo": "Xiaoyuan-Liu/national-team-position",
+      "url": "https://github.com/Xiaoyuan-Liu/national-team-position",
+      "summary": "Claude Code 代理技能，追踪上交所六大宽基 ETF 份额变化，估算中央汇金持仓，输出六合一总图、六指数单图及 JSON 数据，区分真减仓与换仓轮动。",
+      "language": "Python",
+      "stars": 38
+    },
+    {
+      "title": "A股收盘复盘自动化 Agent 技能",
+      "repo": "quantskills/skill-market-daily-review",
+      "url": "https://github.com/quantskills/skill-market-daily-review",
+      "summary": "基于 Pandadata 的 Agent 技能，自动收集指数、估值、市场宽度、行业热点、龙虎榜、大宗、两融、北向等数据，按固定模板生成每日 A 股收盘复盘报告，并通过脚本校验完整性，支持手动或 18:30 定时触发。",
+      "language": "Python",
+      "stars": 30
+    },
+    {
+      "title": "Prismatic Skills：Claude代码插件构建集成",
+      "repo": "prismatic-io/prismatic-skills",
+      "url": "https://github.com/prismatic-io/prismatic-skills",
+      "summary": "Prismatic Skills是Claude代码插件，支持通过对话构建Prismatic平台的代码原生集成和自定义连接器，提供组件开发、集成迁移、环境探索等功能，需安装Prism CLI和Node.js 18+环境。",
+      "language": "TypeScript",
+      "stars": 28
+    },
+    {
+      "title": "blcaptain PPT 生成 Skill",
+      "repo": "dososo/blcaptain-ppt-skill",
+      "url": "https://github.com/dososo/blcaptain-ppt-skill",
+      "summary": "AI 原生单文件 HTML 演示工具，支持七种视觉人格，采用设计体系约束，自动强制美观与真实性，禁止伪造数据、表情符号与随机图片，零依赖。",
+      "language": "HTML",
+      "stars": 28
+    },
+    {
+      "title": "Claude Code 研究技能：垂直横向分析法",
+      "repo": "ViryaZheng/researcher-skill",
+      "url": "https://github.com/ViryaZheng/researcher-skill",
+      "summary": "此技能为 Claude Code 设计的独立研究工具，采用垂直历史、横向比较与交叉评估三轴方法，支持多源信息收集、证据引用与质量检查，适用于开放式、判断性研究任务。",
+      "language": "",
+      "stars": 28
+    },
+    {
+      "title": "Auto Paper Harvester：批量 DOI 下载 PDF 及附件",
+      "repo": "jxtse/auto-paper-harvester",
+      "url": "https://github.com/jxtse/auto-paper-harvester",
+      "summary": "该工具通过出版社 TDM API、开放获取聚合器以及可选的 Playwright 浏览器回退，批量下载 DOI 对应的 PDF 及补充文件。支持 19 家出版商，提供 CLI 与 agent 技能，自动处理速率限制并记录失败。",
+      "language": "Python",
+      "stars": 25
+    },
+    {
+      "title": "Bumblebee：基于真实影视片段生成指定台词视频工具",
+      "repo": "solyanviktor-star/Bumblebee",
+      "url": "https://github.com/solyanviktor-star/Bumblebee",
+      "summary": "该项目可将任意文本自动拼接为真实影视片段视频。工具100%本地运行，无需API密钥，依托faster-whisper进行语音识别与时间戳对齐，结合FFmpeg实现毫秒级精准剪辑。支持作为Agent Skill集成至主流AI编程工具，通过指令即可生成定制视频。",
+      "language": "Python",
+      "stars": 19
+    },
+    {
+      "title": "视频高亮生成技能",
+      "repo": "inhai-wiki/video-highlight-skill",
+      "url": "https://github.com/inhai-wiki/video-highlight-skill",
+      "summary": "AI视频高亮技能：分析视频、用FFmpeg剪辑、导出字幕、生成可分享的回顾页面。",
+      "language": "Python",
+      "stars": 19
+    },
+    {
+      "title": "RedNote Director Skill：小红书图文生成器",
+      "repo": "mythkiven/rednote-director-skill",
+      "url": "https://github.com/mythkiven/rednote-director-skill",
+      "summary": "面向小红书创作者的 Agent Skill，规划选题、草稿、图像为可落地的 6-8 页图文轮播，输出视觉风格、页面结构、AI 图像提示词、标题标签及自检清单，兼容 Cursor、Claude、Codex。",
+      "language": "",
+      "stars": 18
+    },
+    {
+      "title": "Memory Bank：AI 编码代理的持久项目记忆",
+      "repo": "fockus/skill-memory-bank",
+      "url": "https://github.com/fockus/skill-memory-bank",
+      "summary": "Memory Bank 是一款为 AI 编码代理提供持久项目记忆的工具，支持跨会话回忆、代码图、TDD 规则、规范驱动开发等功能，兼容 Claude Code、Cursor、Windsurf 等多款代理。",
+      "language": "Shell",
+      "stars": 18
+    },
+    {
+      "title": "autogap：Claude Code 诊断项目缺口技能",
+      "repo": "micpet7514088/autogap",
+      "url": "https://github.com/micpet7514088/autogap",
+      "summary": "autogap 是 Claude Code 的技能，输入项目目录后自动识别项目类型、目标并报告三大缺口及解决宏步，支持代码、文档、策略、创意、运维等多种项目。",
+      "language": "PowerShell",
+      "stars": 18
+    },
+    {
+      "title": "Danielbluz的IRPF Brasil Agent Skill",
+      "repo": "Danielbluz/skill-irpf-brasil",
+      "url": "https://github.com/Danielbluz/skill-irpf-brasil",
+      "summary": "Anthropic Agent Skill，帮助巴西纳税人准备2026年IRPF申报，提供法规解读与审计提示，非官方程序，未获会计师审核，MIT开源。",
+      "language": "Python",
+      "stars": 17
+    },
+    {
+      "title": "Claude AI驱动的LinkedIn自动化管理技能",
+      "repo": "backpropagation6/claude-linkedin-automation",
+      "url": "https://github.com/backpropagation6/claude-linkedin-automation",
+      "summary": "基于Claude AI的自托管LinkedIn管理工具，包含5阶段设置向导、反检测机制和多语言支持。系统通过27天实测数据优化，提供任务审批流程和法律免责声明。",
+      "language": "Shell",
+      "stars": 17
+    },
+    {
+      "title": "Context7 自动检索技能已迁移至 benedictking-skills",
+      "repo": "BenedictKing/context7-auto-research",
+      "url": "https://github.com/BenedictKing/context7-auto-research",
+      "summary": "该技能现整合至 benedictking-skills 多技能集合，路径为 skills/context7-auto-research。可通过 gh skill install BenedictKing/benedictking-skills context7-auto-research 安装，使用 --pin v1.0.0 固定版本。旧仓库仅作兼容保留。",
+      "language": "JavaScript",
+      "stars": 16
+    },
+    {
+      "title": "5 AI顾问匿名评审 Claude Code 技能",
+      "repo": "ngmeyer/council-review",
+      "url": "https://github.com/ngmeyer/council-review",
+      "summary": "该技能将决策、代码和计划交给5位采用不同推理方法的 AI 顾问进行并行评审，随后由主席综合判定并给出报告。基于 Karpathy 的 LLM Council，已集成至 ngmeyer/skills 库。",
+      "language": "Shell",
+      "stars": 15
+    }
+  ]
+}

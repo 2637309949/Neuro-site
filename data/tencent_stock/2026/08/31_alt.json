@@ -1,0 +1,278 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T07:01:54.330017+00:00",
+  "source": "tencent_stock",
+  "count": 30,
+  "columns": [
+    {
+      "name": "股票名",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "涨跌幅",
+      "key": "change",
+      "type": "metric",
+      "directionToggle": true
+    },
+    {
+      "name": "最新价",
+      "key": "price",
+      "type": "text"
+    },
+    {
+      "name": "成交额",
+      "key": "volume",
+      "type": "metric"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "华大海天",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920288&module=hs&type=hsj",
+      "summary": "",
+      "change": "-29.67%",
+      "price": "20.05",
+      "volume": 22330
+    },
+    {
+      "title": "键凯科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688356&module=hs&type=hsj",
+      "summary": "",
+      "change": "-16.36%",
+      "price": "91.0",
+      "volume": 113995
+    },
+    {
+      "title": "经纬辉开",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300120&module=hs&type=hsj",
+      "summary": "",
+      "change": "-15.38%",
+      "price": "7.98",
+      "volume": 80784
+    },
+    {
+      "title": "*ST田野",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920023&module=hs&type=hsj",
+      "summary": "",
+      "change": "-15.05%",
+      "price": "1.58",
+      "volume": 1762
+    },
+    {
+      "title": "万邦医药",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz301520&module=hs&type=hsj",
+      "summary": "",
+      "change": "-13.81%",
+      "price": "61.29",
+      "volume": 75853
+    },
+    {
+      "title": "誉衡药业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002437&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.08%",
+      "price": "4.37",
+      "volume": 294323
+    },
+    {
+      "title": "金浦钛业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000545&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.04%",
+      "price": "2.42",
+      "volume": 4206
+    },
+    {
+      "title": "联创光电",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600363&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.01%",
+      "price": "16.37",
+      "volume": 36200
+    },
+    {
+      "title": "万里石",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002785&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.01%",
+      "price": "32.01",
+      "volume": 44419
+    },
+    {
+      "title": "开开实业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600272&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.00%",
+      "price": "18.26",
+      "volume": 57170
+    },
+    {
+      "title": "神奇制药",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600613&module=hs&type=hsj",
+      "summary": "",
+      "change": "-10.00%",
+      "price": "11.16",
+      "volume": 10807
+    },
+    {
+      "title": "汉森制药",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002412&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.98%",
+      "price": "11.82",
+      "volume": 22121
+    },
+    {
+      "title": "透景生命",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300642&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.98%",
+      "price": "16.96",
+      "volume": 51449
+    },
+    {
+      "title": "百花医药",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600721&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.97%",
+      "price": "13.9",
+      "volume": 64980
+    },
+    {
+      "title": "白银有色",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh601212&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.96%",
+      "price": "6.87",
+      "volume": 258714
+    },
+    {
+      "title": "莱绅通灵",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh603900&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.94%",
+      "price": "7.07",
+      "volume": 29864
+    },
+    {
+      "title": "ST海王",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz000078&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.94%",
+      "price": "1.45",
+      "volume": 4863
+    },
+    {
+      "title": "冀衡医药",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002742&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.94%",
+      "price": "5.62",
+      "volume": 13830
+    },
+    {
+      "title": "西点药业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz301130&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.91%",
+      "price": "30.09",
+      "volume": 31729
+    },
+    {
+      "title": "*ST四通",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh603838&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.83%",
+      "price": "11.65",
+      "volume": 6739
+    },
+    {
+      "title": "南大环境",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300864&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.73%",
+      "price": "25.04",
+      "volume": 22047
+    },
+    {
+      "title": "雅葆轩",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920357&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.53%",
+      "price": "15.38",
+      "volume": 9220
+    },
+    {
+      "title": "*ST萃华",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002731&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.41%",
+      "price": "0.77",
+      "volume": 912
+    },
+    {
+      "title": "中信博",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688408&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.09%",
+      "price": "24.09",
+      "volume": 25637
+    },
+    {
+      "title": "康希诺",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688185&module=hs&type=hsj",
+      "summary": "",
+      "change": "-9.00%",
+      "price": "75.41",
+      "volume": 94745
+    },
+    {
+      "title": "千金药业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh600479&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.85%",
+      "price": "12.15",
+      "volume": 135295
+    },
+    {
+      "title": "招商蛇口",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz001979&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.80%",
+      "price": "6.53",
+      "volume": 262758
+    },
+    {
+      "title": "曼卡龙",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300945&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.70%",
+      "price": "12.6",
+      "volume": 39040
+    },
+    {
+      "title": "葵花药业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz002737&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.40%",
+      "price": "11.89",
+      "volume": 21239
+    },
+    {
+      "title": "孚能科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688567&module=hs&type=hsj",
+      "summary": "",
+      "change": "-8.07%",
+      "price": "9.23",
+      "volume": 21624
+    }
+  ]
+}

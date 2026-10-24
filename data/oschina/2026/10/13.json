@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T07:42:09.559752+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Anthropic 公开反蒸馏防御战报：让推理记录更难被偷、捕获量降了九成",
+      "url": "https://www.oschina.net/news/502996/anthropic-distillation-defenses",
+      "summary": "Anthropic 今天发了一篇博客，讲他们怎么对付『蒸馏攻击』——一种隐蔽的、工业规模的、用大量非法账号从另一个模型批量抽取能力的做法：从更强、更...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Meta 发布 Muse Wonder，为个人和专业 Agentic 任务提供最先进性能",
+      "url": "https://www.oschina.net/news/502995/meta-ai-muse-wonder",
+      "summary": "Meta 发布了 Muse Wonder 系列——Muse Wonder 和更完整的 Muse Wonder Full，官方称这是他们『最具能力的模型』，在个人和专业 agent 任务上取得了...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "PicList v3.6.0发布 图床管理和上传工具",
+      "url": "https://www.oschina.net/news/502994",
+      "summary": "PicList 是一款高效的云存储和图床平台管理工具，基于 PicGo 深度二次开发。它在 PicGo 上传流程的基础上提供了全面的云存储管理能力和多种实用功能...",
+      "author": "萌萌哒赫萝",
+      "comments": 0
+    },
+    {
+      "title": "智谱发布 GLM-Legal 模型：基于轻量级底座、基准测试追平闭源",
+      "url": "https://www.oschina.net/news/502993/z-ai-glm-legal",
+      "summary": "智谱今天发了个叫 GLM-Legal 的模型，主打法律。官方介绍很直白：基于轻量级的 GLM-5.3-Flash 底座，在主流法律基准上追平了前沿闭源模型，专门为真...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "开源数据库管理工具 CloudDM 4.4.0 发布，新增 Kafka、SAP HANA 数据源",
+      "url": "https://www.oschina.net/news/502992",
+      "summary": "CloudDM 是一款免费且开源的团队化数据库管理工具，提供统一 Web 数据库访问、权限控制、数据脱敏、SQL 审核、流程协同和数据库 CI/CD 等能力。 新...",
+      "author": "ClouGence",
+      "comments": 0
+    },
+    {
+      "title": "GrantForge 2026.1.0 正式发布：开源统一权限管理平台，新增 HDFS、ZooKeeper、MySQL 权限控制与数据脱敏！",
+      "url": "https://www.oschina.net/news/502991",
+      "summary": "最近一直在持续开发和完善 GrantForge，今天正式发布 2026.1.0 版本！ GrantForge 是一款基于 Spring Boot、Spring Security 和 Vue 3 构建的开源权...",
+      "author": "trendforge",
+      "comments": 0
+    },
+    {
+      "title": "AI 让代码量涨了 30%，软件产出却纹丝不动 —— 瓶颈卡在人类 Code Review",
+      "url": "https://www.oschina.net/news/502990/ai-coding-agents-generate-more-code-but-not-more-software",
+      "summary": "让 AI 写代码，公司真的产出了更多软件吗？一份对超 700 家公司真实工程数据的分析给出了一个反直觉的答案：代码是多了，软件没多。哈佛的两位学者...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "openKylin走进北京理工大学：让开源学习连接社区实践",
+      "url": "https://www.oschina.net/news/502989",
+      "summary": "10月11日，2026年开放原子“校源行”北京理工大学站活动举行。本次活动由开放原子开源基金会主办、北京理工大学承办，以“聚缘于校，开源共行”为主...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "2026江苏微盟星启GEO单品牌深度解析",
+      "url": "https://www.oschina.net/news/502987",
+      "summary": "2026年10月，江苏不少企业负责人开始问同一组问题：江苏做GEO优化的头部公司，有哪些推荐？市面上报价差距不小，价格表现好的服务商该怎么挑？预算...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "DataGear 6.1.0 发布，数据可视化分析平台",
+      "url": "https://www.oschina.net/news/502985",
+      "summary": "DataGear 6.1.0 发布，功能改进和安全提升，具体更新内容如下： 新增：看板API-2.0新增dashboardFactory.createForPluginDev()函数，用于支持独立的...",
+      "author": "DataGear",
+      "comments": 0
+    },
+    {
+      "title": "DummyScheme现在支持协程",
+      "url": "https://www.oschina.net/news/502984",
+      "summary": "DummyScheme现在支持协程了，跟Lua里的coroutine一样的使用 dummyscheme是受Lua启发，一个基于寄存器式字节码虚拟机的、可移植、可嵌入的 Scheme 实...",
+      "author": "osc_2172670883",
+      "comments": 0
+    },
+    {
+      "title": "免费可商用 PHP 管理后台 CatchAdmin V5.4.1 发布，新增 MCP 支持",
+      "url": "https://www.oschina.net/news/502980",
+      "summary": "CatchAdmin 是一款基于 Laravel 13.x 和 Vue 3 二次开发的开源 PHP 后台管理系统，采用前后端分离架构，面向企业级后台场景提供开箱即用的基础能力...",
+      "author": "catchadmin",
+      "comments": 0
+    },
+    {
+      "title": "FocusAny v2.3.0 本地 AI 工具条，稳定性大扫除",
+      "url": "https://www.oschina.net/news/502979",
+      "summary": "全局搜索、插件、大模型、MCP、工作流，都收在一个快捷键呼出的面板里。v2.3.0 没有上新功能，专心做了三件事——让崩溃说得清、让界面更顺眼、让数...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "Linus 把 Claude Code 写的内核补丁推送到个人仓库",
+      "url": "https://www.oschina.net/news/502978/linus-torvalds-used-claude-code",
+      "summary": "Linus Torvalds 在自己 Linux 仓库里推了一个叫 noref-filemap-read-with-llm 的分支，后缀不是开玩笑。Torvalds 表示：『代码、测试程序、上面清...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Linux 手机的硬件瓶颈没了，剩下最大的障碍是没人愿意做",
+      "url": "https://www.oschina.net/news/502977/linux-phones-alternative",
+      "summary": "五年前，Librem 5 和 PinePhone 的发布曾让人觉得移动 Linux 终于要来了。Mrwhosetheboss 那支『Linux 智能手机会杀掉 Android 吗』的评测视频在 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "给 AI 一块 1980 年代的国产 CPU，它 5 分钟写模拟器，一个下午复现了 BASIC",
+      "url": "https://www.oschina.net/news/502976",
+      "summary": "有人让 AI 逆向了一颗国产 CPU，全程没写一行代码。微博博主 EE_Archeology 晒出全过程：主角是一块来路不明的国产单板机，最后被确认是骊山 771 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Postgres 不慢，是 EBS 拖后腿",
+      "url": "https://www.oschina.net/news/502975/postgres-isn-t-slow-your-storage-is",
+      "summary": "POSETTE 2026 上，ClickHouse 产品负责人 Sai Srirampur 发表了主题为‹Postgres Isn't Slow. Your Storage Is.›的演讲——Postgres 不慢，是你的...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "KnowForge 2026.0.9 发布：书籍分类、IndexNow 实时推送与全新上传体验",
+      "url": "https://www.oschina.net/news/502974",
+      "summary": "KnowForge 2026.0.9 正式发布。 本次更新主要围绕 内容分类、SEO、上传体验与安全性 进行了增强。 书籍分类 新增「书籍分类」插件，支持最多三级分...",
+      "author": "trendforge",
+      "comments": 0
+    },
+    {
+      "title": "如何防范“数字员工”越权风险？绿盟科技智能体安全秋季成果重磅发布",
+      "url": "https://www.oschina.net/news/502973",
+      "summary": "2026年10月12日，绿盟科技成功举办以“清风拂境·智御全域”为主题的智能体安全秋季成果发布会，全面展示了公司在AI安全防护领域的最新技术成果和实...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "LineageOS 发布十周年纪念更新：Android 17 提前落地，WebUSB 浏览器直接刷机",
+      "url": "https://www.oschina.net/news/502971/lineageos-24",
+      "summary": "LineageOS 在自家十周年前夜先发了个『有点伤感』的版本。2026 年 12 月 24 日这个项目就要满 10 岁，而刚公布的 Changelog 32 标题就叫 Getting ...",
+      "author": "局",
+      "comments": 0
+    }
+  ]
+}

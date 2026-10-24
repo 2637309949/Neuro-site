@@ -1,0 +1,279 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T13:43:02.069136+00:00",
+  "source": "huggingface",
+  "count": 30,
+  "columns": [
+    {
+      "name": "模型名",
+      "key": "model",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "下载量",
+      "key": "downloads",
+      "type": "metric",
+      "icon": "Download"
+    },
+    {
+      "name": "点赞数",
+      "key": "likes",
+      "type": "metric",
+      "icon": "Heart"
+    }
+  ],
+  "items": [
+    {
+      "title": "XHToken/Spark-X2.5-4B",
+      "model": "XHToken/Spark-X2.5-4B",
+      "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+      "summary": "Text Generation",
+      "downloads": 6,
+      "likes": 970
+    },
+    {
+      "title": "openbmb/MiniCPM5-2B",
+      "model": "openbmb/MiniCPM5-2B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "summary": "Text Generation",
+      "downloads": 6,
+      "likes": 824
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "model": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 26,
+      "likes": 14500
+    },
+    {
+      "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "model": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 7,
+      "likes": 699
+    },
+    {
+      "title": "google/timesfm-3.0-pytorch",
+      "model": "google/timesfm-3.0-pytorch",
+      "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+      "summary": "Time Series Forecasting",
+      "downloads": 7,
+      "likes": 678
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "model": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "Image-to-Video",
+      "downloads": 8,
+      "likes": 3230
+    },
+    {
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "model": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "summary": "27B",
+      "downloads": 20,
+      "likes": 3750
+    },
+    {
+      "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "model": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 1,
+      "likes": 392
+    },
+    {
+      "title": "sentence-transformers/all-MiniLM-L6-v2",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+      "summary": "Sentence Similarity",
+      "downloads": 22700000,
+      "likes": 5690
+    },
+    {
+      "title": "openai-community/gpt2",
+      "model": "openai-community/gpt2",
+      "url": "https://huggingface.co/openai-community/gpt2",
+      "summary": "Text Generation",
+      "downloads": 2024,
+      "likes": 3810
+    },
+    {
+      "title": "Qwen/Qwen3.8-Flash-Next",
+      "model": "Qwen/Qwen3.8-Flash-Next",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "summary": "Image-Text-to-Text",
+      "downloads": 13,
+      "likes": 5040
+    },
+    {
+      "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
+      "model": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
+      "url": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
+      "summary": "Text Generation",
+      "downloads": 23,
+      "likes": 345
+    },
+    {
+      "title": "OpenVDN/vdn-minimax-h3",
+      "model": "OpenVDN/vdn-minimax-h3",
+      "url": "https://huggingface.co/OpenVDN/vdn-minimax-h3",
+      "summary": "Text-to-Video",
+      "downloads": 3,
+      "likes": 268
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "model": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+      "summary": "Image-Text-to-Text",
+      "downloads": 8,
+      "likes": 838
+    },
+    {
+      "title": "IFM/K2-Horizon-MoVA-36B-A4B",
+      "model": "IFM/K2-Horizon-MoVA-36B-A4B",
+      "url": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
+      "summary": "Text Generation",
+      "downloads": 1,
+      "likes": 255
+    },
+    {
+      "title": "google-bert/bert-base-uncased",
+      "model": "google-bert/bert-base-uncased",
+      "url": "https://huggingface.co/google-bert/bert-base-uncased",
+      "summary": "Fill-Mask",
+      "downloads": 2024,
+      "likes": 3090
+    },
+    {
+      "title": "zai-org/GLM-5.3-Flash",
+      "model": "zai-org/GLM-5.3-Flash",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "summary": "Image-Text-to-Text",
+      "downloads": 2,
+      "likes": 2200
+    },
+    {
+      "title": "facebook/mms-300m",
+      "model": "facebook/mms-300m",
+      "url": "https://huggingface.co/facebook/mms-300m",
+      "summary": "Updated",
+      "downloads": 2023,
+      "likes": 340
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-H3",
+      "model": "MiniMaxAI/MiniMax-H3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "summary": "Image-Text-to-Video",
+      "downloads": 27,
+      "likes": 5080
+    },
+    {
+      "title": "openai/clip-vit-base-patch32",
+      "model": "openai/clip-vit-base-patch32",
+      "url": "https://huggingface.co/openai/clip-vit-base-patch32",
+      "summary": "Zero-Shot Image Classification",
+      "downloads": 2024,
+      "likes": 1300
+    },
+    {
+      "title": "distilbert/distilbert-base-uncased",
+      "model": "distilbert/distilbert-base-uncased",
+      "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
+      "summary": "Fill-Mask",
+      "downloads": 67000000,
+      "likes": 1240
+    },
+    {
+      "title": "zai-org/GLM-5.3",
+      "model": "zai-org/GLM-5.3",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "summary": "Text Generation",
+      "downloads": 5,
+      "likes": 1790
+    },
+    {
+      "title": "WarmBloodAban/Minimax-h3_Singularity",
+      "model": "WarmBloodAban/Minimax-h3_Singularity",
+      "url": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
+      "summary": "Image-to-Video",
+      "downloads": 3,
+      "likes": 201
+    },
+    {
+      "title": "nvidia/Qwen3.8-Flash-Next-NVFP4",
+      "model": "nvidia/Qwen3.8-Flash-Next-NVFP4",
+      "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 174
+    },
+    {
+      "title": "microsoft/VibeVoice-ASR-Streaming-7B",
+      "model": "microsoft/VibeVoice-ASR-Streaming-7B",
+      "url": "https://huggingface.co/microsoft/VibeVoice-ASR-Streaming-7B",
+      "summary": "Automatic Speech Recognition",
+      "downloads": 6,
+      "likes": 175
+    },
+    {
+      "title": "nex-agi/Nex-N2.5-mini",
+      "model": "nex-agi/Nex-N2.5-mini",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+      "summary": "Text Generation",
+      "downloads": 21,
+      "likes": 186
+    },
+    {
+      "title": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
+      "model": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
+      "url": "https://huggingface.co/Jackrong/Qwopus3.8-27B-Flash-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 169
+    },
+    {
+      "title": "BreezeBlue/Breeze-TTS-2",
+      "model": "BreezeBlue/Breeze-TTS-2",
+      "url": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+      "summary": "Text-to-Speech",
+      "downloads": 7,
+      "likes": 507
+    },
+    {
+      "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "model": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 23,
+      "likes": 1040
+    },
+    {
+      "title": "nex-agi/Nex-N2.5-Pro",
+      "model": "nex-agi/Nex-N2.5-Pro",
+      "url": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
+      "summary": "Text Generation",
+      "downloads": 21,
+      "likes": 153
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T14:08:09.691606+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How can i improve the readability and python style of certain problems?",
+      "url": "https://stackoverflow.com/questions/79999908/how-can-i-improve-the-readability-and-python-style-of-certain-problems",
+      "summary": "",
+      "tags": [
+        "python",
+        "data-structures"
+      ],
+      "author": "sai",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Extract table data from emailed HTML document using PHP 8",
+      "url": "https://stackoverflow.com/questions/79999909/extract-table-data-from-emailed-html-document-using-php-8",
+      "summary": "",
+      "tags": [
+        "advice",
+        "php",
+        "domdocument"
+      ],
+      "author": "Dennis ",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Why isn&#39;t it possible to export your whole LLM chat to a human-readable text file (e.g. markdown, MS Word)?",
+      "url": "https://stackoverflow.com/questions/79999903/why-isnt-it-possible-to-export-your-whole-llm-chat-to-a-human-readable-text-fil",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "nanitous",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Fixing messy HTML class spam and numeric character references",
+      "url": "https://stackoverflow.com/questions/79999898/fixing-messy-html-class-spam-and-numeric-character-references",
+      "summary": "",
+      "tags": [
+        "html",
+        "google-docs"
+      ],
+      "author": "Tay",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Compose testing click registration fails when doubleClick is present",
+      "url": "https://stackoverflow.com/questions/79999906/compose-testing-click-registration-fails-when-doubleclick-is-present",
+      "summary": "",
+      "tags": [
+        "unit-testing",
+        "android-jetpack-compose"
+      ],
+      "author": "KvdLingen",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to get Testcomplete test item execution status in specific format in excel/csv and send email from Jenkins",
+      "url": "https://stackoverflow.com/questions/79999905/how-to-get-testcomplete-test-item-execution-status-in-specific-format-in-excel-c",
+      "summary": "",
+      "tags": [
+        "jenkins",
+        "testcomplete"
+      ],
+      "author": "MJS",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Issue with rulegraph for v9.20",
+      "url": "https://stackoverflow.com/questions/79999901/issue-with-rulegraph-for-v9-20",
+      "summary": "",
+      "tags": [
+        "debugging",
+        "snakemake"
+      ],
+      "author": "MrBoson",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "dplyr::pick behaving differently than the deprecated dplyr::cur_data for list columns",
+      "url": "https://stackoverflow.com/questions/79999850/dplyrpick-behaving-differently-than-the-deprecated-dplyrcur-data-for-list-co",
+      "summary": "",
+      "tags": [
+        "r",
+        "dplyr"
+      ],
+      "author": "January",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "How to wait for a ValueTask to complete in a non-async method without heap allocations",
+      "url": "https://stackoverflow.com/questions/79999886/how-to-wait-for-a-valuetask-to-complete-in-a-non-async-method-without-heap-alloc",
+      "summary": "",
+      "tags": [
+        "c#",
+        "multithreading",
+        "memory-efficient",
+        "valuetask"
+      ],
+      "author": "Martin",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "React Native WebRTC local video resizes to fullscreen inside PiP after tapping PiP window on Android 14, works on Android 12",
+      "url": "https://stackoverflow.com/questions/79999888/react-native-webrtc-local-video-resizes-to-fullscreen-inside-pip-after-tapping-p",
+      "summary": "",
+      "tags": [
+        "android",
+        "react-native",
+        "webrtc",
+        "picture-in-picture",
+        "android-14"
+      ],
+      "author": "Atul Kumar Singh",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Using AWS Secrets Manager JDBC Library with DataNucleus",
+      "url": "https://stackoverflow.com/questions/79999874/using-aws-secrets-manager-jdbc-library-with-datanucleus",
+      "summary": "",
+      "tags": [
+        "jdbc",
+        "amazon-rds",
+        "datanucleus"
+      ],
+      "author": "Kees de Bruin",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Can&#39;t get virtual environment to activate from the terminal",
+      "url": "https://stackoverflow.com/questions/79999867/cant-get-virtual-environment-to-activate-from-the-terminal",
+      "summary": "",
+      "tags": [
+        "python",
+        "linux",
+        "terminal",
+        "pycharm"
+      ],
+      "author": "Shmuelt",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why is Qt6.11 RegularExpression so slow with a simple anchored match?",
+      "url": "https://stackoverflow.com/questions/79999857/why-is-qt6-11-regularexpression-so-slow-with-a-simple-anchored-match",
+      "summary": "",
+      "tags": [
+        "qt6",
+        "pcre2"
+      ],
+      "author": "Andy Bisson",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "add total value to sum items",
+      "url": "https://stackoverflow.com/questions/79999871/add-total-value-to-sum-items",
+      "summary": "",
+      "tags": [
+        "sql",
+        "oracle-database"
+      ],
+      "author": "Sean Whiting",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Workaround for HEAT5057 in a project with a space in the name",
+      "url": "https://stackoverflow.com/questions/79999870/workaround-for-heat5057-in-a-project-with-a-space-in-the-name",
+      "summary": "",
+      "tags": [
+        "wix",
+        "wix3"
+      ],
+      "author": "npr_se",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "PHP openssl_decrypt not decoding properly",
+      "url": "https://stackoverflow.com/questions/79999862/php-openssl-decrypt-not-decoding-properly",
+      "summary": "",
+      "tags": [
+        "php",
+        "encoding",
+        "decoding"
+      ],
+      "author": "Joel",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How can I quickly identify the font used on a webpage using JavaScript?",
+      "url": "https://stackoverflow.com/questions/79999849/how-can-i-quickly-identify-the-font-used-on-a-webpage-using-javascript",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "fonts"
+      ],
+      "author": "Shahbakht Khan",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "SockJS and STOMP.js in Express and React",
+      "url": "https://stackoverflow.com/questions/79999863/sockjs-and-stomp-js-in-express-and-react",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "node.js",
+        "express",
+        "websocket",
+        "sockjs"
+      ],
+      "author": "Madeh_Mohamadi",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Dedicated DevTools for Node.js shows gray screen after Chrome updated to 152",
+      "url": "https://stackoverflow.com/questions/79999848/dedicated-devtools-for-node-js-shows-gray-screen-after-chrome-updated-to-152",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "google-chrome",
+        "nestjs",
+        "devtools"
+      ],
+      "author": "luckydr",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Playwright button is not clickable",
+      "url": "https://stackoverflow.com/questions/79999782/playwright-button-is-not-clickable",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "automated-tests",
+        "playwright"
+      ],
+      "author": "Ivan",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "git add interactively, ignoring whitespace changes when selecting hunks",
+      "url": "https://stackoverflow.com/questions/79999860/git-add-interactively-ignoring-whitespace-changes-when-selecting-hunks",
+      "summary": "",
+      "tags": [
+        "git",
+        "whitespace",
+        "patch",
+        "git-commit"
+      ],
+      "author": "U. Windl",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "InternalError Metro has encountered an error: Invalid URL: node:internal/url (806:29)",
+      "url": "https://stackoverflow.com/questions/79999836/internalerror-metro-has-encountered-an-error-invalid-url-nodeinternal-url-80",
+      "summary": "",
+      "tags": [
+        "react-native",
+        "expo",
+        "bundler",
+        "metro-bundler",
+        "tslib"
+      ],
+      "author": "Nitika Kohli",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "GStreamer later version seems to mis-identify the prepare-window-handle message",
+      "url": "https://stackoverflow.com/questions/79999813/gstreamer-later-version-seems-to-mis-identify-the-prepare-window-handle-message",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-3.x",
+        "gstreamer"
+      ],
+      "author": "paxdiablo",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Looking for advice from AWS, backend, and cloud architecture experts",
+      "url": "https://stackoverflow.com/questions/79999835/looking-for-advice-from-aws-backend-and-cloud-architecture-experts",
+      "summary": "",
+      "tags": [
+        "advice",
+        "amazon-web-services",
+        "backend"
+      ],
+      "author": "Emperor",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Stateful vs sliding-window RNN for forecasting",
+      "url": "https://stackoverflow.com/questions/79999844/stateful-vs-sliding-window-rnn-for-forecasting",
+      "summary": "",
+      "tags": [
+        "advice",
+        "time-series",
+        "recurrent-neural-network",
+        "forecasting"
+      ],
+      "author": "pas-calc",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Formatting floats, and getting Argument &quot;...&quot; isn&#39;t numeric in sprintf at",
+      "url": "https://stackoverflow.com/questions/79999808/formatting-floats-and-getting-argument-isnt-numeric-in-sprintf-at",
+      "summary": "",
+      "tags": [
+        "perl"
+      ],
+      "author": "Zilore Mumba",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How to change Metadata in MediaStore Audio files / contentResolver.update always returns 0 updated",
+      "url": "https://stackoverflow.com/questions/79999846/how-to-change-metadata-in-mediastore-audio-files-contentresolver-update-always",
+      "summary": "",
+      "tags": [
+        "android",
+        "kotlin",
+        "metadata",
+        "mediastore"
+      ],
+      "author": "StuA",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "VS Code GitHub Copilot Chat: OpenTelemetry exports utility-model spans, never per-request tokens/model for the active chat model (GPT-5/Claude)",
+      "url": "https://stackoverflow.com/questions/79999831/vs-code-github-copilot-chat-opentelemetry-exports-utility-model-spans-never-pe",
+      "summary": "",
+      "tags": [
+        "vs-code",
+        "open-telemetry",
+        "github-copilot",
+        "otel"
+      ],
+      "author": "Shanmugam Natarajan",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "WooCommerce cancels pending order before Pay360 (Access PaySuite) payment callback arrives — order Cancelled but payment taken",
+      "url": "https://stackoverflow.com/questions/79999832/woocommerce-cancels-pending-order-before-pay360-access-paysuite-payment-callba",
+      "summary": "",
+      "tags": [
+        "wordpress",
+        "woocommerce",
+        "paypal",
+        "payment-gateway"
+      ],
+      "author": "DevTeam",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "IVR connectivity between branches in issabel",
+      "url": "https://stackoverflow.com/questions/79999825/ivr-connectivity-between-branches-in-issabel",
+      "summary": "",
+      "tags": [
+        "asterisk",
+        "freepbx"
+      ],
+      "author": "Mehrdad",
+      "comments": 0,
+      "score": -5
+    }
+  ]
+}

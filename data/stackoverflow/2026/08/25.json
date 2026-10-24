@@ -1,0 +1,439 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T14:01:06.012095+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Is there a way to transfer entra mfa session to another device",
+      "url": "https://stackoverflow.com/questions/79998112/is-there-a-way-to-transfer-entra-mfa-session-to-another-device",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "bunnyisblack",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "better way to make a rock paper scissor game from this?",
+      "url": "https://stackoverflow.com/questions/79998114/better-way-to-make-a-rock-paper-scissor-game-from-this",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++"
+      ],
+      "author": "ass_slapper",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "React Native CLI init --directory . fails with ENOENT: mkdir &#39;&#39; on Windows",
+      "url": "https://stackoverflow.com/questions/79998103/react-native-cli-init-directory-fails-with-enoent-mkdir-on-windows",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "windows",
+        "react-native",
+        "react-native-cli"
+      ],
+      "author": "Pritesh Thorat",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Using NamedPipes slows whole process on some CPUs",
+      "url": "https://stackoverflow.com/questions/79998117/using-namedpipes-slows-whole-process-on-some-cpus",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c#",
+        "windows",
+        "named-pipes"
+      ],
+      "author": "Sugrue",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Fix the aspect ratio of the components of a JTextPane",
+      "url": "https://stackoverflow.com/questions/79998111/fix-the-aspect-ratio-of-the-components-of-a-jtextpane",
+      "summary": "",
+      "tags": [
+        "java",
+        "swing",
+        "jtextpane"
+      ],
+      "author": "Grinding For Reputation",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Is there a tool/command that can transform a `podman run` into a podman-compose.yml?",
+      "url": "https://stackoverflow.com/questions/79998102/is-there-a-tool-command-that-can-transform-a-podman-run-into-a-podman-compose",
+      "summary": "",
+      "tags": [
+        "advice",
+        "podman",
+        "podman-compose"
+      ],
+      "author": "Spyros Mourelatos",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How do I sync my local repository to a GitHub repo?",
+      "url": "https://stackoverflow.com/questions/79998068/how-do-i-sync-my-local-repository-to-a-github-repo",
+      "summary": "",
+      "tags": [
+        "windows",
+        "git",
+        "github"
+      ],
+      "author": "SnoFitzroy",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "Ring coupler issue in Python",
+      "url": "https://stackoverflow.com/questions/79998079/ring-coupler-issue-in-python",
+      "summary": "",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "author": "HAdes",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "django.db.utils.NotSupportedError: MariaDB 10.11 or later is required (found 10.6.22)",
+      "url": "https://stackoverflow.com/questions/79998083/django-db-utils-notsupportederror-mariadb-10-11-or-later-is-required-found-10",
+      "summary": "",
+      "tags": [
+        "python",
+        "django",
+        "mariadb"
+      ],
+      "author": "Pierre",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "I need to send myself an email using Go backend + OCI Email Delivery + SMTP (Outlook)",
+      "url": "https://stackoverflow.com/questions/79998094/i-need-to-send-myself-an-email-using-go-backend-oci-email-delivery-smtp-out",
+      "summary": "",
+      "tags": [
+        "go",
+        "email",
+        "smtp",
+        "oracle-cloud-infrastructure"
+      ],
+      "author": "Lathika Devanand",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Is there a reliable way to detect if a click had a real effect when app listeners may be attached later?",
+      "url": "https://stackoverflow.com/questions/79998077/is-there-a-reliable-way-to-detect-if-a-click-had-a-real-effect-when-app-listener",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "java",
+        "spring-boot",
+        "selenium-webdriver"
+      ],
+      "author": "Leon",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "ASP.NET Core Razor Views from Azure Blob Storage are not reloading after razor view file changed",
+      "url": "https://stackoverflow.com/questions/79998090/asp-net-core-razor-views-from-azure-blob-storage-are-not-reloading-after-razor-v",
+      "summary": "",
+      "tags": [
+        "asp.net-mvc",
+        "asp.net-core",
+        "azure-blob-storage"
+      ],
+      "author": "Arvin",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to extend class based off of template parameters?",
+      "url": "https://stackoverflow.com/questions/79998005/how-to-extend-class-based-off-of-template-parameters",
+      "summary": "",
+      "tags": [
+        "c++",
+        "oop",
+        "templates",
+        "operator-overloading"
+      ],
+      "author": "Mohammed H.",
+      "comments": 3,
+      "score": 2
+    },
+    {
+      "title": "Is it possible to run a job from a running job?",
+      "url": "https://stackoverflow.com/questions/79998049/is-it-possible-to-run-a-job-from-a-running-job",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring-batch"
+      ],
+      "author": "Dan",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Stop Space-completion, but keep Tab-completion in Visual Studio Community 2026 for C++",
+      "url": "https://stackoverflow.com/questions/79998059/stop-space-completion-but-keep-tab-completion-in-visual-studio-community-2026-f",
+      "summary": "",
+      "tags": [
+        "c++",
+        "autocomplete",
+        "tab-completion",
+        "visual-studio-2026"
+      ],
+      "author": "Chris",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Access difference for HTTP request",
+      "url": "https://stackoverflow.com/questions/79998004/access-difference-for-http-request",
+      "summary": "",
+      "tags": [
+        "python",
+        "httprequest",
+        "codebeamer"
+      ],
+      "author": "user33063078",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Explanation of the Java logic behind this StringBuilder code",
+      "url": "https://stackoverflow.com/questions/79998001/explanation-of-the-java-logic-behind-this-stringbuilder-code",
+      "summary": "",
+      "tags": [
+        "java",
+        "arraylist",
+        "stringbuilder"
+      ],
+      "author": "Mo Talha",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Where are passwords stored in legacy SAP (SAP Business Warehouse)?",
+      "url": "https://stackoverflow.com/questions/79998051/where-are-passwords-stored-in-legacy-sap-sap-business-warehouse",
+      "summary": "",
+      "tags": [
+        "abap",
+        "auth0",
+        "sap-bw"
+      ],
+      "author": "erdomester",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "t3.small EC2 Instance 3/3 status checks passing but completely inaccessible via SSH or EC2 Instance Connect after stop/start",
+      "url": "https://stackoverflow.com/questions/79998056/t3-small-ec2-instance-3-3-status-checks-passing-but-completely-inaccessible-via",
+      "summary": "",
+      "tags": [
+        "amazon-web-services",
+        "ubuntu",
+        "amazon-ec2",
+        "ssh",
+        "server"
+      ],
+      "author": "Alagu sundaram",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Unable to update GCP WAF whitelisted networks",
+      "url": "https://stackoverflow.com/questions/79998058/unable-to-update-gcp-waf-whitelisted-networks",
+      "summary": "",
+      "tags": [
+        "google-cloud-platform",
+        "terraform"
+      ],
+      "author": "djsmiley2kStaysInside",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I connect a ZKTeco attendance device to Zoho People?",
+      "url": "https://stackoverflow.com/questions/79998053/how-can-i-connect-a-zkteco-attendance-device-to-zoho-people",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "zoho",
+        "zkteco"
+      ],
+      "author": "Aymera",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "PyCharm Ctrl+F / Find in current file does nothing, while Find in Files works",
+      "url": "https://stackoverflow.com/questions/79998034/pycharm-ctrlf-find-in-current-file-does-nothing-while-find-in-files-works",
+      "summary": "",
+      "tags": [
+        "pycharm"
+      ],
+      "author": "FluidMechanics Potential Flows",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Multiple jest files in a project",
+      "url": "https://stackoverflow.com/questions/79998038/multiple-jest-files-in-a-project",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "ecmascript-6",
+        "jestjs",
+        "nestjs",
+        "commonjs"
+      ],
+      "author": "C00kieMonsta",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "TallyPrime TDL: String input field is displayed but cannot be edited",
+      "url": "https://stackoverflow.com/questions/79998044/tallyprime-tdl-string-input-field-is-displayed-but-cannot-be-edited",
+      "summary": "",
+      "tags": [
+        "tally",
+        "tdl"
+      ],
+      "author": "Developer Account",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to automate simple actions with a shortcut in Safari/macOS?",
+      "url": "https://stackoverflow.com/questions/79998030/how-to-automate-simple-actions-with-a-shortcut-in-safari-macos",
+      "summary": "",
+      "tags": [
+        "macos",
+        "automation",
+        "safari"
+      ],
+      "author": "Mimosa",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Langflow custom component for Snowflake OAuth refresh_token — is there an existing solution before I build my own?",
+      "url": "https://stackoverflow.com/questions/79998015/langflow-custom-component-for-snowflake-oauth-refresh-token-is-there-an-existi",
+      "summary": "",
+      "tags": [
+        "oauth-2.0",
+        "snowflake-cloud-data-platform",
+        "model-context-protocol",
+        "langflow"
+      ],
+      "author": "Hamid Belhadj kacem",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does React re-render a component when its props haven&#39;t changed?",
+      "url": "https://stackoverflow.com/questions/79998009/why-does-react-re-render-a-component-when-its-props-havent-changed",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-hooks"
+      ],
+      "author": "Sahil Khurana",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Generic for extending value of object when object can be null",
+      "url": "https://stackoverflow.com/questions/79998012/generic-for-extending-value-of-object-when-object-can-be-null",
+      "summary": "",
+      "tags": [
+        "typescript"
+      ],
+      "author": "Florat",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "can HasAuthentication from selenium cause any network related changes",
+      "url": "https://stackoverflow.com/questions/79998003/can-hasauthentication-from-selenium-cause-any-network-related-changes",
+      "summary": "",
+      "tags": [
+        "java",
+        "google-chrome",
+        "selenium-webdriver",
+        "network-programming"
+      ],
+      "author": "Jhadtheelasainischalsatwikqame",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Background image not filling page",
+      "url": "https://stackoverflow.com/questions/79997947/background-image-not-filling-page",
+      "summary": "",
+      "tags": [
+        "css",
+        "responsive-design",
+        "menu",
+        "nav",
+        "responsive-images"
+      ],
+      "author": "spin58",
+      "comments": 1,
+      "score": 1
+    }
+  ]
+}

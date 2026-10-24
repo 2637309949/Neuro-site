@@ -1,0 +1,440 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T13:59:53.407396+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How do I decode music tracks from My Fitness Coach on Wii?",
+      "url": "https://stackoverflow.com/questions/79997792/how-do-i-decode-music-tracks-from-my-fitness-coach-on-wii",
+      "summary": "",
+      "tags": [
+        "audio",
+        "decoding"
+      ],
+      "author": "Callidus",
+      "comments": 0,
+      "score": -9
+    },
+    {
+      "title": "How to configure and use Redis OM Spring for filtering documents in a Kotlin Spring Boot application?",
+      "url": "https://stackoverflow.com/questions/79997794/how-to-configure-and-use-redis-om-spring-for-filtering-documents-in-a-kotlin-spr",
+      "summary": "",
+      "tags": [
+        "kotlin",
+        "redis-om-spring"
+      ],
+      "author": "Vasanth",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "mobile development and software",
+      "url": "https://stackoverflow.com/questions/79997800/mobile-development-and-software",
+      "summary": "",
+      "tags": [
+        "react-native",
+        "mobile"
+      ],
+      "author": "Francis-244",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How to give a font to a option in a Python tkinter.ttk Combobox?",
+      "url": "https://stackoverflow.com/questions/79997799/how-to-give-a-font-to-a-option-in-a-python-tkinter-ttk-combobox",
+      "summary": "",
+      "tags": [
+        "python",
+        "tkinter",
+        "fonts",
+        "combobox",
+        "ttk"
+      ],
+      "author": "Zeubollisk Wu",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to restrict clickable area to Button",
+      "url": "https://stackoverflow.com/questions/79997784/how-to-restrict-clickable-area-to-button",
+      "summary": "",
+      "tags": [
+        "python",
+        "html",
+        "plotly-dash"
+      ],
+      "author": "cph_sto",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "React application performance degrades as the codebase scales how should we prevent unnecessary re-renders?",
+      "url": "https://stackoverflow.com/questions/79997780/react-application-performance-degrades-as-the-codebase-scales-how-should-we-prev",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "reactjs",
+        "performance"
+      ],
+      "author": "Sahil Khurana",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How can I prevent concurrent execution of a loan recovery job in a Java/Quarkus application?",
+      "url": "https://stackoverflow.com/questions/79997786/how-can-i-prevent-concurrent-execution-of-a-loan-recovery-job-in-a-java-quarkus",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring",
+        "postgresql",
+        "spring-boot",
+        "quarkus"
+      ],
+      "author": "Taha Waleed",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Is there a good online compiler for C quadruple precision float calculations, and what sample code can be used to test it?",
+      "url": "https://stackoverflow.com/questions/79997776/is-there-a-good-online-compiler-for-c-quadruple-precision-float-calculations-an",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "c",
+        "precision",
+        "arbitrary-precision",
+        "math.h"
+      ],
+      "author": "Stephen Elliott",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "register_shutdown_function(&#39;compressImg&#39;) Uncaught ArgumentCountError: Too few arguments to function compressImg()",
+      "url": "https://stackoverflow.com/questions/79997787/register-shutdown-functioncompressimg-uncaught-argumentcounterror-too-few-a",
+      "summary": "",
+      "tags": [
+        "php"
+      ],
+      "author": "Andy McRae",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "ZkTeco custom payroll system development",
+      "url": "https://stackoverflow.com/questions/79997771/zkteco-custom-payroll-system-development",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "zkteco"
+      ],
+      "author": "Rizwan Ahmed",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "Return row numbers in Excel VBA - SQL",
+      "url": "https://stackoverflow.com/questions/79997762/return-row-numbers-in-excel-vba-sql",
+      "summary": "",
+      "tags": [
+        "excel",
+        "vba"
+      ],
+      "author": "Haluk",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to immediately return a 200 OK response to webhooks in PHP before running heavy background tasks?",
+      "url": "https://stackoverflow.com/questions/79997752/how-to-immediately-return-a-200-ok-response-to-webhooks-in-php-before-running-he",
+      "summary": "",
+      "tags": [
+        "php",
+        "webhooks"
+      ],
+      "author": "Tony Long",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Coercing pyright to understand non-None Optional values",
+      "url": "https://stackoverflow.com/questions/79997769/coercing-pyright-to-understand-non-none-optional-values",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "author": "Jason C",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Does Python&#39;s linecache read the entire file into memory and is AI reliable",
+      "url": "https://stackoverflow.com/questions/79997763/does-pythons-linecache-read-the-entire-file-into-memory-and-is-ai-reliable",
+      "summary": "",
+      "tags": [
+        "python",
+        "artificial-intelligence",
+        "linecache"
+      ],
+      "author": "F Cameron",
+      "comments": 0,
+      "score": -10
+    },
+    {
+      "title": "CMake errors building MongoDB CXX driver 4.5.0 with VS2022 under Windows",
+      "url": "https://stackoverflow.com/questions/79997768/cmake-errors-building-mongodb-cxx-driver-4-5-0-with-vs2022-under-windows",
+      "summary": "",
+      "tags": [
+        "c++",
+        "mongodb",
+        "mongo-cxx-driver"
+      ],
+      "author": "Thomas",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does the Referer header from a t.co (Twitter/X) redirect sometimes appear and sometimes not, for the same browser and device?",
+      "url": "https://stackoverflow.com/questions/79997760/why-does-the-referer-header-from-a-t-co-twitter-x-redirect-sometimes-appear-an",
+      "summary": "",
+      "tags": [
+        "http-redirect",
+        "twitter",
+        "http-referer",
+        "url-shortener"
+      ],
+      "author": "Amit",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Android Studio Gemini AI panel showing INVALID_ARGUMENT: Text part must not be empty error",
+      "url": "https://stackoverflow.com/questions/79997749/android-studio-gemini-ai-panel-showing-invalid-argument-text-part-must-not-be-e",
+      "summary": "",
+      "tags": [
+        "android-studio",
+        "intellij-idea",
+        "intellij-plugin",
+        "google-gemini"
+      ],
+      "author": "Haseeb Ur Rehman",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "XMLHttpRequest to php and fake parameters",
+      "url": "https://stackoverflow.com/questions/79997697/xmlhttprequest-to-php-and-fake-parameters",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "php",
+        "security",
+        "xmlhttprequest"
+      ],
+      "author": "Toniq",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to manage multi-device ZKTeco biometric connections on a centralized Node.js server for user and shift synchronization?",
+      "url": "https://stackoverflow.com/questions/79997745/how-to-manage-multi-device-zkteco-biometric-connections-on-a-centralized-node-js",
+      "summary": "",
+      "tags": [
+        "advice",
+        "node.js",
+        "rest",
+        "backend",
+        "zkteco"
+      ],
+      "author": "Rizwan Ahmed",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How do I prevent a recursively asynchronous value from being evaluated before it finishes becoming itself?",
+      "url": "https://stackoverflow.com/questions/79997738/how-do-i-prevent-a-recursively-asynchronous-value-from-being-evaluated-before-it",
+      "summary": "",
+      "tags": [
+        "javascript"
+      ],
+      "author": "P196hql",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Jenkins is not able to push to Docker Hub",
+      "url": "https://stackoverflow.com/questions/79997733/jenkins-is-not-able-to-push-to-docker-hub",
+      "summary": "",
+      "tags": [
+        "docker",
+        "jenkins"
+      ],
+      "author": "Houssein Droubi",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How can I reduce memory usage when processing large JSON payloads in Mule 4?",
+      "url": "https://stackoverflow.com/questions/79997692/how-can-i-reduce-memory-usage-when-processing-large-json-payloads-in-mule-4",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "mule",
+        "dataweave",
+        "mulesoft",
+        "mule4"
+      ],
+      "author": "ProwessSoft",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Class decorator with arguments using the @decorator syntax not working",
+      "url": "https://stackoverflow.com/questions/79997698/class-decorator-with-arguments-using-the-decorator-syntax-not-working",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-decorators"
+      ],
+      "author": "wolfrevo",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I solve a string ambiguity?",
+      "url": "https://stackoverflow.com/questions/79997701/how-can-i-solve-a-string-ambiguity",
+      "summary": "",
+      "tags": [
+        "java",
+        "antlr"
+      ],
+      "author": "Bob",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to connect claude to WordPress via MCP locally xampp server",
+      "url": "https://stackoverflow.com/questions/79997723/how-to-connect-claude-to-wordpress-via-mcp-locally-xampp-server",
+      "summary": "",
+      "tags": [
+        "wordpress",
+        "xampp",
+        "openai-api",
+        "claude",
+        "gemini"
+      ],
+      "author": "rehman mughal",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How to handle Talend JXLS templates in Apache Hop?",
+      "url": "https://stackoverflow.com/questions/79997731/how-to-handle-talend-jxls-templates-in-apache-hop",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "javascript"
+      ],
+      "author": "Rohini Bhondekar",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Best approach for offline data sync and conflict resolution in React Native?",
+      "url": "https://stackoverflow.com/questions/79997712/best-approach-for-offline-data-sync-and-conflict-resolution-in-react-native",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "node.js",
+        "postgresql",
+        "react-native",
+        "rest"
+      ],
+      "author": "Himanshu Pant",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does DISKANN with MAX_SIM_COSINE return a negative self-similarity score for FLOAT16 vectors in a StructArray?",
+      "url": "https://stackoverflow.com/questions/79997721/why-does-diskann-with-max-sim-cosine-return-a-negative-self-similarity-score-for",
+      "summary": "",
+      "tags": [
+        "python",
+        "cosine-similarity",
+        "milvus"
+      ],
+      "author": "Cubkm Ewaybk",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Do I need a cookie consent banner when using Microsoft Clarity on a US-focused website?",
+      "url": "https://stackoverflow.com/questions/79997726/do-i-need-a-cookie-consent-banner-when-using-microsoft-clarity-on-a-us-focused-w",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "policies",
+        "ms-clarity"
+      ],
+      "author": "Shrikant",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Move object from Box&lt;dyn Trait&lt;A&gt;&gt; to Box&lt;dyn Trait&lt;B&gt;&gt;",
+      "url": "https://stackoverflow.com/questions/79997710/move-object-from-boxdyn-traita-to-boxdyn-traitb",
+      "summary": "",
+      "tags": [
+        "generics",
+        "rust",
+        "traits"
+      ],
+      "author": "glades",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}
