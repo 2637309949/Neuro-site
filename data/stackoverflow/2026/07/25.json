@@ -1,0 +1,431 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T14:42:31.553215+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Lambda in max returns weird value",
+      "url": "https://stackoverflow.com/questions/79985837/lambda-in-max-returns-weird-value",
+      "summary": "",
+      "tags": [
+        "python",
+        "lambda"
+      ],
+      "author": "alekscooper",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Invalidate strings that contain spaces, numbers and letters, but end with space and number, with regex",
+      "url": "https://stackoverflow.com/questions/79985836/invalidate-strings-that-contain-spaces-numbers-and-letters-but-end-with-space",
+      "summary": "",
+      "tags": [
+        "php",
+        "regex",
+        "regex-lookarounds",
+        "negative-lookbehind"
+      ],
+      "author": "IgorArnaut",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "The Cloudinary image upload returns 403 when uploading a profile image with Multer and Express",
+      "url": "https://stackoverflow.com/questions/79985828/the-cloudinary-image-upload-returns-403-when-uploading-a-profile-image-with-mult",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express",
+        "prisma",
+        "cloudinary"
+      ],
+      "author": "Rupesh Choudhary",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Tailwind interferes with default button style",
+      "url": "https://stackoverflow.com/questions/79985827/tailwind-interferes-with-default-button-style",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "reactjs",
+        "next.js",
+        "tailwind-css-4"
+      ],
+      "author": "khteh",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How to use a list in a pattern in re.match",
+      "url": "https://stackoverflow.com/questions/79985798/how-to-use-a-list-in-a-pattern-in-re-match",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-re"
+      ],
+      "author": "Patypatty",
+      "comments": 2,
+      "score": -3
+    },
+    {
+      "title": "Explain the difference and similarity between two code blocks",
+      "url": "https://stackoverflow.com/questions/79985812/explain-the-difference-and-similarity-between-two-code-blocks",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "H. S. B",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "I have a working docker-compose.yaml - what specifically will kompose convert NOT carry over into production-grade Kubernetes manifests?",
+      "url": "https://stackoverflow.com/questions/79985806/i-have-a-working-docker-compose-yaml-what-specifically-will-kompose-convert-no",
+      "summary": "",
+      "tags": [
+        "docker",
+        "kubernetes"
+      ],
+      "author": "Mikhail Dorokhovich",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Powermail settings not changing in sitepackage setup?",
+      "url": "https://stackoverflow.com/questions/79985816/powermail-settings-not-changing-in-sitepackage-setup",
+      "summary": "",
+      "tags": [
+        "typo3",
+        "powermail",
+        "typo3-13.x"
+      ],
+      "author": "user500665",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Playwright Fixture Run In Order and Fixtures Options",
+      "url": "https://stackoverflow.com/questions/79985822/playwright-fixture-run-in-order-and-fixtures-options",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "playwright"
+      ],
+      "author": "Ivan",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Why do I get a syntax error &quot;Expected &#39;)&#39;&quot; from my compiler but the syntax is correct?",
+      "url": "https://stackoverflow.com/questions/79985795/why-do-i-get-a-syntax-error-expected-from-my-compiler-but-the-syntax-is-co",
+      "summary": "",
+      "tags": [
+        "parsing",
+        "debugging",
+        "programming-languages",
+        "lexer",
+        "transpiler"
+      ],
+      "author": "First Person",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "What are the most useful Node.js commands every developer should know?",
+      "url": "https://stackoverflow.com/questions/79985813/what-are-the-most-useful-node-js-commands-every-developer-should-know",
+      "summary": "",
+      "tags": [
+        "node.js"
+      ],
+      "author": "work acc",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Keeping state (connections) alive with Cloudflare workers",
+      "url": "https://stackoverflow.com/questions/79985810/keeping-state-connections-alive-with-cloudflare-workers",
+      "summary": "",
+      "tags": [
+        "cloudflare-workers"
+      ],
+      "author": "Mascarpone",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Qt QCheckBox indicator checkmark not visible with custom stylesheet",
+      "url": "https://stackoverflow.com/questions/79985805/qt-qcheckbox-indicator-checkmark-not-visible-with-custom-stylesheet",
+      "summary": "",
+      "tags": [
+        "c++",
+        "qt",
+        "qt6"
+      ],
+      "author": "Ahmad Ismail",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "PowerShell .ForEach() method",
+      "url": "https://stackoverflow.com/questions/79985820/powershell-foreach-method",
+      "summary": "",
+      "tags": [
+        "powershell"
+      ],
+      "author": "P. Wormer",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Capture and live display of system2 command in R console",
+      "url": "https://stackoverflow.com/questions/79985770/capture-and-live-display-of-system2-command-in-r-console",
+      "summary": "",
+      "tags": [
+        "r",
+        "console",
+        "system",
+        "system2"
+      ],
+      "author": "gonzalez.ivan90",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Playwright python script function waiting at book 161",
+      "url": "https://stackoverflow.com/questions/79985769/playwright-python-script-function-waiting-at-book-161",
+      "summary": "",
+      "tags": [
+        "python",
+        "web-scraping",
+        "automation",
+        "playwright",
+        "playwright-python"
+      ],
+      "author": "Asim Murtaza",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Cleaning up mattermost team edition on a second server(localhost)",
+      "url": "https://stackoverflow.com/questions/79985792/cleaning-up-mattermost-team-edition-on-a-second-serverlocalhost",
+      "summary": "",
+      "tags": [
+        "mattermost"
+      ],
+      "author": "user2338823",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Pivot Table Issue: Individual Division Entries Needed",
+      "url": "https://stackoverflow.com/questions/79985790/pivot-table-issue-individual-division-entries-needed",
+      "summary": "",
+      "tags": [
+        "powerquery"
+      ],
+      "author": "S.k",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Getting the YouTube video streaming URL",
+      "url": "https://stackoverflow.com/questions/79985778/getting-the-youtube-video-streaming-url",
+      "summary": "",
+      "tags": [
+        "server",
+        "youtube",
+        "youtube-api",
+        "youtube-iframe-api"
+      ],
+      "author": "Roman Jabbarkhel",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Should I focus on Flutter or Jetpack Compose if I already know Java, Kotlin, and Dart?",
+      "url": "https://stackoverflow.com/questions/79985765/should-i-focus-on-flutter-or-jetpack-compose-if-i-already-know-java-kotlin-and",
+      "summary": "",
+      "tags": [
+        "advice",
+        "android",
+        "flutter",
+        "kotlin",
+        "dart"
+      ],
+      "author": "Ahmad Raza",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How discretize a boundary conditions with a velocity slip and a temperature jump",
+      "url": "https://stackoverflow.com/questions/79985781/how-discretize-a-boundary-conditions-with-a-velocity-slip-and-a-temperature-jump",
+      "summary": "",
+      "tags": [
+        "matlab"
+      ],
+      "author": "yongmktoo4me",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Spring Batch 5 to Spring Batch 6 migration",
+      "url": "https://stackoverflow.com/questions/79985767/spring-batch-5-to-spring-batch-6-migration",
+      "summary": "",
+      "tags": [
+        "spring-batch"
+      ],
+      "author": "firstpostcommenter",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Error Code 1054 unknown column in &#39;field list&#39; error on MySQL without Group Concat Actor",
+      "url": "https://stackoverflow.com/questions/79985730/error-code-1054-unknown-column-in-field-list-error-on-mysql-without-group-conc",
+      "summary": "",
+      "tags": [
+        "sql",
+        "mysql",
+        "mysql-error-1054"
+      ],
+      "author": "C P CP aus K am R",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Long living asyncio.TaskGroup in python for Redis PUB/SUB",
+      "url": "https://stackoverflow.com/questions/79985755/long-living-asyncio-taskgroup-in-python-for-redis-pub-sub",
+      "summary": "",
+      "tags": [
+        "python",
+        "redis",
+        "concurrency",
+        "python-asyncio",
+        "publish-subscribe"
+      ],
+      "author": "madjetmax",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Kamal deploy SQLite error on start: unable to open database file",
+      "url": "https://stackoverflow.com/questions/79985753/kamal-deploy-sqlite-error-on-start-unable-to-open-database-file",
+      "summary": "",
+      "tags": [
+        "ruby-on-rails",
+        "sqlite",
+        "kamal"
+      ],
+      "author": "RedBassett",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "GitLab Closes keyword closes cross-project issue but does not show &quot;closed with commit&quot; reference",
+      "url": "https://stackoverflow.com/questions/79985758/gitlab-closes-keyword-closes-cross-project-issue-but-does-not-show-closed-with",
+      "summary": "",
+      "tags": [
+        "git",
+        "gitlab",
+        "gitlab-api",
+        "gitlab-ce"
+      ],
+      "author": "user16789193",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to find the position of a path of coordinate points where the average difference between it and another path of a similar shape is the lowest?",
+      "url": "https://stackoverflow.com/questions/79985711/how-to-find-the-position-of-a-path-of-coordinate-points-where-the-average-differ",
+      "summary": "",
+      "tags": [
+        "python",
+        "micropython"
+      ],
+      "author": "Hardy",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "mmap() rejects too small a mapped area",
+      "url": "https://stackoverflow.com/questions/79985713/mmap-rejects-too-small-a-mapped-area",
+      "summary": "",
+      "tags": [
+        "c",
+        "mmap"
+      ],
+      "author": "user32956912",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": ".NET MAUI build fails with &quot;error AMM0000&quot; manifest merger errors after adding Google Play Billing",
+      "url": "https://stackoverflow.com/questions/79985657/net-maui-build-fails-with-error-amm0000-manifest-merger-errors-after-adding-g",
+      "summary": "",
+      "tags": [
+        "android",
+        "maui",
+        "google-play-billing"
+      ],
+      "author": "Steve Dornan",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Read and display milliseconds",
+      "url": "https://stackoverflow.com/questions/79985644/read-and-display-milliseconds",
+      "summary": "",
+      "tags": [
+        "r",
+        "datetime",
+        "lubridate",
+        "readr"
+      ],
+      "author": "Denis Cousineau",
+      "comments": 1,
+      "score": 4
+    }
+  ]
+}

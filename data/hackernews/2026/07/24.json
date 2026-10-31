@@ -1,0 +1,280 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T15:06:12.346388+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "summary": "",
+      "author": "dwwoelfel",
+      "comments": 628,
+      "score": 1387
+    },
+    {
+      "title": "Flux 3",
+      "url": "https://bfl.ai/blog/flux-3",
+      "summary": "",
+      "author": "ThouYS",
+      "comments": 112,
+      "score": 455
+    },
+    {
+      "title": "I regret migrating to Codeberg",
+      "url": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/",
+      "summary": "",
+      "author": "boramalper",
+      "comments": 354,
+      "score": 442
+    },
+    {
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "summary": "",
+      "author": "adam_rida",
+      "comments": 209,
+      "score": 427
+    },
+    {
+      "title": "It's getting harder to focus every day",
+      "url": "https://glyphack.com/attention/",
+      "summary": "",
+      "author": "peykar",
+      "comments": 214,
+      "score": 410
+    },
+    {
+      "title": "Nothing works and everyone is euphoric",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "summary": "",
+      "author": "pchm",
+      "comments": 200,
+      "score": 244
+    },
+    {
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "summary": "",
+      "author": "kensai",
+      "comments": 29,
+      "score": 228
+    },
+    {
+      "title": "Claude Cookbook",
+      "url": "https://platform.claude.com/cookbook/",
+      "summary": "",
+      "author": "saikatsg",
+      "comments": 99,
+      "score": 203
+    },
+    {
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "summary": "",
+      "author": "hhh",
+      "comments": 56,
+      "score": 162
+    },
+    {
+      "title": "Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",
+      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+      "summary": "",
+      "author": "kristoff_it",
+      "comments": 106,
+      "score": 144
+    },
+    {
+      "title": "Em dashes are fucking amazing",
+      "url": "https://psychotechnology.substack.com/p/em-dashes-are-fucking-amazing",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 114,
+      "score": 131
+    },
+    {
+      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "summary": "",
+      "author": "sohkamyung",
+      "comments": 32,
+      "score": 131
+    },
+    {
+      "title": "Hetzner is working on LLM Inference",
+      "url": "https://sliplane.io/blog/hetzner-inference",
+      "summary": "",
+      "author": "jonas_scholz",
+      "comments": 50,
+      "score": 123
+    },
+    {
+      "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "summary": "",
+      "author": "thisislife2",
+      "comments": 52,
+      "score": 116
+    },
+    {
+      "title": "AMD's Instinct MI455X: Aiming for the Sun",
+      "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+      "summary": "",
+      "author": "ingve",
+      "comments": 25,
+      "score": 61
+    },
+    {
+      "title": "How Do We Stop Vibe Coding?",
+      "url": "https://alexklos.ca/blog/how-do-we-stop-vibe-coding",
+      "summary": "",
+      "author": "prohobo",
+      "comments": 36,
+      "score": 47
+    },
+    {
+      "title": "The Book Prize Index",
+      "url": "https://book-prize-index.vercel.app",
+      "summary": "",
+      "author": "Luc",
+      "comments": 4,
+      "score": 43
+    },
+    {
+      "title": "The IBM PC, Part 1: Arrival",
+      "url": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
+      "summary": "",
+      "author": "cfmcdonald",
+      "comments": 10,
+      "score": 40
+    },
+    {
+      "title": "Game of Trees – Git-based version control from OpenBSD folks",
+      "url": "https://www.gameoftrees.org/",
+      "summary": "",
+      "author": "gregnavis",
+      "comments": 3,
+      "score": 36
+    },
+    {
+      "title": "Open Weights and American AI Leadership [pdf]",
+      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+      "summary": "",
+      "author": "lairv",
+      "comments": 12,
+      "score": 35
+    },
+    {
+      "title": "Computational chemistry, Locally? My rant on SSH",
+      "url": "https://chillphysicsenjoyer.substack.com/p/computational-chemistry-locally",
+      "summary": "",
+      "author": "crescit_eundo",
+      "comments": 23,
+      "score": 34
+    },
+    {
+      "title": "Why is programming so captivating, yet so agonizing?",
+      "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
+      "summary": "",
+      "author": "ilreb",
+      "comments": 25,
+      "score": 32
+    },
+    {
+      "title": "Half-Life 2 running natively on HaikuOS",
+      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+      "summary": "",
+      "author": "m0do1",
+      "comments": 0,
+      "score": 13
+    },
+    {
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "summary": "",
+      "author": "mooreds",
+      "comments": 0,
+      "score": 13
+    },
+    {
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "summary": "",
+      "author": "ahlCVA",
+      "comments": 1,
+      "score": 12
+    },
+    {
+      "title": "3GPP Version 19",
+      "url": "https://www.3gpp.org/specifications-technologies/releases/release-19",
+      "summary": "",
+      "author": "mlhpdx",
+      "comments": 2,
+      "score": 11
+    },
+    {
+      "title": "Kaizen #4: Overhauled Homelab",
+      "url": "https://timharek.no/blog/kaizen-4/",
+      "summary": "",
+      "author": "meysamazad",
+      "comments": 2,
+      "score": 11
+    },
+    {
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "summary": "",
+      "author": "dimastopel",
+      "comments": 1,
+      "score": 9
+    },
+    {
+      "title": "Making your JITted Code known: Let me count the ways",
+      "url": "https://wakelift.de/2026/03/09/making-your-jitted-code-known-let-me-count-the-ways/",
+      "summary": "",
+      "author": "lizmat",
+      "comments": 1,
+      "score": 9
+    },
+    {
+      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
+      "url": "https://github.com/lateos-ai/npm-scan",
+      "summary": "",
+      "author": "lateos-ai",
+      "comments": 0,
+      "score": 9
+    }
+  ]
+}

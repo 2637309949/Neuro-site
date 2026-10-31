@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T07:20:08.054575+00:00",
+  "source": "huggingface",
+  "count": 30,
+  "columns": [
+    {
+      "name": "模型名",
+      "key": "model",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "下载量",
+      "key": "downloads",
+      "type": "metric",
+      "icon": "Download"
+    },
+    {
+      "name": "点赞数",
+      "key": "likes",
+      "type": "metric",
+      "icon": "Heart"
+    }
+  ],
+  "items": [
+    {
+      "title": "google/embeddinggemma-2",
+      "model": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "summary": "Feature Extraction",
+      "downloads": 6,
+      "likes": 1780
+    },
+    {
+      "title": "jialinyyzz/humanizer",
+      "model": "jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "summary": "Text Generation",
+      "downloads": 3,
+      "likes": 1160
+    },
+    {
+      "title": "Cloudflare/clef",
+      "model": "Cloudflare/clef",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "summary": "Image-Text-to-Text",
+      "downloads": 3,
+      "likes": 2040
+    },
+    {
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "model": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "summary": "Text-to-Image",
+      "downloads": 9,
+      "likes": 4019
+    },
+    {
+      "title": "Qwen/Qwen-Image-2.1-Turbo",
+      "model": "Qwen/Qwen-Image-2.1-Turbo",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "summary": "Text-to-Image",
+      "downloads": 3,
+      "likes": 569
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "model": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "Image-to-Video",
+      "downloads": 1,
+      "likes": 7350
+    },
+    {
+      "title": "Aleph-Alpha/Kolibri-1",
+      "model": "Aleph-Alpha/Kolibri-1",
+      "url": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+      "summary": "Text Generation",
+      "downloads": 9,
+      "likes": 898
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "model": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 14,
+      "likes": 17500
+    },
+    {
+      "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "model": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+      "summary": "Text Generation",
+      "downloads": 1,
+      "likes": 338
+    },
+    {
+      "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+      "model": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+      "url": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
+      "summary": "Text Generation",
+      "downloads": 18,
+      "likes": 700
+    },
+    {
+      "title": "canberkkkkkk/ema-lightning",
+      "model": "canberkkkkkk/ema-lightning",
+      "url": "https://huggingface.co/canberkkkkkk/ema-lightning",
+      "summary": "Text-to-Speech",
+      "downloads": 5,
+      "likes": 367
+    },
+    {
+      "title": "LiquidAI/d1-3B",
+      "model": "LiquidAI/d1-3B",
+      "url": "https://huggingface.co/LiquidAI/d1-3B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 314
+    },
+    {
+      "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "model": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "url": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "summary": "Text-to-Image",
+      "downloads": 2,
+      "likes": 345
+    },
+    {
+      "title": "Cloudflare/clef-flash",
+      "model": "Cloudflare/clef-flash",
+      "url": "https://huggingface.co/Cloudflare/clef-flash",
+      "summary": "Image-Text-to-Text",
+      "downloads": 3,
+      "likes": 769
+    },
+    {
+      "title": "convaiinnovations/laya",
+      "model": "convaiinnovations/laya",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "summary": "Text Classification",
+      "downloads": 9,
+      "likes": 5500
+    },
+    {
+      "title": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+      "model": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+      "url": "https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+      "summary": "Image-Text-to-Text",
+      "downloads": 16,
+      "likes": 255
+    },
+    {
+      "title": "unsloth/embeddinggemma-2-GGUF",
+      "model": "unsloth/embeddinggemma-2-GGUF",
+      "url": "https://huggingface.co/unsloth/embeddinggemma-2-GGUF",
+      "summary": "Feature Extraction",
+      "downloads": 5,
+      "likes": 269
+    },
+    {
+      "title": "Cactus-Compute/whistle",
+      "model": "Cactus-Compute/whistle",
+      "url": "https://huggingface.co/Cactus-Compute/whistle",
+      "summary": "Automatic Speech Recognition",
+      "downloads": 2,
+      "likes": 347
+    },
+    {
+      "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "model": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 13,
+      "likes": 808
+    },
+    {
+      "title": "Qwen/Qwen-Image-2.1",
+      "model": "Qwen/Qwen-Image-2.1",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "summary": "Text-to-Image",
+      "downloads": 12,
+      "likes": 3240
+    },
+    {
+      "title": "speridlabs/iris-3b",
+      "model": "speridlabs/iris-3b",
+      "url": "https://huggingface.co/speridlabs/iris-3b",
+      "summary": "Text-to-Image",
+      "downloads": 4,
+      "likes": 171
+    },
+    {
+      "title": "FrancisRing/Prism",
+      "model": "FrancisRing/Prism",
+      "url": "https://huggingface.co/FrancisRing/Prism",
+      "summary": "Image-to-Video",
+      "downloads": 6,
+      "likes": 172
+    },
+    {
+      "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "model": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 17,
+      "likes": 1670
+    },
+    {
+      "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "model": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 2,
+      "likes": 2160
+    },
+    {
+      "title": "Qwen/Qwen3.8-Flash-Next",
+      "model": "Qwen/Qwen3.8-Flash-Next",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "summary": "Image-Text-to-Text",
+      "downloads": 27,
+      "likes": 6120
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "model": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "summary": "Image-Text-to-Text",
+      "downloads": 11,
+      "likes": 4380
+    },
+    {
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "model": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "summary": "Text Generation",
+      "downloads": 16,
+      "likes": 2640
+    },
+    {
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "model": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "summary": "27B",
+      "downloads": 20,
+      "likes": 5040
+    },
+    {
+      "title": "facebook/sam3",
+      "model": "facebook/sam3",
+      "url": "https://huggingface.co/facebook/sam3",
+      "summary": "Mask Generation",
+      "downloads": 2025,
+      "likes": 4090
+    },
+    {
+      "title": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "model": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 774
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T11:11:00.006964+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "What is the correct QML way to use outer components in nested components?",
+      "url": "https://stackoverflow.com/questions/79998628/what-is-the-correct-qml-way-to-use-outer-components-in-nested-components",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "qml"
+      ],
+      "author": "Rabter",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to get authorization code for Spotify API?",
+      "url": "https://stackoverflow.com/questions/79998618/how-to-get-authorization-code-for-spotify-api",
+      "summary": "",
+      "tags": [
+        "python",
+        "spotify"
+      ],
+      "author": "ludovico",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Navigate to class viewed in Quick Documentation",
+      "url": "https://stackoverflow.com/questions/79998622/navigate-to-class-viewed-in-quick-documentation",
+      "summary": "",
+      "tags": [
+        "intellij-idea"
+      ],
+      "author": "Mathias",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to get rid of the error message while forcing pushing something in a TFS Git repository?",
+      "url": "https://stackoverflow.com/questions/79998606/how-to-get-rid-of-the-error-message-while-forcing-pushing-something-in-a-tfs-git",
+      "summary": "",
+      "tags": [
+        "git",
+        "azure-devops",
+        "azure-devops-server"
+      ],
+      "author": "Dominique",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Meta Lead-Ads-Testing-Tool Webhook stuck on &quot;Pending&quot; - Meta never sends POST to my webhook/server",
+      "url": "https://stackoverflow.com/questions/79998619/meta-lead-ads-testing-tool-webhook-stuck-on-pending-meta-never-sends-post-to",
+      "summary": "",
+      "tags": [
+        "facebook-graph-api",
+        "dynamics-crm",
+        "crm",
+        "facebook-ads-api",
+        "facebook-webhooks"
+      ],
+      "author": "eslam wael",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Run two APIs in parallel and get the first value with Spring Reactive",
+      "url": "https://stackoverflow.com/questions/79998611/run-two-apis-in-parallel-and-get-the-first-value-with-spring-reactive",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring-webflux",
+        "project-reactor",
+        "reactive"
+      ],
+      "author": "Gabriela83",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "git and file timestamps",
+      "url": "https://stackoverflow.com/questions/79998609/git-and-file-timestamps",
+      "summary": "",
+      "tags": [
+        "advice",
+        "best-practices",
+        "tooling-recommendation",
+        "git"
+      ],
+      "author": "raj",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Why does export-data ignore -dt true for a tree-model CSV header in Apache IoTDB 2.0.8?",
+      "url": "https://stackoverflow.com/questions/79998615/why-does-export-data-ignore-dt-true-for-a-tree-model-csv-header-in-apache-iotdb",
+      "summary": "",
+      "tags": [
+        "csv",
+        "apache-iotdb",
+        "data-export"
+      ],
+      "author": "Ethan Vale",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "FastAPI Form() with List[Type] sends array as comma-separated string (&quot;2,5&quot;) causing 422 parsing error in Swagger UI",
+      "url": "https://stackoverflow.com/questions/79998604/fastapi-form-with-listtype-sends-array-as-comma-separated-string-2-5-cau",
+      "summary": "",
+      "tags": [
+        "python",
+        "swagger",
+        "fastapi",
+        "swagger-ui",
+        "pydantic"
+      ],
+      "author": "buzzbuzz20xx",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Timestamp ordering and cursor pagination with 13-digit Unix timestamps",
+      "url": "https://stackoverflow.com/questions/79998608/timestamp-ordering-and-cursor-pagination-with-13-digit-unix-timestamps",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "postgresql",
+        "apollo-server"
+      ],
+      "author": "erkanunluturk",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does NTILE(-1) put every maintenance score in bucket 1?",
+      "url": "https://stackoverflow.com/questions/79998551/why-does-ntile-1-put-every-maintenance-score-in-bucket-1",
+      "summary": "",
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ],
+      "author": "Ethan Vale",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "On a Zod4 codec, how can I add additional checks",
+      "url": "https://stackoverflow.com/questions/79998589/on-a-zod4-codec-how-can-i-add-additional-checks",
+      "summary": "",
+      "tags": [
+        "codec",
+        "zod"
+      ],
+      "author": "dschulten",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "`position: fixed` header is displayed incorrectly in Telegram WebView on iOS",
+      "url": "https://stackoverflow.com/questions/79998594/position-fixed-header-is-displayed-incorrectly-in-telegram-webview-on-ios",
+      "summary": "",
+      "tags": [
+        "css",
+        "header",
+        "telegram"
+      ],
+      "author": "YaTytMolodoY",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Using Int Array Reference",
+      "url": "https://stackoverflow.com/questions/79998518/using-int-array-reference",
+      "summary": "",
+      "tags": [
+        "javascript"
+      ],
+      "author": "ThisStatementIsALie",
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "title": "Posts API returns empty-body 403 for self-serve app with valid w_member_social — personal profile posting",
+      "url": "https://stackoverflow.com/questions/79998573/posts-api-returns-empty-body-403-for-self-serve-app-with-valid-w-member-social",
+      "summary": "",
+      "tags": [
+        "oauth-2.0",
+        "linkedin-api",
+        "n8n"
+      ],
+      "author": "esskay",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "In the C expression x = x + 1, does the left-hand sub-expression x undergo evaluation?",
+      "url": "https://stackoverflow.com/questions/79998539/in-the-c-expression-x-x-1-does-the-left-hand-sub-expression-x-undergo-evalu",
+      "summary": "",
+      "tags": [
+        "c"
+      ],
+      "author": "Hello_C",
+      "comments": 2,
+      "score": -4
+    },
+    {
+      "title": "Why does the typing break when I split one operation into two?",
+      "url": "https://stackoverflow.com/questions/79998534/why-does-the-typing-break-when-i-split-one-operation-into-two",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-typing",
+        "pylance"
+      ],
+      "author": "iamthebull",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Sub-query - Error due to insufficient parentheses",
+      "url": "https://stackoverflow.com/questions/79998566/sub-query-error-due-to-insufficient-parentheses",
+      "summary": "",
+      "tags": [
+        "sql",
+        "google-bigquery"
+      ],
+      "author": "APL056113",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Unable to Create Cloud Billing Account — OR_BACR2_31",
+      "url": "https://stackoverflow.com/questions/79998556/unable-to-create-cloud-billing-account-or-bacr2-31",
+      "summary": "",
+      "tags": [
+        "google-cloud-platform",
+        "cloud",
+        "billing"
+      ],
+      "author": "Samina Kukab",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Implementing generic polymorphism in C using union-pointer casting: approach and correctness",
+      "url": "https://stackoverflow.com/questions/79998549/implementing-generic-polymorphism-in-c-using-union-pointer-casting-approach-and",
+      "summary": "",
+      "tags": [
+        "c",
+        "pointers",
+        "union",
+        "undefined-behavior",
+        "strict-aliasing"
+      ],
+      "author": "Nick T",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Personalized Page rank with weighted nodes",
+      "url": "https://stackoverflow.com/questions/79998564/personalized-page-rank-with-weighted-nodes",
+      "summary": "",
+      "tags": [
+        "advice",
+        "math",
+        "pagerank"
+      ],
+      "author": "Caroline",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Meta Lead-Ads-Testing-Tool Webhook stuck on &quot;Pending&quot; — Graph API works, but Meta never sends POST to my webhook",
+      "url": "https://stackoverflow.com/questions/79998515/meta-lead-ads-testing-tool-webhook-stuck-on-pending-graph-api-works-but-met",
+      "summary": "",
+      "tags": [
+        "facebook-graph-api",
+        "dynamics-crm",
+        "crm",
+        "facebook-ads-api",
+        "facebook-webhooks"
+      ],
+      "author": "eslam wael",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Kubernetes/RKE2: New worker nodes get ImagePullBackOff and unexpected EOF from private registry",
+      "url": "https://stackoverflow.com/questions/79998545/kubernetes-rke2-new-worker-nodes-get-imagepullbackoff-and-unexpected-eof-from-p",
+      "summary": "",
+      "tags": [
+        "devops",
+        "rancher",
+        "rke2"
+      ],
+      "author": "Sumitra Ghimire",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "I need something like digital signature",
+      "url": "https://stackoverflow.com/questions/79998536/i-need-something-like-digital-signature",
+      "summary": "",
+      "tags": [
+        "laravel",
+        "vue.js",
+        "authentication"
+      ],
+      "author": "Farhad",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Azure Pipeline: how to separate 2 environments for testing?",
+      "url": "https://stackoverflow.com/questions/79998537/azure-pipeline-how-to-separate-2-environments-for-testing",
+      "summary": "",
+      "tags": [
+        "advice",
+        "azure-devops",
+        "azure-pipelines"
+      ],
+      "author": "TriNguyen",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "DeepSeek Harness stuck after successful installation",
+      "url": "https://stackoverflow.com/questions/79998538/deepseek-harness-stuck-after-successful-installation",
+      "summary": "",
+      "tags": [
+        "deepseek",
+        "harness"
+      ],
+      "author": "okaeiz",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How to hide details of PHP error from Wordpress REST API response",
+      "url": "https://stackoverflow.com/questions/79998531/how-to-hide-details-of-php-error-from-wordpress-rest-api-response",
+      "summary": "",
+      "tags": [
+        "php",
+        "error-handling",
+        "wordpress-rest-api"
+      ],
+      "author": "flymike",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Text centered next to the image header",
+      "url": "https://stackoverflow.com/questions/79998525/text-centered-next-to-the-image-header",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "class",
+        "header",
+        "headertext"
+      ],
+      "author": "spin58",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Using std::start_lifetime_as multiple times with the same source object",
+      "url": "https://stackoverflow.com/questions/79998366/using-stdstart-lifetime-as-multiple-times-with-the-same-source-object",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++23"
+      ],
+      "author": "Dmitriano",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "&quot;zsh: segmentation fault&quot; error using PyQt6 and MacBook",
+      "url": "https://stackoverflow.com/questions/79998448/zsh-segmentation-fault-error-using-pyqt6-and-macbook",
+      "summary": "",
+      "tags": [
+        "python",
+        "macos",
+        "pyqt"
+      ],
+      "author": "Lorenzo Gurrola",
+      "comments": 1,
+      "score": 1
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T06:58:40.986100+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How can we implement timeouts with C++26 std::executuin?",
+      "url": "https://stackoverflow.com/questions/80007921/how-can-we-implement-timeouts-with-c26-stdexecutuin",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++26",
+        "stdexecution"
+      ],
+      "author": "paxdiablo",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Find type of a value in Rhombus",
+      "url": "https://stackoverflow.com/questions/80007919/find-type-of-a-value-in-rhombus",
+      "summary": "",
+      "tags": [
+        "rhombus"
+      ],
+      "author": "vinipsmaker",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Eclipse Link with Java 25",
+      "url": "https://stackoverflow.com/questions/80007908/eclipse-link-with-java-25",
+      "summary": "",
+      "tags": [
+        "advice",
+        "java",
+        "eclipse"
+      ],
+      "author": "cyberpunk",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "ModuleNotFoundError: No module named &#39;nubra_sdk&#39; after pip install nubra-sdk",
+      "url": "https://stackoverflow.com/questions/80007904/modulenotfounderror-no-module-named-nubra-sdk-after-pip-install-nubra-sdk",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "author": "Naira",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to pass dependencies using interfaces while retaining functionality?",
+      "url": "https://stackoverflow.com/questions/80007896/how-to-pass-dependencies-using-interfaces-while-retaining-functionality",
+      "summary": "",
+      "tags": [
+        "c#",
+        "dependency-injection",
+        "interface"
+      ],
+      "author": "Hooplator15",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "GitHub Copilot Agent in VS Code Insiders executes commands without asking for permission (Allow/Deny)",
+      "url": "https://stackoverflow.com/questions/80007892/github-copilot-agent-in-vs-code-insiders-executes-commands-without-asking-for-pe",
+      "summary": "",
+      "tags": [
+        "github-copilot",
+        "visual-studio-code-insiders"
+      ],
+      "author": "abdou93",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Day by day tickets and sales per POS",
+      "url": "https://stackoverflow.com/questions/80007878/day-by-day-tickets-and-sales-per-pos",
+      "summary": "",
+      "tags": [
+        "sql",
+        "sql-server",
+        "pivot-table"
+      ],
+      "author": "Lemi",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Why do RMWs require flushing of write buffer in TSO?",
+      "url": "https://stackoverflow.com/questions/80007850/why-do-rmws-require-flushing-of-write-buffer-in-tso",
+      "summary": "",
+      "tags": [
+        "x86",
+        "cpu-architecture",
+        "atomic",
+        "memory-barriers"
+      ],
+      "author": "angrybrok",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Drag and Drop list, populated from database, and save the new list in a table",
+      "url": "https://stackoverflow.com/questions/80007885/drag-and-drop-list-populated-from-database-and-save-the-new-list-in-a-table",
+      "summary": "",
+      "tags": [
+        "c#",
+        "drag-and-drop"
+      ],
+      "author": "Johnny Bones",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How does one implement nested LEFT JOIN in &quot;old style joins&quot; on SQL Server 4.2",
+      "url": "https://stackoverflow.com/questions/80007870/how-does-one-implement-nested-left-join-in-old-style-joins-on-sql-server-4-2",
+      "summary": "",
+      "tags": [
+        "sql-server",
+        "left-join"
+      ],
+      "author": "siggemannen",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "Match the beginning and end of a word that has &quot;-&quot;",
+      "url": "https://stackoverflow.com/questions/80007833/match-the-beginning-and-end-of-a-word-that-has",
+      "summary": "",
+      "tags": [
+        "vim"
+      ],
+      "author": "SasukeRenegado",
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "title": "Why do the pointer-to-member operators have lower precedence than their counterpart?",
+      "url": "https://stackoverflow.com/questions/80007784/why-do-the-pointer-to-member-operators-have-lower-precedence-than-their-counterp",
+      "summary": "",
+      "tags": [
+        "c++",
+        "syntax",
+        "operator-precedence",
+        "language-design",
+        "pointer-to-member"
+      ],
+      "author": "eyelash",
+      "comments": 1,
+      "score": 6
+    },
+    {
+      "title": "NVCC 9 + GCC 6.5.0 having trouble with __int128 and __s128 - can I circumvent this?",
+      "url": "https://stackoverflow.com/questions/80007868/nvcc-9-gcc-6-5-0-having-trouble-with-int128-and-s128-can-i-circumvent-th",
+      "summary": "",
+      "tags": [
+        "c++",
+        "gcc",
+        "compiler-errors",
+        "nvcc",
+        "int128"
+      ],
+      "author": "einpoklum",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Is there any useful pattern when coding with erlang?",
+      "url": "https://stackoverflow.com/questions/80007876/is-there-any-useful-pattern-when-coding-with-erlang",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "erlang"
+      ],
+      "author": "M landry",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Need to integrate ChatGPT business account as an app in my Google for Non Profit account",
+      "url": "https://stackoverflow.com/questions/80007858/need-to-integrate-chatgpt-business-account-as-an-app-in-my-google-for-non-profit",
+      "summary": "",
+      "tags": [
+        "openai-api",
+        "google-business"
+      ],
+      "author": "Valerie Williams",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "How does an MCP client discover tools from an MCP server?",
+      "url": "https://stackoverflow.com/questions/80007857/how-does-an-mcp-client-discover-tools-from-an-mcp-server",
+      "summary": "",
+      "tags": [
+        "rest",
+        "http",
+        "agent",
+        "model-context-protocol"
+      ],
+      "author": "Sadat",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Avoiding memory aliasing errors in R",
+      "url": "https://stackoverflow.com/questions/80007854/avoiding-memory-aliasing-errors-in-r",
+      "summary": "",
+      "tags": [
+        "advice",
+        "r",
+        "memory",
+        "alias"
+      ],
+      "author": "marcus",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Using the index # of one array to call the index # of another array",
+      "url": "https://stackoverflow.com/questions/80007775/using-the-index-of-one-array-to-call-the-index-of-another-array",
+      "summary": "",
+      "tags": [
+        "c#",
+        "arrays",
+        "indexing",
+        "morse-code"
+      ],
+      "author": "RedRuustr",
+      "comments": 4,
+      "score": 3
+    },
+    {
+      "title": "Canonicalising unit names from a flat file in a normalised database structure",
+      "url": "https://stackoverflow.com/questions/80007765/canonicalising-unit-names-from-a-flat-file-in-a-normalised-database-structure",
+      "summary": "",
+      "tags": [
+        "sql",
+        "postgresql",
+        "database-design",
+        "database-normalization",
+        "surrogate-key"
+      ],
+      "author": "WatcherOfAll",
+      "comments": 3,
+      "score": 2
+    },
+    {
+      "title": "I&#39;m trying to get started with Flutter, but I keep running into errors",
+      "url": "https://stackoverflow.com/questions/80007843/im-trying-to-get-started-with-flutter-but-i-keep-running-into-errors",
+      "summary": "",
+      "tags": [
+        "flutter"
+      ],
+      "author": "신민경",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "What should I do when a REST request times out but the operation may still be running?",
+      "url": "https://stackoverflow.com/questions/80007732/what-should-i-do-when-a-rest-request-times-out-but-the-operation-may-still-be-ru",
+      "summary": "",
+      "tags": [
+        "advice",
+        "java",
+        "spring-boot",
+        "rest",
+        "distributed-system"
+      ],
+      "author": "Aaqibhafeez Khan",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "SwiftUI zoom swipe-back briefly hides the large title and leaves the destination toolbar visible",
+      "url": "https://stackoverflow.com/questions/80007851/swiftui-zoom-swipe-back-briefly-hides-the-large-title-and-leaves-the-destination",
+      "summary": "",
+      "tags": [
+        "ios",
+        "swift",
+        "swiftui",
+        "swiftui-navigationstack"
+      ],
+      "author": "Adel",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Searching for PDFs with fixed page range on the internet",
+      "url": "https://stackoverflow.com/questions/80007848/searching-for-pdfs-with-fixed-page-range-on-the-internet",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "google-chrome",
+        "pdf",
+        "search"
+      ],
+      "author": "user33183303",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "ASP.NET can&#39;t send PATCH request via Visual Studio 2025",
+      "url": "https://stackoverflow.com/questions/80007842/asp-net-cant-send-patch-request-via-visual-studio-2025",
+      "summary": "",
+      "tags": [
+        "c#",
+        "asp.net",
+        "http-headers",
+        "crud",
+        "webapi"
+      ],
+      "author": "Daniel Vihorev",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to name a string variable inside a \\foreach loop using the loop variable",
+      "url": "https://stackoverflow.com/questions/80007839/how-to-name-a-string-variable-inside-a-foreach-loop-using-the-loop-variable",
+      "summary": "",
+      "tags": [
+        "pdflatex",
+        "pgfplots",
+        "texworks"
+      ],
+      "author": "Plum Rapson",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Avoid `zoo:na.fill(x, &quot;extend&quot;)` error: need at least two non-NA values to interpolate",
+      "url": "https://stackoverflow.com/questions/80007790/avoid-zoona-fillx-extend-error-need-at-least-two-non-na-values-to-inter",
+      "summary": "",
+      "tags": [
+        "r",
+        "dplyr",
+        "zoo"
+      ],
+      "author": "rturquier",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "The exact full URL (Host + Base Path) that the gateway proxy routes for POST refund transactions on UAT merchant M1XXXXXXXX?",
+      "url": "https://stackoverflow.com/questions/80007824/the-exact-full-url-host-base-path-that-the-gateway-proxy-routes-for-post-ref",
+      "summary": "",
+      "tags": [
+        "asp.net",
+        "angular",
+        "payment-gateway",
+        "payment",
+        "credit-card"
+      ],
+      "author": "M.Logadharsan",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Pass blocks in Rhombus",
+      "url": "https://stackoverflow.com/questions/80007796/pass-blocks-in-rhombus",
+      "summary": "",
+      "tags": [
+        "racket",
+        "rhombus"
+      ],
+      "author": "vinipsmaker",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to correctly handle relocations in a .text section that will be moved in RAM at runtime?",
+      "url": "https://stackoverflow.com/questions/80007845/how-to-correctly-handle-relocations-in-a-text-section-that-will-be-moved-in-ram",
+      "summary": "",
+      "tags": [
+        "gcc",
+        "compilation",
+        "arm",
+        "embedded"
+      ],
+      "author": "NoodleCollie",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Apache Spark, PySpark can&#39;t write a file on disk",
+      "url": "https://stackoverflow.com/questions/80007804/apache-spark-pyspark-cant-write-a-file-on-disk",
+      "summary": "",
+      "tags": [
+        "python",
+        "docker",
+        "apache-spark",
+        "pyspark"
+      ],
+      "author": "Mike",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T13:34:54.724994+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Where do you find the search terms people use to get to your app?",
+      "url": "https://stackoverflow.com/questions/80004435/where-do-you-find-the-search-terms-people-use-to-get-to-your-app",
+      "summary": "",
+      "tags": [
+        "google-play-console"
+      ],
+      "author": "Richard Onslow Roper",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How should I sort football standings when the API already returns a position field?",
+      "url": "https://stackoverflow.com/questions/80004427/how-should-i-sort-football-standings-when-the-api-already-returns-a-position-fie",
+      "summary": "",
+      "tags": [
+        "javascript"
+      ],
+      "author": "veotuises",
+      "comments": 1,
+      "score": -9
+    },
+    {
+      "title": "How can I safely normalize Sportmicro API fields documented only as JSONB without losing TypeScript type safety?",
+      "url": "https://stackoverflow.com/questions/80004428/how-can-i-safely-normalize-sportmicro-api-fields-documented-only-as-jsonb-withou",
+      "summary": "",
+      "tags": [
+        "json",
+        "angular",
+        "typescript"
+      ],
+      "author": "incilfor",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How can I keep listState.layoutInfo.visibleItemsInfo up-to-date with viewmodel&#39;s state",
+      "url": "https://stackoverflow.com/questions/80004426/how-can-i-keep-liststate-layoutinfo-visibleitemsinfo-up-to-date-with-viewmodels",
+      "summary": "",
+      "tags": [
+        "android-jetpack-compose"
+      ],
+      "author": "Joyce Opio",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Frequency/histogram of an array",
+      "url": "https://stackoverflow.com/questions/80004416/frequency-histogram-of-an-array",
+      "summary": "",
+      "tags": [
+        "snowflake-cloud-data-platform"
+      ],
+      "author": "Lukasz Szozda",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "BenchmarkDotNet vs. MiniProfiler for identifying performance bottlenecks in an ASP.NET Core service",
+      "url": "https://stackoverflow.com/questions/80004422/benchmarkdotnet-vs-miniprofiler-for-identifying-performance-bottlenecks-in-an-a",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "asp.net-core",
+        "profiling",
+        "benchmarking",
+        "execution-time"
+      ],
+      "author": "katarina zed",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Can anybody suggest another method to split a large Excel file into multiple files in any tool other than VBA?",
+      "url": "https://stackoverflow.com/questions/80004398/can-anybody-suggest-another-method-to-split-a-large-excel-file-into-multiple-fil",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "excel",
+        "vba",
+        "automation"
+      ],
+      "author": "ramya",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Safari HLS/HEVC: How can JavaScript get more deterministic control over seeking and buffering?",
+      "url": "https://stackoverflow.com/questions/80004409/safari-hls-hevc-how-can-javascript-get-more-deterministic-control-over-seeking",
+      "summary": "",
+      "tags": [
+        "safari",
+        "http-live-streaming",
+        "hevc"
+      ],
+      "author": "Christopher Hannan",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Managing custom libraries with NASM or x86",
+      "url": "https://stackoverflow.com/questions/80004407/managing-custom-libraries-with-nasm-or-x86",
+      "summary": "",
+      "tags": [
+        "advice",
+        "x86",
+        "nasm"
+      ],
+      "author": "bla-ce",
+      "comments": 0,
+      "score": 5
+    },
+    {
+      "title": "How to convert the element and its values dynamically into values with name and value elements",
+      "url": "https://stackoverflow.com/questions/80004400/how-to-convert-the-element-and-its-values-dynamically-into-values-with-name-and",
+      "summary": "",
+      "tags": [
+        "xquery"
+      ],
+      "author": "Learner",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why does DbContext prohibit concurrent read operations if reads don&#39;t modify entity state?",
+      "url": "https://stackoverflow.com/questions/80004368/why-does-dbcontext-prohibit-concurrent-read-operations-if-reads-dont-modify-ent",
+      "summary": "",
+      "tags": [
+        "c#",
+        "asynchronous",
+        "entity-framework-core",
+        "dbcontext",
+        "race-condition"
+      ],
+      "author": "katarina zed",
+      "comments": 1,
+      "score": 6
+    },
+    {
+      "title": "onclick=&quot;showContent(&#39;x&#39;)&quot; only works once",
+      "url": "https://stackoverflow.com/questions/80004333/onclick-showcontentx-only-works-once",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "author": "lunaregemini",
+      "comments": 5,
+      "score": 2
+    },
+    {
+      "title": "printf - char values are not printed as expected",
+      "url": "https://stackoverflow.com/questions/80004322/printf-char-values-are-not-printed-as-expected",
+      "summary": "",
+      "tags": [
+        "c",
+        "integer",
+        "char",
+        "printf"
+      ],
+      "author": "byte_janitor",
+      "comments": 4,
+      "score": 6
+    },
+    {
+      "title": "Advice for Folium Map",
+      "url": "https://stackoverflow.com/questions/80004404/advice-for-folium-map",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python",
+        "folium"
+      ],
+      "author": "TXpy890",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "OSError: Repo id must use alphanumeric chars, &#39;-&#39;, &#39;_&#39; or &#39;.&#39;. The name cannot start or end with &#39;-&#39; or &#39;.&#39; ........ &#39;T5ForConditionalGeneration(",
+      "url": "https://stackoverflow.com/questions/80004401/oserror-repo-id-must-use-alphanumeric-chars-or-the-name-cannot-s",
+      "summary": "",
+      "tags": [
+        "huggingface-transformers"
+      ],
+      "author": "Bussller",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "&quot;Inbound Anomaly Score Exceeded&quot; blocks legitimate multipart file uploads",
+      "url": "https://stackoverflow.com/questions/80004391/inbound-anomaly-score-exceeded-blocks-legitimate-multipart-file-uploads",
+      "summary": "",
+      "tags": [
+        "cloudflare",
+        "owasp",
+        "mod-security"
+      ],
+      "author": "Mark G",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Why does std::vector not compile when provided a class with no move/copy constructor and reserve/emplace is called?",
+      "url": "https://stackoverflow.com/questions/80004343/why-does-stdvector-not-compile-when-provided-a-class-with-no-move-copy-constru",
+      "summary": "",
+      "tags": [
+        "c++",
+        "vector",
+        "c++20"
+      ],
+      "author": "Henry Boyer",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "Console.ReadKey recording excess keypresses when used more frequently than a loop can finish running",
+      "url": "https://stackoverflow.com/questions/80004358/console-readkey-recording-excess-keypresses-when-used-more-frequently-than-a-loo",
+      "summary": "",
+      "tags": [
+        "c#",
+        "console-application",
+        "game-development",
+        "console.readkey"
+      ],
+      "author": "Jipopotamus",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "Replace a printed line when it overflows to the next line",
+      "url": "https://stackoverflow.com/questions/80004341/replace-a-printed-line-when-it-overflows-to-the-next-line",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "Kali",
+      "comments": 1,
+      "score": 5
+    },
+    {
+      "title": "Android WebView OffscreenCanvas renders correctly in Web Worker but is not composited / shows blank after Activity resume",
+      "url": "https://stackoverflow.com/questions/80004387/android-webview-offscreencanvas-renders-correctly-in-web-worker-but-is-not-compo",
+      "summary": "",
+      "tags": [
+        "android",
+        "canvas",
+        "webview",
+        "offscreen-canvas"
+      ],
+      "author": "chienhsin Yang",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why am I getting an invalid, but non-null, default OpenCL device queue?",
+      "url": "https://stackoverflow.com/questions/80004329/why-am-i-getting-an-invalid-but-non-null-default-opencl-device-queue",
+      "summary": "",
+      "tags": [
+        "queue",
+        "opencl",
+        "default"
+      ],
+      "author": "einpoklum",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "PyCharm bloat causing problems",
+      "url": "https://stackoverflow.com/questions/80004275/pycharm-bloat-causing-problems",
+      "summary": "",
+      "tags": [
+        "pycharm"
+      ],
+      "author": "NickC",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Does the payload need to be `volatile`, or only the doorbell, when publishing data to a PCIe device through a mapped BAR?",
+      "url": "https://stackoverflow.com/questions/80004287/does-the-payload-need-to-be-volatile-or-only-the-doorbell-when-publishing-da",
+      "summary": "",
+      "tags": [
+        "c++",
+        "volatile",
+        "memory-barriers",
+        "pci-e",
+        "memory-mapped-io"
+      ],
+      "author": "rafoo",
+      "comments": 1,
+      "score": 5
+    },
+    {
+      "title": "Installing pyenv on Ubuntu 26.04 running WSL1",
+      "url": "https://stackoverflow.com/questions/80004308/installing-pyenv-on-ubuntu-26-04-running-wsl1",
+      "summary": "",
+      "tags": [
+        "ubuntu",
+        "windows-subsystem-for-linux",
+        "pyenv"
+      ],
+      "author": "david",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Swift template matching algorithm",
+      "url": "https://stackoverflow.com/questions/80004357/swift-template-matching-algorithm",
+      "summary": "",
+      "tags": [
+        "swift",
+        "template-matching"
+      ],
+      "author": "Duncan Groenewald",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Adding columns in matplotlib graph breaks row layout",
+      "url": "https://stackoverflow.com/questions/80004336/adding-columns-in-matplotlib-graph-breaks-row-layout",
+      "summary": "",
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "author": "Auguste Eclancher",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How can I use the Afghan Solar Hijri (Shamsi) calendar in a WinUI 3 CalendarDatePicker?",
+      "url": "https://stackoverflow.com/questions/80004220/how-can-i-use-the-afghan-solar-hijri-shamsi-calendar-in-a-winui-3-calendardate",
+      "summary": "",
+      "tags": [
+        "c#",
+        "datepicker",
+        "winui-3",
+        "winui"
+      ],
+      "author": "Abdul Saboor Habibi",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Launching an SSIS project on tables or views",
+      "url": "https://stackoverflow.com/questions/80004354/launching-an-ssis-project-on-tables-or-views",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "ssis",
+        "data-warehouse"
+      ],
+      "author": "milad khanzabarlu",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How should I learn PostgreSQL internals such as WAL and DISTINCT execution?",
+      "url": "https://stackoverflow.com/questions/80004306/how-should-i-learn-postgresql-internals-such-as-wal-and-distinct-execution",
+      "summary": "",
+      "tags": [
+        "advice",
+        "postgresql"
+      ],
+      "author": "AI Workout Log",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Netstat stop working when called by swift with macos27",
+      "url": "https://stackoverflow.com/questions/80004100/netstat-stop-working-when-called-by-swift-with-macos27",
+      "summary": "",
+      "tags": [
+        "swift",
+        "macos",
+        "netstat"
+      ],
+      "author": "Stephane",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}

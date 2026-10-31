@@ -1,0 +1,443 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T15:29:33.928715+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "iOS Safari: window.open with the same window name does nothing after the popup tab was closed with the back button",
+      "url": "https://stackoverflow.com/questions/80012902/ios-safari-window-open-with-the-same-window-name-does-nothing-after-the-popup-t",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "ios",
+        "safari",
+        "mobile-safari",
+        "window.open"
+      ],
+      "author": "윤진섭",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Is using PHP&#39;s official minimal source-backports for PHP 7.4/8.0/8.1 recommended for production, and what are the best practices for use them?",
+      "url": "https://stackoverflow.com/questions/80012903/is-using-phps-official-minimal-source-backports-for-php-7-4-8-0-8-1-recommended",
+      "summary": "",
+      "tags": [
+        "php",
+        "docker",
+        "security",
+        "cve"
+      ],
+      "author": "Jayendra Matarage",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "mysql_native_password on users mysql.session and mysql.sys",
+      "url": "https://stackoverflow.com/questions/80012900/mysql-native-password-on-users-mysql-session-and-mysql-sys",
+      "summary": "",
+      "tags": [
+        "mysql",
+        "ubuntu",
+        "mysql-8.0"
+      ],
+      "author": "Tim Sanders",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "tail doesn&#39;t work inside GitLab CI/CD pipeline, Fedora 44 Docker image",
+      "url": "https://stackoverflow.com/questions/80012886/tail-doesnt-work-inside-gitlab-ci-cd-pipeline-fedora-44-docker-image",
+      "summary": "",
+      "tags": [
+        "linux",
+        "bash",
+        "docker",
+        "gitlab",
+        "gitlab-ci"
+      ],
+      "author": "AB19214",
+      "comments": 2,
+      "score": -2
+    },
+    {
+      "title": "Accidentally ran a suspect command",
+      "url": "https://stackoverflow.com/questions/80012884/accidentally-ran-a-suspect-command",
+      "summary": "",
+      "tags": [
+        "bash",
+        "macos",
+        "curl"
+      ],
+      "author": "JTG",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "phpspreadsheet setCellValue throwing file corrupt or extension error",
+      "url": "https://stackoverflow.com/questions/80012891/phpspreadsheet-setcellvalue-throwing-file-corrupt-or-extension-error",
+      "summary": "",
+      "tags": [
+        "phpspreadsheet"
+      ],
+      "author": "DBerg",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to code fuzzy operator `~` in regular language?",
+      "url": "https://stackoverflow.com/questions/80012896/how-to-code-fuzzy-operator-in-regular-language",
+      "summary": "",
+      "tags": [
+        "artificial-intelligence"
+      ],
+      "author": "Valdemar",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How do I continuously mirror GitHub issues to Codeberg?",
+      "url": "https://stackoverflow.com/questions/80012868/how-do-i-continuously-mirror-github-issues-to-codeberg",
+      "summary": "",
+      "tags": [
+        "github",
+        "migration",
+        "codeberg"
+      ],
+      "author": "Stevoisiak",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How can I constrain AI coding assistants to implement only specified requirements?",
+      "url": "https://stackoverflow.com/questions/80012875/how-can-i-constrain-ai-coding-assistants-to-implement-only-specified-requirement",
+      "summary": "",
+      "tags": [
+        "advice",
+        "artificial-intelligence",
+        "prompt"
+      ],
+      "author": "Aditya Soni",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "SwiftUI Sticky Header Tabs centering tab pages content instead of showing the top",
+      "url": "https://stackoverflow.com/questions/80012856/swiftui-sticky-header-tabs-centering-tab-pages-content-instead-of-showing-the-to",
+      "summary": "",
+      "tags": [
+        "swift",
+        "swiftui",
+        "uikit",
+        "uipangesturerecognizer"
+      ],
+      "author": "Geob",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "TYPO3 13.x BE user permissions upload allowed file extensions",
+      "url": "https://stackoverflow.com/questions/80012797/typo3-13-x-be-user-permissions-upload-allowed-file-extensions",
+      "summary": "",
+      "tags": [
+        "upload",
+        "typo3"
+      ],
+      "author": "Boris Weisgerber",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why does a CSS Grid item overflow its column when it contains a long URL?",
+      "url": "https://stackoverflow.com/questions/80012836/why-does-a-css-grid-item-overflow-its-column-when-it-contains-a-long-url",
+      "summary": "",
+      "tags": [
+        "css",
+        "responsive-design",
+        "css-grid"
+      ],
+      "author": "Attorney Web Lab",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to avoid rendering delays when switching from text to dynamic selects?",
+      "url": "https://stackoverflow.com/questions/80012793/how-to-avoid-rendering-delays-when-switching-from-text-to-dynamic-selects",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "vue.js",
+        "vuejs3"
+      ],
+      "author": "Adrian Ma&#241;as",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "UVM_WARNING : map ‘reg_map’ does not seem to be initialized correctly, check that the top register model is locked()",
+      "url": "https://stackoverflow.com/questions/80012795/uvm-warning-map-reg-map-does-not-seem-to-be-initialized-correctly-check-tha",
+      "summary": "",
+      "tags": [
+        "system-verilog",
+        "uvm"
+      ],
+      "author": "prabhu",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Does std::weak_ptr prevent memory release because it owns the control block?",
+      "url": "https://stackoverflow.com/questions/80012796/does-stdweak-ptr-prevent-memory-release-because-it-owns-the-control-block",
+      "summary": "",
+      "tags": [
+        "c++",
+        "shared-ptr",
+        "weak-ptr"
+      ],
+      "author": "Swift - Friday Pie",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How do I take two points and find a new point that&#39;d be R amount closer to the second point?",
+      "url": "https://stackoverflow.com/questions/80012754/how-do-i-take-two-points-and-find-a-new-point-thatd-be-r-amount-closer-to-the-s",
+      "summary": "",
+      "tags": [
+        "java",
+        "libgdx",
+        "lerp"
+      ],
+      "author": "Crazy Owl",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "How to calculate storage and data transfer costs per repository in GCP Artifact Registry?",
+      "url": "https://stackoverflow.com/questions/80012816/how-to-calculate-storage-and-data-transfer-costs-per-repository-in-gcp-artifact",
+      "summary": "",
+      "tags": [
+        "google-artifact-registry"
+      ],
+      "author": "Abish R P",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Need help for this problem : STM32G070 – PB15 GPIO input always reads LOW with internal pull-up enabled",
+      "url": "https://stackoverflow.com/questions/80012776/need-help-for-this-problem-stm32g070-pb15-gpio-input-always-reads-low-with-i",
+      "summary": "",
+      "tags": [
+        "debugging",
+        "embedded",
+        "stm32",
+        "hardware"
+      ],
+      "author": "Naraen Harish",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How can I add a “A Closer Look” video to my iOS app’s App Store listing?",
+      "url": "https://stackoverflow.com/questions/80012779/how-can-i-add-a-a-closer-look-video-to-my-ios-app-s-app-store-listing",
+      "summary": "",
+      "tags": [
+        "ios",
+        "app-store",
+        "app-store-connect"
+      ],
+      "author": "Mitul Marsoniya",
+      "comments": 1,
+      "score": -10
+    },
+    {
+      "title": "Changing array representation without copy",
+      "url": "https://stackoverflow.com/questions/80012742/changing-array-representation-without-copy",
+      "summary": "",
+      "tags": [
+        "advice",
+        "arrays",
+        "pointers",
+        "ada"
+      ],
+      "author": "tymurmchyk",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Why does MSVC STL std::expected explicitly delete the copy assignment/constructor after defining them",
+      "url": "https://stackoverflow.com/questions/80012761/why-does-msvc-stl-stdexpected-explicitly-delete-the-copy-assignment-constructo",
+      "summary": "",
+      "tags": [
+        "c++",
+        "visual-c++",
+        "copy-constructor",
+        "c++-concepts",
+        "c++23"
+      ],
+      "author": "Krupip",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Does it make sense to perform the following micro-optimization in a *for* loop?",
+      "url": "https://stackoverflow.com/questions/80012724/does-it-make-sense-to-perform-the-following-micro-optimization-in-a-for-loop",
+      "summary": "",
+      "tags": [
+        "java",
+        "for-loop",
+        "optimization"
+      ],
+      "author": "Marce Puente",
+      "comments": 2,
+      "score": -3
+    },
+    {
+      "title": "error loading model: unknown model architecture: &#39;mllama&#39;",
+      "url": "https://stackoverflow.com/questions/80012768/error-loading-model-unknown-model-architecture-mllama",
+      "summary": "",
+      "tags": [
+        "ollama"
+      ],
+      "author": "Mohan",
+      "comments": 0,
+      "score": -9
+    },
+    {
+      "title": "Problem with downcasting to an interface with a generic type",
+      "url": "https://stackoverflow.com/questions/80012592/problem-with-downcasting-to-an-interface-with-a-generic-type",
+      "summary": "",
+      "tags": [
+        "c#",
+        "wpf",
+        "generics",
+        "casting",
+        "downcast"
+      ],
+      "author": "Alex",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "What are sanitizers and how could they help me find problems in my code?",
+      "url": "https://stackoverflow.com/questions/80012463/what-are-sanitizers-and-how-could-they-help-me-find-problems-in-my-code",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "c",
+        "sanitizer"
+      ],
+      "author": "n.m.is-an-unemployed-ai-agent",
+      "comments": 1,
+      "score": 18
+    },
+    {
+      "title": "MSTest test classes and methods disappeared from testing side bar in VS Code",
+      "url": "https://stackoverflow.com/questions/80012752/mstest-test-classes-and-methods-disappeared-from-testing-side-bar-in-vs-code",
+      "summary": "",
+      "tags": [
+        "vs-code",
+        "mstest"
+      ],
+      "author": "JustAnotherCoder894",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "An uppercase JDBC column label fails on lowercase column name in the database",
+      "url": "https://stackoverflow.com/questions/80012741/an-uppercase-jdbc-column-label-fails-on-lowercase-column-name-in-the-database",
+      "summary": "",
+      "tags": [
+        "jdbc",
+        "resultset",
+        "apache-iotdb",
+        "treemodel"
+      ],
+      "author": "Alex Chen",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "In exactly what situations does “Loads May Be Reordered with Earlier Stores to Different Locations” actually manifest?",
+      "url": "https://stackoverflow.com/questions/80012673/in-exactly-what-situations-does-loads-may-be-reordered-with-earlier-stores-to-d",
+      "summary": "",
+      "tags": [
+        "advice",
+        "assembly",
+        "x86",
+        "memory-barriers"
+      ],
+      "author": "Huang Wen Meng",
+      "comments": 1,
+      "score": 11
+    },
+    {
+      "title": "How do i move a wxwidgets Frame partially off screen via code",
+      "url": "https://stackoverflow.com/questions/80012730/how-do-i-move-a-wxwidgets-frame-partially-off-screen-via-code",
+      "summary": "",
+      "tags": [
+        "c++",
+        "user-interface",
+        "wxwidgets"
+      ],
+      "author": "user27334392",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Atomic JSONB update in Python SQLAlchemy PostgreSQL",
+      "url": "https://stackoverflow.com/questions/80012706/atomic-jsonb-update-in-python-sqlalchemy-postgresql",
+      "summary": "",
+      "tags": [
+        "python",
+        "postgresql",
+        "sqlalchemy",
+        "atomic",
+        "jsonb"
+      ],
+      "author": "madjetmax",
+      "comments": 1,
+      "score": 3
+    }
+  ]
+}

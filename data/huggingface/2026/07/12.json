@@ -1,0 +1,279 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T14:38:40.306511+00:00",
+  "source": "huggingface",
+  "count": 30,
+  "columns": [
+    {
+      "name": "模型名",
+      "key": "model",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "下载量",
+      "key": "downloads",
+      "type": "metric",
+      "icon": "Download"
+    },
+    {
+      "name": "点赞数",
+      "key": "likes",
+      "type": "metric",
+      "icon": "Heart"
+    }
+  ],
+  "items": [
+    {
+      "title": "tencent/Hy3",
+      "model": "tencent/Hy3",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "summary": "Text Generation",
+      "downloads": 6,
+      "likes": 710
+    },
+    {
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "model": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 14,
+      "likes": 2029
+    },
+    {
+      "title": "zai-org/GLM-5.2",
+      "model": "zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Text Generation",
+      "downloads": 10,
+      "likes": 3850
+    },
+    {
+      "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "model": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "url": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 2,
+      "likes": 247
+    },
+    {
+      "title": "InternScience/Agents-A1",
+      "model": "InternScience/Agents-A1",
+      "url": "https://huggingface.co/InternScience/Agents-A1",
+      "summary": "Text Generation",
+      "downloads": 4,
+      "likes": 500
+    },
+    {
+      "title": "froggeric/Qwen-Fixed-Chat-Templates",
+      "model": "froggeric/Qwen-Fixed-Chat-Templates",
+      "url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+      "summary": "Updated",
+      "downloads": 9,
+      "likes": 858
+    },
+    {
+      "title": "conradlocke/krea2-identity-edit",
+      "model": "conradlocke/krea2-identity-edit",
+      "url": "https://huggingface.co/conradlocke/krea2-identity-edit",
+      "summary": "Updated",
+      "downloads": 3,
+      "likes": 202
+    },
+    {
+      "title": "baidu/Unlimited-OCR",
+      "model": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Image-Text-to-Text",
+      "downloads": 9,
+      "likes": 1940
+    },
+    {
+      "title": "meituan-longcat/LongCat-2.0",
+      "model": "meituan-longcat/LongCat-2.0",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-2.0",
+      "summary": "Text Generation",
+      "downloads": 4,
+      "likes": 179
+    },
+    {
+      "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "model": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Image-Text-to-Text",
+      "downloads": 17,
+      "likes": 2670
+    },
+    {
+      "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "model": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "summary": "Text Generation",
+      "downloads": 3,
+      "likes": 197
+    },
+    {
+      "title": "unsloth/DeepSeek-V4-Flash-GGUF",
+      "model": "unsloth/DeepSeek-V4-Flash-GGUF",
+      "url": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF",
+      "summary": "284B",
+      "downloads": 3,
+      "likes": 149
+    },
+    {
+      "title": "google/tabfm-1.0.0-pytorch",
+      "model": "google/tabfm-1.0.0-pytorch",
+      "url": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
+      "summary": "Tabular Classification",
+      "downloads": 8,
+      "likes": 353
+    },
+    {
+      "title": "nvidia/Nemotron-Labs-Audex-30B-A3B",
+      "model": "nvidia/Nemotron-Labs-Audex-30B-A3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B",
+      "summary": "Text Generation",
+      "downloads": 4,
+      "likes": 128
+    },
+    {
+      "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "model": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "url": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "summary": "Text Generation",
+      "downloads": 17,
+      "likes": 853
+    },
+    {
+      "title": "open-gigaai/Giga-World-1",
+      "model": "open-gigaai/Giga-World-1",
+      "url": "https://huggingface.co/open-gigaai/Giga-World-1",
+      "summary": "Updated",
+      "downloads": 11,
+      "likes": 122
+    },
+    {
+      "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "model": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "summary": "Text Generation",
+      "downloads": 23,
+      "likes": 1160
+    },
+    {
+      "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "model": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+      "summary": "Audio-Text-to-Text",
+      "downloads": 8,
+      "likes": 117
+    },
+    {
+      "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "model": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+      "summary": "Text Generation",
+      "downloads": 5,
+      "likes": 109
+    },
+    {
+      "title": "SupraLabs/Supra-Router-51M",
+      "model": "SupraLabs/Supra-Router-51M",
+      "url": "https://huggingface.co/SupraLabs/Supra-Router-51M",
+      "summary": "Text Generation",
+      "downloads": 51800000,
+      "likes": 103
+    },
+    {
+      "title": "Alissonerdx/LTX-Best-Face-ID",
+      "model": "Alissonerdx/LTX-Best-Face-ID",
+      "url": "https://huggingface.co/Alissonerdx/LTX-Best-Face-ID",
+      "summary": "Text-to-Video",
+      "downloads": 2,
+      "likes": 104
+    },
+    {
+      "title": "migtissera/Tess-4-27B",
+      "model": "migtissera/Tess-4-27B",
+      "url": "https://huggingface.co/migtissera/Tess-4-27B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 2,
+      "likes": 90
+    },
+    {
+      "title": "nvidia/LocateAnything-3B",
+      "model": "nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 1,
+      "likes": 2710
+    },
+    {
+      "title": "robbyant/lingbot-video-moe-30b-a3b",
+      "model": "robbyant/lingbot-video-moe-30b-a3b",
+      "url": "https://huggingface.co/robbyant/lingbot-video-moe-30b-a3b",
+      "summary": "Updated",
+      "downloads": 4,
+      "likes": 88
+    },
+    {
+      "title": "CohereLabs/cohere-transcribe-arabic-07-2026",
+      "model": "CohereLabs/cohere-transcribe-arabic-07-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-arabic-07-2026",
+      "summary": "Automatic Speech Recognition",
+      "downloads": 2,
+      "likes": 93
+    },
+    {
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "model": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+      "summary": "Text Generation",
+      "downloads": 14,
+      "likes": 772
+    },
+    {
+      "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "model": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 26,
+      "likes": 1060
+    },
+    {
+      "title": "openbmb/MiniCPM5-1B",
+      "model": "openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "summary": "Text Generation",
+      "downloads": 26,
+      "likes": 913
+    },
+    {
+      "title": "krea/Krea-2-Turbo",
+      "model": "krea/Krea-2-Turbo",
+      "url": "https://huggingface.co/krea/Krea-2-Turbo",
+      "summary": "Text-to-Image",
+      "downloads": 19,
+      "likes": 594
+    },
+    {
+      "title": "nineninesix/gepard-1.0",
+      "model": "nineninesix/gepard-1.0",
+      "url": "https://huggingface.co/nineninesix/gepard-1.0",
+      "summary": "Text-to-Speech",
+      "downloads": 1,
+      "likes": 83
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T15:54:18.808739+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Spring Transaction interview",
+      "url": "https://stackoverflow.com/questions/80007015/spring-transaction-interview",
+      "summary": "",
+      "tags": [
+        "advice",
+        "java",
+        "spring",
+        "spring-data-jpa",
+        "spring-transactions"
+      ],
+      "author": "HoangBinh",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "ESP32 CH340C connection",
+      "url": "https://stackoverflow.com/questions/80007022/esp32-ch340c-connection",
+      "summary": "",
+      "tags": [
+        "vs-code",
+        "connection",
+        "driver",
+        "esp32",
+        "micropython"
+      ],
+      "author": "Nh&#226;n L&#234; Thanh",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to check if a cell contains a substring from a range, then return the matching value?",
+      "url": "https://stackoverflow.com/questions/80007030/how-to-check-if-a-cell-contains-a-substring-from-a-range-then-return-the-matchi",
+      "summary": "",
+      "tags": [
+        "google-sheets"
+      ],
+      "author": "Molly Boon",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does node-mssql connect to the primary replica when using ApplicationIntent=ReadOnly?",
+      "url": "https://stackoverflow.com/questions/80006999/why-does-node-mssql-connect-to-the-primary-replica-when-using-applicationintent",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "node.js",
+        "sql-server",
+        "node-mssql"
+      ],
+      "author": "MELKIO",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to resolve CORS error in Node js and Express backend",
+      "url": "https://stackoverflow.com/questions/80006997/how-to-resolve-cors-error-in-node-js-and-express-backend",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express"
+      ],
+      "author": "Noura Elsayed",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Stream redirection without writing to a file",
+      "url": "https://stackoverflow.com/questions/80007005/stream-redirection-without-writing-to-a-file",
+      "summary": "",
+      "tags": [
+        "powershell-core"
+      ],
+      "author": "Twon-ha",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to export a macro-enabled Excel file to text so that two versions can be compared",
+      "url": "https://stackoverflow.com/questions/80006983/how-to-export-a-macro-enabled-excel-file-to-text-so-that-two-versions-can-be-com",
+      "summary": "",
+      "tags": [
+        "excel",
+        "vba",
+        "export",
+        "activex"
+      ],
+      "author": "Ian Hicks",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "How to fix the twitching right side when I try to resize from the left side of the square?",
+      "url": "https://stackoverflow.com/questions/80006954/how-to-fix-the-twitching-right-side-when-i-try-to-resize-from-the-left-side-of-t",
+      "summary": "",
+      "tags": [
+        "java",
+        "swing",
+        "jframe"
+      ],
+      "author": "iloveeatingrice",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "how to keep Angular Signals and Router query params in sync without creating loops",
+      "url": "https://stackoverflow.com/questions/80006977/how-to-keep-angular-signals-and-router-query-params-in-sync-without-creating-loo",
+      "summary": "",
+      "tags": [
+        "angular",
+        "typescript",
+        "rxjs",
+        "angular-router",
+        "angular-signals"
+      ],
+      "author": "Angular Overlord",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Are pitch, yaw and roll values/outputs of the orientation sensor reversed for Android and iOS systems?",
+      "url": "https://stackoverflow.com/questions/80006991/are-pitch-yaw-and-roll-values-outputs-of-the-orientation-sensor-reversed-for-an",
+      "summary": "",
+      "tags": [
+        "android",
+        "ios",
+        "orientation",
+        "android-sensors"
+      ],
+      "author": "4.12.22.4.18.0.",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "VScode doesn&#39;t run some files",
+      "url": "https://stackoverflow.com/questions/80006990/vscode-doesnt-run-some-files",
+      "summary": "",
+      "tags": [
+        "python",
+        "vs-code"
+      ],
+      "author": "Sam Sianati",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "imgui popup does not open from menu",
+      "url": "https://stackoverflow.com/questions/80006974/imgui-popup-does-not-open-from-menu",
+      "summary": "",
+      "tags": [
+        "c++",
+        "opengl",
+        "glfw",
+        "imgui"
+      ],
+      "author": "Natan Camargos",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Apache Superset 6.1 :: flask-caching is still required when NullCache and SupersetMetastoreCache are used?",
+      "url": "https://stackoverflow.com/questions/80006946/apache-superset-6-1-flask-caching-is-still-required-when-nullcache-and-supers",
+      "summary": "",
+      "tags": [
+        "python",
+        "flask",
+        "caching",
+        "apache-superset"
+      ],
+      "author": "bsethi24",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to recive data from database tables sys_log / sys_history in typoscript",
+      "url": "https://stackoverflow.com/questions/80006973/how-to-recive-data-from-database-tables-sys-log-sys-history-in-typoscript",
+      "summary": "",
+      "tags": [
+        "typo3",
+        "typoscript",
+        "fluid"
+      ],
+      "author": "Echelon",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How should WebSocket connections be handled with multiple FastAPI workers and React reconnects?",
+      "url": "https://stackoverflow.com/questions/80006921/how-should-websocket-connections-be-handled-with-multiple-fastapi-workers-and-re",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "python",
+        "websocket",
+        "redis",
+        "fastapi"
+      ],
+      "author": "hetal Vadaliya",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "how to make the app in django that the route does not change ,it should go through admin panel or something",
+      "url": "https://stackoverflow.com/questions/80006965/how-to-make-the-app-in-django-that-the-route-does-not-change-it-should-go-throu",
+      "summary": "",
+      "tags": [
+        "django",
+        "django-admin",
+        "backend"
+      ],
+      "author": "harrison",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "React hook form UseFieldArray filter already selected items and remove() problem",
+      "url": "https://stackoverflow.com/questions/80006971/react-hook-form-usefieldarray-filter-already-selected-items-and-remove-problem",
+      "summary": "",
+      "tags": [
+        "next.js",
+        "react-hook-form"
+      ],
+      "author": "GM02",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to reduce the time complexity of a lookup operation",
+      "url": "https://stackoverflow.com/questions/80006897/how-to-reduce-the-time-complexity-of-a-lookup-operation",
+      "summary": "",
+      "tags": [
+        "c#",
+        "linq",
+        "optimization",
+        "time-complexity",
+        "lookup-tables"
+      ],
+      "author": "katarina zed",
+      "comments": 2,
+      "score": 5
+    },
+    {
+      "title": "Share a value that calls a function when evaluated",
+      "url": "https://stackoverflow.com/questions/80006952/share-a-value-that-calls-a-function-when-evaluated",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "Train-Case",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How to destroy kmalloc allocated objects Hashtable in Linux kernel",
+      "url": "https://stackoverflow.com/questions/80006896/how-to-destroy-kmalloc-allocated-objects-hashtable-in-linux-kernel",
+      "summary": "",
+      "tags": [
+        "c",
+        "linux",
+        "linux-kernel"
+      ],
+      "author": "Serve Laurijssen",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to sum elements in a 2d array and then find max/highest value?",
+      "url": "https://stackoverflow.com/questions/80006948/how-to-sum-elements-in-a-2d-array-and-then-find-max-highest-value",
+      "summary": "",
+      "tags": [
+        "python",
+        "numpy"
+      ],
+      "author": "Emelia Hanna",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Firebase Hosting (*.web.app) unreachable — TCP connection timeout on port 443 to 199.36.158.100",
+      "url": "https://stackoverflow.com/questions/80006953/firebase-hosting-web-app-unreachable-tcp-connection-timeout-on-port-443-to",
+      "summary": "",
+      "tags": [
+        "firebase",
+        "google-cloud-platform",
+        "firebase-hosting"
+      ],
+      "author": "Iago Gonzaga",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Insert ,show, update, delete picture with PDO",
+      "url": "https://stackoverflow.com/questions/80006904/insert-show-update-delete-picture-with-pdo",
+      "summary": "",
+      "tags": [
+        "advice",
+        "php",
+        "mysql",
+        "pdo"
+      ],
+      "author": "NoFace Storys",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to get a Windows reverse shell over domain with Cloudflare tunneling",
+      "url": "https://stackoverflow.com/questions/80006945/how-to-get-a-windows-reverse-shell-over-domain-with-cloudflare-tunneling",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "VOLTIX",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How to prevent Chromium MediaSource buffer eviction from dropping active WebGL textures during stream switches?",
+      "url": "https://stackoverflow.com/questions/80006951/how-to-prevent-chromium-mediasource-buffer-eviction-from-dropping-active-webgl-t",
+      "summary": "",
+      "tags": [
+        "google-chrome",
+        "javascript",
+        "browser-cache",
+        "media-player",
+        "webgl"
+      ],
+      "author": "Cineby HD App",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "FFmpeg transcoding audio in separate process&#39;s audio sync issues",
+      "url": "https://stackoverflow.com/questions/80006931/ffmpeg-transcoding-audio-in-separate-processs-audio-sync-issues",
+      "summary": "",
+      "tags": [
+        "ffmpeg"
+      ],
+      "author": "Ginn Man",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to call an Apex REST resource from a Salesforce-hosted (internal React, multiframework) app without CORS error?",
+      "url": "https://stackoverflow.com/questions/80006883/how-to-call-an-apex-rest-resource-from-a-salesforce-hosted-internal-react-mult",
+      "summary": "",
+      "tags": [
+        "cors",
+        "salesforce",
+        "apex"
+      ],
+      "author": "BatheAbhinav",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Isolation Forest performs best with max_samples set to 1.0",
+      "url": "https://stackoverflow.com/questions/80006926/isolation-forest-performs-best-with-max-samples-set-to-1-0",
+      "summary": "",
+      "tags": [
+        "python",
+        "machine-learning",
+        "scikit-learn",
+        "anomaly-detection",
+        "isolation-forest"
+      ],
+      "author": "Ragno",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "iOS Background Location tracking turns off after sometime",
+      "url": "https://stackoverflow.com/questions/80006914/ios-background-location-tracking-turns-off-after-sometime",
+      "summary": "",
+      "tags": [
+        "ios",
+        "flutter",
+        "location",
+        "geofencing"
+      ],
+      "author": "isha kulkarni-saoji",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "How to add a button to the ribbon that appears in a subgrid when a user clicks one or more items?",
+      "url": "https://stackoverflow.com/questions/80006856/how-to-add-a-button-to-the-ribbon-that-appears-in-a-subgrid-when-a-user-clicks-o",
+      "summary": "",
+      "tags": [
+        "powerapps",
+        "powerapps-modeldriven"
+      ],
+      "author": "Felice",
+      "comments": 0,
+      "score": -4
+    }
+  ]
+}

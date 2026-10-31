@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T06:48:58.163738+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "开源 AI 终端 uniTerm v1.9.5 发布: 工作区管理全面升级、终端图片显示、SFTP 提速等 50 余项更新",
+      "url": "https://www.oschina.net/news/502766",
+      "summary": "uniTerm 是一款轻量级一站式开源终端软件。整合终端、文件传输、远程桌面、数据库客户端、容器等 5 大类协议于一身，覆盖 30+ 协议，安装包仅 15MB...",
+      "author": "ys-l",
+      "comments": 0
+    },
+    {
+      "title": "百度地图：当Agent开始出行，地图正在变成AI的“空间基础设施”",
+      "url": "https://www.oschina.net/news/502765",
+      "summary": "在AI时代，地图的定位正在发生根本性偏移——它不再只是给人用的出行工具，而是正在成为所有智能体感知物理世界的“时空智能基座”——“没有地图的...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "PropellerAds推出NIKO AI 3.0",
+      "url": "https://www.oschina.net/news/502764",
+      "summary": "PropellerAds正在拓展广告主通过人工智能管理广告活动的方式。新推出的NIKO AI 3.0采用全面重构的底层引擎，进一步升级PropellerAds自助广告平台内...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Testin云测大模型回归测试实践：搭建软件质量保障与测试资产沉淀体系",
+      "url": "https://www.oschina.net/news/502763",
+      "summary": "大模型厂商、算法团队、AIGC创业公司、智能客服提供商、企业知识库建设者在持续迭代过程中，普遍会遇到版本静默退化风险。模型微调、知识库更新、提...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Agent 搜索工具怎么选？拆解 AnySearch 的核心能力与落地路径",
+      "url": "https://www.oschina.net/news/502762",
+      "summary": "2026 年，AI Agent 正在从演示走向生产。越来越多的开发者把模型能力接入自动化工作流，让智能体完成调研、编码、尽调、分析等任务。但一个经常被忽...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "GitHub 花三年把官网从 CSS-in-JS 搬到 CSS Modules，网站性格显著提升",
+      "url": "https://www.oschina.net/news/502761/github-improving-site-performance-by-shipping-more-css",
+      "summary": "GitHub 在工程博客复盘了一场持续三年的迁移：把 github.com 整套 UI 从 CSS-in-JS 全面搬到 CSS Modules，从 2023 年组件数量爆炸导致的性能问题说...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "KnowForge 2026.0.6 发布：会员、支付、付费内容与 AI 知识服务全面上线",
+      "url": "https://www.oschina.net/news/502760",
+      "summary": "这可能是 KnowForge 到目前为止，功能跨度最大的一次更新。 如果说前面的版本主要在解决： 如何更好地创作、组织、阅读和管理知识 那么这一次，我们...",
+      "author": "trendforge",
+      "comments": 0
+    },
+    {
+      "title": "ShopXO 免费开源商城系统 v6.9.2 版本已发布",
+      "url": "https://www.oschina.net/news/502759",
+      "summary": "更新日志  1.【新增】AI大模型插件，支持腾讯云等通道 2.【新增】AI编辑器插件 3.【新增】商品助手插件、后台经营助手插件 4.【新增】以图搜款插件...",
+      "author": "ShopXO开源商城",
+      "comments": 0
+    },
+    {
+      "title": "gtk-zlang v0.8.0.0发布，基于zlang编程语言的GTK封装的跨平台图形窗口应用开发库",
+      "url": "https://www.oschina.net/news/502758",
+      "summary": "0.8.0.0 2026-09-24 calvin 依赖v0.12.8.0<=zlang<=0.12.*.0 * 随着zlang v0.12.8.0重新构建，所有控件的设置类函数的返回值从控件对象改为bool，配...",
+      "author": "calvinwilliams",
+      "comments": 0
+    },
+    {
+      "title": "zlang v0.12.8.0 发布，支持中文编程、支持Web开发/桌面应用开发的国产全自研编程语言",
+      "url": "https://www.oschina.net/news/502757",
+      "summary": "0.12.8.0 2026-09-22 calvin * 新增操作符\"??\"，用于\"?.\"后返回缺省值 * 微调了'.'、'..'的语义 0.12.7.0 2026-09-21 calvin * float、double新增函...",
+      "author": "calvinwilliams",
+      "comments": 0
+    },
+    {
+      "title": "MrDoc v1.1.1 发布，全平台多终端的私有部署AI知识库系统",
+      "url": "https://www.oschina.net/news/502756",
+      "summary": "觅思文档（MrDoc）是一款面向团队与企业的私有化知识管理解决方案，致力于帮助组织构建结构化、可沉淀、可复用的知识体系。 通过「文集 + 文档」的...",
+      "author": "州的先生",
+      "comments": 0
+    },
+    {
+      "title": "Dante Cloud 4.1.1.1 发布，MCP 规范认证全适配，Feature 级动态鉴权上线",
+      "url": "https://www.oschina.net/news/502755",
+      "summary": "[一] 发布背景 MCP 2026-07-28 是 Model Context Protocol 自发布以来最具变革性的一次规范更新。该版本将 MCP 从双向有状态协议转变为请求/响应式...",
+      "author": "码匠君",
+      "comments": 0
+    },
+    {
+      "title": "SmartCall v1.0.6 发布，智能体新增用户画像设置",
+      "url": "https://www.oschina.net/news/502753",
+      "summary": ":book: 项目简介 SmartCall 是一套基于 AI 大模型 + Asterisk 通信引擎构建的新一代智能客服呼叫中心系统。系统深度融合了 AI 语音机器人、智能 IV...",
+      "author": "jpower-mr_g",
+      "comments": 0
+    },
+    {
+      "title": ":whale: 资产设备系统 WGFIX v1.5.5 更新介绍",
+      "url": "https://www.oschina.net/news/502752",
+      "summary": "WGFIX 是 WGCLOUD 团队近期新推出的一款资产设备系统，设计一如既往的的简单好用，具有部署方便，上手容易，性能优秀，界面友好等特点 码云仓库...",
+      "author": "王逅逅",
+      "comments": 0
+    },
+    {
+      "title": "拆解 55873：一个对标 ISO/ITU-T 标准的文明资产操作系统，技术架构长什么样？",
+      "url": "https://www.oschina.net/news/502751",
+      "summary": "一份刚公开的白皮书，把 \"文明资产数字化\" 这件事拆到了引擎级。本文从基础设施视角，拆解它的三层架构、安全分层、模型部署与数据策略。 背景：...",
+      "author": "55873 生态系统 - 研发",
+      "comments": 0
+    },
+    {
+      "title": "🔥 优化及缺陷修复：开源 AI 无代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/502750",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本...",
+      "author": "NocoBase",
+      "comments": 0
+    },
+    {
+      "title": "一个对标 IETF 标准的 Web4 架构：55873 想把文明资产做成可信数字底座",
+      "url": "https://www.oschina.net/news/502748",
+      "summary": "这是一份刚放出的白皮书总述。代号 55873，定位是 \"第四代文明资产互联网\"。 几个先抛出来的硬事实：基于 IETF 国际标准设计；对标 ITU-T F.74...",
+      "author": "55873 生态系统 - 研发",
+      "comments": 0
+    },
+    {
+      "title": "灵界 OS 6.0 稳定版 · 三处更新与一个崩溃修复",
+      "url": "https://www.oschina.net/news/502745",
+      "summary": "这次推到 Gitee master，提交号 b726a1d，共三处改动。 1. 桌面体验 小组件支持按标题栏拖动，位置会记住，下次打开还在原地 点「窗口渲染优化」会...",
+      "author": "xzh_Tim",
+      "comments": 0
+    },
+    {
+      "title": "五引擎微内核架构与分层解耦的工程实践",
+      "url": "https://www.oschina.net/news/502743",
+      "summary": "本文为 55873 生态系统技术白皮书系列第 8 篇（收官之作），面向开发者社区，聚焦开源共建理念与架构设计。 核心问题：如何在开放架构和保护核心...",
+      "author": "55873 生态系统 - 研发",
+      "comments": 0
+    },
+    {
+      "title": "DjangoAdmin 敏捷开发框架 Flask+AntdVue 版本 v2.8.2 发布",
+      "url": "https://www.oschina.net/news/502742",
+      "summary": "v2.8.2 更新内容： 1、大版本全新重构； 基于 Flask、Vue3、TypeScript、AntDesign、Vite、VueRouter 等技术栈构建的前后端分离企业级数据中台解决...",
+      "author": "djangoadmin",
+      "comments": 0
+    }
+  ]
+}
