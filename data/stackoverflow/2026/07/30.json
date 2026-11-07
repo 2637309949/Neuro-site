@@ -1,0 +1,438 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T15:22:33.567724+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to memory-effeciently convert a large dataframe to a matrix in R",
+      "url": "https://stackoverflow.com/questions/79989214/how-to-memory-effeciently-convert-a-large-dataframe-to-a-matrix-in-r",
+      "summary": "",
+      "tags": [
+        "advice",
+        "r",
+        "dataframe",
+        "matrix",
+        "bigdata"
+      ],
+      "author": "Sethzard",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Can&#180;t debug Delphi exception in RAD Studio",
+      "url": "https://stackoverflow.com/questions/79989220/can%c2%b4t-debug-delphi-exception-in-rad-studio",
+      "summary": "",
+      "tags": [
+        "debugging",
+        "delphi",
+        "rad-studio"
+      ],
+      "author": "sausagerus",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Create a Top List of Viewport Width values in Datadog",
+      "url": "https://stackoverflow.com/questions/79989222/create-a-top-list-of-viewport-width-values-in-datadog",
+      "summary": "",
+      "tags": [
+        "datadog"
+      ],
+      "author": "Jonathan Stegall",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "C++ boost for managed C++/CLR projects",
+      "url": "https://stackoverflow.com/questions/79989217/c-boost-for-managed-c-clr-projects",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c++",
+        "boost",
+        "clr",
+        "managed"
+      ],
+      "author": "Zekidan",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "createNestablePublicClientApplication acquireTokenSilent intermittently returns PERSISTENT_ERROR before any network request for custom API scope",
+      "url": "https://stackoverflow.com/questions/79989213/createnestablepublicclientapplication-acquiretokensilent-intermittently-returns",
+      "summary": "",
+      "tags": [
+        "authentication",
+        "azure-active-directory",
+        "office-js",
+        "msal.js"
+      ],
+      "author": "Nitika Yadav",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How can I open my game on the user&#180;s mobile device from my website?",
+      "url": "https://stackoverflow.com/questions/79989200/how-can-i-open-my-game-on-the-user%c2%b4s-mobile-device-from-my-website",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "android",
+        "html",
+        "ios"
+      ],
+      "author": "Bryan",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Adding a sticky menu bar to a scrolling text dialog - text appears above bar",
+      "url": "https://stackoverflow.com/questions/79989147/adding-a-sticky-menu-bar-to-a-scrolling-text-dialog-text-appears-above-bar",
+      "summary": "",
+      "tags": [
+        "html"
+      ],
+      "author": "jjayjjay",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "How to specify the similarity threshold for detecting moved files in a GitHub pull request diff?",
+      "url": "https://stackoverflow.com/questions/79989203/how-to-specify-the-similarity-threshold-for-detecting-moved-files-in-a-github-pu",
+      "summary": "",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "author": "ClydeTheGhost",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "OpenGL with GLFW code (with haskell bindings) inside WSL2 with NIXOS results in a segfault if taking input form terminal",
+      "url": "https://stackoverflow.com/questions/79989211/opengl-with-glfw-code-with-haskell-bindings-inside-wsl2-with-nixos-results-in",
+      "summary": "",
+      "tags": [
+        "haskell",
+        "opengl",
+        "glfw",
+        "ghci"
+      ],
+      "author": "Valentin K Berg",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Magic The Gathering card border relief with CSS",
+      "url": "https://stackoverflow.com/questions/79989207/magic-the-gathering-card-border-relief-with-css",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "psygo",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How to securely call OpenAI API from a Flutter Web app without exposing the API key?",
+      "url": "https://stackoverflow.com/questions/79989092/how-to-securely-call-openai-api-from-a-flutter-web-app-without-exposing-the-api",
+      "summary": "",
+      "tags": [
+        "advice",
+        "flutter"
+      ],
+      "author": "Badusha P n",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "Open async profiler (event=wall) recording in JProfiler",
+      "url": "https://stackoverflow.com/questions/79989183/open-async-profiler-event-wall-recording-in-jprofiler",
+      "summary": "",
+      "tags": [
+        "jprofiler",
+        "async-profiler"
+      ],
+      "author": "Mateusz Stefek",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "A leading NaN collapses all VARIATION windows",
+      "url": "https://stackoverflow.com/questions/79989159/a-leading-nan-collapses-all-variation-windows",
+      "summary": "",
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ],
+      "author": "Yu Long",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Mocking system functions in cmocka and using coverage tools",
+      "url": "https://stackoverflow.com/questions/79989170/mocking-system-functions-in-cmocka-and-using-coverage-tools",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c",
+        "unit-testing",
+        "cmocka"
+      ],
+      "author": "L.Kiesel",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why is useContext(CourseContext) returning undefined in App.jsx even though App is wrapped with CourseContextProvider in index.js?",
+      "url": "https://stackoverflow.com/questions/79989150/why-is-usecontextcoursecontext-returning-undefined-in-app-jsx-even-though-app",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "react-context"
+      ],
+      "author": "Muhammad Falak Sher",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Copilot in VSCode keeps changing leading spaces by tabs. But not with Copilot CLI",
+      "url": "https://stackoverflow.com/questions/79989125/copilot-in-vscode-keeps-changing-leading-spaces-by-tabs-but-not-with-copilot-cl",
+      "summary": "",
+      "tags": [
+        "visual-studio-code",
+        "github-copilot"
+      ],
+      "author": "0c7",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Java thread-safe seeded random",
+      "url": "https://stackoverflow.com/questions/79989119/java-thread-safe-seeded-random",
+      "summary": "",
+      "tags": [
+        "java",
+        "random",
+        "thread-safety",
+        "random-seed"
+      ],
+      "author": "a working adult",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Perform template parameter type checking and make a decision based on it",
+      "url": "https://stackoverflow.com/questions/79988002/perform-template-parameter-type-checking-and-make-a-decision-based-on-it",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "templates"
+      ],
+      "author": "ramgorur",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "yaml.scanner.ScannerError: mapping values are not allowed here - error when trying to use Detectron2 for layout mapping in WSL2 in Windows 11",
+      "url": "https://stackoverflow.com/questions/79989086/yaml-scanner-scannererror-mapping-values-are-not-allowed-here-error-when-tryi",
+      "summary": "",
+      "tags": [
+        "python",
+        "yaml",
+        "detectron",
+        "pdf-extraction"
+      ],
+      "author": "Bussller",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Pixi Game Embedded in a Page Using Shadow DOM Forces the Page to Refresh on iOS",
+      "url": "https://stackoverflow.com/questions/79989099/pixi-game-embedded-in-a-page-using-shadow-dom-forces-the-page-to-refresh-on-ios",
+      "summary": "",
+      "tags": [
+        "ios",
+        "page-refresh",
+        "pixi.js",
+        "howler.js",
+        "shadow-root"
+      ],
+      "author": "Toms343",
+      "comments": 3,
+      "score": 3
+    },
+    {
+      "title": "Best way to store a JS accessible and amateur user editable spreadsheet",
+      "url": "https://stackoverflow.com/questions/79989105/best-way-to-store-a-js-accessible-and-amateur-user-editable-spreadsheet",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "fetch-api",
+        "xlsx"
+      ],
+      "author": "Liam Attard",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to switch Node.js?",
+      "url": "https://stackoverflow.com/questions/79989129/how-to-switch-node-js",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "angular",
+        "debian",
+        "angular-cli"
+      ],
+      "author": "chris01",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How to fix this error &quot;Failed to apply plugin &#39;dev.flutter.flutter-gradle-plugin&#39; &quot;?",
+      "url": "https://stackoverflow.com/questions/79989068/how-to-fix-this-error-failed-to-apply-plugin-dev-flutter-flutter-gradle-plugin",
+      "summary": "",
+      "tags": [
+        "java",
+        "android",
+        "flutter",
+        "kotlin",
+        "gradle"
+      ],
+      "author": "Vishnu Kumar",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Flex tokens purchased and already debited, but Automation API returns 403 “has no capacity”",
+      "url": "https://stackoverflow.com/questions/79989138/flex-tokens-purchased-and-already-debited-but-automation-api-returns-403-has-n",
+      "summary": "",
+      "tags": [
+        "autodesk-forge",
+        "autodesk",
+        "autodesk-designautomation"
+      ],
+      "author": "myh",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "WhatsApp Account Restricted and Logged Out from All Devices When Attempting to Link Desktop App",
+      "url": "https://stackoverflow.com/questions/79989135/whatsapp-account-restricted-and-logged-out-from-all-devices-when-attempting-to-l",
+      "summary": "",
+      "tags": [
+        "ios",
+        "windows",
+        "desktop-application",
+        "whatsapp"
+      ],
+      "author": "CH2",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Pycharm error while configuring PySpark (Select Content Root Directory)",
+      "url": "https://stackoverflow.com/questions/79989089/pycharm-error-while-configuring-pyspark-select-content-root-directory",
+      "summary": "",
+      "tags": [
+        "pyspark",
+        "pycharm"
+      ],
+      "author": "marie20",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Is there a Reason Creating IFormFile from stored image won&#39;t open",
+      "url": "https://stackoverflow.com/questions/79989061/is-there-a-reason-creating-iformfile-from-stored-image-wont-open",
+      "summary": "",
+      "tags": [
+        "c#",
+        "iformfile",
+        ".net-10.0"
+      ],
+      "author": "DigAtRandom",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Reddit Bot request got rejected by reddit and show me &quot;Something went wrong logging in&quot;",
+      "url": "https://stackoverflow.com/questions/79989112/reddit-bot-request-got-rejected-by-reddit-and-show-me-something-went-wrong-logg",
+      "summary": "",
+      "tags": [
+        "python",
+        "playwright",
+        "reddit"
+      ],
+      "author": "sefat khan",
+      "comments": 0,
+      "score": -10
+    },
+    {
+      "title": "Sudoku solver for Challenge #21 no loger finds solutions after &quot;improvement&quot;",
+      "url": "https://stackoverflow.com/questions/79989090/sudoku-solver-for-challenge-21-no-loger-finds-solutions-after-improvement",
+      "summary": "",
+      "tags": [
+        "c",
+        "recursion"
+      ],
+      "author": "virolino",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How to compare a flow&lt;string&gt; and a string in an if statement",
+      "url": "https://stackoverflow.com/questions/79989059/how-to-compare-a-flowstring-and-a-string-in-an-if-statement",
+      "summary": "",
+      "tags": [
+        "kotlin"
+      ],
+      "author": "Project Awesome",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}

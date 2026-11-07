@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T07:05:40.901203+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛名单公布",
+      "url": "https://www.oschina.net/news/503457",
+      "summary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源基础软件与解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 ...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "2026 开源行业解决方案创新赛「开源智能硬件解决方案赛道」决赛名单公布",
+      "url": "https://www.oschina.net/news/503456",
+      "summary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「开源智能硬件解决方案赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "共建新汽车生态 东软智行以全域能力赋能产业转型",
+      "url": "https://www.oschina.net/news/503455",
+      "summary": "乌镇的夜，适合谈“剧变”。 11月2日至5日，2026年世界互联网大会乌镇峰会召开。会议期间，第七届乌镇咖荟·汽车夜话以“剧变前夜——新汽车、新工...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：AI 智能体新增作业工具，支持脚本下发与文件分发",
+      "url": "https://www.oschina.net/news/503453",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。...",
+      "author": "bklitecanway",
+      "comments": 0
+    },
+    {
+      "title": "信创国产化落地实测｜Testin XAgent智能测试平台如何解决信创适配测试痛点",
+      "url": "https://www.oschina.net/news/503452",
+      "summary": "11月2-5日，2026世界互联网大会乌镇峰会召开，主题为“开源开放共建共享——携手构建网络空间命运共同体”。峰会重点探讨人工智能开源开放的创新发...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "2026 开源行业解决方案创新赛「“地心飞行”AIGC创作赛道」决赛名单公布",
+      "url": "https://www.oschina.net/news/503451",
+      "summary": "第四届开放原子大赛 · 2026 开源行业解决方案创新赛「“地心飞行”AIGC创作赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 11 月 13...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "货架和内容之外，我们发现双11还有一块被低估的战场",
+      "url": "https://www.oschina.net/news/503450",
+      "summary": "文章来源：电商派Pro 摘要：从集中爆发到随时在场，双 11 的营销逻辑变了。 双 11 的战场，早已不局限在电商 App 之内。 很长一段时间，品牌做大促...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "qKnow 智能体构建平台开源版 v2.4.4 发布：智能 Agent 能力增强，编排资源支持导入复用",
+      "url": "https://www.oschina.net/news/503441",
+      "summary": "qKnow 智能体构建平台开源版 v2.4.4 发布，本次更新主要涉及 Agent 记忆控制、思考过程展示配置，以及 Agent 和工作流资源导入。 在智能体开发中，...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "qData 数据中台开源版 v1.6.6 发布：ETL 模块轻量化升级，优化定时任务磁盘占用问题",
+      "url": "https://www.oschina.net/news/503440",
+      "summary": "qData 数据中台开源版 v1.6.6 发布，本次更新主要涉及 ETL 执行模块拆分，以及定时任务运行中的 JAR 包累积问题修复。 在社区使用反馈中，有开发者...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "OpenSSH 严重绕过漏洞“sshole”让任意超长密码都能登录 root",
+      "url": "https://www.oschina.net/news/503439/openssh-sshhole",
+      "summary": "一个本该永远无法登录的账号，只要输入超过 256 个字符的任意密码，就能进去。这个漏洞在 musl libc 里躺了十四年——从 2012 年埋下，到 2026 年才...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "当 Coding Agent 走进研发团队：腾讯开源了云端自进化研发平台 LoopForge",
+      "url": "https://www.oschina.net/news/503437",
+      "summary": "单机 Coding Agent 已经能飞快写出代码，但一旦走进真实研发团队，合盖断流、多人上下文割裂、自由 Vibe Coding 质量失控、日常盯单耗时以及同类问...",
+      "author": "osc快讯",
+      "comments": 0
+    },
+    {
+      "title": "ModStartBlog v12.0.0 一键安装、主题焕新、安全加固与体验升级",
+      "url": "https://www.oschina.net/news/503436",
+      "summary": "系统介绍 ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "ModStart v12.0.0 图形化安装、安全加固与后台体验全面升级",
+      "url": "https://www.oschina.net/news/503435",
+      "summary": "系统介绍 ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "Fedora Linux 45 正式发布，安装系统时支持配置企业级存储",
+      "url": "https://www.oschina.net/news/503434/fedora-linux-45",
+      "summary": "Fedora Linux 45 发布了。这次的头号变化不在桌面，在安装器——Anaconda 直接集成了 Stratis 存储支持。 如果你不熟悉 Stratis，可以这么理解：它...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "从盲评第二到影视级交付：Utopai Studios AI影视制作能力进入全球第一梯队",
+      "url": "https://www.oschina.net/news/503433",
+      "summary": "日前，全球最大的独立AI影视公司Utopai Studios定制的视频模型Utopai X，在独立评测机构Artificial Analysis的无音频图生视频排行榜中击败多个风头...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "OwnCoder 0.2.0 发布:安全优先，token 消耗显著低于同类产品安全优先，token 消耗显著低于同类产品的本地 AI 编程工具",
+      "url": "https://www.oschina.net/news/503432",
+      "summary": "当前版本能力持续完善，产品效果提升明显，Token 消耗相比同类 AI 编程工具具备优势。 软件简介 OwnCode 是一款面向开发者的桌面端 AI 编程工具，从...",
+      "author": "空瓶子",
+      "comments": 0
+    },
+    {
+      "title": "SonnetDB 5.0 正式发布：增强 SQL 与事务，开放九模型 MCP 读写",
+      "url": "https://www.oschina.net/news/503431",
+      "summary": "SonnetDB 5.0 正式发布：增强 SQL 与事务，开放九模型 MCP 读写 SonnetDB 5.0.0 已于 2026 年 11 月 4 日正式发布。相较 4.0，本次主版本更新重点增...",
+      "author": "麦壳饼",
+      "comments": 0
+    },
+    {
+      "title": "Jync v1.13.0 · Redis 缓存投影与 MySQL 5.7 自动适配",
+      "url": "https://www.oschina.net/news/503430",
+      "summary": "Jync v1.13.0 Redis 缓存投影与 MySQL 5.7 自动适配 新增 Redis 作为实时同步的目标：项目页的「目标类型」可选 Redis，源端 CDC 持续把每一行的变...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "百度发布最新基座模型 ERNIE 5.5 Flash Base：效率、开源、高性价比",
+      "url": "https://www.oschina.net/news/503429/ernie-5-5-flash-base",
+      "summary": "11 月 5 日，百度正式开源最新基座模型文心 5.5 Flash Base（ERNIE 5.5 Flash Base）。模型采用 MoE 架构，总参数量 2800 亿，每个 Token 激活 14...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "用 AI 写后端，为什么还是在造轮子？",
+      "url": "https://www.oschina.net/news/503428",
+      "summary": "很多人已经习惯让 AI 写代码： 生成一个 CRUD 接口、补一段 SQL、写一个工具类，效率确实比手敲高。 但真正落到一个企业后台项目上，你会发现节奏并...",
+      "author": "gewumind",
+      "comments": 0
+    }
+  ]
+}

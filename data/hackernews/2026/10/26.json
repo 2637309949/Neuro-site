@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T06:07:56.102603+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "summary": "",
+      "author": "ltratt",
+      "comments": 701,
+      "score": 773
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "",
+      "author": "sungam",
+      "comments": 227,
+      "score": 505
+    },
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "summary": "",
+      "author": "jumploops",
+      "comments": 87,
+      "score": 485
+    },
+    {
+      "title": "Lula wins election after final votes tallied",
+      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "summary": "",
+      "author": "laurenth",
+      "comments": 279,
+      "score": 290
+    },
+    {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "summary": "",
+      "author": "minimaxir",
+      "comments": 261,
+      "score": 237
+    },
+    {
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 71,
+      "score": 221
+    },
+    {
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "summary": "",
+      "author": "jruohonen",
+      "comments": 59,
+      "score": 186
+    },
+    {
+      "title": "Amazon’s “digital pacifier” for toddlers",
+      "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+      "summary": "",
+      "author": "jumploops",
+      "comments": 210,
+      "score": 142
+    },
+    {
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "summary": "",
+      "author": "pchristensen",
+      "comments": 37,
+      "score": 135
+    },
+    {
+      "title": "IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "summary": "",
+      "author": "Betelbuddy",
+      "comments": 80,
+      "score": 130
+    },
+    {
+      "title": "What goes into making an animated film?",
+      "url": "https://www.disneyanimation.com/process/",
+      "summary": "",
+      "author": "embedding-shape",
+      "comments": 51,
+      "score": 126
+    },
+    {
+      "title": "iPhone Duo Teardown",
+      "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+      "summary": "",
+      "author": "kripy",
+      "comments": 55,
+      "score": 95
+    },
+    {
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "summary": "",
+      "author": "textlanes33",
+      "comments": 47,
+      "score": 95
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "summary": "",
+      "author": "bpierre",
+      "comments": 44,
+      "score": 91
+    },
+    {
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "summary": "",
+      "author": "davidbarker",
+      "comments": 14,
+      "score": 77
+    },
+    {
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "summary": "",
+      "author": "westurner",
+      "comments": 25,
+      "score": 68
+    },
+    {
+      "title": "Show HN: A Truly Modular Keyboard",
+      "url": "https://github.com/notaroomba/keybytes",
+      "summary": "",
+      "author": "NotARoomba",
+      "comments": 19,
+      "score": 67
+    },
+    {
+      "title": "Steal My Bitcoin CTF PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "summary": "",
+      "author": "davikr",
+      "comments": 10,
+      "score": 64
+    },
+    {
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "summary": "",
+      "author": "vardhan1237",
+      "comments": 9,
+      "score": 54
+    },
+    {
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "summary": "",
+      "author": "Austin_Conlon",
+      "comments": 17,
+      "score": 49
+    },
+    {
+      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
+      "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
+      "summary": "",
+      "author": "janandonly",
+      "comments": 5,
+      "score": 37
+    },
+    {
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "summary": "",
+      "author": "laybak",
+      "comments": 0,
+      "score": 36
+    },
+    {
+      "title": "The Fall of Scientific American",
+      "url": "https://www.thenation.com/article/society/scientific-american-springer-nature-trump/",
+      "summary": "",
+      "author": "littlexsparkee",
+      "comments": 13,
+      "score": 35
+    },
+    {
+      "title": "Retired decorator's Pokémon cards sell for £1.5M",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
+      "summary": "",
+      "author": "HelloUsername",
+      "comments": 20,
+      "score": 31
+    },
+    {
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "summary": "",
+      "author": "gmays",
+      "comments": 9,
+      "score": 25
+    },
+    {
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "summary": "",
+      "author": "lumbroso",
+      "comments": 16,
+      "score": 23
+    },
+    {
+      "title": "Learning to Be Me (1990) [pdf]",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf",
+      "summary": "",
+      "author": "zahrevsky",
+      "comments": 2,
+      "score": 10
+    },
+    {
+      "title": "Who Cares Whether Academics Use AI to Write?",
+      "url": "https://www.chronicle.com/article/who-cares-whether-academics-use-ai-to-write",
+      "summary": "",
+      "author": "Anon84",
+      "comments": 7,
+      "score": 7
+    },
+    {
+      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "summary": "",
+      "author": "ianand",
+      "comments": 0,
+      "score": 7
+    },
+    {
+      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+      "url": "https://proc-cli.com/",
+      "summary": "",
+      "author": "yazeedaloyoun",
+      "comments": 0,
+      "score": 6
+    }
+  ]
+}

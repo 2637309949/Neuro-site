@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T06:51:43.459714+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "百度开源“文心 Unlimited OCR 2”，全球首次实现任意页数文档解析",
+      "url": "https://www.oschina.net/news/503269",
+      "summary": "百度正式发布并开源文心 Unlimited OCR 2，宣称\"全球首次实现任意页数文档解析\"——把 OCR 的处理上界从几十页推到\"无限\"，并达到最先进水平（SOT...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "OpenAI 称其模型证明了局部光滑化猜想，并推翻指数时间假设",
+      "url": "https://www.oschina.net/news/503268",
+      "summary": "OpenAI 昨天一口气放出三个领域的\"模型独立发现\"，数学、计算机科学、物理各一个，并且把证明材料公开、请学术界来验证。发布这篇的意义可能比结果...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Termexo v0.11.0 发布：macOS 安装包、多标签预览与常用操作审核",
+      "url": "https://www.oschina.net/news/503267",
+      "summary": "Termexo v0.11.0 已发布。Termexo 是 MIT 开源的本地编程 Agent 工作台，用项目工作区组织真实终端、原生会话和任务。本次提供 Windows x64、macOS...",
+      "author": "GuoMengyue",
+      "comments": 0
+    },
+    {
+      "title": "深度使用 Zig 四个月：最爱的设计和最失望的坑，来自同一种偏执",
+      "url": "https://www.oschina.net/news/503266/four-months-of-zig",
+      "summary": "Anna Liberty 放弃 Zig 后转用了几年 Rust，近日她表示自己大约四个月前重新开始使用 Zig，还攒了一篇挺有料的体验报告。有意思的地方在于：她最爱...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "大模型时代语音输入的价值是说出意图就能成稿",
+      "url": "https://www.oschina.net/news/503265",
+      "summary": "回复客户、汇报进度、说明复杂情况，用户打开输入法，是为了完成一项具体的表达任务。将内容输入成文字只是其中一步，在此之前，查找和整理信息、组...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Discord 即将允许任何人通过 Google 搜索找到公共服务器消息",
+      "url": "https://www.oschina.net/news/503264/discord-content-from-discoverable-servers-easier-to-discover",
+      "summary": "Discord 里那些被锁在聊天记录里的答案，要被公开到开放网络了。先是可发现服务器的讨论内容能出现在搜索结果里，之后连具体问答都能被网上检索到。...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "IBM CEO 力挺开源权重模型，在本地部署方面极具吸引力、且价格低廉",
+      "url": "https://www.oschina.net/news/503263/ibm-ceo-says-open-weight-models-good-and-cheap",
+      "summary": "IBM CEO Arvind Krishna 在 Q3 财报电话会上算了一笔账。他说开源权重模型现在能做到前沿闭源模型 90% 的效果，只花 10% 到 25% 的 token 成本。\"...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "维基百科仍在坚持清理 AI 生成内容",
+      "url": "https://www.oschina.net/news/503262/wikipedia-wikiproject-ai-writing-cleanup",
+      "summary": "AI 生成内容越来越难以识别，但并未阻止维基百科对此进行清理。 2023 年 12 月，几个维基编辑在 Discord 上聊天，发现彼此都见过同一类文章：满篇\"...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "三年产学研转化 相干科技探索超导量子算力交付",
+      "url": "https://www.oschina.net/news/503261",
+      "summary": "相干（北京）科技有限公司孵化于北京量子信息科学研究院超导量子计算团队。今年10月，企业迎来成立三周年，其发展历程是国内超导量子计算转型进程的...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "开源终端模拟器 Ghostty 发布 1.4.0，优化内存占用 & 性能",
+      "url": "https://www.oschina.net/news/503260/ghostty-release-1-4-0",
+      "summary": "Ghostty 1.4.0 出来了，7 个月、172 位贡献者、2889 个提交。这个版本最值得说的是一个先让人意外、再让人拍大腿的发现：macOS 内核把每一次 pty ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Genie 4 来了，谷歌 DeepMind 的世界模型开始同步生成声音",
+      "url": "https://www.oschina.net/news/503259/google-deepmind-genie-4-a-new-generation-of-world-simulation",
+      "summary": "谷歌旗下 AI 公司 DeepMind 宣布推出 Genie 4，世界模型这条线又往前走了一格。最实质的进步不是画质，是声音——Genie 4 是原生多模态的，画面、音...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DataGear 6.1.1 发布，数据可视化分析平台",
+      "url": "https://www.oschina.net/news/503258",
+      "summary": "DataGear 6.1.1 发布，严重缺陷修复和功能改进，具体更新内容如下： 修复：修复看板展示页面加载的图表插件信息未正确同步系统插件状态的BUG； 改进...",
+      "author": "DataGear",
+      "comments": 0
+    },
+    {
+      "title": "面壁智能 RSI 新进展：ForgeKernel 登顶华为、英伟达官方算子榜",
+      "url": "https://www.oschina.net/news/503257",
+      "summary": "近日，面壁智能自研的 AI 算子生成系统 ForgeKernel 在国内外算力生态的官方评测中，同时登顶华为 CANNBench 950DT、950PR、A3 三大硬件榜单以及英...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "百目 JArgus v2.0.7 — 企业统一认证版本",
+      "url": "https://www.oschina.net/news/503256",
+      "summary": "百目 JArgus v2.0.7 新增企业统一认证，改造「检查更新」，并完成 9 项安全与稳定性修复。 新增：企业统一认证（SSO） 两种接入方式：票据回调（企...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "Skyeye 云企业级AI+零代码智能制造系统-AI应用 - v4.1.9发布",
+      "url": "https://www.oschina.net/news/503255",
+      "summary": "Skyeye 云企业级AI+零代码智能制造，智能制造一体化，采用 SpringBoot+ UNI-APP + Ant Design Vue 的零代码平台开发模式。包含 100 多种电子流程，...",
+      "author": "Skyeye云",
+      "comments": 0
+    },
+    {
+      "title": "Jync v1.8.1 · 批量建任务，按表大小分箱",
+      "url": "https://www.oschina.net/news/503254",
+      "summary": "读一次源库表清单，按估算大小分箱，预览后一次建出多个停用任务。同步链路同样提速：行数估算改为按需读取，元数据库不再每轮空写；另修正大批量基...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "Hikyuu 3.0 发布：组合即策略，极致性能撑起多策略引擎",
+      "url": "https://www.oschina.net/news/503253",
+      "summary": "始于 2006 年（前身 galaxy）、2012 年起以 Hikyuu 之名开源的量化研究框架，发布 3.0.0。这一版把组合引擎重写为 MultiSystem：策略与组合同构、...",
+      "author": "fasiondog",
+      "comments": 0
+    },
+    {
+      "title": "跑分之外：为什么 Sonnet 5.5 写代码比 Kimi K3.1 和 GPT-6.1 更好用",
+      "url": "https://www.oschina.net/news/503252",
+      "summary": "这几天我的日常开发基本都交给了 Claude Code 里的 Sonnet 5.5：修 bug、加接口、改前端页面、跨文件重构，都是真实项目里的活。用下来最大的感受就...",
+      "author": "JEECG官方",
+      "comments": 0
+    },
+    {
+      "title": "OpenAI 和 Anthropic 将大模型价格砍了八成，这门生意到底怎么算的？",
+      "url": "https://www.oschina.net/news/503251/cheap-llms",
+      "summary": "从六月 GPT-5.6 系列发布到现在，OpenAI 和 Anthropic 的主流模型价格塌了一大截，最多砍掉 80%。Max Woolf 把这场价格战的时间线全捋了一遍，结论...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "更强的模型之后，还需要怎样的AI产品？网易有道首席科学家段亦涛给出实践答案",
+      "url": "https://www.oschina.net/news/503250",
+      "summary": "在2026中国计算机大会（CNCC2026）“从Token到价值：可持续人工智能系统和产品的构建与实践”专题论坛上，网易有道首席科学家段亦涛与来自MiniMax...",
+      "author": "开源资讯China",
+      "comments": 0
+    }
+  ]
+}

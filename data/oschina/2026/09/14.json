@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T15:54:56.123787+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "微软史上最大号周二补丁日 ——  共计修复 974 个漏洞",
+      "url": "https://www.oschina.net/news/502471/microsoft-plugs-nearly-1000-security-holes",
+      "summary": "微软 9 月的补丁星期二修复了至少 974 个安全漏洞，史上最大的一批。之前纪录是今年 7 月的 570 个——这次近乎翻倍。 其中 113 个是严重级别，意味...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "WordPress 创始人 Matt Mullenweg 被强制停职",
+      "url": "https://www.oschina.net/news/502470/automattics-board-forces-ceo-matt-into-leave-of-absence",
+      "summary": "Automattic 董事会把创始人兼 CEO Matt Mullenweg 强制安排成带薪休假了，并由 CFO Mark Davies 出任临时 CEO。 这出戏最戏剧化的地方不在结果，在...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "为什么 JPEG XL 不该进浏览器？",
+      "url": "https://www.oschina.net/news/502469/ase-against-jxl",
+      "summary": "JPEG XL（简称“JXL”）是图像压缩圈子里最能让人吵起来的话题。技术上说，它是 JPEG 的正式升级，比 WebP 通用更强，还有 lossless JPEG 重编码这...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "小红书发布开源 Search Agent “Iris”，35B 摸到万亿参数模型的搜索能力",
+      "url": "https://www.oschina.net/news/502468",
+      "summary": "Search Agent 是最难训练、也最难评测的一类模型。它要在真实网络里边搜边读边推理，还得自己判断什么时候证据够了、可以停下来作答。小红书 AllS...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "技嘉猎鹰白金电源技术解析：ATX 3.1、氮化镓与白金认证三重加持",
+      "url": "https://www.oschina.net/news/502467",
+      "summary": "技嘉猎鹰白金系列电源（750W / 850W / 1000W）自上市以来，凭借 ATX 3.1 规范、氮化镓待机芯片与 80PLUS 白金认证三大核心卖点，成为游戏主机与创作...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "技嘉 GO27Q32 电竞显示器开售：尺寸随心切换，画面清晰无损",
+      "url": "https://www.oschina.net/news/502466",
+      "summary": "打比赛总觉得 27 吋视野太大、拉枪跟不上？看电影又嫌 24.5 吋不够沉浸？技嘉 GO27Q32 可能是首个把这个 “鱼与熊掌” 问题解决掉的显示器 —— 按...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Homebrew 7.0 发布：命令行工具长出了 GUI，Intel Mac 支持开始倒数",
+      "url": "https://www.oschina.net/news/502465/homebrew-7-0-0",
+      "summary": "用了十几年的 Homebrew，第一次长出了图形界面。 9 月 13 日，Homebrew 7.0.0 发布。最显眼的变化是一个叫 BrewUI 的原生 macOS App——macOS Tah...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Y Combinator 总裁希望美国 AI 实验室也能“蒸馏”前沿模型",
+      "url": "https://www.oschina.net/news/502464",
+      "summary": "Anthropic 想让监管把\"非法蒸馏\"摁死，YC 总裁 Garry Tan 的回应是：什么都别做。 9 月，Anthropic 发布了第二份威胁情报报告，指控中国实验室搞\"...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DLSS 5时代来袭！技嘉RTX 50系显卡全系支持，影视级画面触手可及",
+      "url": "https://www.oschina.net/news/502463",
+      "summary": "9月初，NVIDIA 正式发布 DLSS 5，3D 引导神经网络渲染技术在《NBA 2K27》上大放异彩， RTX 50 系 显卡均可启用。DLSS 5的光线与材质由 AI 实时渲染...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "从 Python 到 Rust：OpenAI Habitat 的 10 倍增长之路",
+      "url": "https://www.oschina.net/news/502462/openai-scaling-storage-one-billion-users-part-one",
+      "summary": "每秒 7000 万次请求，500PB 数据，每周 10 亿用户。这是 ChatGPT 背后存储系统 Habitat 现在的规模。 真正让人意外的不是这些数字，是 OpenAI 处理...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "政企电子签章系统推荐：从企业微信办公入口到内网私有化部署",
+      "url": "https://www.oschina.net/news/502461",
+      "summary": "2026 年 9 月，立约笔电子签章系统正式上线企业微信应用市场。用户可在企业微信应用市场搜索「立约笔」，添加应用并完成开通配置后，直接在企业微信...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Casbin Gateway 开源：本地 AI 编程 Agent 管理网关，统一 29 个 Agent 的配置、用量与权限",
+      "url": "https://www.oschina.net/news/502460",
+      "summary": "Casbin Gateway 是 Apache Casbin 社区新开源的一个本地 AI 编程 Agent 管理网关，采用 Apache 2.0 协议，Go + React 编写，提供 Windows / macOS ...",
+      "author": "Casbin开源社区",
+      "comments": 0
+    },
+    {
+      "title": "伏羲智能决策 v0.1.1 - 安全加固版本发布，现已开放线上演示",
+      "url": "https://www.oschina.net/news/502459",
+      "summary": "🔒 重大安全更新 本次更新专注于验证码系统的全面安全加固，修复多个高危安全漏洞，显著提升系统稳定性和安全性。 线上演示：https://fuxioffic...",
+      "author": "伏羲智能",
+      "comments": 0
+    },
+    {
+      "title": "Eywe - 项目管理软件",
+      "url": "https://www.oschina.net/news/502458",
+      "summary": "Eywe 是一款免费的项目管理软件，由易为软件提供。产品灵活落地 IPD、SCRUM、PMBOK 等业界主流研发管理理念，以市场需求为导向、以计划任务为驱...",
+      "author": "小易管家",
+      "comments": 0
+    },
+    {
+      "title": "Casdoor v4 发布：控制台全面重写，内置 MCP Server 与 Agent 鉴权，项目已收录进 CNCF 全景图",
+      "url": "https://www.oschina.net/news/502457",
+      "summary": "开源身份认证与访问管理平台 Casdoor 于 2026 年 9 月 1 日发布 v4.0，截至 9 月 9 日已迭代至 v4.3。此外，该项目已于 2026 年 2 月 22 日收录进 ...",
+      "author": "Casbin开源社区",
+      "comments": 0
+    },
+    {
+      "title": "“豆包手机助手”消费者版本正式发布",
+      "url": "https://www.oschina.net/news/502456",
+      "summary": "打开一个装修设计图，不用截图、不用切换应用，直接对着手机问\"根据这个装修风格，帮我选一个一米二以内、价格不超过一千元的柜子\"——这是豆包手机...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Erupt 2.2.0 已发布，支持模型图谱 + 多维表格 + 多主题",
+      "url": "https://www.oschina.net/news/502455",
+      "summary": "",
+      "author": "erupts",
+      "comments": 0
+    },
+    {
+      "title": "GFlow v1.2.0 发布：Go 生态审批工作流引擎，中国式审批、AI 先审、批完自动办",
+      "url": "https://www.oschina.net/news/502454",
+      "summary": "GFlow 是什么？ GFlow 是 RuleGo 团队打造的审批工作流产品，解决每个业务系统都绕不开的问题：申请要有人审、审批要有流程、批完还要有人接着办。...",
+      "author": "rulego_team",
+      "comments": 0
+    },
+    {
+      "title": "Mailez 1.0.0 发布：全自研引擎的自托管邮件系统正式版",
+      "url": "https://www.oschina.net/news/502453",
+      "summary": "Mailez 1.0.0 正式发布。这是一个完全自托管的邮件系统：SMTP、IMAP、POP3、ManageSieve 四大协议由自研的 Mailezine 单二进制引擎逐协议实现（G...",
+      "author": "超级牛来了",
+      "comments": 0
+    },
+    {
+      "title": "国家超算互联网一周上新模型速递",
+      "url": "https://www.oschina.net/news/502452",
+      "summary": "一、面壁智能 MiniCPM5-2B「镜像+模型」上线，初具端侧通用 Agent 能力 近日，面壁智能联合 OpenBMB 开源社区正式开源新一代「小钢炮」MiniCPM5-2B...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}

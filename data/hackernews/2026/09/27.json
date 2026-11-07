@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T14:43:03.170706+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "summary": "",
+      "author": "papergirl",
+      "comments": 399,
+      "score": 492
+    },
+    {
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "summary": "",
+      "author": "Qision",
+      "comments": 247,
+      "score": 458
+    },
+    {
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "summary": "",
+      "author": "silveraxe93",
+      "comments": 317,
+      "score": 431
+    },
+    {
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "summary": "",
+      "author": "ksec",
+      "comments": 109,
+      "score": 419
+    },
+    {
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "summary": "",
+      "author": "MC995",
+      "comments": 744,
+      "score": 352
+    },
+    {
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "summary": "",
+      "author": "jpwalsh234",
+      "comments": 92,
+      "score": 349
+    },
+    {
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+      "summary": "",
+      "author": "rbanffy",
+      "comments": 231,
+      "score": 327
+    },
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "summary": "",
+      "author": "shenli3514",
+      "comments": 93,
+      "score": 290
+    },
+    {
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "summary": "",
+      "author": "chmaynard",
+      "comments": 126,
+      "score": 287
+    },
+    {
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "summary": "",
+      "author": "signa11",
+      "comments": 301,
+      "score": 285
+    },
+    {
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "summary": "",
+      "author": "azhenley",
+      "comments": 230,
+      "score": 251
+    },
+    {
+      "title": "Flip Fluid on Flip Dots",
+      "url": "https://mitxela.com/projects/flipflip",
+      "summary": "",
+      "author": "blutack",
+      "comments": 14,
+      "score": 227
+    },
+    {
+      "title": "What is the size of Yemen? (2024)",
+      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "summary": "",
+      "author": "kspacewalk2",
+      "comments": 70,
+      "score": 218
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "summary": "",
+      "author": "momentmaker",
+      "comments": 26,
+      "score": 192
+    },
+    {
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "summary": "",
+      "author": "parasitid",
+      "comments": 43,
+      "score": 169
+    },
+    {
+      "title": "An agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "summary": "",
+      "author": "apsec112",
+      "comments": 126,
+      "score": 128
+    },
+    {
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "summary": "",
+      "author": "flxflx",
+      "comments": 50,
+      "score": 115
+    },
+    {
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "summary": "",
+      "author": "pseudolus",
+      "comments": 34,
+      "score": 98
+    },
+    {
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "summary": "",
+      "author": "pwg",
+      "comments": 11,
+      "score": 94
+    },
+    {
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "summary": "",
+      "author": "geox",
+      "comments": 45,
+      "score": 79
+    },
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "summary": "",
+      "author": "yu3zhou4",
+      "comments": 73,
+      "score": 78
+    },
+    {
+      "title": "The internet discovers TLA+. Now what?",
+      "url": "https://reasonable.io/blog/tla-tutorial/",
+      "summary": "",
+      "author": "matt_d",
+      "comments": 33,
+      "score": 66
+    },
+    {
+      "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+      "url": "https://francisbach.com/spectral_log_density_estimation/",
+      "summary": "",
+      "author": "matt_d",
+      "comments": 0,
+      "score": 51
+    },
+    {
+      "title": "Finally, A True Blue Rose Exists",
+      "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+      "summary": "",
+      "author": "bookofjoe",
+      "comments": 18,
+      "score": 49
+    },
+    {
+      "title": "Teaching a World Model to Play Pokemon",
+      "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
+      "summary": "",
+      "author": "stmonty",
+      "comments": 18,
+      "score": 20
+    },
+    {
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "url": "https://fakecloud.dev/",
+      "summary": "",
+      "author": "theanonymousone",
+      "comments": 8,
+      "score": 19
+    },
+    {
+      "title": "Rusty thoughts on \"Parse, don't validate\"",
+      "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+      "summary": "",
+      "author": "ingve",
+      "comments": 3,
+      "score": 19
+    },
+    {
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 3,
+      "score": 12
+    },
+    {
+      "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
+      "url": "https://3d-retro.com/",
+      "summary": "",
+      "author": "SouthWestAtlas",
+      "comments": 2,
+      "score": 9
+    },
+    {
+      "title": "Accelerated Out of Core Shuffling",
+      "url": "https://quasiben.github.io/blog/ooc-shuffling-rapidsmpf/",
+      "summary": "",
+      "author": "quasiben",
+      "comments": 0,
+      "score": 7
+    }
+  ]
+}

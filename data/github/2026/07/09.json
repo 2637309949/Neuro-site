@@ -1,0 +1,180 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T12:21:56.940286+00:00",
+  "source": "github",
+  "count": 15,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "MadsLorentzen/ai-job-search",
+      "repo": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "summary": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "language": "TypeScript",
+      "stars": 17124,
+      "today_stars": 3728
+    },
+    {
+      "title": "SmartlyDressedGames/U3-SDK",
+      "repo": "SmartlyDressedGames/U3-SDK",
+      "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+      "summary": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "language": "C#",
+      "stars": 1753,
+      "today_stars": 541
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 75380,
+      "today_stars": 2582
+    },
+    {
+      "title": "VoltAgent/awesome-design-md",
+      "repo": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "summary": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+      "language": "",
+      "stars": 99038,
+      "today_stars": 1569
+    },
+    {
+      "title": "iOfficeAI/OfficeCLI",
+      "repo": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "summary": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 12883,
+      "today_stars": 1923
+    },
+    {
+      "title": "wonderwhy-er/DesktopCommanderMCP",
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "summary": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 6467,
+      "today_stars": 185
+    },
+    {
+      "title": "anthropics/claude-cookbooks",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "summary": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 46844,
+      "today_stars": 194
+    },
+    {
+      "title": "vxcontrol/pentagi",
+      "repo": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "summary": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 19068,
+      "today_stars": 454
+    },
+    {
+      "title": "unclecode/crawl4ai",
+      "repo": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "summary": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "stars": 71614,
+      "today_stars": 195
+    },
+    {
+      "title": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "repo": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+      "summary": "An evolving how-to guide for securing a Linux server.",
+      "language": "",
+      "stars": 28831,
+      "today_stars": 399
+    },
+    {
+      "title": "huxingyi/autoremesher",
+      "repo": "huxingyi/autoremesher",
+      "url": "https://github.com/huxingyi/autoremesher",
+      "summary": "Automatic quad remeshing tool",
+      "language": "C++",
+      "stars": 2197,
+      "today_stars": 296
+    },
+    {
+      "title": "bradautomates/claude-video",
+      "repo": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "summary": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 6407,
+      "today_stars": 727
+    },
+    {
+      "title": "prisma/prisma",
+      "repo": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "summary": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "language": "TypeScript",
+      "stars": 46752,
+      "today_stars": 373
+    },
+    {
+      "title": "kyutai-labs/pocket-tts",
+      "repo": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "summary": "A TTS that fits in your CPU (and pocket)",
+      "language": "Python",
+      "stars": 6735,
+      "today_stars": 655
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "repo": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "summary": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 54718,
+      "today_stars": 1135
+    }
+  ]
+}

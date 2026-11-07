@@ -1,0 +1,437 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T15:58:56.461223+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "presentationPlacement(.leading) sheet won&#39;t go half width on iPhone Duo when fully unfolded",
+      "url": "https://stackoverflow.com/questions/80014015/presentationplacement-leading-sheet-wont-go-half-width-on-iphone-duo-when-ful",
+      "summary": "",
+      "tags": [
+        "ios",
+        "swiftui"
+      ],
+      "author": "Patato",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Looking for a practical example where making a super call in the body of __init__ method of a metaclass makes a difference",
+      "url": "https://stackoverflow.com/questions/80014004/looking-for-a-practical-example-where-making-a-super-call-in-the-body-of-init",
+      "summary": "",
+      "tags": [
+        "python",
+        "oop"
+      ],
+      "author": "ariko stephen",
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "title": "Experiencing bad control flow with Roslyn | .NET | RyuJIT",
+      "url": "https://stackoverflow.com/questions/80014007/experiencing-bad-control-flow-with-roslyn-net-ryujit",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "compiler-construction"
+      ],
+      "author": "Matheus Ryujinx",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Unable to build (slightly modified) Frecon Lite from source",
+      "url": "https://stackoverflow.com/questions/80014005/unable-to-build-slightly-modified-frecon-lite-from-source",
+      "summary": "",
+      "tags": [
+        "build",
+        "google-chrome-os",
+        "terminal-emulator",
+        "chromium-os"
+      ],
+      "author": "Jack Wagon",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Not Sure if I Have Complete Separation in Binomial GLMM and What to Do",
+      "url": "https://stackoverflow.com/questions/80014006/not-sure-if-i-have-complete-separation-in-binomial-glmm-and-what-to-do",
+      "summary": "",
+      "tags": [
+        "r",
+        "statistics",
+        "glmmtmb",
+        "brms"
+      ],
+      "author": "Tanya Lemieux",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Do I need a try/finally clause when calling cv2.VideoCapture.release()?",
+      "url": "https://stackoverflow.com/questions/80013974/do-i-need-a-try-finally-clause-when-calling-cv2-videocapture-release",
+      "summary": "",
+      "tags": [
+        "python",
+        "opencv",
+        "exception",
+        "try-finally"
+      ],
+      "author": "JadenV15",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "CMake Download &amp; Extract .xz File",
+      "url": "https://stackoverflow.com/questions/80013998/cmake-download-extract-xz-file",
+      "summary": "",
+      "tags": [
+        "cmake",
+        "xz",
+        "fetchcontent"
+      ],
+      "author": "Fred Wright",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to center MathML&#39;s &lt;math&gt; in Firefox?",
+      "url": "https://stackoverflow.com/questions/80013991/how-to-center-mathmls-math-in-firefox",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "firefox",
+        "mathml"
+      ],
+      "author": "Dasterman800",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Python 2 vs. Python 3: what does &quot;not backward compatible&quot; mean exactly?",
+      "url": "https://stackoverflow.com/questions/80013954/python-2-vs-python-3-what-does-not-backward-compatible-mean-exactly",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "cluster1",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Issues with Win32 NC Titlebar",
+      "url": "https://stackoverflow.com/questions/80014003/issues-with-win32-nc-titlebar",
+      "summary": "",
+      "tags": [
+        "windows",
+        "winapi",
+        "titlebar",
+        "dwm",
+        "nonclient-area"
+      ],
+      "author": "Diya Al Deen",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to cache neighbouring variables in a 2D array?",
+      "url": "https://stackoverflow.com/questions/80013941/how-to-cache-neighbouring-variables-in-a-2d-array",
+      "summary": "",
+      "tags": [
+        "c++",
+        "multidimensional-array",
+        "game-development",
+        "sdl-3"
+      ],
+      "author": "Jake K",
+      "comments": 3,
+      "score": 4
+    },
+    {
+      "title": "Why are most repeated DWG block instances not selectable in APS Viewer?",
+      "url": "https://stackoverflow.com/questions/80013956/why-are-most-repeated-dwg-block-instances-not-selectable-in-aps-viewer",
+      "summary": "",
+      "tags": [
+        "autodesk-forge",
+        "autodesk-viewer",
+        "autodesk-model-derivative"
+      ],
+      "author": "AirFlight",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Keycloak - Identity and Access Management for Modern Applications",
+      "url": "https://stackoverflow.com/questions/80013968/keycloak-identity-and-access-management-for-modern-applications",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "keycloak"
+      ],
+      "author": "KurtJ",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to Deploy Dell BIOS Updates Using ManageEngine Endpoint Central (PowerShell Script or Package)?",
+      "url": "https://stackoverflow.com/questions/80013970/how-to-deploy-dell-bios-updates-using-manageengine-endpoint-central-powershell",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "unified-service-desk"
+      ],
+      "author": "Chilin",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Dog Bark Emotion Analysis: Should I include a breed classification pre-model?",
+      "url": "https://stackoverflow.com/questions/80013971/dog-bark-emotion-analysis-should-i-include-a-breed-classification-pre-model",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "machine-learning",
+        "classification",
+        "audio-processing"
+      ],
+      "author": "noa",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "How do I fix “multi-part identifier could not be bound” after wrapping raw SQL in a paging subquery?",
+      "url": "https://stackoverflow.com/questions/80013922/how-do-i-fix-multi-part-identifier-could-not-be-bound-after-wrapping-raw-sql-i",
+      "summary": "",
+      "tags": [
+        "c#",
+        "sql-server",
+        "entity-framework-core",
+        "pagination"
+      ],
+      "author": "hokwanhung",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Parallels: Can&#39;t delete file in shared folder: Value too large for defined data type",
+      "url": "https://stackoverflow.com/questions/80013960/parallels-cant-delete-file-in-shared-folder-value-too-large-for-defined-data",
+      "summary": "",
+      "tags": [
+        "macos",
+        "debian",
+        "parallels"
+      ],
+      "author": "user2792352",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Why does clicking the icon inside a dynamically added button not trigger my delegated click handler, while clicking the button text does?",
+      "url": "https://stackoverflow.com/questions/80013931/why-does-clicking-the-icon-inside-a-dynamically-added-button-not-trigger-my-dele",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "dom-events"
+      ],
+      "author": "mith sams",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Throwing exceptions in method for a class",
+      "url": "https://stackoverflow.com/questions/80013934/throwing-exceptions-in-method-for-a-class",
+      "summary": "",
+      "tags": [
+        "java",
+        "exception"
+      ],
+      "author": "Jimmy Seifert",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "SVN server and Apache 2 directory change, first commit errors and permisson denied prompts",
+      "url": "https://stackoverflow.com/questions/80013944/svn-server-and-apache-2-directory-change-first-commit-errors-and-permisson-deni",
+      "summary": "",
+      "tags": [
+        "svn"
+      ],
+      "author": "sanoy",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Python 3.14: NameError for a self-referencing annotation, but only when it’s read in __init_subclass__",
+      "url": "https://stackoverflow.com/questions/80013905/python-3-14-nameerror-for-a-self-referencing-annotation-but-only-when-it-s-rea",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-typing",
+        "python-3.14"
+      ],
+      "author": "Muhammad Raham Saleem",
+      "comments": 2,
+      "score": 4
+    },
+    {
+      "title": "Adding a Private property to CanvasRenderingContext2D",
+      "url": "https://stackoverflow.com/questions/80013933/adding-a-private-property-to-canvasrenderingcontext2d",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "class",
+        "html5-canvas",
+        "extends"
+      ],
+      "author": "Manngo",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "TURBO C++ 3.2 on WINDOWS 10",
+      "url": "https://stackoverflow.com/questions/80013927/turbo-c-3-2-on-windows-10",
+      "summary": "",
+      "tags": [
+        "c++",
+        "turbo-c++"
+      ],
+      "author": "Beazy",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "How to make it so that the title of the infobox can be anything instead of taking the name of the page?",
+      "url": "https://stackoverflow.com/questions/80013950/how-to-make-it-so-that-the-title-of-the-infobox-can-be-anything-instead-of-takin",
+      "summary": "",
+      "tags": [
+        "mediawiki",
+        "mediawiki-templates",
+        "infobox"
+      ],
+      "author": "xtropicalsoothing",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "C++ Multithreading not achieving expected performance boost",
+      "url": "https://stackoverflow.com/questions/80013918/c-multithreading-not-achieving-expected-performance-boost",
+      "summary": "",
+      "tags": [
+        "c++",
+        "arrays",
+        "multithreading",
+        "memory"
+      ],
+      "author": "Gelis 07",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "how to expose spi device in zephyr on esp32",
+      "url": "https://stackoverflow.com/questions/80013948/how-to-expose-spi-device-in-zephyr-on-esp32",
+      "summary": "",
+      "tags": [
+        "esp32",
+        "device-tree",
+        "zephyr-rtos"
+      ],
+      "author": "lotek",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Karatsuba algorithm without recursion",
+      "url": "https://stackoverflow.com/questions/80013860/karatsuba-algorithm-without-recursion",
+      "summary": "",
+      "tags": [
+        "c",
+        "algorithm",
+        "multiplication"
+      ],
+      "author": "nimrag",
+      "comments": 1,
+      "score": 6
+    },
+    {
+      "title": "Building a sports betting app like 1xBet in Flutter",
+      "url": "https://stackoverflow.com/questions/80013928/building-a-sports-betting-app-like-1xbet-in-flutter",
+      "summary": "",
+      "tags": [
+        "json",
+        "flutter",
+        "dart",
+        "http"
+      ],
+      "author": "Ismailhossainriyad Ismailhossa",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Hashmaps and storage requirements",
+      "url": "https://stackoverflow.com/questions/80013929/hashmaps-and-storage-requirements",
+      "summary": "",
+      "tags": [
+        "hashmap"
+      ],
+      "author": "yessirnosir",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "Why does my program work in C23 and not in C11?",
+      "url": "https://stackoverflow.com/questions/80013344/why-does-my-program-work-in-c23-and-not-in-c11",
+      "summary": "",
+      "tags": [
+        "c",
+        "language-lawyer",
+        "c23",
+        "trigraphs"
+      ],
+      "author": "chqrlie",
+      "comments": 3,
+      "score": 20
+    }
+  ]
+}

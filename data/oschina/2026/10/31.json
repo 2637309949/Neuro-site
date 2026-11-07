@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T15:19:16.399390+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "聚力开源向实 赋能产业创新——2026 上海开源软件应用创新大赛总决赛暨创新增长大会圆满落幕",
+      "url": "https://www.oschina.net/news/503320",
+      "summary": "10月29日至30日，2026上海开源软件应用创新大赛总决赛暨创新增长大会在上海张江人工智能创新小镇举行。本届大赛由开源中国主办，自8月5日启动报名以...",
+      "author": "菠萝的海子",
+      "comments": 0
+    },
+    {
+      "title": "攻击者利用 PHP2Shell 漏洞控入侵美国政府服务器",
+      "url": "https://www.oschina.net/news/503319/chained-php2shell-exploit-roots-25-servers",
+      "summary": "十天前我们写过 PHP 基金会那两个拖了两年才修好的 RCE 漏洞（CVE-2026-109618 / CVE-2026-109619）。现在它们已经被武器化、实战利用了——而且打...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek 千亿融资名单曝光，国资占比从 2% 跳到 27%",
+      "url": "https://www.oschina.net/news/503318",
+      "summary": "DeepSeek 第二轮融资拿下了 1055 亿元人民币，约 158 亿美元。The Information 拿到了出资名单，近 30 家投资者——比金额更有意思的是名单的构成变...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "这个 Agent 宿主把界面做成了纯文本，你想要什么形状自己让 Agent 改",
+      "url": "https://www.oschina.net/news/503317/herdr-dev-agent-ide-runtime",
+      "summary": "Herdr 的自我介绍里有一句话很吸睛：\"每一处界面都是你 agent 能改的文件。\" 它是一个给 coding agent 用的原生宿主——Claude Code、Codex、以及任...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "qData 数据中台开源版 v1.6.5 发布：Doris 数据源适配增强，新增演示数据清除脚本",
+      "url": "https://www.oschina.net/news/503316",
+      "summary": "随着数据平台应用场景不断丰富，数据库适配范围与部署后的使用体验，逐渐成为开发者关注的两个方面。既要让已有数据源能够参与更多平台功能，也需要...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "数据迁移同步工具 CloudCanal v6.6.0.0 发布，Kudu 同步能力升级",
+      "url": "https://www.oschina.net/news/503315",
+      "summary": "CloudCanal 免费社区版 是 ClouGence 公司推出的一款全自研、可视化、自动化数据迁移同步工具，具备 结构迁移、数据迁移、数据同步、数据校验...",
+      "author": "ClouGence",
+      "comments": 0
+    },
+    {
+      "title": "向光而行 码向未来 | “1024程序员节”鸿蒙开发者沙龙天津站圆满落幕",
+      "url": "https://my.oschina.net/u/4806939/blog/19784478",
+      "summary": "10 月 25 日，“向光而行 码向未来” 鸿蒙 1024 程序员节线下开发者沙龙在天津顺利举办。活动汇聚 60 余位鸿蒙开发者，共探 HarmonyOS 7 新特性、新...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": ":fire::fire:开源接口平台 v6.3.1 发布，新增超时时间",
+      "url": "https://www.oschina.net/news/503313",
+      "summary": "ApiGo 是一款在线接口开发和管理平台，多数据库插件化数据源框架、SQL2API 。支持 WorkBuddy、千问办公、Trea Work、豆包等 AI 办公平台 MCP 接入...",
+      "author": "鲨鱼不刷牙",
+      "comments": 0
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：全新上线 RUM 模块，从真实用户视角了解网站访问与使用体验",
+      "url": "https://www.oschina.net/news/503312",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。...",
+      "author": "bklitecanway",
+      "comments": 0
+    },
+    {
+      "title": "万亿参数模型 Mistral Large 4 开放权重，用更少的 token 打平了最高分",
+      "url": "https://www.oschina.net/news/503310/mistral-large-4-oss",
+      "summary": "Mistral 把 Mistral Large 4（内部代号 Le Chonk）的权重开源出来了：1 万亿参数、原生多模态、开源权重里编码能力最强。这是到目前为止开放权重阵...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Pico CSS 停止维护，作者解释称“AI 能直接生成它要做的事”",
+      "url": "https://www.oschina.net/news/503309",
+      "summary": "Pico CSS 停在 v2.1.1 了。这个以\"给语义化 HTML 用的极简 CSS 框架\"出名的项目，在 GitHub Discussion 里宣布不再维护，仓库归档，不再接受 issu...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "MiniMax Code 团队把自己每天用的 16 个 Agent 技能开源了",
+      "url": "https://www.oschina.net/news/503308",
+      "summary": "MiniMax Code 团队把他们自己天天在用的工作流和 skills 开源了。仓库开头第一句就把定位说清楚了：这不是提示词合集，也不是\"最佳实践\"清单，而是...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "拿注意力层当内存——有人在 Qwen 权重里编译了一颗 RISC-V CPU",
+      "url": "https://www.oschina.net/news/503307/qwenputer-risc-v",
+      "summary": "开发者 Divyansh Agrawal 往 Qwen 3.5 4B 的权重里编译了一颗真正的 RISC-V CPU，然后用模型自己的 Gated DeltaNet 注意力层当内存。他给这东西起名...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "四种采购对象：平台、实施、运维与托管",
+      "url": "https://www.oschina.net/news/503306",
+      "summary": "企业私有云上线之后，谁负责开通资源、调整权限、更新组件和处理故障？这类问题如果在采购时没有回答，平台功能再丰富，也容易在运行阶段出现责任空...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "VibeVoice-ASR-BitNet 实测：AIGCPanel 上 CPU 实时转写",
+      "url": "https://www.oschina.net/news/503305",
+      "summary": "微软把语音识别模型从 4.62GB 压到 1.58GB，AIGCPanel 把它做成了一键运行包。 过去想在本地跑出能用的中文转写，常见路径要么上显卡，要么花半天折...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "OpenAI 隔离的 AI agent 通过 CPU 缓存互相通信",
+      "url": "https://www.oschina.net/news/503303/openai-securing-our-frontier-model-training-environment",
+      "summary": "OpenAI 做了个测试：把两个 agent 放进完全隔离的环境，跑在同一套硬件上，没有网络、没有共享文件，命令它们互相传递一个秘密。它们做到了——用的...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Neton 1.0.0 正式发布：面向 AI 原生开发的 Kotlin/Native 服务端应用框架",
+      "url": "https://www.oschina.net/news/503302",
+      "summary": "Neton Framework 1.0.0 正式发布，现已上线 Maven Central。 这是 Neton 的第一个稳定版本。从应用装配、依赖注入、HTTP API，到数据库、认证授权、...",
+      "author": "zoujiaqing",
+      "comments": 0
+    },
+    {
+      "title": "模型服务化三条链：资源、运行与调用",
+      "url": "https://www.oschina.net/news/503301",
+      "summary": "企业AI基础设施平台不是芯片品牌榜，也不只是一个模型聊天界面。它需要把GPU资源、模型运行环境和业务调用连接起来，让不同团队能够申请、使用和维...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "ZStack CMP 与 ManageOne：治理路线怎么比",
+      "url": "https://www.oschina.net/news/503300",
+      "summary": "多云管理平台是否值得采购，不取决于它能显示多少个资源池，而取决于能否把分散资源组织成企业实际使用的服务。资源有负责人、申请有流程、变更有记...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "高可用要分两层：基础设施与业务各自验",
+      "url": "https://www.oschina.net/news/503299",
+      "summary": "银行私有云建设容易陷入一个误区：认为统一平台就应该使用统一配置。实际上，交易链路、内部管理系统和开发测试环境，在性能、维护窗口、数据保护和...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}

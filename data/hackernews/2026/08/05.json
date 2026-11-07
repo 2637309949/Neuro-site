@@ -1,0 +1,280 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T15:27:29.913100+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "summary": "",
+      "author": "automatoney",
+      "comments": 99,
+      "score": 582
+    },
+    {
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "summary": "",
+      "author": "luispa",
+      "comments": 249,
+      "score": 479
+    },
+    {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "summary": "",
+      "author": "riadsila",
+      "comments": 124,
+      "score": 462
+    },
+    {
+      "title": "Stateless MCP has recaptured my interest",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+      "summary": "",
+      "author": "tosh",
+      "comments": 187,
+      "score": 330
+    },
+    {
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "summary": "",
+      "author": "dzdt",
+      "comments": 133,
+      "score": 283
+    },
+    {
+      "title": "“Gravity is worth asking about”",
+      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+      "summary": "",
+      "author": "nozzlegear",
+      "comments": 103,
+      "score": 169
+    },
+    {
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 82,
+      "score": 164
+    },
+    {
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "summary": "",
+      "author": "theanonymousone",
+      "comments": 99,
+      "score": 157
+    },
+    {
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+      "summary": "",
+      "author": "vincent_s",
+      "comments": 44,
+      "score": 132
+    },
+    {
+      "title": "Why Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "summary": "",
+      "author": "pseudolus",
+      "comments": 67,
+      "score": 87
+    },
+    {
+      "title": "Scaling NumPy on Free-Threaded Python",
+      "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+      "summary": "",
+      "author": "ngoldbaum",
+      "comments": 11,
+      "score": 65
+    },
+    {
+      "title": "Bubble Memory",
+      "url": "https://en.wikipedia.org/wiki/Bubble_memory",
+      "summary": "",
+      "author": "jacquesm",
+      "comments": 19,
+      "score": 55
+    },
+    {
+      "title": "Not hiring junior engineers won't solve the problem you think you have",
+      "url": "https://franciscotrindade.me/blog/the-kids-are-alright/",
+      "summary": "",
+      "author": "gpi",
+      "comments": 49,
+      "score": 44
+    },
+    {
+      "title": "Birduino: A card-triggered audio player for [learning] the birds",
+      "url": "https://hannahilea.com/blog/birduino/",
+      "summary": "",
+      "author": "austinallegro",
+      "comments": 6,
+      "score": 39
+    },
+    {
+      "title": "Aristotle quotes on virtue, knowledge, and happiness",
+      "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+      "summary": "",
+      "author": "teleforce",
+      "comments": 12,
+      "score": 36
+    },
+    {
+      "title": "Building an Advanced Agentic Harness",
+      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+      "summary": "",
+      "author": "Anon84",
+      "comments": 15,
+      "score": 28
+    },
+    {
+      "title": "Faster Than Ninja",
+      "url": "https://build2.org/blog/faster-than-ninja.xhtml",
+      "summary": "",
+      "author": "elasticdog",
+      "comments": 2,
+      "score": 28
+    },
+    {
+      "title": "Google's HTTP/2 codec slows Envoy",
+      "url": "https://apoxy.dev/blog/oghttp2-vs-nghttp2",
+      "summary": "",
+      "author": "dilyevsky",
+      "comments": 0,
+      "score": 25
+    },
+    {
+      "title": "TSON – A JSON superset with immutable, hash-pinned schemas",
+      "url": "https://tson.io/",
+      "summary": "",
+      "author": "andrewjneumann",
+      "comments": 15,
+      "score": 24
+    },
+    {
+      "title": "Intelligence Is Not the Main Bottleneck",
+      "url": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
+      "summary": "",
+      "author": "rruxandra_l",
+      "comments": 3,
+      "score": 20
+    },
+    {
+      "title": "The Entropy of a Markov Chain",
+      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 1,
+      "score": 20
+    },
+    {
+      "title": "Cloudflare OS – an open-source AI productivity environment",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "summary": "",
+      "author": "berlianta",
+      "comments": 3,
+      "score": 19
+    },
+    {
+      "title": "Painting with Gaussians",
+      "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+      "summary": "",
+      "author": "yogthos",
+      "comments": 0,
+      "score": 14
+    },
+    {
+      "title": "BSD Make extravaganza: Mandelbrot Set In bmake",
+      "url": "https://github.com/b-aaz/bmake-extravaganza/tree/master",
+      "summary": "",
+      "author": "signa11",
+      "comments": 0,
+      "score": 14
+    },
+    {
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "summary": "",
+      "author": "mooreds",
+      "comments": 0,
+      "score": 13
+    },
+    {
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "summary": "",
+      "author": "ahlCVA",
+      "comments": 1,
+      "score": 12
+    },
+    {
+      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
+      "summary": "",
+      "author": "_____k",
+      "comments": 0,
+      "score": 12
+    },
+    {
+      "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
+      "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
+      "summary": "",
+      "author": "MarcoDewey",
+      "comments": 1,
+      "score": 11
+    },
+    {
+      "title": "Google Assistant is going away on Mobile Devices",
+      "url": "https://images.seroundtable.com/google-assistant-going-away-laEdSzU1.png",
+      "summary": "",
+      "author": "franze",
+      "comments": 1,
+      "score": 9
+    },
+    {
+      "title": "Show HN: I rewrote my 2012 self-signed cert generator in Go – cert-depot.com",
+      "url": "https://news.ycombinator.com/item?id=47613622",
+      "summary": "",
+      "author": "dimastopel",
+      "comments": 1,
+      "score": 9
+    }
+  ]
+}

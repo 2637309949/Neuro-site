@@ -1,0 +1,144 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T15:52:09.744401+00:00",
+  "source": "github",
+  "count": 11,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "OpenCut-app/OpenCut",
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "summary": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 65097,
+      "today_stars": 1077
+    },
+    {
+      "title": "Destructive Command Guard：AI编码代理的危险命令阻止工具",
+      "repo": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "summary": "该工具通过高性能量化钩子，阻止AI编码代理执行危险命令，支持Claude Code、Codex CLI、GitHub Copilot等工具，提供Linux、macOS及Windows安装方式，防止代码意外删除。",
+      "language": "Rust",
+      "stars": 3726,
+      "today_stars": 1290
+    },
+    {
+      "title": "Vibe-Trading：个人交易代理增强安全与策略开发功能",
+      "repo": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "summary": "该项目通过安全加固解决10项外部审计问题，新增策略开发管理器支持学术研究转化，包含回测沙箱强化、短期认证票据、资源限制等技术改进。",
+      "language": "Python",
+      "stars": 21406,
+      "today_stars": 1148
+    },
+    {
+      "title": "AIRI：自托管Grok伴侣，支持实时语音聊天与游戏互动",
+      "repo": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "summary": "AIRI是受Neuro-sama启发的开源AI虚拟伴侣项目，支持实时语音聊天、Minecraft/Factorio游戏互动，提供跨平台安装方案（Web/macOS/Windows）。项目包含RAG系统、记忆数据库等模块，并通过Crowdin支持多语言协作。",
+      "language": "TypeScript",
+      "stars": 41739,
+      "today_stars": 57
+    },
+    {
+      "title": "Awesome LLM Apps：100+可运行的AI代理与RAG应用模板",
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "summary": "该项目提供100+个可直接运行的AI代理和RAG应用模板，支持Claude、Gemini、OpenAI等主流模型。包含完整源码的独立模板，提供3步快速部署方案，涵盖AI代理、多代理协作、语音代理等现代AI技术栈，采用Apache-2.0协议开放使用。",
+      "language": "Python",
+      "stars": 119337,
+      "today_stars": 1006
+    },
+    {
+      "title": "Hallmark：反AI生成设计工具，专为Claude Code等优化",
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "summary": "提供20个主题和4个动词操作，通过57项测试防止AI生成痕迹，支持自定义设计，适用于Claude Code、Cursor和Codex。",
+      "language": "CSS",
+      "stars": 4864,
+      "today_stars": 802
+    },
+    {
+      "title": "Win11Debloat：Windows系统清理与定制工具",
+      "repo": "Raphire/Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "summary": "Win11Debloat是一个轻量级PowerShell脚本，支持删除预装应用、禁用遥测、移除界面元素，适用于Windows 10和11。提供命令行接口、审计模式支持及设置导出/导入功能，无需安装即可快速定制系统。",
+      "language": "PowerShell",
+      "stars": 50631,
+      "today_stars": 74
+    },
+    {
+      "title": "Graphify：AI编码助手构建知识图谱工具",
+      "repo": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "summary": "支持Claude Code/Cursor等平台，通过tree-sitter AST本地解析代码、文档等文件，生成可交互查询的知识图谱。输出包含可视化图谱、概念分析报告和完整图数据，支持30秒快速部署，无需向量数据库。",
+      "language": "Python",
+      "stars": 84119,
+      "today_stars": 1028
+    },
+    {
+      "title": "1324个健身动作数据集：含GIF动画与多语言说明",
+      "repo": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "summary": "包含1324个健身动作的完整数据集，提供动画GIF、180×180缩略图、肌肉群/器材信息及9种语言的分步说明。该数据集为LogPress健身应用提供数据支持，适用于健身应用开发和机器学习项目。",
+      "language": "HTML",
+      "stars": 12399,
+      "today_stars": 435
+    },
+    {
+      "title": "Spec-Kit：规格驱动开发工具包",
+      "repo": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "summary": "开源工具包通过规格驱动开发提升软件质量，支持AI集成与自定义扩展。提供CLI工具实现从规格到代码的自动化生成，包含项目初始化、升级管理等核心功能。",
+      "language": "Python",
+      "stars": 120391,
+      "today_stars": 508
+    },
+    {
+      "title": "适用于Claude Code和AI代理的营销技能集合",
+      "repo": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "summary": "提供AI代理执行转化率优化、文案撰写、SEO分析及增长工程的技能集合，兼容Claude Code、OpenAI Codex等编码代理。包含基础产品营销技能与扩展模块，支持自主CMO代理构建。",
+      "language": "JavaScript",
+      "stars": 38270,
+      "today_stars": 260
+    }
+  ]
+}

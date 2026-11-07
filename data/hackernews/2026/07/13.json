@@ -1,0 +1,280 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T15:52:10.001414+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Zig创始人直指Anthropic制造AI泡沫",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "summary": "Zig语言创始人批评Anthropic公司通过夸大AI影响误导行业决策。Anthropic凭借1320亿美元融资和万亿美元估值，推动'编程消亡论'叙事，其不可靠的未来承诺正影响企业架构和政策制定。",
+      "author": "crowdhailer",
+      "comments": 530,
+      "score": 1070
+    },
+    {
+      "title": "建议HN添加AI生成文章标记功能",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "summary": "Hacker News社区讨论是否应增加AI生成文章标记功能，该标记不影响文章排名，旨在提升内容透明度。",
+      "author": "levkk",
+      "comments": 386,
+      "score": 899
+    },
+    {
+      "title": "高效阅读方法：如何提升阅读量",
+      "url": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+      "summary": "作者通过减少手机使用、替换屏幕时间等方法，将阅读量从每年10本提升至每周1本。关键策略包括移除社交媒体应用、佩戴手表避免频繁查看手机，以及利用碎片时间阅读。",
+      "author": "silcoon",
+      "comments": 248,
+      "score": 485
+    },
+    {
+      "title": "Sam Neill has died",
+      "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+      "summary": "",
+      "author": "j4mie",
+      "comments": 89,
+      "score": 398
+    },
+    {
+      "title": "The Graph That Should Be Front-Page News",
+      "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+      "summary": "",
+      "author": "rakel_rakel",
+      "comments": 220,
+      "score": 386
+    },
+    {
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "summary": "",
+      "author": "ranger_danger",
+      "comments": 160,
+      "score": 350
+    },
+    {
+      "title": "Vint Cerf, “father of the Internet”, is retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "summary": "",
+      "author": "compiler-guy",
+      "comments": 189,
+      "score": 347
+    },
+    {
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "summary": "",
+      "author": "naves",
+      "comments": 27,
+      "score": 316
+    },
+    {
+      "title": "LARP：初创企业虚拟收入生成平台",
+      "url": "https://www.larp.website/",
+      "summary": "LARP通过虚拟交易帮助初创公司生成收入，无需实际产品或客户。平台匹配创始人进行双向转账，双方均可记录收入，年处理量达42.4亿美元。该模式引发对会计实践有效性的行业讨论，已被400+财务团队采用，具备99.98%结算可靠性。",
+      "author": "BerislavLopac",
+      "comments": 71,
+      "score": 298
+    },
+    {
+      "title": "So you want to learn physics (second edition, 2021)",
+      "url": "https://www.susanrigetti.com/physics",
+      "summary": "",
+      "author": "azhenley",
+      "comments": 56,
+      "score": 289
+    },
+    {
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "summary": "",
+      "author": "tnolet",
+      "comments": 145,
+      "score": 281
+    },
+    {
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "summary": "",
+      "author": "zdw",
+      "comments": 113,
+      "score": 265
+    },
+    {
+      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48884984",
+      "summary": "",
+      "author": "david927",
+      "comments": 695,
+      "score": 197
+    },
+    {
+      "title": "Grok CLI uploaded the whole home directory to GCS",
+      "url": "https://twitter.com/i/status/2076598897779020159",
+      "summary": "",
+      "author": "denysvitali",
+      "comments": 67,
+      "score": 191
+    },
+    {
+      "title": "连笔字书写回溯问题分析",
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "summary": "研究发现英语书写需频繁回溯（如点i、交叉t），俄语书写回溯次数显著减少。英语单词'destination'需4次回溯，俄语对应翻译'назначение'无需回溯。这种差异源于字母设计特性，可能影响书写流畅度和语言学习体验。",
+      "author": "dmit",
+      "comments": 80,
+      "score": 187
+    },
+    {
+      "title": "体素东京模拟同步日本真实时间与天气，结合日语学习",
+      "url": "https://jivx.com/densha",
+      "summary": "该项目通过体素建模技术构建东京城市景观，实时同步日本真实时间、天气和季节变化。用户可乘坐山手线环线，搭配N5级别日语句子朗读及字幕功能，形成沉浸式语言学习环境。项目使用日本国土交通省PLATEAU数据和国土地理院地形数据，采用CC BY 4.0协议授权。",
+      "author": "momentmaker",
+      "comments": 20,
+      "score": 183
+    },
+    {
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "summary": "",
+      "author": "coinfused",
+      "comments": 107,
+      "score": 165
+    },
+    {
+      "title": "新手设计首块PCB：从原型到生产流程探索",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "summary": "开发者通过Arduino Nano ESP32开发板入门硬件开发，逐步实现模块化设计。使用开源工具完成BME280传感器模块的PCB设计，验证了从原型验证到生产级硬件的可行性，展示了硬件开发流程的标准化实践。",
+      "author": "tadasv",
+      "comments": 86,
+      "score": 152
+    },
+    {
+      "title": "Antirez：未来编程应关注创意而非代码",
+      "url": "https://antirez.com/news/169",
+      "summary": "Antirez认为AI将重塑编程领域，程序员应转向创意主导。他通过实践和公开讨论推动行业适应这一变革，强调代码重要性下降，创意成为核心。",
+      "author": "surprisetalk",
+      "comments": 106,
+      "score": 149
+    },
+    {
+      "title": "The social physics of conversation: Communication patterns matter",
+      "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+      "summary": "",
+      "author": "kiyanwang",
+      "comments": 26,
+      "score": 123
+    },
+    {
+      "title": "开源复刻Gravis Ultrasound PnP声卡项目",
+      "url": "https://github.com/schlae/BeavisUltrasound",
+      "summary": "该项目开源复刻了Gravis Ultrasound PnP ISA声卡，包含完整原理图和GAL逆向工程代码。基于AMD InterWave芯片设计，简化了传统声卡架构，但尚未实际测试验证。硬件设计采用8.2x4.2英寸四层板，支持元件替代方案，需注意未安装的测试接口和过时PLL芯片问题。",
+      "author": "mariuz",
+      "comments": 31,
+      "score": 85
+    },
+    {
+      "title": "Clawk：为代码代理提供一次性Linux虚拟机",
+      "url": "https://github.com/clawkwork/clawk",
+      "summary": "Clawk通过创建独立Linux虚拟机解决代码代理安全执行问题，允许代理在隔离环境中安装软件、运行代码和启动服务，同时阻止未授权的网络访问和文件访问。该方案通过白名单控制网络连接，支持快速重建环境，当前处于预1.0开发阶段。",
+      "author": "celrenheit",
+      "comments": 90,
+      "score": 81
+    },
+    {
+      "title": "Precursor",
+      "url": "https://blog.cloudflare.com/introducing-precursor/",
+      "summary": "",
+      "author": "AznHisoka",
+      "comments": 66,
+      "score": 72
+    },
+    {
+      "title": "DOM-docx：将HTML转换为原生可编辑Word文档的开源工具",
+      "url": "https://github.com/floodtide/dom-docx",
+      "summary": "该项目提供纯JS实现的HTML转Word工具，支持将语义化HTML片段转换为原生可编辑的OOXML文档（含段落、表格、图片等）。无需浏览器即可运行，内置视觉回归测试保障排版精度，提供CLI与API接口，适用于自动化文档生成场景。",
+      "author": "fishbone",
+      "comments": 22,
+      "score": 72
+    },
+    {
+      "title": "The 'absolute magic' of Morse code that still connects people globally",
+      "url": "https://www.bbc.com/news/articles/cwye0dlzgejo",
+      "summary": "",
+      "author": "austinallegro",
+      "comments": 18,
+      "score": 55
+    },
+    {
+      "title": "黑胶唱针与沟槽微观物理模拟工具",
+      "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
+      "summary": "该工具是一款黑胶唱针与沟槽相互作用的微观物理模拟应用。基于赫兹接触、粘弹性阻尼等物理模型，支持调节信号链、转速、唱针形状等参数，并可实时测量信噪比、失真度与频响，为音频工程与黑胶技术提供可视化分析参考。",
+      "author": "XzetaU8",
+      "comments": 8,
+      "score": 55
+    },
+    {
+      "title": "The art and engineering of Sega CD Silpheed",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "summary": "",
+      "author": "ibobev",
+      "comments": 6,
+      "score": 43
+    },
+    {
+      "title": "LAPD lets contract with surveillance giant Flock expire",
+      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
+      "summary": "",
+      "author": "forks",
+      "comments": 4,
+      "score": 24
+    },
+    {
+      "title": "Cursed circuits #6: reverse avalanche oscillator",
+      "url": "https://lcamtuf.substack.com/p/cursed-circuits-6-reverse-avalanche",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 7,
+      "score": 23
+    },
+    {
+      "title": "并购后多公司网站整合与信息架构策略",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "summary": "企业并购后整合多个被收购公司网站时，应避免仅从产品视角出发。建议先明确用户目标，再制定信息架构与品牌重塑方案，以平衡不同团队视角，提升跨产品信息的可查找性与协同展示。",
+      "author": "mooreds",
+      "comments": 0,
+      "score": 13
+    }
+  ]
+}

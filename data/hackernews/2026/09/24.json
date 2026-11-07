@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T14:13:47.664332+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "summary": "",
+      "author": "raahelb",
+      "comments": 723,
+      "score": 713
+    },
+    {
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "summary": "",
+      "author": "aaronday",
+      "comments": 208,
+      "score": 518
+    },
+    {
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "summary": "",
+      "author": "avidly",
+      "comments": 110,
+      "score": 479
+    },
+    {
+      "title": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
+      "summary": "",
+      "author": "polymorph1sm",
+      "comments": 406,
+      "score": 455
+    },
+    {
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+      "summary": "",
+      "author": "pieterr",
+      "comments": 238,
+      "score": 417
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "summary": "",
+      "author": "Rapzid",
+      "comments": 165,
+      "score": 268
+    },
+    {
+      "title": "Ideas on modernizing the open-source desktop",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "summary": "",
+      "author": "signa11",
+      "comments": 289,
+      "score": 250
+    },
+    {
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "summary": "",
+      "author": "JohnHammersley",
+      "comments": 30,
+      "score": 239
+    },
+    {
+      "title": "Making Tailscale Faster",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "summary": "",
+      "author": "yarapavan",
+      "comments": 79,
+      "score": 203
+    },
+    {
+      "title": "The \"Windows XP Box\" (2003)",
+      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "summary": "",
+      "author": "doubletwoyou",
+      "comments": 36,
+      "score": 188
+    },
+    {
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "summary": "",
+      "author": "snikolaev",
+      "comments": 159,
+      "score": 182
+    },
+    {
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "summary": "",
+      "author": "rudy6912",
+      "comments": 111,
+      "score": 169
+    },
+    {
+      "title": "The mystery animal on an ancient god's head",
+      "url": "https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 37,
+      "score": 144
+    },
+    {
+      "title": "Nokia Design Archive (2025)",
+      "url": "https://nokiadesignarchive.aalto.fi/index.html",
+      "summary": "",
+      "author": "pillars",
+      "comments": 69,
+      "score": 139
+    },
+    {
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "summary": "",
+      "author": "Retro_Dev",
+      "comments": 79,
+      "score": 136
+    },
+    {
+      "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "summary": "",
+      "author": "ReturnoftheHack",
+      "comments": 53,
+      "score": 132
+    },
+    {
+      "title": "Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest",
+      "url": "https://github.com/nestrilabs/virtio-nvgpu",
+      "summary": "",
+      "author": "WanjohiRyan",
+      "comments": 53,
+      "score": 130
+    },
+    {
+      "title": "Contrastive Language Models",
+      "url": "https://contrastive-lm.notion.site/",
+      "summary": "",
+      "author": "erichocean",
+      "comments": 29,
+      "score": 110
+    },
+    {
+      "title": "Why 'What's Opera, Doc?' looks like that",
+      "url": "https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that",
+      "summary": "",
+      "author": "CharlesW",
+      "comments": 19,
+      "score": 95
+    },
+    {
+      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
+      "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
+      "summary": "",
+      "author": "adunk",
+      "comments": 31,
+      "score": 93
+    },
+    {
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "summary": "",
+      "author": "nonfamous",
+      "comments": 65,
+      "score": 77
+    },
+    {
+      "title": "RAM: the forgotten history (2024)",
+      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+      "summary": "",
+      "author": "Luc",
+      "comments": 2,
+      "score": 64
+    },
+    {
+      "title": "Making portable my unportable transputer C compiler",
+      "url": "https://nanochess.org/transputer_c_compiler.html",
+      "summary": "",
+      "author": "nanochess",
+      "comments": 8,
+      "score": 55
+    },
+    {
+      "title": "Women Who Sold Books Door to Door",
+      "url": "https://daily.jstor.org/the-women-who-sold-books-door-to-door/",
+      "summary": "",
+      "author": "herbertl",
+      "comments": 5,
+      "score": 49
+    },
+    {
+      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "summary": "",
+      "author": "ArielSimon",
+      "comments": 15,
+      "score": 46
+    },
+    {
+      "title": "The Year of Internal Tools",
+      "url": "https://www.geocod.io/code-and-coordinates/2026-09-23-the-year-of-internal-tools",
+      "summary": "",
+      "author": "thecodemonkey",
+      "comments": 8,
+      "score": 28
+    },
+    {
+      "title": "When the Debugger Lies",
+      "url": "https://danielmangum.com/posts/when-the-debugger-lies/",
+      "summary": "",
+      "author": "hasheddan",
+      "comments": 10,
+      "score": 25
+    },
+    {
+      "title": "Oracle Cites 'Force Majeure' to Shield Itself on Controversial Data Center",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/oracle-cites-force-majeure-to-shield-itself-on-controversial-data-center",
+      "summary": "",
+      "author": "simonpure",
+      "comments": 4,
+      "score": 16
+    },
+    {
+      "title": "Automated optimization of a molecular simulation program",
+      "url": "https://shishir-iyer.medium.com/automated-optimization-of-a-molecular-simulation-program-4a28a2bc05ad",
+      "summary": "",
+      "author": "shishir03",
+      "comments": 2,
+      "score": 11
+    },
+    {
+      "title": "Enjoy Every Sandwich",
+      "url": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
+      "summary": "",
+      "author": "NaOH",
+      "comments": 2,
+      "score": 10
+    }
+  ]
+}

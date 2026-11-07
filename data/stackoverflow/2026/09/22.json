@@ -1,0 +1,430 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T14:01:57.337832+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Where should I ask programming questions?",
+      "url": "https://stackoverflow.com/questions/80004971/where-should-i-ask-programming-questions",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "P196hql",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Have cart information connected to accounts not session",
+      "url": "https://stackoverflow.com/questions/80004972/have-cart-information-connected-to-accounts-not-session",
+      "summary": "",
+      "tags": [
+        "php"
+      ],
+      "author": "Taco_",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Update two directories using git",
+      "url": "https://stackoverflow.com/questions/80004969/update-two-directories-using-git",
+      "summary": "",
+      "tags": [
+        "git"
+      ],
+      "author": "&#194;ngelo Rigo",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Replace duplicated DataFrame indices with a single Series",
+      "url": "https://stackoverflow.com/questions/80004970/replace-duplicated-dataframe-indices-with-a-single-series",
+      "summary": "",
+      "tags": [
+        "python",
+        "pandas"
+      ],
+      "author": "Kes Perron",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "I am getting an error while using finfo and file_mime_type. Can you help me resolve it?",
+      "url": "https://stackoverflow.com/questions/80004968/i-am-getting-an-error-while-using-finfo-and-file-mime-type-can-you-help-me-reso",
+      "summary": "",
+      "tags": [
+        "php",
+        "mime-types"
+      ],
+      "author": "S Acharya",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to write Python integers to binary file using &quot;struct.pack&quot; equivalent to &quot;unsigned int&quot; in C++",
+      "url": "https://stackoverflow.com/questions/80004962/how-to-write-python-integers-to-binary-file-using-struct-pack-equivalent-to-u",
+      "summary": "",
+      "tags": [
+        "python",
+        "c++",
+        "binaryfiles"
+      ],
+      "author": "machiel",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Correct tags to make hamburger menu open on iOS",
+      "url": "https://stackoverflow.com/questions/80004950/correct-tags-to-make-hamburger-menu-open-on-ios",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "ios",
+        "mobile",
+        "responsive-design"
+      ],
+      "author": "Silent Takudzwa",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "QLibrary load/resolve OpenCV cv::Mat",
+      "url": "https://stackoverflow.com/questions/80004965/qlibrary-load-resolve-opencv-cvmat",
+      "summary": "",
+      "tags": [
+        "qt",
+        "opencv",
+        "qlibrary"
+      ],
+      "author": "Borys L.",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Region differences on model derivative API",
+      "url": "https://stackoverflow.com/questions/80004955/region-differences-on-model-derivative-api",
+      "summary": "",
+      "tags": [
+        "autodesk-forge",
+        "autodesk-viewer"
+      ],
+      "author": "vd334",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Performant score distribution and weighted average in MDX/icCube without building a million-member dimension",
+      "url": "https://stackoverflow.com/questions/80004960/performant-score-distribution-and-weighted-average-in-mdx-iccube-without-buildin",
+      "summary": "",
+      "tags": [
+        "mdx",
+        "olap",
+        "iccube",
+        "multidimensional-cube"
+      ],
+      "author": "hello_pixel",
+      "comments": 0,
+      "score": 3
+    },
+    {
+      "title": "MetaMask SDK: How to re-initialize the SDK and connect external wallets after email/password login?",
+      "url": "https://stackoverflow.com/questions/80004954/metamask-sdk-how-to-re-initialize-the-sdk-and-connect-external-wallets-after-em",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "mern",
+        "metamask"
+      ],
+      "author": "osizdevtm2 demo",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "In Django is there anyway to have a global authorization run before all the views without sacrificing the View level permission overrides",
+      "url": "https://stackoverflow.com/questions/80004957/in-django-is-there-anyway-to-have-a-global-authorization-run-before-all-the-view",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "Snowbell Belwyl",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "What is the recommended way to guarantee that a scheduled job runs only once when the FastAPI application is running with multiple worker processes?",
+      "url": "https://stackoverflow.com/questions/80004933/what-is-the-recommended-way-to-guarantee-that-a-scheduled-job-runs-only-once-whe",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Rehmat Qadeer",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "zsh-git-prompt: &quot;bad CPU type in executable: gitstatus&quot; after upgrading macOS / moving to Apple Silicon",
+      "url": "https://stackoverflow.com/questions/80004918/zsh-git-prompt-bad-cpu-type-in-executable-gitstatus-after-upgrading-macos",
+      "summary": "",
+      "tags": [
+        "git",
+        "macos",
+        "zsh",
+        "apple-silicon"
+      ],
+      "author": "threadbare",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "leaflet.extras::searchFeaturesOptions zoom not working when multiple targetGroups specified",
+      "url": "https://stackoverflow.com/questions/80004899/leaflet-extrassearchfeaturesoptions-zoom-not-working-when-multiple-targetgroup",
+      "summary": "",
+      "tags": [
+        "leaflet",
+        "r-leaflet"
+      ],
+      "author": "Chris Newton",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to get a fully typed issue.input parameter inside the zod .refine() function?",
+      "url": "https://stackoverflow.com/questions/80004923/how-to-get-a-fully-typed-issue-input-parameter-inside-the-zod-refine-function",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "zod"
+      ],
+      "author": "m477h145h3rm53n",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "X-Twilio-Signature validation fails for TwiML App webhook (Voice JS SDK client call, custom params) — verified URL/token/params are all correct",
+      "url": "https://stackoverflow.com/questions/80004925/x-twilio-signature-validation-fails-for-twiml-app-webhook-voice-js-sdk-client-c",
+      "summary": "",
+      "tags": [
+        "python",
+        "twilio",
+        "webhooks",
+        "hmac"
+      ],
+      "author": "Haydar Hinisli",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Cloudflare proxy ON causes 522 errors / 20s delay, but turning proxy OFF loads in 100ms",
+      "url": "https://stackoverflow.com/questions/80004914/cloudflare-proxy-on-causes-522-errors-20s-delay-but-turning-proxy-off-loads-i",
+      "summary": "",
+      "tags": [
+        "cloudflare"
+      ],
+      "author": "정민우",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "shape fill in legend not showing",
+      "url": "https://stackoverflow.com/questions/80004915/shape-fill-in-legend-not-showing",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2",
+        "legend",
+        "shapes",
+        "fill"
+      ],
+      "author": "Matteo",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Maria replication, how to see skip statements?",
+      "url": "https://stackoverflow.com/questions/80004884/maria-replication-how-to-see-skip-statements",
+      "summary": "",
+      "tags": [
+        "mariadb",
+        "replication"
+      ],
+      "author": "Sha",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "I am trying to use cap = cv2.VideoCapture() and i have to keep changing the camera index to like 0 or 1 or 2",
+      "url": "https://stackoverflow.com/questions/80004888/i-am-trying-to-use-cap-cv2-videocapture-and-i-have-to-keep-changing-the-came",
+      "summary": "",
+      "tags": [
+        "python",
+        "macos",
+        "opencv",
+        "camera"
+      ],
+      "author": "Esh",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Is there anything built into Visual Studio that I could use to prove that I didn&#39;t use AI?",
+      "url": "https://stackoverflow.com/questions/80004879/is-there-anything-built-into-visual-studio-that-i-could-use-to-prove-that-i-didn",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c#",
+        "vb.net",
+        "visual-studio",
+        "artificial-intelligence"
+      ],
+      "author": "Caroline Wilbur",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Is there a better alternative to using os.getenv() for FastAPI settings?",
+      "url": "https://stackoverflow.com/questions/80004839/is-there-a-better-alternative-to-using-os-getenv-for-fastapi-settings",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "python",
+        "fastapi"
+      ],
+      "author": "user30892144",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "After I exit Play Mode in Unity, Packages opens",
+      "url": "https://stackoverflow.com/questions/80004891/after-i-exit-play-mode-in-unity-packages-opens",
+      "summary": "",
+      "tags": [
+        "unity-game-engine",
+        "unityscript"
+      ],
+      "author": "Великий Приора",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Central PKI Azure",
+      "url": "https://stackoverflow.com/questions/80004894/central-pki-azure",
+      "summary": "",
+      "tags": [
+        "azure",
+        "azure-devops",
+        "cloud",
+        "azure-keyvault",
+        "azure-cloud-services"
+      ],
+      "author": "Blessed cloud",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How do I download any quality video through yt-dlp in browser rather than in yt-dlp.exe location directory",
+      "url": "https://stackoverflow.com/questions/80004866/how-do-i-download-any-quality-video-through-yt-dlp-in-browser-rather-than-in-yt",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "node.js",
+        "typescript",
+        "ffmpeg",
+        "yt-dlp"
+      ],
+      "author": "webdevShubhamKumar",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Repeat previous value inside a forEach loop when reaching a key with no value",
+      "url": "https://stackoverflow.com/questions/80004853/repeat-previous-value-inside-a-foreach-loop-when-reaching-a-key-with-no-value",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "foreach"
+      ],
+      "author": "Wammy",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "React Native app crashes on physical iPhone with NoSceneLifecycleAdoption but works in Simulator",
+      "url": "https://stackoverflow.com/questions/80004869/react-native-app-crashes-on-physical-iphone-with-noscenelifecycleadoption-but-wo",
+      "summary": "",
+      "tags": [
+        "ios",
+        "swift",
+        "xcode",
+        "react-native",
+        "uiscene"
+      ],
+      "author": "Shubham",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I remotely screen-share an Android device without showing the screen-sharing permission popup every time?",
+      "url": "https://stackoverflow.com/questions/80004808/how-can-i-remotely-screen-share-an-android-device-without-showing-the-screen-sha",
+      "summary": "",
+      "tags": [
+        "android",
+        "kotlin",
+        "devops"
+      ],
+      "author": "Munkhjargal Nymsuren",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "&quot;error: unknown architecture&quot; when trying to compile a C++ file",
+      "url": "https://stackoverflow.com/questions/80004850/error-unknown-architecture-when-trying-to-compile-a-c-file",
+      "summary": "",
+      "tags": [
+        "c++",
+        "macos"
+      ],
+      "author": "user33139938",
+      "comments": 0,
+      "score": 1
+    }
+  ]
+}

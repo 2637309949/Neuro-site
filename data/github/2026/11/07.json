@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T07:05:22.946524+00:00",
+  "source": "github",
+  "count": 18,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "zed-industries/zed",
+      "repo": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "summary": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "stars": 93849,
+      "today_stars": 306
+    },
+    {
+      "title": "NVIDIA/auto-ontology",
+      "repo": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "language": "Python",
+      "stars": 9345,
+      "today_stars": 2015
+    },
+    {
+      "title": "rails/rails",
+      "repo": "rails/rails",
+      "url": "https://github.com/rails/rails",
+      "summary": "Ruby on Rails",
+      "language": "Ruby",
+      "stars": 59059,
+      "today_stars": 142
+    },
+    {
+      "title": "mpv-player/mpv",
+      "repo": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "summary": "🎥 Command line media player",
+      "language": "C",
+      "stars": 37936,
+      "today_stars": 37
+    },
+    {
+      "title": "rust-lang/rust",
+      "repo": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "summary": "Empowering everyone to build reliable and efficient software.",
+      "language": "Rust",
+      "stars": 121530,
+      "today_stars": 192
+    },
+    {
+      "title": "react/react",
+      "repo": "react/react",
+      "url": "https://github.com/react/react",
+      "summary": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "stars": 252309,
+      "today_stars": 248
+    },
+    {
+      "title": "angular/angular",
+      "repo": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "summary": "Deliver web apps with confidence 🚀",
+      "language": "TypeScript",
+      "stars": 101425,
+      "today_stars": 135
+    },
+    {
+      "title": "symfony/symfony",
+      "repo": "symfony/symfony",
+      "url": "https://github.com/symfony/symfony",
+      "summary": "The Symfony PHP framework",
+      "language": "PHP",
+      "stars": 31479,
+      "today_stars": 128
+    },
+    {
+      "title": "prometheus/prometheus",
+      "repo": "prometheus/prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "summary": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "stars": 67242,
+      "today_stars": 148
+    },
+    {
+      "title": "google/skills",
+      "repo": "google/skills",
+      "url": "https://github.com/google/skills",
+      "summary": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 22958,
+      "today_stars": 534
+    },
+    {
+      "title": "microsoft/vscode",
+      "repo": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "summary": "Visual Studio Code",
+      "language": "TypeScript",
+      "stars": 195083,
+      "today_stars": 301
+    },
+    {
+      "title": "lz4/lz4",
+      "repo": "lz4/lz4",
+      "url": "https://github.com/lz4/lz4",
+      "summary": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "stars": 12650,
+      "today_stars": 315
+    },
+    {
+      "title": "nushell/nushell",
+      "repo": "nushell/nushell",
+      "url": "https://github.com/nushell/nushell",
+      "summary": "A new type of shell",
+      "language": "Rust",
+      "stars": 41023,
+      "today_stars": 131
+    },
+    {
+      "title": "etcd-io/etcd",
+      "repo": "etcd-io/etcd",
+      "url": "https://github.com/etcd-io/etcd",
+      "summary": "Distributed reliable key-value store for the most critical data of a distributed system",
+      "language": "Go",
+      "stars": 52643,
+      "today_stars": 128
+    },
+    {
+      "title": "openssl/openssl",
+      "repo": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "summary": "General purpose TLS and crypto library",
+      "language": "C",
+      "stars": 31335,
+      "today_stars": 26
+    },
+    {
+      "title": "mattpocock/skills",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 316950,
+      "today_stars": 2070
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 64458,
+      "today_stars": 2548
+    },
+    {
+      "title": "astral-sh/ruff",
+      "repo": "astral-sh/ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "summary": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "stars": 50758,
+      "today_stars": 169
+    }
+  ]
+}

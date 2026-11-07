@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T13:43:18.473909+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "summary": "",
+      "author": "sohkamyung",
+      "comments": 251,
+      "score": 1617
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "summary": "",
+      "author": "ltratt",
+      "comments": 466,
+      "score": 523
+    },
+    {
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "summary": "",
+      "author": "bobbydigitales",
+      "comments": 280,
+      "score": 466
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "summary": "",
+      "author": "gnabgib",
+      "comments": 426,
+      "score": 405
+    },
+    {
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "summary": "",
+      "author": "vrganj",
+      "comments": 238,
+      "score": 397
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "summary": "",
+      "author": "theanonymousone",
+      "comments": 166,
+      "score": 343
+    },
+    {
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "summary": "",
+      "author": "rramadass",
+      "comments": 261,
+      "score": 336
+    },
+    {
+      "title": "Physicists trap a single antimatter particle for a month",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "summary": "",
+      "author": "mooreds",
+      "comments": 94,
+      "score": 320
+    },
+    {
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "summary": "",
+      "author": "esher",
+      "comments": 83,
+      "score": 316
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "summary": "",
+      "author": "fragebogen",
+      "comments": 73,
+      "score": 278
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "summary": "",
+      "author": "gmays",
+      "comments": 71,
+      "score": 227
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "summary": "",
+      "author": "LordNibbler",
+      "comments": 35,
+      "score": 178
+    },
+    {
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "summary": "",
+      "author": "andsoitis",
+      "comments": 19,
+      "score": 135
+    },
+    {
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "summary": "",
+      "author": "mashally",
+      "comments": 71,
+      "score": 131
+    },
+    {
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "url": "https://de.numista.com/9866",
+      "summary": "",
+      "author": "schleck8",
+      "comments": 39,
+      "score": 127
+    },
+    {
+      "title": "Neural chip decodes interactions between brain regions",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "summary": "",
+      "author": "giuliomagnifico",
+      "comments": 45,
+      "score": 116
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "summary": "",
+      "author": "andsoitis",
+      "comments": 50,
+      "score": 99
+    },
+    {
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "summary": "",
+      "author": "machinehum",
+      "comments": 17,
+      "score": 95
+    },
+    {
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
+      "summary": "",
+      "author": "andsoitis",
+      "comments": 30,
+      "score": 91
+    },
+    {
+      "title": "How Japanese Dried Bonito Is Made",
+      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "summary": "",
+      "author": "bookofjoe",
+      "comments": 24,
+      "score": 91
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "summary": "",
+      "author": "tosh",
+      "comments": 22,
+      "score": 71
+    },
+    {
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "summary": "",
+      "author": "XzetaU8",
+      "comments": 31,
+      "score": 64
+    },
+    {
+      "title": "Rewriting a Commercial Engine in Jai",
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "summary": "",
+      "author": "frading",
+      "comments": 38,
+      "score": 49
+    },
+    {
+      "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+      "summary": "",
+      "author": "jllyhill",
+      "comments": 5,
+      "score": 46
+    },
+    {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "summary": "",
+      "author": "thunderbong",
+      "comments": 8,
+      "score": 44
+    },
+    {
+      "title": "Reverse engineer of PC-98 Touhou games retires",
+      "url": "https://rec98.nmlgc.net/blog/2026-10-05",
+      "summary": "",
+      "author": "mimasama",
+      "comments": 23,
+      "score": 22
+    },
+    {
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "url": "https://loeffelholz-codex.org/en/",
+      "summary": "",
+      "author": "edwardog",
+      "comments": 1,
+      "score": 19
+    },
+    {
+      "title": "The Lego group reveals collaboration with Daft Punk",
+      "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+      "summary": "",
+      "author": "pieterr",
+      "comments": 1,
+      "score": 12
+    },
+    {
+      "title": "Challenge Is Gone",
+      "url": "https://blog.alxgsv.com/challenge-is-gone/",
+      "summary": "",
+      "author": "alxgsv",
+      "comments": 1,
+      "score": 12
+    },
+    {
+      "title": "Radio Days",
+      "url": "https://oldster.substack.com/p/radio-days",
+      "summary": "",
+      "author": "NaOH",
+      "comments": 1,
+      "score": 3
+    }
+  ]
+}

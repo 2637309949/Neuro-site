@@ -1,0 +1,441 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T15:02:45.827380+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Why it works on struct but not in a class?",
+      "url": "https://stackoverflow.com/questions/80001425/why-it-works-on-struct-but-not-in-a-class",
+      "summary": "",
+      "tags": [
+        "c++",
+        "class",
+        "struct",
+        "tree"
+      ],
+      "author": "Jeet Solanki",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Tilde in css link has stopped resolving",
+      "url": "https://stackoverflow.com/questions/80001424/tilde-in-css-link-has-stopped-resolving",
+      "summary": "",
+      "tags": [
+        "c#",
+        "razor",
+        ".net-10.0"
+      ],
+      "author": "Pete",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Strapi property kind issue upgrading from 5.36.1 to 5.52.3",
+      "url": "https://stackoverflow.com/questions/80001410/strapi-property-kind-issue-upgrading-from-5-36-1-to-5-52-3",
+      "summary": "",
+      "tags": [
+        "strapi"
+      ],
+      "author": "Floris Groenendijk",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How to get a VMs configured provider from inside a Vagrantfile",
+      "url": "https://stackoverflow.com/questions/80001413/how-to-get-a-vms-configured-provider-from-inside-a-vagrantfile",
+      "summary": "",
+      "tags": [
+        "ansible",
+        "vagrant",
+        "vagrantfile",
+        "vagrant-provision"
+      ],
+      "author": "Mark Asbach",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I schedule social media posts using an API?",
+      "url": "https://stackoverflow.com/questions/80001419/how-can-i-schedule-social-media-posts-using-an-api",
+      "summary": "",
+      "tags": [
+        "automation",
+        "media"
+      ],
+      "author": "Anjali Anjali",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Dependabot ADO pipeline reports a deprecated dependabot@2 task",
+      "url": "https://stackoverflow.com/questions/80001422/dependabot-ado-pipeline-reports-a-deprecated-dependabot2-task",
+      "summary": "",
+      "tags": [
+        "pipeline",
+        "ado",
+        "deprecated",
+        "dependabot"
+      ],
+      "author": "PatM",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Is there a way to make scipy.optimize.minimize(method=&#39;trust-constr&#39;) accurate?",
+      "url": "https://stackoverflow.com/questions/80001416/is-there-a-way-to-make-scipy-optimize-minimizemethod-trust-constr-accurate",
+      "summary": "",
+      "tags": [
+        "scipy",
+        "scipy-optimize",
+        "scipy-optimize-minimize"
+      ],
+      "author": "Don Hatch",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does redirecting a Twilio &lt;Dial&gt;&lt;Number&gt; child call sometimes complete the parent call?",
+      "url": "https://stackoverflow.com/questions/80001409/why-does-redirecting-a-twilio-dialnumber-child-call-sometimes-complete-the-p",
+      "summary": "",
+      "tags": [
+        "php",
+        "twilio",
+        "twilio-twiml",
+        "twilio-php"
+      ],
+      "author": "Atul Kumar CSE",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to properly trigger DTO validation in Fuego",
+      "url": "https://stackoverflow.com/questions/80001408/how-to-properly-trigger-dto-validation-in-fuego",
+      "summary": "",
+      "tags": [
+        "go"
+      ],
+      "author": "Nguyễn Khả An_KTPM2024",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "iOS app intermittently fails with “An SSL error has occurred” for some users — AWS backend",
+      "url": "https://stackoverflow.com/questions/80001405/ios-app-intermittently-fails-with-an-ssl-error-has-occurred-for-some-users-a",
+      "summary": "",
+      "tags": [
+        "ios",
+        "swift",
+        "amazon-web-services",
+        "cloud"
+      ],
+      "author": "Hari",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Azure Container Apps Jobs: console log lines missing mid-execution in Log Analytics, even though the job completes successfully",
+      "url": "https://stackoverflow.com/questions/80001390/azure-container-apps-jobs-console-log-lines-missing-mid-execution-in-log-analyt",
+      "summary": "",
+      "tags": [
+        "azure",
+        "logging",
+        "keda"
+      ],
+      "author": "Hezahiro",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "PhpStorm/DataGrip result grid truncates column headers to fit data width; how to auto-size to header?",
+      "url": "https://stackoverflow.com/questions/80001399/phpstorm-datagrip-result-grid-truncates-column-headers-to-fit-data-width-how-to",
+      "summary": "",
+      "tags": [
+        "phpstorm",
+        "datagrip"
+      ],
+      "author": "Efstathios Matsaridis",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "CLion code inspection does not &quot;respect&quot; GCC diagnostic suppression",
+      "url": "https://stackoverflow.com/questions/80001403/clion-code-inspection-does-not-respect-gcc-diagnostic-suppression",
+      "summary": "",
+      "tags": [
+        "clion",
+        "compiler-warnings",
+        "deprecated",
+        "code-inspection"
+      ],
+      "author": "einpoklum",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to deal with implicit transformation into parent type when using a TypeVar?",
+      "url": "https://stackoverflow.com/questions/80001386/how-to-deal-with-implicit-transformation-into-parent-type-when-using-a-typevar",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "author": "Tristan Nemoz",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "New in type script Playwright I am not able to get proper psot method respoce",
+      "url": "https://stackoverflow.com/questions/80001378/new-in-type-script-playwright-i-am-not-able-to-get-proper-psot-method-respoce",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "playwright",
+        "playwright-typescript"
+      ],
+      "author": "prat22",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Binary tree preorder + inorder to postorder: correct output for visible tests but Logical Test 4 fails so please help me to solve this guys",
+      "url": "https://stackoverflow.com/questions/80001389/binary-tree-preorder-inorder-to-postorder-correct-output-for-visible-tests-bu",
+      "summary": "",
+      "tags": [
+        "c++",
+        "algorithm",
+        "tree",
+        "binary-tree",
+        "tree-traversal"
+      ],
+      "author": "KIDDO",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "ODR with one static function and one non-static",
+      "url": "https://stackoverflow.com/questions/80001348/odr-with-one-static-function-and-one-non-static",
+      "summary": "",
+      "tags": [
+        "c",
+        "function",
+        "static",
+        "one-definition-rule"
+      ],
+      "author": "Dominik Kaszewski",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Which CardDAV servers use tags for contact groups and which ones make them by RFC?",
+      "url": "https://stackoverflow.com/questions/80001380/which-carddav-servers-use-tags-for-contact-groups-and-which-ones-make-them-by-rf",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "tags",
+        "rfc",
+        "carddav",
+        "contactgroups"
+      ],
+      "author": "Dmitry Kosovets",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "iOS app intermittently fails with “An SSL error has occurred” for some users — AWS backend with only an A record",
+      "url": "https://stackoverflow.com/questions/80001340/ios-app-intermittently-fails-with-an-ssl-error-has-occurred-for-some-users-a",
+      "summary": "",
+      "tags": [
+        "ios",
+        "ssl",
+        "network-programming",
+        "backend"
+      ],
+      "author": "Hari",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Programmatically determine that an archived object has been restored",
+      "url": "https://stackoverflow.com/questions/80001366/programmatically-determine-that-an-archived-object-has-been-restored",
+      "summary": "",
+      "tags": [
+        "ibm-cloud",
+        "object-storage",
+        "cloud-object-storage"
+      ],
+      "author": "Dave Breeze",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Correct binary tree preorder/inorder to postorder implementation passes all visible tests but fails eLab Logical Test 4",
+      "url": "https://stackoverflow.com/questions/80001322/correct-binary-tree-preorder-inorder-to-postorder-implementation-passes-all-visi",
+      "summary": "",
+      "tags": [
+        "c",
+        "algorithm",
+        "tree",
+        "binary-tree",
+        "tree-traversal"
+      ],
+      "author": "KIDDO",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Please tell me what is happening with icalendar event description formatting in different DAV servers",
+      "url": "https://stackoverflow.com/questions/80001361/please-tell-me-what-is-happening-with-icalendar-event-description-formatting-in",
+      "summary": "",
+      "tags": [
+        "formatting",
+        "caldav"
+      ],
+      "author": "Dmitry Kosovets",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How do you solve this Gson issue related to LocalDate?",
+      "url": "https://stackoverflow.com/questions/80001308/how-do-you-solve-this-gson-issue-related-to-localdate",
+      "summary": "",
+      "tags": [
+        "java",
+        "gson",
+        "localdate"
+      ],
+      "author": "CoderSis",
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "title": "Artifactory Remember me causes artifact downloads to fail with 403",
+      "url": "https://stackoverflow.com/questions/80001370/artifactory-remember-me-causes-artifact-downloads-to-fail-with-403",
+      "summary": "",
+      "tags": [
+        "artifactory"
+      ],
+      "author": "user33097800",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Pivot function: can func parameter accept multiple aggregations like sum and count?",
+      "url": "https://stackoverflow.com/questions/80001353/pivot-function-can-func-parameter-accept-multiple-aggregations-like-sum-and-cou",
+      "summary": "",
+      "tags": [
+        "pivot",
+        "aggregate",
+        "dolphindb"
+      ],
+      "author": "Luna",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "pwntool process is none [Starting remote process None: Process creation failed]",
+      "url": "https://stackoverflow.com/questions/80001289/pwntool-process-is-none-starting-remote-process-none-process-creation-failed",
+      "summary": "",
+      "tags": [
+        "python",
+        "ctf",
+        "pwntools"
+      ],
+      "author": "GEO",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Get the playPause function to switch icons in the browser",
+      "url": "https://stackoverflow.com/questions/80001292/get-the-playpause-function-to-switch-icons-in-the-browser",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "author": "neil",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "SignalR js connection in load-balanced environment getting 401",
+      "url": "https://stackoverflow.com/questions/80001327/signalr-js-connection-in-load-balanced-environment-getting-401",
+      "summary": "",
+      "tags": [
+        ".net",
+        "session",
+        "web",
+        "websocket",
+        "signalr"
+      ],
+      "author": "Andrew C",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to get claude code to push tags on mobile device",
+      "url": "https://stackoverflow.com/questions/80001343/how-to-get-claude-code-to-push-tags-on-mobile-device",
+      "summary": "",
+      "tags": [
+        "git",
+        "github",
+        "claude-code"
+      ],
+      "author": "Viktor Eriksson",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Pivot tagged pump-pressure rows into one comparison row per timestamp?",
+      "url": "https://stackoverflow.com/questions/80001345/pivot-tagged-pump-pressure-rows-into-one-comparison-row-per-timestamp",
+      "summary": "",
+      "tags": [
+        "sql",
+        "pivot",
+        "apache-iotdb"
+      ],
+      "author": "Ethan Vale",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}

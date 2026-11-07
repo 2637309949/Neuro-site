@@ -1,0 +1,426 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T13:41:53.434350+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Div is expanding to fit content when I don&#39;t want it to",
+      "url": "https://stackoverflow.com/questions/80012415/div-is-expanding-to-fit-content-when-i-dont-want-it-to",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "Eden Leadbeatter",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Get rid of unwanted splash of color which is not splashColor in Flutter FilterChip widget",
+      "url": "https://stackoverflow.com/questions/80012412/get-rid-of-unwanted-splash-of-color-which-is-not-splashcolor-in-flutter-filterch",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "themes"
+      ],
+      "author": "rusty",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How to fix unused variable warning in recursive pattern matching?",
+      "url": "https://stackoverflow.com/questions/80012396/how-to-fix-unused-variable-warning-in-recursive-pattern-matching",
+      "summary": "",
+      "tags": [
+        "recursion",
+        "gleam"
+      ],
+      "author": "aggsol",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "DBD::DB2 column name decoding",
+      "url": "https://stackoverflow.com/questions/80012389/dbddb2-column-name-decoding",
+      "summary": "",
+      "tags": [
+        "perl",
+        "db2",
+        "dbi"
+      ],
+      "author": "sid_com",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
+      "url": "https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to",
+      "summary": "",
+      "tags": [
+        "python",
+        "model-context-protocol"
+      ],
+      "author": "Aradhya",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to ignore other files other than Python file",
+      "url": "https://stackoverflow.com/questions/80012373/how-to-ignore-other-files-other-than-python-file",
+      "summary": "",
+      "tags": [
+        "python",
+        "command-line"
+      ],
+      "author": "Vedha",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Should picture URLs include file extensions?",
+      "url": "https://stackoverflow.com/questions/80012350/should-picture-urls-include-file-extensions",
+      "summary": "",
+      "tags": [
+        "advice",
+        "http",
+        "url",
+        "content-type",
+        "content-negotiation"
+      ],
+      "author": "AlfredoHomelzo",
+      "comments": 3,
+      "score": 2
+    },
+    {
+      "title": "GridDB Python client raises TypeError when reading the result of a MAX() aggregation query",
+      "url": "https://stackoverflow.com/questions/80012388/griddb-python-client-raises-typeerror-when-reading-the-result-of-a-max-aggrega",
+      "summary": "",
+      "tags": [
+        "griddb"
+      ],
+      "author": "Nooruddin Lakhani",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Possible software solution on how to ensure a 20 microsecond cycle during real time testing",
+      "url": "https://stackoverflow.com/questions/80012365/possible-software-solution-on-how-to-ensure-a-20-microsecond-cycle-during-real-t",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python",
+        "testing",
+        "jitter"
+      ],
+      "author": "kay90",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Aligning comment columns with clang-format",
+      "url": "https://stackoverflow.com/questions/80012386/aligning-comment-columns-with-clang-format",
+      "summary": "",
+      "tags": [
+        "format",
+        "clang"
+      ],
+      "author": "Jared",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Can a modern compiler be instructed to allow reading from an uninitialized array",
+      "url": "https://stackoverflow.com/questions/80012370/can-a-modern-compiler-be-instructed-to-allow-reading-from-an-uninitialized-array",
+      "summary": "",
+      "tags": [
+        "c++",
+        "undefined-behavior"
+      ],
+      "author": "user32617251",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to access Eiffel attribute inside a C++ external",
+      "url": "https://stackoverflow.com/questions/80012347/how-to-access-eiffel-attribute-inside-a-c-external",
+      "summary": "",
+      "tags": [
+        "c++",
+        "eiffel",
+        "eiffel-studio-20.05"
+      ],
+      "author": "jjj",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How can I connect an AI chatbot to a local AI coding agent to automate the entire development loop without manual intervention?",
+      "url": "https://stackoverflow.com/questions/80012369/how-can-i-connect-an-ai-chatbot-to-a-local-ai-coding-agent-to-automate-the-entir",
+      "summary": "",
+      "tags": [
+        "advice",
+        "machine-learning",
+        "data-science"
+      ],
+      "author": "nibets alias",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Incremental signature on an AES-encrypted PDF leaves encrypted bytes in the /Contents padding instead of zeros",
+      "url": "https://stackoverflow.com/questions/80012295/incremental-signature-on-an-aes-encrypted-pdf-leaves-encrypted-bytes-in-the-con",
+      "summary": "",
+      "tags": [
+        "java",
+        "pdf",
+        "pdfbox",
+        "bouncycastle"
+      ],
+      "author": "Anish",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "MFRC522 RFID Reader Works Intermittently with ESP32",
+      "url": "https://stackoverflow.com/questions/80012364/mfrc522-rfid-reader-works-intermittently-with-esp32",
+      "summary": "",
+      "tags": [
+        "esp32",
+        "rfid",
+        "micropython",
+        "mfrc522"
+      ],
+      "author": "Nh&#226;n L&#234; Thanh",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Does PageSpeed Insights API v5 support X-Goog-Api-Key and project quota attribution?",
+      "url": "https://stackoverflow.com/questions/80012341/does-pagespeed-insights-api-v5-support-x-goog-api-key-and-project-quota-attribut",
+      "summary": "",
+      "tags": [
+        "google-api",
+        "api-key",
+        "google-pagespeed",
+        "google-pagespeed-insights-api"
+      ],
+      "author": "MJM",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "How to assign information in a table on the basis of another table in Excel 2016?",
+      "url": "https://stackoverflow.com/questions/80012323/how-to-assign-information-in-a-table-on-the-basis-of-another-table-in-excel-2016",
+      "summary": "",
+      "tags": [
+        "excel-2016"
+      ],
+      "author": "Perilun",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Borders on html website/background image over smaller content area?",
+      "url": "https://stackoverflow.com/questions/80012290/borders-on-html-website-background-image-over-smaller-content-area",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "Ray",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "Ambiguous type conversion in switch statement with only one viable conversion",
+      "url": "https://stackoverflow.com/questions/80012225/ambiguous-type-conversion-in-switch-statement-with-only-one-viable-conversion",
+      "summary": "",
+      "tags": [
+        "c++",
+        "switch-statement",
+        "language-lawyer",
+        "c++20",
+        "requires-clause"
+      ],
+      "author": "Velocirobtor",
+      "comments": 2,
+      "score": 5
+    },
+    {
+      "title": "Setting italic conditional formatting in Openpyxl",
+      "url": "https://stackoverflow.com/questions/80012239/setting-italic-conditional-formatting-in-openpyxl",
+      "summary": "",
+      "tags": [
+        "python",
+        "openpyxl"
+      ],
+      "author": "CADV",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "PHP 8.5 from deb.sury.org - cannot execute binary file exec format error on WSL1",
+      "url": "https://stackoverflow.com/questions/80012333/php-8-5-from-deb-sury-org-cannot-execute-binary-file-exec-format-error-on-wsl1",
+      "summary": "",
+      "tags": [
+        "php",
+        "debian",
+        "windows-subsystem-for-linux"
+      ],
+      "author": "Furgas",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "VS code displaying only path to folder but no files in the explorer",
+      "url": "https://stackoverflow.com/questions/80012276/vs-code-displaying-only-path-to-folder-but-no-files-in-the-explorer",
+      "summary": "",
+      "tags": [
+        "vs-code"
+      ],
+      "author": "Olivia Gie",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Windows WebDAV client fails to read files over a certain size (~50 MB, 0x800700DF) but uploads work. Any way around it without admin?",
+      "url": "https://stackoverflow.com/questions/80012328/windows-webdav-client-fails-to-read-files-over-a-certain-size-50-mb-0x800700d",
+      "summary": "",
+      "tags": [
+        "python",
+        "windows",
+        "filesystems",
+        "webdav"
+      ],
+      "author": "Fungus",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why isn’t the stdout of my program redirected into a file?",
+      "url": "https://stackoverflow.com/questions/80012308/why-isn-t-the-stdout-of-my-program-redirected-into-a-file",
+      "summary": "",
+      "tags": [
+        "shell",
+        "assembly",
+        "x86"
+      ],
+      "author": "Jean Dubois",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Fastboot doesn&#39;t detect plugged in smartphone",
+      "url": "https://stackoverflow.com/questions/80012340/fastboot-doesnt-detect-plugged-in-smartphone",
+      "summary": "",
+      "tags": [
+        "android",
+        "adb",
+        "fastboot"
+      ],
+      "author": "Atoltol",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "What is the complexity of this algorithm? Common elements in two lists",
+      "url": "https://stackoverflow.com/questions/80012286/what-is-the-complexity-of-this-algorithm-common-elements-in-two-lists",
+      "summary": "",
+      "tags": [
+        "python",
+        "algorithm",
+        "time-complexity",
+        "complexity-theory"
+      ],
+      "author": "Shiny_and_Chrome",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "How can I solve a SIGSEGV when using std::regex at a large string?",
+      "url": "https://stackoverflow.com/questions/80012273/how-can-i-solve-a-sigsegv-when-using-stdregex-at-a-large-string",
+      "summary": "",
+      "tags": [
+        "c++",
+        "regex"
+      ],
+      "author": "Natan Camargos",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "&quot;Error in -rm(list = ls()) : invalid argument to unary operator&quot;",
+      "url": "https://stackoverflow.com/questions/80012327/error-in-rmlist-ls-invalid-argument-to-unary-operator",
+      "summary": "",
+      "tags": [
+        "r"
+      ],
+      "author": "gpagarus",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "ggsurvplot not returning a plot",
+      "url": "https://stackoverflow.com/questions/80012326/ggsurvplot-not-returning-a-plot",
+      "summary": "",
+      "tags": [
+        "r"
+      ],
+      "author": "LDiamond",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Is there a VS Code extension to detect PSR-4 namespace and file path mismatches in PHP?",
+      "url": "https://stackoverflow.com/questions/80012227/is-there-a-vs-code-extension-to-detect-psr-4-namespace-and-file-path-mismatches",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "php",
+        "vs-code"
+      ],
+      "author": "prince",
+      "comments": 0,
+      "score": -4
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T07:11:58.570378+00:00",
+  "source": "v2ex",
+  "count": 8,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "节点",
+      "key": "node",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回复数",
+      "key": "replies",
+      "type": "metric",
+      "icon": "MessageSquare",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "手太痒了，终于开发了个操作系统，免安装那种",
+      "url": "https://www.v2ex.com/t/1246642",
+      "summary": "",
+      "node": "程序员",
+      "author": "zackkk",
+      "replies": 117
+    },
+    {
+      "title": "从转行到失败： 32 岁程序员跨界做女鞋的经历",
+      "url": "https://www.v2ex.com/t/1246711",
+      "summary": "",
+      "node": "职场话题",
+      "author": "Srande",
+      "replies": 52
+    },
+    {
+      "title": "Claude 一条龙服务？",
+      "url": "https://www.v2ex.com/t/1246664",
+      "summary": "",
+      "node": "Claude",
+      "author": "ryuichisaikun",
+      "replies": 42
+    },
+    {
+      "title": "我要和女朋友结婚了，关于婚纱照，求各位大佬给我点意见！",
+      "url": "https://www.v2ex.com/t/1246705",
+      "summary": "",
+      "node": "生活",
+      "author": "huiyizhong",
+      "replies": 38
+    },
+    {
+      "title": "6W 以内的二手车有什么推荐吗？",
+      "url": "https://www.v2ex.com/t/1246674",
+      "summary": "",
+      "node": "汽车",
+      "author": "lfsc",
+      "replies": 33
+    },
+    {
+      "title": "大家还搞 Python 吗 , 感觉现在用的不多了啊",
+      "url": "https://www.v2ex.com/t/1246645",
+      "summary": "",
+      "node": "Python",
+      "author": "iorilu",
+      "replies": 31
+    },
+    {
+      "title": "codex 重置了？",
+      "url": "https://www.v2ex.com/t/1246743",
+      "summary": "",
+      "node": "OpenAI",
+      "author": "jiuzhougege",
+      "replies": 24
+    },
+    {
+      "title": "iOS 上，银行内和政务类 app，是如何实现检测到网络环境异常的",
+      "url": "https://www.v2ex.com/t/1246719",
+      "summary": "",
+      "node": "问与答",
+      "author": "Lukedis",
+      "replies": 24
+    }
+  ]
+}

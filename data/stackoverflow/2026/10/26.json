@@ -1,0 +1,439 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T06:06:29.951298+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Why does my JS make the browser scroll to the bottom of the page when switching to a section that&#39;s taller than the window height?",
+      "url": "https://stackoverflow.com/questions/80012509/why-does-my-js-make-the-browser-scroll-to-the-bottom-of-the-page-when-switching",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "author": "Black Ink Games",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Why does casting to Object[] prevent a ClassCastException?",
+      "url": "https://stackoverflow.com/questions/80012496/why-does-casting-to-object-prevent-a-classcastexception",
+      "summary": "",
+      "tags": [
+        "java",
+        "generics",
+        "casting",
+        "type-erasure"
+      ],
+      "author": "David Santiago Morales Bustos",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "What are sanitizers and how could they help me find problems in my code?",
+      "url": "https://stackoverflow.com/questions/80012463/what-are-sanitizers-and-how-could-they-help-me-find-problems-in-my-code",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "c",
+        "address-sanitizer",
+        "ubsan"
+      ],
+      "author": "n.m.is-an-unemployed-ai-agent",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Is it possible to update all `text-align: left` rules to justify` while leaving `center` and `right` unchanged?",
+      "url": "https://stackoverflow.com/questions/80012502/is-it-possible-to-update-all-text-align-left-rules-to-justify-while-leaving",
+      "summary": "",
+      "tags": [
+        "css"
+      ],
+      "author": "voskresenie",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "bitbake do_compile Error building a program using spdlog in yocto",
+      "url": "https://stackoverflow.com/questions/80012507/bitbake-do-compile-error-building-a-program-using-spdlog-in-yocto",
+      "summary": "",
+      "tags": [
+        "linux",
+        "yocto",
+        "spdlog"
+      ],
+      "author": "Carla Perotti",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Sending/Receiving SMS using Android apps",
+      "url": "https://stackoverflow.com/questions/80012461/sending-receiving-sms-using-android-apps",
+      "summary": "",
+      "tags": [
+        "advice",
+        "android",
+        "sms"
+      ],
+      "author": "Franky",
+      "comments": 2,
+      "score": -7
+    },
+    {
+      "title": "Does Unique make sense on unique values?",
+      "url": "https://stackoverflow.com/questions/80012490/does-unique-make-sense-on-unique-values",
+      "summary": "",
+      "tags": [
+        "advice",
+        "unique-constraint"
+      ],
+      "author": "Dromi Monster",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Why does fflush(stdin) not clear the input buffer in C on macOS (GCC)?",
+      "url": "https://stackoverflow.com/questions/80012478/why-does-fflushstdin-not-clear-the-input-buffer-in-c-on-macos-gcc",
+      "summary": "",
+      "tags": [
+        "c",
+        "macos",
+        "scanf",
+        "fflush",
+        "input-buffer"
+      ],
+      "author": "idoyun0508",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "In Java, Is an Object[] Homogeneous or Heterogeneous?",
+      "url": "https://stackoverflow.com/questions/80012467/in-java-is-an-object-homogeneous-or-heterogeneous",
+      "summary": "",
+      "tags": [
+        "java",
+        "arrays",
+        "types",
+        "collections",
+        "jvm"
+      ],
+      "author": "Adarsh Biradar",
+      "comments": 1,
+      "score": -9
+    },
+    {
+      "title": "Segmentation fault when inserting a node at the end of a singly linked list in C",
+      "url": "https://stackoverflow.com/questions/80012452/segmentation-fault-when-inserting-a-node-at-the-end-of-a-singly-linked-list-in-c",
+      "summary": "",
+      "tags": [
+        "c",
+        "data-structures",
+        "linked-list",
+        "segmentation-fault"
+      ],
+      "author": "idoyun0508",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "ValueError: failed to validate MultiPolygons when trying to create interactive map using Carto basemap and geopandas",
+      "url": "https://stackoverflow.com/questions/80012435/valueerror-failed-to-validate-multipolygons-when-trying-to-create-interactive-m",
+      "summary": "",
+      "tags": [
+        "python",
+        "geospatial",
+        "geopandas",
+        "cartopy",
+        "holoviews"
+      ],
+      "author": "Honeywood",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "Why are spaces misaligned in the bottom half of my C diamond pattern?",
+      "url": "https://stackoverflow.com/questions/80012429/why-are-spaces-misaligned-in-the-bottom-half-of-my-c-diamond-pattern",
+      "summary": "",
+      "tags": [
+        "c",
+        "for-loop",
+        "printing"
+      ],
+      "author": "idoyun0508",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "I fail to understand in simple terms what `eglSwapBuffers` does in this piece of code",
+      "url": "https://stackoverflow.com/questions/80012457/i-fail-to-understand-in-simple-terms-what-eglswapbuffers-does-in-this-piece-of",
+      "summary": "",
+      "tags": [
+        "c",
+        "opengl-es",
+        "egl",
+        "linux-drm"
+      ],
+      "author": "Dimitrios Desyllas",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "JQuery validation not working in new ASP.NET Core MVC web application",
+      "url": "https://stackoverflow.com/questions/80012423/jquery-validation-not-working-in-new-asp-net-core-mvc-web-application",
+      "summary": "",
+      "tags": [
+        "c#",
+        "jquery",
+        "asp.net-core-mvc"
+      ],
+      "author": "Rina1110",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How can I ensure a 20 microsecond cycle during real time testing?",
+      "url": "https://stackoverflow.com/questions/80012365/how-can-i-ensure-a-20-microsecond-cycle-during-real-time-testing",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python",
+        "testing",
+        "jitter"
+      ],
+      "author": "kay90",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Div is expanding to fit content when I don&#39;t want it to",
+      "url": "https://stackoverflow.com/questions/80012415/div-is-expanding-to-fit-content-when-i-dont-want-it-to",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "Eden Leadbeatter",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "How to fix sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) unable to open database file?",
+      "url": "https://stackoverflow.com/questions/80012398/how-to-fix-sqlalchemy-exc-operationalerror-sqlite3-operationalerror-unable-to",
+      "summary": "",
+      "tags": [
+        "python",
+        "model-context-protocol"
+      ],
+      "author": "Aradhya",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Get rid of unwanted splash of color which is not splashColor in Flutter FilterChip widget",
+      "url": "https://stackoverflow.com/questions/80012412/get-rid-of-unwanted-splash-of-color-which-is-not-splashcolor-in-flutter-filterch",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "themes"
+      ],
+      "author": "rusty",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to ignore whitespace in the review page when calling `git commit --verbose`?",
+      "url": "https://stackoverflow.com/questions/80012424/how-to-ignore-whitespace-in-the-review-page-when-calling-git-commit-verbose",
+      "summary": "",
+      "tags": [
+        "git",
+        "git-diff"
+      ],
+      "author": "davidalayachew",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How to fix WampServer addons defaulting to C:\\wamp64 after migrating to another computer?",
+      "url": "https://stackoverflow.com/questions/80012430/how-to-fix-wampserver-addons-defaulting-to-c-wamp64-after-migrating-to-another",
+      "summary": "",
+      "tags": [
+        "php",
+        "windows",
+        "wamp",
+        "inno-setup"
+      ],
+      "author": "prossel",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Should picture URLs include file extensions?",
+      "url": "https://stackoverflow.com/questions/80012350/should-picture-urls-include-file-extensions",
+      "summary": "",
+      "tags": [
+        "advice",
+        "http",
+        "url",
+        "content-type",
+        "content-negotiation"
+      ],
+      "author": "AlfredoHomelzo",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "How to rank a user&#39;s top 8 friends by interaction score in SQL (Snapchat-style planets)?",
+      "url": "https://stackoverflow.com/questions/80012420/how-to-rank-a-users-top-8-friends-by-interaction-score-in-sql-snapchat-style-p",
+      "summary": "",
+      "tags": [
+        "environment",
+        "feature-extraction"
+      ],
+      "author": "Malik Ahtsham",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "How to access Eiffel attribute inside a C++ external",
+      "url": "https://stackoverflow.com/questions/80012347/how-to-access-eiffel-attribute-inside-a-c-external",
+      "summary": "",
+      "tags": [
+        "c++",
+        "eiffel",
+        "eiffel-studio-20.05"
+      ],
+      "author": "jjj",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "DBD::DB2 column name decoding",
+      "url": "https://stackoverflow.com/questions/80012389/dbddb2-column-name-decoding",
+      "summary": "",
+      "tags": [
+        "perl",
+        "db2",
+        "dbi"
+      ],
+      "author": "sid_com",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to fix unused variable warning in recursive pattern matching?",
+      "url": "https://stackoverflow.com/questions/80012396/how-to-fix-unused-variable-warning-in-recursive-pattern-matching",
+      "summary": "",
+      "tags": [
+        "recursion",
+        "gleam"
+      ],
+      "author": "aggsol",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Can a modern compiler be instructed to allow reading from an uninitialized array",
+      "url": "https://stackoverflow.com/questions/80012370/can-a-modern-compiler-be-instructed-to-allow-reading-from-an-uninitialized-array",
+      "summary": "",
+      "tags": [
+        "c++",
+        "undefined-behavior"
+      ],
+      "author": "user32617251",
+      "comments": 0,
+      "score": 3
+    },
+    {
+      "title": "Incremental signature on an AES-encrypted PDF leaves encrypted bytes in the /Contents padding instead of zeros",
+      "url": "https://stackoverflow.com/questions/80012295/incremental-signature-on-an-aes-encrypted-pdf-leaves-encrypted-bytes-in-the-con",
+      "summary": "",
+      "tags": [
+        "java",
+        "pdf",
+        "pdfbox",
+        "bouncycastle"
+      ],
+      "author": "Anish",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Does PageSpeed Insights API v5 accept an API key exclusively through the X-Goog-Api-Key header?",
+      "url": "https://stackoverflow.com/questions/80012341/does-pagespeed-insights-api-v5-accept-an-api-key-exclusively-through-the-x-goog",
+      "summary": "",
+      "tags": [
+        "google-api",
+        "api-key",
+        "google-pagespeed",
+        "google-pagespeed-insights-api"
+      ],
+      "author": "MJM",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "GridDB Python client raises TypeError when reading the result of a MAX() aggregation query",
+      "url": "https://stackoverflow.com/questions/80012388/griddb-python-client-raises-typeerror-when-reading-the-result-of-a-max-aggrega",
+      "summary": "",
+      "tags": [
+        "griddb"
+      ],
+      "author": "Nooruddin Lakhani",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Aligning comment columns with clang-format",
+      "url": "https://stackoverflow.com/questions/80012386/aligning-comment-columns-with-clang-format",
+      "summary": "",
+      "tags": [
+        "format",
+        "clang"
+      ],
+      "author": "Jared",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}
