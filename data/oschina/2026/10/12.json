@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T07:20:14.992745+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "LineageOS 发布十周年纪念更新：Android 17 提前落地，WebUSB 浏览器直接刷机",
+      "url": "https://www.oschina.net/news/502971/lineageos-24",
+      "summary": "LineageOS 在自家十周年前夜先发了个『有点伤感』的版本。2026 年 12 月 24 日这个项目就要满 10 岁，而刚公布的 Changelog 32 标题就叫 Getting ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DatI 0.7.2 发布：在 Agent 中记录国庆假期行程与花费实战",
+      "url": "https://www.oschina.net/news/502970",
+      "summary": "在很多人的印象里，大模型接入数据库（Data Agent / Text-to-SQL）往往等同于企业级只读 ChatBI：在电脑前问一句“上个月华东区销售额是多少”，...",
+      "author": "yimindev",
+      "comments": 0
+    },
+    {
+      "title": "给 DeepSeek Harness（DSH）装上 bot 插件，把 DSH 变成 bot 系统",
+      "url": "https://www.oschina.net/news/502968",
+      "summary": "DeepSeek Harness 有了一个把它『Bot 化』的插件 —— DeepSeek Bot（DS Bot）做的事情一句话能讲清：支持你搭一个长期存在的 bot 团队——有主 bo...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "企业内网也成为勒索病毒入口，舍末无勒解读Qilin最新入侵风险",
+      "url": "https://www.oschina.net/news/502967",
+      "summary": "企业员工通过VPN访问内网，分公司通过远程连接调用业务系统，运维人员通过专用入口管理服务器——这些支撑日常经营的连接，一旦存在漏洞或权限失控...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Testin云测本地化智能测试方案 助力香港企业平衡迭代速度与合规底线",
+      "url": "https://www.oschina.net/news/502966",
+      "summary": "随着InnoTechForum2026落幕，香港AI产业正式迈入规模化落地阶段，企业技术负责人的工作重心已从前期的技术选型、架构搭建，转向应用落地的质量交付...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "立邦中国携手阿里云深化数字化合作,共筑数据与AI应用新底座",
+      "url": "https://www.oschina.net/news/502965",
+      "summary": "近日，立邦中国与阿里云计算有限公司达成深度合作，双方签署AI全栈合作协议。基于近十年的合作积累，立邦将围绕统一数据底座建设、AI应用落地与云基...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "RXThinkCMF 敏捷开发框架 Laravel13+EleVue 版本 v2.6.0 发布",
+      "url": "https://www.oschina.net/news/502964",
+      "summary": "v2.6.0 更新内容： 1、修复近用户反馈的问题； 项目介绍 一款基于 Laravel13、Vue3、TypeScript、ElementPlus、Vite、VueRouter 等技术栈构建的前后...",
+      "author": "蓝鲸云开源",
+      "comments": 0
+    },
+    {
+      "title": "酷瓜云课堂（开源网校版）v2.0.1 发布，知识付费解决方案",
+      "url": "https://www.oschina.net/news/502963",
+      "summary": "更新内容 【增加】记住我功能 【优化】首页课程样式、课时页目录结构 【优化】使用ShortIdCode简化序号生成 【优化】调整Upgrade执行顺序 【优化】...",
+      "author": "xiaochong0302",
+      "comments": 0
+    },
+    {
+      "title": "百目 JArgus v2.0.6 — 静态检查器误报治理版本",
+      "url": "https://www.oschina.net/news/502961",
+      "summary": "百目 JArgus v2.0.6 静态检查器误报治理专项版本：注解修饰的代码、编译器生成方法与框架反射调用点不再被误判，死代码检测理解 lambda 与方法引用...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "Jync v1.4.0 发布，异构数据库实时同步工具",
+      "url": "https://www.oschina.net/news/502960",
+      "summary": "本版主题是初始全量装载的可靠性与吞吐:从「一条流式查询整表拉完」升级为 keyset 分块 + 每块提交 + 检查点断点续传,崩溃或 kill 进程后从上一块继...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "SmartCall v1.0.8 发布，新增坐席可配置手机接听",
+      "url": "https://www.oschina.net/news/502959",
+      "summary": ":book: 项目简介 SmartCall 是一套基于 AI 大模型 + Asterisk 通信引擎构建的新一代智能客服呼叫中心系统。系统深度融合了 AI 语音机器人、智能 IV...",
+      "author": "jpower-mr_g",
+      "comments": 0
+    },
+    {
+      "title": "全能 Go Agent 框架 covonaut v1.1.5 发布：改进检查点、Token用量与缓存",
+      "url": "https://www.oschina.net/news/502958",
+      "summary": "covonaut 是一款面向 Go 的生产级 Agent 框架，提供完整的 LLM-工具循环、上下文压缩、重试与故障转移、生命周期钩子、分布式追踪，以及文件系统、...",
+      "author": "路多辛",
+      "comments": 0
+    },
+    {
+      "title": "被字节索赔 800 万的实习生“出道”：20 万符号造 AI 词典，打造世界模型创业公司估值 2 亿美元",
+      "url": "https://www.oschina.net/news/502956",
+      "summary": "打进字节训练集群、污染同事的模型训练，然后被辞退、被索赔 800 万、被法院判赔 50 万——两年后，同一个人的新实验室拿到近 3000 万美元融资，投...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "QuotaPanel v0.2.0 点开菜单栏就看到额度，MiMo 额度来源上线",
+      "url": "https://www.oschina.net/news/502955",
+      "summary": "QuotaPanel v0.2.0 把额度搬进了系统菜单栏，顺手接上了小米 MiMo Token Plan。 QuotaPanel 是一款开源的桌面端 AI 额度面板，把散落在各家控制台里...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "LinkAndroid v2.4.0 投屏内核更新至 scrcpy 5.0，编码解码全面提速",
+      "url": "https://www.oschina.net/news/502954",
+      "summary": "投屏最吃 CPU 的那一步，这次交给了电脑显卡。 LinkAndroid 是把 Android 手机连到电脑的桌面工具：投屏操控、截屏美化、录屏、文件管理、脚本自动...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "ModStartBlog v11.3.0 安全加固、体验优化，自动化测试更强大",
+      "url": "https://www.oschina.net/news/502953",
+      "summary": "ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。 系统完...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "ModStartCMS v10.3.0 安全加固、体验优化，自动化测试更强大。",
+      "url": "https://www.oschina.net/news/502952",
+      "summary": "ModStart 是一个基于 Laravel 模块化极速开发框架。模块市场拥有丰富的功能应用，支持后台一键快速安装，让开发者能快的实现业务功能开发。 系统完...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "Claude 动态多 Agent 工作流开始公测，支持庞大的工作负载",
+      "url": "https://www.oschina.net/news/502951",
+      "summary": "Claude 官方把动态多智能体工作流放进公开测试版了。Claude Managed Agents dynamic workflows，ClaudeDevs 的说法是一种新型多智能体编排，『为最...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "C盘爆红救星！开源神器 MuRig v1.2.0 发布，支持自定义环境安装路径！",
+      "url": "https://www.oschina.net/news/502950",
+      "summary": "C盘又爆红了？重装系统、换新电脑，或者给新人配环境，最怕的就是找官网、对芯片架构、配环境变量……一顿操作半小时起步，全装在C盘极其难受。 分...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "谷歌正在内测新 AI 模型，员工称其编码能力和 Claude Opus 5.5 打平",
+      "url": "https://www.oschina.net/news/502949/google-employees-test-new-gemini-4-model-argon-barium-carbon",
+      "summary": "Gemini 4 还没公开，Antigravity 里已经开始出现 Argon 的身影。最新的引用显示，这个内部模型的选择器带了三档上下文：256K 默认、512K 每轮约消耗...",
+      "author": "局",
+      "comments": 0
+    }
+  ]
+}

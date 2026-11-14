@@ -1,0 +1,433 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T14:12:58.797018+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Why does this linked-list C code segfault?",
+      "url": "https://stackoverflow.com/questions/80012068/why-does-this-linked-list-c-code-segfault",
+      "summary": "",
+      "tags": [
+        "c",
+        "segmentation-fault"
+      ],
+      "author": "Gempa Frem",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How can the choice of `a` of a `Maybe a` being pattern matched cause both `Nothing` and `Just _` guards to fail?",
+      "url": "https://stackoverflow.com/questions/80012055/how-can-the-choice-of-a-of-a-maybe-a-being-pattern-matched-cause-both-nothi",
+      "summary": "",
+      "tags": [
+        "haskell",
+        "functional-programming",
+        "pattern-matching",
+        "non-exhaustive-patterns"
+      ],
+      "author": "Enlico",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why does available storage on Android emulator goes down every debug run?",
+      "url": "https://stackoverflow.com/questions/80012050/why-does-available-storage-on-android-emulator-goes-down-every-debug-run",
+      "summary": "",
+      "tags": [
+        "android"
+      ],
+      "author": "John John",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "issues with facet_wrap and ggsignif",
+      "url": "https://stackoverflow.com/questions/80012036/issues-with-facet-wrap-and-ggsignif",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2",
+        "ggpubr"
+      ],
+      "author": "Matteo",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Sign in with a digital certificate a bundle or msi project done with WiX 5",
+      "url": "https://stackoverflow.com/questions/80012045/sign-in-with-a-digital-certificate-a-bundle-or-msi-project-done-with-wix-5",
+      "summary": "",
+      "tags": [
+        "wix",
+        "digital-signature",
+        "digital"
+      ],
+      "author": "Ernesto Antonio Rodriguez A.",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Hidden grids can enter a persistent geometry refresh loop when non-finite viewport dimensions are stored",
+      "url": "https://stackoverflow.com/questions/80012046/hidden-grids-can-enter-a-persistent-geometry-refresh-loop-when-non-finite-viewpo",
+      "summary": "",
+      "tags": [
+        "ag-grid",
+        "ag-grid-react"
+      ],
+      "author": "user33231041",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Xcode macOS widget builds successfully but fails at runtime",
+      "url": "https://stackoverflow.com/questions/80012037/xcode-macos-widget-builds-successfully-but-fails-at-runtime",
+      "summary": "",
+      "tags": [
+        "swift",
+        "xcode",
+        "macos",
+        "widget",
+        "xcode27"
+      ],
+      "author": "Aditya Vijay",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Built-in browser VS Code",
+      "url": "https://stackoverflow.com/questions/80012016/built-in-browser-vs-code",
+      "summary": "",
+      "tags": [
+        "vs-code",
+        "browser"
+      ],
+      "author": "grim game",
+      "comments": 1,
+      "score": -10
+    },
+    {
+      "title": "Cannot copy file from W11 to Android Studio simulated device where name contains a semicolon",
+      "url": "https://stackoverflow.com/questions/80012033/cannot-copy-file-from-w11-to-android-studio-simulated-device-where-name-contains",
+      "summary": "",
+      "tags": [
+        "android-studio",
+        "android-device-explorer"
+      ],
+      "author": "nmw01223",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Collibra edge: ADF",
+      "url": "https://stackoverflow.com/questions/80012025/collibra-edge-adf",
+      "summary": "",
+      "tags": [
+        "collibra"
+      ],
+      "author": "Khadija jaoua",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "file_get_contents fails for reCaptcha siteverify",
+      "url": "https://stackoverflow.com/questions/80011969/file-get-contents-fails-for-recaptcha-siteverify",
+      "summary": "",
+      "tags": [
+        "php",
+        "recaptcha"
+      ],
+      "author": "Konstantin G - goivvy.com",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Drop database with missing .mdf file in SQL Server (localdb)",
+      "url": "https://stackoverflow.com/questions/80011995/drop-database-with-missing-mdf-file-in-sql-server-localdb",
+      "summary": "",
+      "tags": [
+        "c#",
+        "sql",
+        "sql-server",
+        "localdb",
+        "mdf"
+      ],
+      "author": "DevEV",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why does my local Qwen LLM report that no business indicators are available when my pandas DataFrames contain data?",
+      "url": "https://stackoverflow.com/questions/80012012/why-does-my-local-qwen-llm-report-that-no-business-indicators-are-available-when",
+      "summary": "",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe",
+        "large-language-model",
+        "llama-cpp-python"
+      ],
+      "author": "Ghanianda Wafiqarifah",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How can I prevent infinite recursion and a SIGSEGV when using std::shared_ptr with an incomplete type in C++?",
+      "url": "https://stackoverflow.com/questions/80011956/how-can-i-prevent-infinite-recursion-and-a-sigsegv-when-using-stdshared-ptr-wi",
+      "summary": "",
+      "tags": [
+        "c++",
+        "recursion",
+        "segmentation-fault",
+        "smart-pointers"
+      ],
+      "author": "Natan Camargos",
+      "comments": 2,
+      "score": 4
+    },
+    {
+      "title": "jaspr failed to read InheritedComponent",
+      "url": "https://stackoverflow.com/questions/80011981/jaspr-failed-to-read-inheritedcomponent",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "jaspr"
+      ],
+      "author": "Md. Yeasin Sheikh",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Pump utilisation ratios from two INT32 series lose their fractional part",
+      "url": "https://stackoverflow.com/questions/80012003/pump-utilisation-ratios-from-two-int32-series-lose-their-fractional-part",
+      "summary": "",
+      "tags": [
+        "apache-iotdb",
+        "treemodel"
+      ],
+      "author": "Sarah Turner",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "How can I know if my application is affected by the &quot;PHP2Shell&quot; vulnerabilities CVE-2026-109618 / CVE-2026-109619 and how can I mitigate them?",
+      "url": "https://stackoverflow.com/questions/80011791/how-can-i-know-if-my-application-is-affected-by-the-php2shell-vulnerabilities",
+      "summary": "",
+      "tags": [
+        "php",
+        "security",
+        "litespeed",
+        "mod-php",
+        "frankenphp"
+      ],
+      "author": "A-Tech",
+      "comments": 1,
+      "score": 15
+    },
+    {
+      "title": "How can I make a vector append function type-agnostic in C?",
+      "url": "https://stackoverflow.com/questions/80011891/how-can-i-make-a-vector-append-function-type-agnostic-in-c",
+      "summary": "",
+      "tags": [
+        "c",
+        "generics",
+        "dynamic-arrays"
+      ],
+      "author": "AaDiThEnOoB",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "error: Calling setState synchronously within an effect can trigger cascading renders",
+      "url": "https://stackoverflow.com/questions/80011987/error-calling-setstate-synchronously-within-an-effect-can-trigger-cascading-ren",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "reactjs",
+        "next.js",
+        "eslint"
+      ],
+      "author": "Pankaj Choudhary",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Is there a Slack API to retrieve incoming webhook URLs for channels where my app was never installed or authorized?",
+      "url": "https://stackoverflow.com/questions/80011985/is-there-a-slack-api-to-retrieve-incoming-webhook-urls-for-channels-where-my-app",
+      "summary": "",
+      "tags": [
+        "slack",
+        "slack-api"
+      ],
+      "author": "Sriram K",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
+      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
+      "summary": "",
+      "tags": [
+        "python",
+        "regex",
+        "string"
+      ],
+      "author": "pg27",
+      "comments": 4,
+      "score": 1
+    },
+    {
+      "title": "Downcast generic interface (INumber&lt;T&gt;) to derived generic interface (IBinaryInteger&lt;T&gt;)",
+      "url": "https://stackoverflow.com/questions/80011917/downcast-generic-interface-inumbert-to-derived-generic-interface-ibinaryint",
+      "summary": "",
+      "tags": [
+        "c#",
+        "generics",
+        "interface",
+        "casting",
+        ".net-generic-math"
+      ],
+      "author": "Tobias Knauss",
+      "comments": 3,
+      "score": 3
+    },
+    {
+      "title": "Optimize query to get row-based data with lots of attributes?",
+      "url": "https://stackoverflow.com/questions/80011886/optimize-query-to-get-row-based-data-with-lots-of-attributes",
+      "summary": "",
+      "tags": [
+        "sql",
+        "sql-server",
+        "t-sql",
+        "query-optimization"
+      ],
+      "author": "urlreader",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "The property &#39;{EntityName}.{PropertyName}&#39; is part of a key and so cannot be modified or marked as modified",
+      "url": "https://stackoverflow.com/questions/80011953/the-property-entityname-propertyname-is-part-of-a-key-and-so-cannot-be-mod",
+      "summary": "",
+      "tags": [
+        "c#",
+        "entity-framework-core"
+      ],
+      "author": "Jean-David Lanz",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Alternative import hook for modifying source code before compiling",
+      "url": "https://stackoverflow.com/questions/80011839/alternative-import-hook-for-modifying-source-code-before-compiling",
+      "summary": "",
+      "tags": [
+        "python",
+        "import-hooks"
+      ],
+      "author": "NickC",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Working with noise words in CONTAINSTABLE",
+      "url": "https://stackoverflow.com/questions/80011833/working-with-noise-words-in-containstable",
+      "summary": "",
+      "tags": [
+        "sql-server",
+        "full-text-search",
+        "sql-server-2019"
+      ],
+      "author": "Merijn",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "How to split the string value of an environment variable on underscore into two strings?",
+      "url": "https://stackoverflow.com/questions/80011924/how-to-split-the-string-value-of-an-environment-variable-on-underscore-into-two",
+      "summary": "",
+      "tags": [
+        "batch-file"
+      ],
+      "author": "user6014876",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Multi-file HTML IDE that runs in a browser (is a website)",
+      "url": "https://stackoverflow.com/questions/80011965/multi-file-html-ide-that-runs-in-a-browser-is-a-website",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "javascript",
+        "html"
+      ],
+      "author": "mrsharkbird",
+      "comments": 0,
+      "score": -9
+    },
+    {
+      "title": "Breaking long URLs in comments, still having them selectable/clickable",
+      "url": "https://stackoverflow.com/questions/80011577/breaking-long-urls-in-comments-still-having-them-selectable-clickable",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "c"
+      ],
+      "author": "LuC",
+      "comments": 7,
+      "score": -3
+    },
+    {
+      "title": "WindowsAppSdk AppNotificationManager System.Runtime.InteropServices.COMException (0x80040154): Class not registered",
+      "url": "https://stackoverflow.com/questions/80011964/windowsappsdk-appnotificationmanager-system-runtime-interopservices-comexception",
+      "summary": "",
+      "tags": [
+        ".net",
+        "windows-app-sdk"
+      ],
+      "author": "Zac Andersen",
+      "comments": 0,
+      "score": -2
+    }
+  ]
+}

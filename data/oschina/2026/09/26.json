@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T13:46:29.277913+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "灵界 OS 6.0 稳定版 · 三处更新与一个崩溃修复",
+      "url": "https://www.oschina.net/news/502745",
+      "summary": "这次推到 Gitee master，提交号 b726a1d，共三处改动。 1. 桌面体验 小组件支持按标题栏拖动，位置会记住，下次打开还在原地 点「窗口渲染优化」会...",
+      "author": "xzh_Tim",
+      "comments": 0
+    },
+    {
+      "title": "五引擎微内核架构与分层解耦的工程实践",
+      "url": "https://www.oschina.net/news/502743",
+      "summary": "本文为 55873 生态系统技术白皮书系列第 8 篇（收官之作），面向开发者社区，聚焦开源共建理念与架构设计。 核心问题：如何在开放架构和保护核心...",
+      "author": "55873 生态系统 - 研发",
+      "comments": 0
+    },
+    {
+      "title": "DjangoAdmin 敏捷开发框架 Flask+AntdVue 版本 v2.8.2 发布",
+      "url": "https://www.oschina.net/news/502742",
+      "summary": "v2.8.2 更新内容： 1、大版本全新重构； 基于 Flask、Vue3、TypeScript、AntDesign、Vite、VueRouter 等技术栈构建的前后端分离企业级数据中台解决...",
+      "author": "djangoadmin",
+      "comments": 0
+    },
+    {
+      "title": "Apache 基金会项目 Casbin Gateway 新增 Agent 外发监测，可发现 ZCode 这类整仓上传",
+      "url": "https://www.oschina.net/news/502741",
+      "summary": "九月中旬，智谱的 AI 编程工具 ZCode 被人发现会在后台把整个代码仓库打包上传，而且连 .git 历史一起传。这件事在社区里讨论了好几天（相关报道附...",
+      "author": "Casbin开源社区",
+      "comments": 0
+    },
+    {
+      "title": "SpringBootBucket 4.1.1 发布，最新 Spring Boot 4.x 全家桶",
+      "url": "https://www.oschina.net/news/502740",
+      "summary": "SpringBootBucket4.x全家桶基于最新版本 Spring Boot 4.x 版本编写。Spring Boot 4.0基于Spring Framework 7.0，全面支持 Java25（含虚拟线程优化）...",
+      "author": "一刀",
+      "comments": 0
+    },
+    {
+      "title": "龙蜥社区SkillHub：Workshop实战、云栖颁奖、推荐系统发布，三箭齐发",
+      "url": "https://www.oschina.net/news/502739",
+      "summary": "AI原生操作系统正在从概念走向落地，而Skill生态的繁荣程度，将决定这一代操作系统能否真正支撑起智能体的规模化运行。今年开放原子开源生态大会上...",
+      "author": "开源资讯说",
+      "comments": 0
+    },
+    {
+      "title": "龙蜥社区SkillHub推荐系统正式发布，首批技能生态奖项揭晓",
+      "url": "https://www.oschina.net/news/502738",
+      "summary": "9月23日，在2026云栖大会“AI Agent原生操作系统”分论坛上，龙蜥社区正式发布SkillHub推荐系统并举行颁奖仪式。阿里云智能集团研发副总裁、龙蜥社...",
+      "author": "开源资讯说",
+      "comments": 0
+    },
+    {
+      "title": "当 Agent 真正开始工作，企业首先要重新设计什么？｜哈佛商学院x百融案例阅读指南",
+      "url": "https://www.oschina.net/news/502737",
+      "summary": "过去两年，企业谈 AI，最常讨论的是模型、工具和效率。 但当 Agent 开始真正承担工作，问题很快会发生变化： 哪些任务还需要由人完成？ 一个管理者...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "小米公开 MiMo-V3 核心架构 HySparse2：KV 共享升两级、Prefill 少跑一半",
+      "url": "https://www.oschina.net/news/502736",
+      "summary": "小米 MiMo 团队负责人罗福莉（Fuli Luo）在 X 上预告了 MiMo-V3 的新推理架构 HySparse2，随后小米官方公众号也放出了完整介绍。面向长程多轮 Agen...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "飞捷科思全面开源Fysiverse-3D：以统一空间推理构建可执行3D世界",
+      "url": "https://www.oschina.net/news/502734",
+      "summary": "近日，飞捷科思全面开源Fysiverse-3D。作为飞捷科思Fysiverse物理世界模型体系中面向三维世界构建的系列工作，Fysiverse-3D覆盖从一句话到一个可执...",
+      "author": "ByzantineNode",
+      "comments": 0
+    },
+    {
+      "title": "飞捷科思开源OmniFysics“双子星”：揽24项世界第一",
+      "url": "https://www.oschina.net/news/502733",
+      "summary": "当AI从内容生成走向运动预测、碰撞分析，乃至驱动机器人行动，对客观世界的理解才真正进入物理层面。物理感知帮助模型捕捉关键对象与状态，物理参数...",
+      "author": "ByzantineNode",
+      "comments": 0
+    },
+    {
+      "title": "模块配置化扩展体系：从强耦合到插件化的架构演进",
+      "url": "https://www.oschina.net/news/502732",
+      "summary": "本文是 55873 生态系统技术白皮书系列第 7 篇，聚焦模块配置化扩展体系。 核心问题：如何做到零代码新增业务板块？如何做到底层永远稳定、业务永远...",
+      "author": "55873 生态系统 - 研发",
+      "comments": 0
+    },
+    {
+      "title": "全球首个！飞捷科思正式推出面向全模态世界感知和物理状态推理的评测基准FysicsReason",
+      "url": "https://www.oschina.net/news/502731",
+      "summary": "现在的全模态AI已经能够同时处理图像、视频、声音和文本，并完成越来越复杂的推理任务。在现有评测体系中，评测基准主要关注模型“最终做对了什么”...",
+      "author": "ByzantineNode",
+      "comments": 0
+    },
+    {
+      "title": "浙大要出第二个梁文锋？“超级科学家版DeepSeek”来了",
+      "url": "https://www.oschina.net/news/502730",
+      "summary": "9月22日至24日云栖大会期间，来自浙大的“求是引擎”成功进行了国内首次72小时不间断的AI科研直播，公开挑战人类300年来未解的数学难题——吻接数问...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Agentic OS亮相云栖大会，阿里云基础软件加速迈向智能体原生",
+      "url": "https://www.oschina.net/news/502729",
+      "summary": "当AI从生成内容走向自主规划和持续执行，产业焦点也从模型能力延伸至智能体能否安全、稳定地进入生产环境。操作系统因此不再只是资源管理底座，更成...",
+      "author": "开源资讯说",
+      "comments": 0
+    },
+    {
+      "title": "调问更新 9.6 ~ 9.24：新增 10 类应用场景、AI 工作台，问卷体验全面优化",
+      "url": "https://www.oschina.net/news/502728",
+      "summary": "官网地址www.diaowen.net ➔ 源码下载Gitee 仓库 ➔ 01新增功能 新增多种应用场景 本次新增多种常用场景类型，覆盖更多实际使用需求： 投票 测评（...",
+      "author": "DWSurvey",
+      "comments": 0
+    },
+    {
+      "title": "释放AI算力价值 华为云万卡集群稳定性保障实践",
+      "url": "https://www.oschina.net/news/502727",
+      "summary": "当AI步入产业深水区，算力已成为驱动新质生产力发展的核心引擎。从单机到万卡级超大规模集群，企业AI基础设施建设正经历规模跃升。万卡集群标志着A...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "腾讯将关停 QClaw，基于 OpenClaw 的本地 Agent 路线被放弃",
+      "url": "https://www.oschina.net/news/502726",
+      "summary": "9 月 24 日，腾讯电脑管家 QClaw 团队发布公告称，因业务发展调整，QClaw 将于 2026 年 12 月 24 日 00:00 正式停止运营。从公告发布之日起，QClaw...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "KnowForge 2026.0.5 发布：签到、排行榜、版本聚合与全链路国际化",
+      "url": "https://www.oschina.net/news/502725",
+      "summary": "KnowForge 2026.0.5 正式发布。 继 2026.0.4 完成从 InfoSphere 到 KnowForge 的品牌升级，并逐步建立 Feature Plugin 架构之后，这个版本继续围绕...",
+      "author": "trendforge",
+      "comments": 0
+    },
+    {
+      "title": "别被这个夏天的 AI 炒作愚弄，每个“突破”都经不起核查",
+      "url": "https://www.oschina.net/news/502724/dont-be-fooled-summer-ai-hype",
+      "summary": "这个夏天的 AI 炒作（“AI hype”）有多热闹，Timnit Gebru 和 Emily M. Bender 开篇就列了一串账单：4 月底 Anthropic 宣称 Claude Mythos 找软件...",
+      "author": "局",
+      "comments": 0
+    }
+  ]
+}

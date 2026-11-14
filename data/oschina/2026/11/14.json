@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T07:36:17.072847+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "phimint v0.10.0 发布：卡在「等你输入」的命令上，agent 能自己接上",
+      "url": "https://www.oschina.net/news/503576",
+      "summary": "phimint v0.10.0 已发布（2026-11-14）。phimint 是一个用 Rust 写的终端轻量AI 编码 agent——一条命令装上，配好 API key 就能在终端里把需求变成...",
+      "author": "hibuka",
+      "comments": 0
+    },
+    {
+      "title": "开源赋能数智未来| openKylin全球生态推广会成功举办",
+      "url": "https://www.oschina.net/news/503575",
+      "summary": "11月12日，由中国电子主办，openKylin社区、麒麟软件承办的“开源赋能数智世界——openKylin全球生态推广会”在深圳举办。会议旨在展示openKylin最...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "通用代码生成器光船，特默尔尝鲜版二，人工智能设置项目会话",
+      "url": "https://www.oschina.net/news/503572",
+      "summary": "通用代码生成器光船，特默尔尝鲜版二，人工智能设置项目会话 通用代码生成器光船已发布1.1.0特默尔尝鲜版二。特默尔尝鲜版二支持人工智能生成会话和...",
+      "author": "火鸟1995",
+      "comments": 0
+    },
+    {
+      "title": "首批｜绿盟科技正式获评首批国家人工智能安全漏洞库（AIVD）技术支撑单位",
+      "url": "https://www.oschina.net/news/503571",
+      "summary": "近日，绿盟科技正式获评首批国家人工智能安全漏洞库（AIVD）技术支撑单位，获颁中国信息安全测评中心签发的官方等级证书，标志着公司AI漏洞研究能力...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "qData 数据中台开源版 v1.6.7 发布：修复消息通知与时间范围增量读取问题",
+      "url": "https://www.oschina.net/news/503570",
+      "summary": "在数据中台的日常使用中，消息通知、数据增量读取以及 ETL 字段处理，都是开发人员和平台使用者经常接触的功能。 相关逻辑能否按照预期执行，不仅影...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "写《Python 之禅》的那个人走了",
+      "url": "https://www.oschina.net/news/503569/in-memoriam-tim-peters-1952-2026",
+      "summary": "Python 创始人 Guido van Rossum 在 Python 官方论坛发了一条帖子，标题只有一行：In Memoriam: Tim Peters 1952–2026。 「我非常悲痛地宣布，Tim...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "黄仁勋辞任英伟达 CEO，CFO 接任临时掌门",
+      "url": "https://www.oschina.net/news/503568/nvidia-announces-ceo-transition",
+      "summary": "英伟达 11 月 12 日宣布，联合创始人黄仁勋辞去 CEO 职务。CFO 科莱特·克雷斯（Colette Kress）出任临时 CEO。 一家 4 万亿美元的公司，在 AI 投资...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "GPU 资源池建设教程：训练、推理与开发三分法",
+      "url": "https://www.oschina.net/news/503567",
+      "summary": "一张 GPU 长时间被某个团队占用，可能是在运行在线模型，也可能只是测试环境没有释放。从资源台账上看，两者都是“已分配”；从业务角度看，它们需...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "VMware 替代报价差在哪：一张范围表说清",
+      "url": "https://www.oschina.net/news/503566",
+      "summary": "一份 VMware 替代需求，可能收到范围相差很大的报价：有的包含虚拟化与迁移，有的同时更换存储，有的又加入容器和多云管理。价格差异看似来自品牌，...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "VMware 替代何时下线旧环境：五项退出条件",
+      "url": "https://www.oschina.net/news/503564",
+      "summary": "金融 VMware 替代方案，可以从一个看似靠后的问题开始：旧环境在什么条件下能够退出？ 如果答案只有“新虚拟机已经启动”，迁移计划还没有覆盖业务...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "2026安徽AI营销类GEO服务商综合实力横评：流量代理与答案优化，两条路线的分水岭",
+      "url": "https://www.oschina.net/news/503554",
+      "summary": "2026安徽AI营销类GEO服务商综合实力横评：流量代理与答案优化，两条路线的分水岭 本文回答的问题：安徽做AI营销的GEO服务商中，哪几家的综合实力经...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "百度智能云携手万星智算，共建Token工厂及算力生态",
+      "url": "https://www.oschina.net/news/503553",
+      "summary": "11月12日，百度智能云与广东万年青的子公司万星智算（汕头）云计算科技有限公司（以下简称“万星智算”）在北京签署战略合作协议。双方将围绕算力与...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "MetaForge 2026.0.0 正式发布：从数据库管理到可视化分析，700+ 项改进带来全面升级",
+      "url": "https://www.oschina.net/news/503552",
+      "summary": "从 DataCap 到 MetaForge，我们迎来了一次真正意义上的全面升级。 2026 年 11 月，开源数据管理平台 MetaForge 2026.0.0 正式发布。 距离 2025.1.1...",
+      "author": "trendforge",
+      "comments": 0
+    },
+    {
+      "title": "Jync 捷同 v2.1.0 发布：CDC 流内 DDL 闭环，ETL 支持主键更新",
+      "url": "https://www.oschina.net/news/503551",
+      "summary": "新增 TLS「服务器路径」证书模式：证书页新增路径标签页，密钥库或 PEM 填服务器绝对路径即可，原地替换文件完成续期，无需重新上传。 配置文件证书...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "Argus v0.5.0 发布：纯 Rust 与 GPU 原生绘制的现代 Windows 任务管理器（已获 1.4k Star）",
+      "url": "https://www.oschina.net/news/503550",
+      "summary": "开源现代 Windows 任务管理器 Argus 现已正式发布 v0.5.0 版本。目前项目在 GitHub 上已获得超过 1,400 颗 Star，支持简体中文、繁体中文、英、日、...",
+      "author": "Raylea",
+      "comments": 0
+    },
+    {
+      "title": "星甘（StarGantt）支持 .mpp 双向读写了：导进来能改，改完能导回去",
+      "url": "https://www.oschina.net/news/503549",
+      "summary": "星甘（StarGantt）支持 .mpp 双向读写了：导进来能改，改完能导回去 用项目管理的人，大概率都碰过 .mpp 文件。老团队攒了几年的 Project 文件躺在...",
+      "author": "李玉宝",
+      "comments": 0
+    },
+    {
+      "title": "JeecgBoot 低代码 + 敲敲云零代码：开源 AI 低代码双平台一次打通",
+      "url": "https://www.oschina.net/news/503547",
+      "summary": "为什么要把两个平台放在一起聊 做企业信息化的人，多半都碰到过这两种尴尬： 开发团队被 \"又一个增删改查\" 拖住，重复劳动占掉了大半工期； 业务部...",
+      "author": "JEECG官方",
+      "comments": 0
+    },
+    {
+      "title": "11月14日，邀您参加COSCon'26 AI 原生开源操作系统论坛",
+      "url": "https://www.oschina.net/news/503546",
+      "summary": "11 月 14-15 日，以 “开源下一代” 为主题的 COSCon'26 第十一届中国开源年会将在杭州云谷中心举办。会议期间，OpenAtom openKylin（简称 “openK...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "全球化筑基，AI 赋能新体验，openKylin 3.0 SP1 正式发布",
+      "url": "https://www.oschina.net/news/503545",
+      "summary": "OpenAtom openKylin（以下简称“openKylin”）社区今日正式发布 openKylin 3.0 SP1 版本。本次版本更新以国际化为底座，围绕国际化体验、AI 融合...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "文心三款新模型上线百度智能云千帆 文心 5.5 Flash 限时五折",
+      "url": "https://www.oschina.net/news/503544",
+      "summary": "11月12日，在百度世界大会上，百度应用模型研发部负责人贾磊正式公布两款文心应用模型——文心闪电深度思考模型与文心一镜微表情大模型。并同步上线...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}

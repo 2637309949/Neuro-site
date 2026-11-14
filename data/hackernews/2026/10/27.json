@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T15:31:27.638122+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "summary": "",
+      "author": "jonluca",
+      "comments": 593,
+      "score": 1051
+    },
+    {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "summary": "",
+      "author": "sgiannopoulos",
+      "comments": 105,
+      "score": 791
+    },
+    {
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "summary": "",
+      "author": "vok",
+      "comments": 260,
+      "score": 728
+    },
+    {
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "summary": "",
+      "author": "edent",
+      "comments": 109,
+      "score": 528
+    },
+    {
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "summary": "",
+      "author": "enlyth",
+      "comments": 298,
+      "score": 497
+    },
+    {
+      "title": "Solar power is becoming bigger than nuclear",
+      "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+      "summary": "",
+      "author": "geox",
+      "comments": 650,
+      "score": 463
+    },
+    {
+      "title": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work/",
+      "summary": "",
+      "author": "oorestisime",
+      "comments": 364,
+      "score": 409
+    },
+    {
+      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "summary": "",
+      "author": "choult",
+      "comments": 222,
+      "score": 377
+    },
+    {
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "summary": "",
+      "author": "ilreb",
+      "comments": 204,
+      "score": 321
+    },
+    {
+      "title": "Type Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "summary": "",
+      "author": "adamnemecek",
+      "comments": 172,
+      "score": 261
+    },
+    {
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "summary": "",
+      "author": "f311a",
+      "comments": 119,
+      "score": 210
+    },
+    {
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "summary": "",
+      "author": "rbanffy",
+      "comments": 86,
+      "score": 200
+    },
+    {
+      "title": "Software may be getting worse, but it used to be horrible",
+      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+      "summary": "",
+      "author": "jakevoytko",
+      "comments": 153,
+      "score": 198
+    },
+    {
+      "title": "A Printer Printing onto Paper",
+      "url": "https://twitter.com/macrofying/status/2112904628509528219",
+      "summary": "",
+      "author": "MrBuddyCasino",
+      "comments": 43,
+      "score": 179
+    },
+    {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "summary": "",
+      "author": "wondersky",
+      "comments": 66,
+      "score": 167
+    },
+    {
+      "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "summary": "",
+      "author": "helterskelter2",
+      "comments": 24,
+      "score": 146
+    },
+    {
+      "title": "How to grow a cacao tree at home (2024)",
+      "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+      "summary": "",
+      "author": "felipevb",
+      "comments": 39,
+      "score": 131
+    },
+    {
+      "title": "I still teach OpenGL ES 3.0",
+      "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+      "summary": "",
+      "author": "majorchord",
+      "comments": 72,
+      "score": 117
+    },
+    {
+      "title": "New iMac with M6",
+      "url": "https://www.apple.com/imac/",
+      "summary": "",
+      "author": "notfried",
+      "comments": 78,
+      "score": 98
+    },
+    {
+      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+      "summary": "",
+      "author": "acossta",
+      "comments": 34,
+      "score": 92
+    },
+    {
+      "title": "Gforth 1.0",
+      "url": "https://gforth.org/manual/1.0/NEWS.html",
+      "summary": "",
+      "author": "joshcsimmons",
+      "comments": 6,
+      "score": 91
+    },
+    {
+      "title": "Giving chat feedback gives Anthropic your data",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "summary": "",
+      "author": "jonpizza",
+      "comments": 42,
+      "score": 81
+    },
+    {
+      "title": "Writing about pratt parsing so I remember it",
+      "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+      "summary": "",
+      "author": "dverlaeckt80",
+      "comments": 6,
+      "score": 74
+    },
+    {
+      "title": "Alleged Israeli spy company targeted Starlink users",
+      "url": "https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27/",
+      "summary": "",
+      "author": "mmaia",
+      "comments": 6,
+      "score": 68
+    },
+    {
+      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "summary": "",
+      "author": "adrq",
+      "comments": 15,
+      "score": 56
+    },
+    {
+      "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+      "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+      "summary": "",
+      "author": "rbanffy",
+      "comments": 2,
+      "score": 30
+    },
+    {
+      "title": "188-Year-Old Mystery of Photography's First Human Subjects Solved",
+      "url": "https://news.artnet.com/art-world/daguerre-photograph-subjects-location-2826596",
+      "summary": "",
+      "author": "bookofjoe",
+      "comments": 6,
+      "score": 29
+    },
+    {
+      "title": "Kauldron: Modular, scalable library to train ML models",
+      "url": "https://github.com/google-research/kauldron",
+      "summary": "",
+      "author": "nateb2022",
+      "comments": 2,
+      "score": 18
+    },
+    {
+      "title": "Viral Polls Are Not Representative Polls",
+      "url": "https://kevinreuning.com/blog/polling_virality.html",
+      "summary": "",
+      "author": "m-hodges",
+      "comments": 3,
+      "score": 12
+    },
+    {
+      "title": "A Stackless Floodfill Automaton",
+      "url": "https://t3x.org/files/floodfill.pdf",
+      "summary": "",
+      "author": "andsoitis",
+      "comments": 2,
+      "score": 12
+    }
+  ]
+}

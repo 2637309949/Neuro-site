@@ -1,0 +1,424 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T15:56:55.841001+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to stop scrolling on sidebar..?",
+      "url": "https://stackoverflow.com/questions/80015488/how-to-stop-scrolling-on-sidebar",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "tailwind-css"
+      ],
+      "author": "Soumyadip Haldar",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "PHP session_id() breaks session",
+      "url": "https://stackoverflow.com/questions/80015486/php-session-id-breaks-session",
+      "summary": "",
+      "tags": [
+        "php",
+        "session"
+      ],
+      "author": "fpierrat",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to learn C Programming quickly?",
+      "url": "https://stackoverflow.com/questions/80015480/how-to-learn-c-programming-quickly",
+      "summary": "",
+      "tags": [
+        "advice",
+        "java",
+        "c"
+      ],
+      "author": "NewBite",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "What is the daily quota behind &quot;Service invoked too many times for one day: gmail&quot; in Apps Script, and how is it charged?",
+      "url": "https://stackoverflow.com/questions/80015484/what-is-the-daily-quota-behind-service-invoked-too-many-times-for-one-day-gmai",
+      "summary": "",
+      "tags": [
+        "google-apps-script"
+      ],
+      "author": "Bear",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to learn real world AEM development",
+      "url": "https://stackoverflow.com/questions/80015483/how-to-learn-real-world-aem-development",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Harshitha Goud",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How to make data virtualization in WPF",
+      "url": "https://stackoverflow.com/questions/80015473/how-to-make-data-virtualization-in-wpf",
+      "summary": "",
+      "tags": [
+        "c#",
+        "wpf",
+        "data-virtualization"
+      ],
+      "author": "KonTuk",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How can I add Scroll to Top to HTML with HelpNDoc?",
+      "url": "https://stackoverflow.com/questions/80015467/how-can-i-add-scroll-to-top-to-html-with-helpndoc",
+      "summary": "",
+      "tags": [
+        "helpndoc"
+      ],
+      "author": "Andrew Truckle",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "SwiftUI macOS toolbar item without Liquid Glass background",
+      "url": "https://stackoverflow.com/questions/80015470/swiftui-macos-toolbar-item-without-liquid-glass-background",
+      "summary": "",
+      "tags": [
+        "swiftui",
+        "swiftui-navigationstack",
+        "swiftui-toolbar"
+      ],
+      "author": "Animated Coding",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Is there built-in cryptography in Odoo?",
+      "url": "https://stackoverflow.com/questions/80015469/is-there-built-in-cryptography-in-odoo",
+      "summary": "",
+      "tags": [
+        "advice",
+        "odoo",
+        "odoo-17"
+      ],
+      "author": "Versst",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How can I add Lightbox to HTML with HelpNDoc?",
+      "url": "https://stackoverflow.com/questions/80015461/how-can-i-add-lightbox-to-html-with-helpndoc",
+      "summary": "",
+      "tags": [
+        "lightbox",
+        "helpndoc"
+      ],
+      "author": "Andrew Truckle",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "workingDirectoryFailed error in VS Code without using Claude Code",
+      "url": "https://stackoverflow.com/questions/80015458/workingdirectoryfailed-error-in-vs-code-without-using-claude-code",
+      "summary": "",
+      "tags": [
+        "vs-code",
+        "vscode-copilot"
+      ],
+      "author": "giannasaurus",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How to optimize this IVF code for vectors in C++?",
+      "url": "https://stackoverflow.com/questions/80015454/how-to-optimize-this-ivf-code-for-vectors-in-c",
+      "summary": "",
+      "tags": [
+        "c++",
+        "algorithm",
+        "optimization",
+        "data-structures",
+        "inverted-index"
+      ],
+      "author": "romhud",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Postgres inequality behavior with composite values vs. ARRAYs: (a,b,c) vs. ARRAY[a,b,c]",
+      "url": "https://stackoverflow.com/questions/80015386/postgres-inequality-behavior-with-composite-values-vs-arrays-a-b-c-vs-array",
+      "summary": "",
+      "tags": [
+        "sql",
+        "arrays",
+        "postgresql",
+        "syntax"
+      ],
+      "author": "L. Rodgers",
+      "comments": 3,
+      "score": 4
+    },
+    {
+      "title": "500 Internal Server Error using stripe for CheckoutForm in Nextjs",
+      "url": "https://stackoverflow.com/questions/80015451/500-internal-server-error-using-stripe-for-checkoutform-in-nextjs",
+      "summary": "",
+      "tags": [
+        "next.js",
+        "stripe-payments"
+      ],
+      "author": "Melikaly",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Build a static dispatch table of non-static methods in C#",
+      "url": "https://stackoverflow.com/questions/80015429/build-a-static-dispatch-table-of-non-static-methods-in-c",
+      "summary": "",
+      "tags": [
+        "c#",
+        "dispatch"
+      ],
+      "author": "ikegami",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "How to get the location of a bash script",
+      "url": "https://stackoverflow.com/questions/80015446/how-to-get-the-location-of-a-bash-script",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "bash",
+        "shell"
+      ],
+      "author": "Petru Spita",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to make the transition for li not glitch out on hover",
+      "url": "https://stackoverflow.com/questions/80015435/how-to-make-the-transition-for-li-not-glitch-out-on-hover",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "patchouli",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Java.lang.RuntimeException and Maxent",
+      "url": "https://stackoverflow.com/questions/80015439/java-lang-runtimeexception-and-maxent",
+      "summary": "",
+      "tags": [
+        "java"
+      ],
+      "author": "Ruth P",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "GCC and EDG rejects valid program involving calling a function template with empty braces",
+      "url": "https://stackoverflow.com/questions/80015377/gcc-and-edg-rejects-valid-program-involving-calling-a-function-template-with-emp",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "c++23"
+      ],
+      "author": "Anoop Rana",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "PyVista plotting running slowly, resetting box size and causing collisions",
+      "url": "https://stackoverflow.com/questions/80015428/pyvista-plotting-running-slowly-resetting-box-size-and-causing-collisions",
+      "summary": "",
+      "tags": [
+        "python",
+        "numpy",
+        "pytorch",
+        "physics",
+        "pyvista"
+      ],
+      "author": "user33280062",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Adding an extra line changes the lazy import object entirely",
+      "url": "https://stackoverflow.com/questions/80015329/adding-an-extra-line-changes-the-lazy-import-object-entirely",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "author": "JadenV15",
+      "comments": 2,
+      "score": 5
+    },
+    {
+      "title": "How to resolve odd escape behavior with strings in DuckDB Lisp Binding (uses PostgreSQL parser)",
+      "url": "https://stackoverflow.com/questions/80015427/how-to-resolve-odd-escape-behavior-with-strings-in-duckdb-lisp-binding-uses-pos",
+      "summary": "",
+      "tags": [
+        "postgresql",
+        "common-lisp",
+        "duckdb"
+      ],
+      "author": "Oliver Cox",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "`except` doesn’t catch my custom exception raised inside `InterpreterPoolExecutor` (Python 3.14)",
+      "url": "https://stackoverflow.com/questions/80015414/except-doesn-t-catch-my-custom-exception-raised-inside-interpreterpoolexecuto",
+      "summary": "",
+      "tags": [
+        "python",
+        "exception",
+        "concurrent.futures",
+        "python-3.14"
+      ],
+      "author": "Muhammad Raham Saleem",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How do I show svelte-check errors in a GitLab merge request?",
+      "url": "https://stackoverflow.com/questions/80015417/how-do-i-show-svelte-check-errors-in-a-gitlab-merge-request",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "gitlab-ci",
+        "svelte",
+        "sveltekit"
+      ],
+      "author": "user28753910",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "t-string HTML renderer ignores `:.2f` and escapes nested templates as raw text",
+      "url": "https://stackoverflow.com/questions/80015408/t-string-html-renderer-ignores-2f-and-escapes-nested-templates-as-raw-text",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-3.14",
+        "python-template-strings"
+      ],
+      "author": "Muhammad Raham Saleem",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Kaspersky klhk.sys - How to get file?",
+      "url": "https://stackoverflow.com/questions/80015423/kaspersky-klhk-sys-how-to-get-file",
+      "summary": "",
+      "tags": [
+        "windows",
+        "driver",
+        "kaspersky"
+      ],
+      "author": "duck chillings",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "Remove all characters between brackets and the brackets as well from file names",
+      "url": "https://stackoverflow.com/questions/80015263/remove-all-characters-between-brackets-and-the-brackets-as-well-from-file-names",
+      "summary": "",
+      "tags": [
+        "bash",
+        "fish",
+        "batch-rename"
+      ],
+      "author": "rustyshark",
+      "comments": 4,
+      "score": 2
+    },
+    {
+      "title": "How do I write a string to a file or socket in Python?",
+      "url": "https://stackoverflow.com/questions/80015255/how-do-i-write-a-string-to-a-file-or-socket-in-python",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "deb2014",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "git push to a local server and recieved Permission denied (publickey). fatal: Could not read from remote repository",
+      "url": "https://stackoverflow.com/questions/80015407/git-push-to-a-local-server-and-recieved-permission-denied-publickey-fatal-co",
+      "summary": "",
+      "tags": [
+        "linux",
+        "git",
+        "ssh"
+      ],
+      "author": "Joseph Hallstrom",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "SwiftData ModelContainer failure?",
+      "url": "https://stackoverflow.com/questions/80015370/swiftdata-modelcontainer-failure",
+      "summary": "",
+      "tags": [
+        "swift",
+        "swiftdata"
+      ],
+      "author": "Jan Bergstr&#246;m",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

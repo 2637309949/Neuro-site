@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T07:00:22.560837+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "🔥 AI 员工支持知识库文档引用：开源 AI 无代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/502842",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本...",
+      "author": "NocoBase",
+      "comments": 0
+    },
+    {
+      "title": "破釜沉舟奔向 1.0：Zig 0.17.0 正式发布",
+      "url": "https://www.oschina.net/news/502841",
+      "summary": "经过 5 个月的密集迭代，汇集全球 206 位贡献者的 925 次代码提交，底层系统编程语言 Zig 迎来了关键的里程碑版本——Zig 0.17.0。对于关注现代编译...",
+      "author": "andalousie",
+      "comments": 0
+    },
+    {
+      "title": "从 PyQt6 到 Electron：一款英语字帖生成器的跨平台重构实战与踩坑全记录",
+      "url": "https://www.oschina.net/news/502840",
+      "summary": "原文项目：钟毓英语衡水体字帖生成器 重构前后：PyQt6 v1.1.1 → Electron v2.0.x（跨平台 Windows / macOS / Linux） 关键词：electron-vite、Can...",
+      "author": "快乐鹦鹉",
+      "comments": 0
+    },
+    {
+      "title": "灵界 OS 6.0 稳定版 · 窗口渲染优化与应用安装器更新",
+      "url": "https://www.oschina.net/news/502839",
+      "summary": "这次更新两块内容。 1. 窗口渲染优化 开启时的确认弹窗增加「不再提示」 勾选后，下次直接开启，不再弹窗 取消勾选不会记住，下次还会弹 恢复出厂设...",
+      "author": "xzh_Tim",
+      "comments": 0
+    },
+    {
+      "title": "4 万亿算力网背后：新质生产力的技术底座长什么样？",
+      "url": "https://www.oschina.net/news/502838",
+      "summary": "本文从技术产业视角，拆解 \"新质生产力\" 落地为工程系统后的四层架构：算力基建、数据要素、AI 中台、产业闭环。结合 2026 年最新政策数据与三个...",
+      "author": "55873 生态系统 - 研发",
+      "comments": 0
+    },
+    {
+      "title": "团队使用 Codex 和 Claude Code，API Key 和模型权限怎么管？我开源了 Zentrola",
+      "url": "https://www.oschina.net/news/502836",
+      "summary": "一个人使用 AI Coding 工具时，事情很简单：申请一个 API Key，填进 Codex 或 Claude Code，然后开始工作。 但当使用者从一个人变成一个团队，原本...",
+      "author": "不穿格子衫的IT男",
+      "comments": 0
+    },
+    {
+      "title": "Anthropic 红队盯上 GLM-5.3：能力追平 Mythos，却连拒绝护栏都是摆设",
+      "url": "https://www.oschina.net/news/502835/anthropic-research-glm-5-3-advanced-cyber-capabilities",
+      "summary": "Anthropic 的前沿红色团队（Frontier Red Team）盯上了智谱的 GLM-5.3，结论有点重：这是第一个能像五个月前的 Claude Mythos Preview 那样自主构建...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "相约捷克！openKylin 与你共赴 Open Source Summit Europe 2026",
+      "url": "https://www.oschina.net/news/502834",
+      "summary": "10 月 7 日至 9 日，由 Linux 基金会主办的 Open Source Summit and Embedded Linux Conference Europe 2026 将在捷克布拉格举行。作为面向开源开发...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "生态聚力・智启新程｜openKylin生态委员会第七次会议圆满召开",
+      "url": "https://www.oschina.net/news/502833",
+      "summary": "2026年9月29日，OpenAtom openKylin（简称\"openKylin\"）生态委员会第七次会议成功举行。与会委员围绕委员增选、工作组管理、生态运营进展及未来规划...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "openKylin参展2026明日城市・上海：开源操作系统走向国际舞台",
+      "url": "https://www.oschina.net/news/502832",
+      "summary": "9月22日至26日，2026明日城市・上海（Tomorrow.City Shanghai 2026，TCS 2026）于上海张江科学会堂举办。大会以 “共济山海，和而不同” 为主题，是...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "OpenAI 发布 GPT‑6.1 Sol：智能水平接近 Astra、价格仅为其五分之一",
+      "url": "https://www.oschina.net/news/502831/openai-gpt-6-1-sol",
+      "summary": "OpenAI 上周才推出 GPT-6 Sol，这周就把 6.1 Sol 端上了桌。官方称之为一次「重大升级」，覆盖专业办公、操控电脑、agentic 编程等任务。放在别家这...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "KisTask 2.0 发布，基于 PHP 的项目管理软件",
+      "url": "https://www.oschina.net/news/502828",
+      "summary": "KisTask 是一个开源的项目管理软件，支持多项目管理，应用于 BUG 跟踪，需求管理等多种形式的任务管理。 2.0版本更新功能： 1.增加了移动版本 2.pc...",
+      "author": "KisTask",
+      "comments": 0
+    },
+    {
+      "title": "谷歌将提前两年终止对 ChromeOS 的支持",
+      "url": "https://www.oschina.net/news/502827/google-ending-chromeos-support-two-years-early",
+      "summary": "Google 用一份支持文档，悄悄把 Chromebook 们的寿命砍了两年。文档标题很客气——「What the Googlebook announcement means for your ChromeOS ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "dummyscheme，另一个 lisp/scheme 方言，支持 r5rs",
+      "url": "https://www.oschina.net/news/502825",
+      "summary": "受Lua启发，支持R5RS，基于字节码和寄存器寻址的Scheme 解释器 字节码编译器，指令集基于寄存器 尾调用优化 一等公民延续（call/cc），multi-short...",
+      "author": "osc_2172670883",
+      "comments": 0
+    },
+    {
+      "title": "dummyscheme，轻量 scheme 解释器，支持 r5rs，基于字节码和寄存器寻址",
+      "url": "https://www.oschina.net/news/502824",
+      "summary": "受Lua启发，支持R5RS，基于字节码和寄存器寻址的Scheme 解释器 字节码编译器，指令集基于寄存器 尾调用优化 一等公民延续（call/cc），multi-short...",
+      "author": "osc_2172670883",
+      "comments": 0
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：智能体问答现可展示知识库中的图片",
+      "url": "https://www.oschina.net/news/502823",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。...",
+      "author": "bklitecanway",
+      "comments": 0
+    },
+    {
+      "title": "【实战评测】华为云码道多模态内容理解能力：文档及图片解析准确率最大超90%",
+      "url": "https://www.oschina.net/news/502821",
+      "summary": "摘要：在 AI 编码助手场景中，用户频繁上传 Word、PPT、Excel、PDF、UI 设计稿、代码截图、架构图等多模态内容，期望助手能够一次性理解文档结构与...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "OpenAI 发布全天候运行 AI Agent \"dots\"，由 GPT‑6 Astra 驱动、拥有独立的云端电脑",
+      "url": "https://www.oschina.net/news/502820/openai-dots",
+      "summary": "周二旧金山的  OpenAI DevDay 2026 开发者大会上，Sam Altman 热情洋溢地揭开了 dots 的面纱——一个由 GPT-6 Astra 驱动的个人智能体助理。 dots...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DBErp v3.0.5 发布：移动端进销存能力上线，后台单据与结算同步增强",
+      "url": "https://www.oschina.net/news/502819",
+      "summary": "DBErp v3.0.5 已发布。这一版把进销存主流程延伸到手机端，并补强后台的单据复制、销售关单应收、单据履历和插件更新检查。已安装用户可在官方支持...",
+      "author": "静静的风",
+      "comments": 0
+    },
+    {
+      "title": "MateClaw 2.3.0 发布：企业智能体告别“自报完成”，不可变 JSON 接管长任务验收",
+      "url": "https://www.oschina.net/news/502818",
+      "summary": "MateClaw 2.3.0 正式版已于 2026 年 9 月 20 日发布。本次版本为 Persistent Goal 增加用户配置的托管 JSON 验收：Agent 发布不可变产物版本，服务...",
+      "author": "mateplus",
+      "comments": 0
+    }
+  ]
+}

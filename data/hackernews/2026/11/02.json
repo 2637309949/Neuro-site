@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T07:39:40.410231+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "summary": "",
+      "author": "karpathy",
+      "comments": 555,
+      "score": 2480
+    },
+    {
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "summary": "",
+      "author": "roansh",
+      "comments": 223,
+      "score": 1261
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "summary": "",
+      "author": "ecares",
+      "comments": 203,
+      "score": 795
+    },
+    {
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "summary": "",
+      "author": "entryleveljobsc",
+      "comments": 157,
+      "score": 457
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "summary": "",
+      "author": "luu",
+      "comments": 267,
+      "score": 350
+    },
+    {
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "summary": "",
+      "author": "soheilpro",
+      "comments": 202,
+      "score": 306
+    },
+    {
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "summary": "",
+      "author": "LecroJS",
+      "comments": 452,
+      "score": 292
+    },
+    {
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "summary": "",
+      "author": "smilelamp",
+      "comments": 301,
+      "score": 285
+    },
+    {
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "summary": "",
+      "author": "FabCH",
+      "comments": 51,
+      "score": 216
+    },
+    {
+      "title": "OccupySaaS",
+      "url": "https://occupysaas.com/",
+      "summary": "",
+      "author": "misswaterfairy",
+      "comments": 133,
+      "score": 204
+    },
+    {
+      "title": "Show HN: Point your camera at a landscape to learn about its geology",
+      "url": "https://outcrop.rocks/",
+      "summary": "",
+      "author": "headsupernova",
+      "comments": 41,
+      "score": 191
+    },
+    {
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "summary": "",
+      "author": "gmays",
+      "comments": 48,
+      "score": 166
+    },
+    {
+      "title": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "summary": "",
+      "author": "slater",
+      "comments": 47,
+      "score": 158
+    },
+    {
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "summary": "",
+      "author": "bogdanoff_2",
+      "comments": 89,
+      "score": 156
+    },
+    {
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "summary": "",
+      "author": "croes",
+      "comments": 49,
+      "score": 146
+    },
+    {
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "summary": "",
+      "author": "Anon84",
+      "comments": 67,
+      "score": 132
+    },
+    {
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "summary": "",
+      "author": "raphlinus",
+      "comments": 22,
+      "score": 130
+    },
+    {
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "summary": "",
+      "author": "luu",
+      "comments": 17,
+      "score": 110
+    },
+    {
+      "title": "Bidirectional charging during grid outages",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "summary": "",
+      "author": "luu",
+      "comments": 145,
+      "score": 98
+    },
+    {
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "summary": "",
+      "author": "_Microft",
+      "comments": 38,
+      "score": 94
+    },
+    {
+      "title": "Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2",
+      "url": "https://kevs3d.co.uk/phoria2/",
+      "summary": "",
+      "author": "kevs3d",
+      "comments": 17,
+      "score": 87
+    },
+    {
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "summary": "",
+      "author": "joonehur",
+      "comments": 8,
+      "score": 87
+    },
+    {
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "summary": "",
+      "author": "rdmuser",
+      "comments": 60,
+      "score": 78
+    },
+    {
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "summary": "",
+      "author": "n_plus_1_acc",
+      "comments": 51,
+      "score": 73
+    },
+    {
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "summary": "",
+      "author": "stevenalowe",
+      "comments": 33,
+      "score": 72
+    },
+    {
+      "title": "Trigger.dev customer environment variables exposed",
+      "url": "https://trigger.dev/blog/security-incident-nov-2026",
+      "summary": "",
+      "author": "anurag",
+      "comments": 26,
+      "score": 67
+    },
+    {
+      "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+      "url": "https://wikihack.netlify.app",
+      "summary": "",
+      "author": "aizk",
+      "comments": 12,
+      "score": 48
+    },
+    {
+      "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
+      "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
+      "summary": "",
+      "author": "gulmothrowaway",
+      "comments": 11,
+      "score": 47
+    },
+    {
+      "title": "Keeping Up Appearances – The women taking over the funeral industry",
+      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+      "summary": "",
+      "author": "TMWNN",
+      "comments": 21,
+      "score": 42
+    },
+    {
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "summary": "",
+      "author": "EA-3167",
+      "comments": 3,
+      "score": 35
+    }
+  ]
+}

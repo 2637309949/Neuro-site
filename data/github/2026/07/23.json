@@ -1,0 +1,189 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T11:21:12.494151+00:00",
+  "source": "github",
+  "count": 16,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "block/buzz",
+      "repo": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "summary": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 5025,
+      "today_stars": 3252
+    },
+    {
+      "title": "koala73/worldmonitor",
+      "repo": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "summary": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 70482,
+      "today_stars": 4139
+    },
+    {
+      "title": "shiyu-coder/Kronos",
+      "repo": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 32806,
+      "today_stars": 137
+    },
+    {
+      "title": "ayghri/i-have-adhd",
+      "repo": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "summary": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 8890,
+      "today_stars": 1699
+    },
+    {
+      "title": "Pumpkin-MC/Pumpkin",
+      "repo": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "summary": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 8668,
+      "today_stars": 108
+    },
+    {
+      "title": "citrolabs/ego-lite",
+      "repo": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "summary": "The best browser for both you and your AI agents work in parallel.",
+      "language": "JavaScript",
+      "stars": 1220,
+      "today_stars": 219
+    },
+    {
+      "title": "chrislgarry/Apollo-11",
+      "repo": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "summary": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 70853,
+      "today_stars": 768
+    },
+    {
+      "title": "diegosouzapw/OmniRoute",
+      "repo": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "summary": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": 26195,
+      "today_stars": 1651
+    },
+    {
+      "title": "ComposioHQ/awesome-claude-skills",
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "summary": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 69103,
+      "today_stars": 163
+    },
+    {
+      "title": "earthtojake/text-to-cad",
+      "repo": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "summary": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": 9703,
+      "today_stars": 621
+    },
+    {
+      "title": "agegr/pi-web",
+      "repo": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "summary": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": 2217,
+      "today_stars": 314
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 11051,
+      "today_stars": 162
+    },
+    {
+      "title": "ruvnet/RuView",
+      "repo": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "summary": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 84591,
+      "today_stars": 741
+    },
+    {
+      "title": "likec4/likec4",
+      "repo": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "summary": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 4524,
+      "today_stars": 80
+    },
+    {
+      "title": "Automattic/harper",
+      "repo": "Automattic/harper",
+      "url": "https://github.com/Automattic/harper",
+      "summary": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "stars": 11794,
+      "today_stars": 590
+    },
+    {
+      "title": "jellyfin/jellyfin",
+      "repo": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "summary": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": 54592,
+      "today_stars": 53
+    }
+  ]
+}

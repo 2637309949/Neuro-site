@@ -1,0 +1,432 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T08:14:28.434411+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How do I add a C library? (MacOS)",
+      "url": "https://stackoverflow.com/questions/80016198/how-do-i-add-a-c-library-macos",
+      "summary": "",
+      "tags": [
+        "c",
+        "macos",
+        "compilation"
+      ],
+      "author": "Memorie",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Placing ports at the corner of a block using Tcl",
+      "url": "https://stackoverflow.com/questions/80016197/placing-ports-at-the-corner-of-a-block-using-tcl",
+      "summary": "",
+      "tags": [
+        "tcl",
+        "vlsi"
+      ],
+      "author": "pardhu reddy",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "FastAPI file upload returns 504 Gateway Timeout behind Nginx despite client_max_body_size",
+      "url": "https://stackoverflow.com/questions/80016195/fastapi-file-upload-returns-504-gateway-timeout-behind-nginx-despite-client-max",
+      "summary": "",
+      "tags": [
+        "nginx",
+        "fastapi"
+      ],
+      "author": "Marika Pramberga",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why does MilvusClient.query() return only 4 rows with limit=10 after inserting duplicate primary keys?",
+      "url": "https://stackoverflow.com/questions/80016189/why-does-milvusclient-query-return-only-4-rows-with-limit-10-after-inserting-d",
+      "summary": "",
+      "tags": [
+        "python",
+        "pagination",
+        "duplicates",
+        "primary-key",
+        "milvus"
+      ],
+      "author": "Civic Fiction",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Best Practice for Document Rag",
+      "url": "https://stackoverflow.com/questions/80016186/best-practice-for-document-rag",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "user32979207",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Sshuttle Failed to Establish SSH Session",
+      "url": "https://stackoverflow.com/questions/80016180/sshuttle-failed-to-establish-ssh-session",
+      "summary": "",
+      "tags": [
+        "ssh"
+      ],
+      "author": "HappyUmo",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Advice for repurposing a Zebra ET51CT POS system",
+      "url": "https://stackoverflow.com/questions/80016173/advice-for-repurposing-a-zebra-et51ct-pos-system",
+      "summary": "",
+      "tags": [
+        "advice",
+        "android",
+        "point-of-sale"
+      ],
+      "author": "Rylee Statler",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "latest chrome version displays incorrect border color",
+      "url": "https://stackoverflow.com/questions/80016178/latest-chrome-version-displays-incorrect-border-color",
+      "summary": "",
+      "tags": [
+        "google-chrome",
+        "vs-code"
+      ],
+      "author": "Nire",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Why there is an error with list broadcasting?",
+      "url": "https://stackoverflow.com/questions/80016150/why-there-is-an-error-with-list-broadcasting",
+      "summary": "",
+      "tags": [
+        "python",
+        "numpy"
+      ],
+      "author": "朱爱兵",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "Does sys.set_lazy_imports() accept &#39;none&#39;?",
+      "url": "https://stackoverflow.com/questions/80016148/does-sys-set-lazy-imports-accept-none",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-import",
+        "lazy-loading"
+      ],
+      "author": "JadenV15",
+      "comments": 3,
+      "score": 2
+    },
+    {
+      "title": "count(distinct col) throws error: what&#39;s the correct syntax for distinct count?",
+      "url": "https://stackoverflow.com/questions/80016152/countdistinct-col-throws-error-whats-the-correct-syntax-for-distinct-count",
+      "summary": "",
+      "tags": [
+        "sql",
+        "dolphindb"
+      ],
+      "author": "Liam",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to delete all images in the subfolders of a root folder and bring the files in the subfolders of the subfolders a level up on Windows 11?",
+      "url": "https://stackoverflow.com/questions/80016151/how-to-delete-all-images-in-the-subfolders-of-a-root-folder-and-bring-the-files",
+      "summary": "",
+      "tags": [
+        "windows",
+        "powershell",
+        "batch-file",
+        "cmd"
+      ],
+      "author": "Kai Li",
+      "comments": 1,
+      "score": -7
+    },
+    {
+      "title": "Gradle in VS Code is not using repositories configured in settings.gradle pluginManagement",
+      "url": "https://stackoverflow.com/questions/80016147/gradle-in-vs-code-is-not-using-repositories-configured-in-settings-gradle-plugin",
+      "summary": "",
+      "tags": [
+        "java",
+        "vs-code",
+        "gradle"
+      ],
+      "author": "Yoshi Walsh",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why is my code not adding the last character when converting Roman numerals?",
+      "url": "https://stackoverflow.com/questions/80016100/why-is-my-code-not-adding-the-last-character-when-converting-roman-numerals",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-3.x",
+        "string",
+        "dictionary"
+      ],
+      "author": "Capit&#227;o Mendig&#227;o",
+      "comments": 5,
+      "score": 0
+    },
+    {
+      "title": "Is pg_last_wal_replay_lsn() a sufficient read-after-write barrier on a PolarDB for PostgreSQL replica?",
+      "url": "https://stackoverflow.com/questions/80016144/is-pg-last-wal-replay-lsn-a-sufficient-read-after-write-barrier-on-a-polardb-f",
+      "summary": "",
+      "tags": [
+        "postgresql",
+        "wal",
+        "replay",
+        "polardb"
+      ],
+      "author": "Huey",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How can I programmatically create an MDList with KivyMD?",
+      "url": "https://stackoverflow.com/questions/80016122/how-can-i-programmatically-create-an-mdlist-with-kivymd",
+      "summary": "",
+      "tags": [
+        "python",
+        "kivymd"
+      ],
+      "author": "Jesse Galdamez",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Looking for help improving my LoRA training and image generation pipeline",
+      "url": "https://stackoverflow.com/questions/80016143/looking-for-help-improving-my-lora-training-and-image-generation-pipeline",
+      "summary": "",
+      "tags": [
+        "machine-learning",
+        "artificial-intelligence"
+      ],
+      "author": "Jassim Nabil",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "Windows ANSI terminal commands do not work on some WIndows installs",
+      "url": "https://stackoverflow.com/questions/80016051/windows-ansi-terminal-commands-do-not-work-on-some-windows-installs",
+      "summary": "",
+      "tags": [
+        "java",
+        "windows",
+        "console"
+      ],
+      "author": "Herv&#233; Girod",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "How to exit an APR thread with a specific error code",
+      "url": "https://stackoverflow.com/questions/80016126/how-to-exit-an-apr-thread-with-a-specific-error-code",
+      "summary": "",
+      "tags": [
+        "c",
+        "multithreading",
+        "apr"
+      ],
+      "author": "franksands",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "Combine different variables with different geoms and scales",
+      "url": "https://stackoverflow.com/questions/80016074/combine-different-variables-with-different-geoms-and-scales",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2",
+        "scale",
+        "geom"
+      ],
+      "author": "Matteo",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Color points by density when plotting continuous variable by categorical variable with modern {ggplot2}",
+      "url": "https://stackoverflow.com/questions/80016135/color-points-by-density-when-plotting-continuous-variable-by-categorical-variabl",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2"
+      ],
+      "author": "PD Schloss",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How To Make A Car Turn In Godot",
+      "url": "https://stackoverflow.com/questions/80016091/how-to-make-a-car-turn-in-godot",
+      "summary": "",
+      "tags": [
+        "game-physics",
+        "godot",
+        "gdscript",
+        "godot4"
+      ],
+      "author": "Julio",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why does this picture refuse to move under my other image?",
+      "url": "https://stackoverflow.com/questions/80016092/why-does-this-picture-refuse-to-move-under-my-other-image",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "S. Z.",
+      "comments": 3,
+      "score": 3
+    },
+    {
+      "title": "How to remove expanded image in Android alerts",
+      "url": "https://stackoverflow.com/questions/80016114/how-to-remove-expanded-image-in-android-alerts",
+      "summary": "",
+      "tags": [
+        "android",
+        "flutter",
+        "firebase-cloud-messaging",
+        "flutter-local-notification"
+      ],
+      "author": "jstuardo",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Advice on Implementing a JavaFX Google Earth / God&#39;s eye View like viewer with JDK 27",
+      "url": "https://stackoverflow.com/questions/80016064/advice-on-implementing-a-javafx-google-earth-gods-eye-view-like-viewer-with-j",
+      "summary": "",
+      "tags": [
+        "java",
+        "javafx",
+        "3d",
+        "gis"
+      ],
+      "author": "pranahata",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Plot ranked data against two different rankings",
+      "url": "https://stackoverflow.com/questions/80016041/plot-ranked-data-against-two-different-rankings",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2"
+      ],
+      "author": "Kitt",
+      "comments": 3,
+      "score": 3
+    },
+    {
+      "title": "Firebase Auth: saving any email template field fails with EMAIL_TEMPLATE_UPDATE_NOT_ALLOWED",
+      "url": "https://stackoverflow.com/questions/80016115/firebase-auth-saving-any-email-template-field-fails-with-email-template-update",
+      "summary": "",
+      "tags": [
+        "firebase",
+        "firebase-authentication"
+      ],
+      "author": "Renewora LLC",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to fix bad version number in a melpa-hosted package",
+      "url": "https://stackoverflow.com/questions/80016113/how-to-fix-bad-version-number-in-a-melpa-hosted-package",
+      "summary": "",
+      "tags": [
+        "melpa"
+      ],
+      "author": "Bill Rising",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why do two mediafiles differ 2 times in size despite equal content, the same codec and encoding data?",
+      "url": "https://stackoverflow.com/questions/80016111/why-do-two-mediafiles-differ-2-times-in-size-despite-equal-content-the-same-cod",
+      "summary": "",
+      "tags": [
+        "ffmpeg",
+        "video-processing",
+        "h.264",
+        "video-encoding",
+        "mediainfo"
+      ],
+      "author": "Eduard Tibet",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Basic guide about how to work with C++ modules, CMake, and external libraries from a package manager",
+      "url": "https://stackoverflow.com/questions/80015933/basic-guide-about-how-to-work-with-c-modules-cmake-and-external-libraries-fr",
+      "summary": "",
+      "tags": [
+        "c++",
+        "cmake",
+        "package-managers",
+        "c++23",
+        "c++-modules"
+      ],
+      "author": "L1L2L3",
+      "comments": 1,
+      "score": 1
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T14:31:55.515303+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "summary": "",
+      "author": "cbg0",
+      "comments": 358,
+      "score": 620
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "summary": "",
+      "author": "abhisek",
+      "comments": 184,
+      "score": 564
+    },
+    {
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "summary": "",
+      "author": "passenger",
+      "comments": 308,
+      "score": 532
+    },
+    {
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "summary": "",
+      "author": "kuberwastaken",
+      "comments": 439,
+      "score": 472
+    },
+    {
+      "title": "No more icons in every menu by default",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "summary": "",
+      "author": "riffraff",
+      "comments": 229,
+      "score": 398
+    },
+    {
+      "title": "PingCap TiDB Leaks",
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "summary": "",
+      "author": "swyx",
+      "comments": 66,
+      "score": 390
+    },
+    {
+      "title": "GitLab critical patch release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "summary": "",
+      "author": "artooro",
+      "comments": 87,
+      "score": 379
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "summary": "",
+      "author": "alphax314",
+      "comments": 115,
+      "score": 366
+    },
+    {
+      "title": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "summary": "",
+      "author": "kaycebasques",
+      "comments": 204,
+      "score": 344
+    },
+    {
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "summary": "",
+      "author": "ledoge",
+      "comments": 122,
+      "score": 337
+    },
+    {
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "summary": "",
+      "author": "craigcitro",
+      "comments": 208,
+      "score": 257
+    },
+    {
+      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+      "summary": "",
+      "author": "bryanrasmussen",
+      "comments": 58,
+      "score": 248
+    },
+    {
+      "title": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
+      "summary": "",
+      "author": "armcat",
+      "comments": 87,
+      "score": 182
+    },
+    {
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "summary": "",
+      "author": "mrkn1",
+      "comments": 30,
+      "score": 148
+    },
+    {
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "summary": "",
+      "author": "oidar",
+      "comments": 109,
+      "score": 145
+    },
+    {
+      "title": "What Is Gridifcation",
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "summary": "",
+      "author": "gumby",
+      "comments": 44,
+      "score": 140
+    },
+    {
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "summary": "",
+      "author": "jimauthors",
+      "comments": 84,
+      "score": 138
+    },
+    {
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "summary": "",
+      "author": "molind",
+      "comments": 21,
+      "score": 125
+    },
+    {
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "summary": "",
+      "author": "cubefox",
+      "comments": 24,
+      "score": 124
+    },
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "summary": "",
+      "author": "bo0tzz",
+      "comments": 52,
+      "score": 116
+    },
+    {
+      "title": "What Is the Karakoram Anomaly?",
+      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+      "summary": "",
+      "author": "thunderbong",
+      "comments": 15,
+      "score": 65
+    },
+    {
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "summary": "",
+      "author": "wffurr",
+      "comments": 23,
+      "score": 60
+    },
+    {
+      "title": "The Robot I Didn't Expect to Build",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "summary": "",
+      "author": "bojackh",
+      "comments": 30,
+      "score": 44
+    },
+    {
+      "title": "Crystal 1.22.0 Is Released",
+      "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+      "summary": "",
+      "author": "ksec",
+      "comments": 8,
+      "score": 34
+    },
+    {
+      "title": "Eigenmoon: linear algebra puzzles by moonlight",
+      "url": "https://eigenmoon.vercel.app/",
+      "summary": "",
+      "author": "jessicarumbelow",
+      "comments": 7,
+      "score": 27
+    },
+    {
+      "title": "The painter behind Manhattan’s Gilded Age interiors",
+      "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+      "summary": "",
+      "author": "hoffmannesque",
+      "comments": 0,
+      "score": 20
+    },
+    {
+      "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+      "url": "https://lastmuseum.com/",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 3,
+      "score": 11
+    },
+    {
+      "title": "What's Getting Pwned",
+      "url": "https://pwn.watch/",
+      "summary": "",
+      "author": "mrkd",
+      "comments": 1,
+      "score": 8
+    },
+    {
+      "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+      "url": "https://github.com/rhargreaves/vmmouse-nt3",
+      "summary": "",
+      "author": "kiyouta",
+      "comments": 0,
+      "score": 6
+    },
+    {
+      "title": "SBD: We Have a Filesystem at Home",
+      "url": "https://fly.io/blog/sprites-block-device/",
+      "summary": "",
+      "author": "torutofu",
+      "comments": 2,
+      "score": 5
+    }
+  ]
+}

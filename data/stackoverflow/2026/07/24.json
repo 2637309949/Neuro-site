@@ -1,0 +1,446 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T15:04:55.077104+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Global variable got decreased when using two threads to increment it",
+      "url": "https://stackoverflow.com/questions/79985578/global-variable-got-decreased-when-using-two-threads-to-increment-it",
+      "summary": "",
+      "tags": [
+        "c",
+        "concurrency",
+        "pthreads"
+      ],
+      "author": "Deep",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Differences between dmesg and journalctl -k",
+      "url": "https://stackoverflow.com/questions/79985573/differences-between-dmesg-and-journalctl-k",
+      "summary": "",
+      "tags": [
+        "linux",
+        "hardware"
+      ],
+      "author": "user32968616",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "nasm based OS not booting",
+      "url": "https://stackoverflow.com/questions/79985586/nasm-based-os-not-booting",
+      "summary": "",
+      "tags": [
+        "c++",
+        "assembly",
+        "operating-system",
+        "x86-64",
+        "nasm"
+      ],
+      "author": "Christopher von Blum",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "What are the main phases a web vulnerability scanner follows?",
+      "url": "https://stackoverflow.com/questions/79985589/what-are-the-main-phases-a-web-vulnerability-scanner-follows",
+      "summary": "",
+      "tags": [
+        "security",
+        "sql-injection",
+        "owasp",
+        "zap"
+      ],
+      "author": "Fabio",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Text input stops receiving keyboard events after cancelling beforeunload confirmation in Chrome",
+      "url": "https://stackoverflow.com/questions/79985588/text-input-stops-receiving-keyboard-events-after-cancelling-beforeunload-confirm",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "angular",
+        "google-chrome",
+        "onbeforeunload"
+      ],
+      "author": "Bhavik Gedia",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Sending android Notifications in python flet",
+      "url": "https://stackoverflow.com/questions/79985583/sending-android-notifications-in-python-flet",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "ahmed",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Confusion about the definition of &quot;explicitly initialized element&quot; in aggregate initialization",
+      "url": "https://stackoverflow.com/questions/79985556/confusion-about-the-definition-of-explicitly-initialized-element-in-aggregate",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "aggregate-initialization"
+      ],
+      "author": "Ming",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to bind values of `sap.ui.model.Filter`?",
+      "url": "https://stackoverflow.com/questions/79985570/how-to-bind-values-of-sap-ui-model-filter",
+      "summary": "",
+      "tags": [
+        "sapui5",
+        "sap-fiori"
+      ],
+      "author": "Boghyon Hoffmann",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "lit removing conditional checked attribute from radio",
+      "url": "https://stackoverflow.com/questions/79985539/lit-removing-conditional-checked-attribute-from-radio",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "vite",
+        "lit"
+      ],
+      "author": "Pete",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Can anyone recommend a good Unicode character explorer?",
+      "url": "https://stackoverflow.com/questions/79985552/can-anyone-recommend-a-good-unicode-character-explorer",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "unicode",
+        "utf-8"
+      ],
+      "author": "tarun basu",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "CSRF token works on all forms except comments form - Session token missing in POST",
+      "url": "https://stackoverflow.com/questions/79985558/csrf-token-works-on-all-forms-except-comments-form-session-token-missing-in-po",
+      "summary": "",
+      "tags": [
+        "php",
+        "csrf"
+      ],
+      "author": "jameel alqurashi",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to normalize complex JSON using pandas?",
+      "url": "https://stackoverflow.com/questions/79985528/how-to-normalize-complex-json-using-pandas",
+      "summary": "",
+      "tags": [
+        "python",
+        "json",
+        "pandas",
+        "normalization"
+      ],
+      "author": "user22099079",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "How to install mcp-server-dev in VSCode on Ubuntu?",
+      "url": "https://stackoverflow.com/questions/79985557/how-to-install-mcp-server-dev-in-vscode-on-ubuntu",
+      "summary": "",
+      "tags": [
+        "visual-studio-code",
+        "plugins",
+        "vscode-extensions",
+        "mcp-server"
+      ],
+      "author": "khteh",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Unable to update Flutter version without using --force in the command",
+      "url": "https://stackoverflow.com/questions/79985532/unable-to-update-flutter-version-without-using-force-in-the-command",
+      "summary": "",
+      "tags": [
+        "flutter"
+      ],
+      "author": "Babar Arif",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Getting this error: Uncaught Error: Objects are not valid as a React child (found: object with keys",
+      "url": "https://stackoverflow.com/questions/79985538/getting-this-error-uncaught-error-objects-are-not-valid-as-a-react-child-foun",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "cart"
+      ],
+      "author": "eskimopest",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "MySQL Connector/J 9.5 returns no rows from PreparedStatement (Statement works)",
+      "url": "https://stackoverflow.com/questions/79985499/mysql-connector-j-9-5-returns-no-rows-from-preparedstatement-statement-works",
+      "summary": "",
+      "tags": [
+        "java",
+        "jdbc",
+        "mysql-connector",
+        "oceanbase"
+      ],
+      "author": "jinglan0379",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How can I integrate an OpenAI-powered chatbot into a React website using Node.js?",
+      "url": "https://stackoverflow.com/questions/79985520/how-can-i-integrate-an-openai-powered-chatbot-into-a-react-website-using-node-js",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "html",
+        "reactjs",
+        "node.js"
+      ],
+      "author": "creative AR Tech",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Efficient header resolution strategy for zero-copy CSV parsing in C",
+      "url": "https://stackoverflow.com/questions/79985530/efficient-header-resolution-strategy-for-zero-copy-csv-parsing-in-c",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c",
+        "csv",
+        "mmap",
+        "zero-copy"
+      ],
+      "author": "NARESH",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Is a hand-rolled CASE expression a reasonable way to do relevance-ranked search with JPA Criteria API + MySQL, or is there a better approach?",
+      "url": "https://stackoverflow.com/questions/79985518/is-a-hand-rolled-case-expression-a-reasonable-way-to-do-relevance-ranked-search",
+      "summary": "",
+      "tags": [
+        "java",
+        "mysql",
+        "spring-boot",
+        "jpa",
+        "criteria-api"
+      ],
+      "author": "Dulsara Manakal",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Replace element in array",
+      "url": "https://stackoverflow.com/questions/79985494/replace-element-in-array",
+      "summary": "",
+      "tags": [
+        "php",
+        "multidimensional-array",
+        "replace"
+      ],
+      "author": "labby",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "UserManager.FindByNameAsync no longer working in .NET Framework application",
+      "url": "https://stackoverflow.com/questions/79985505/usermanager-findbynameasync-no-longer-working-in-net-framework-application",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net",
+        "asp.net-identity",
+        "usermanager"
+      ],
+      "author": "Martin Vaughan",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Missing compiler error when installing GMP on Kubuntu",
+      "url": "https://stackoverflow.com/questions/79985511/missing-compiler-error-when-installing-gmp-on-kubuntu",
+      "summary": "",
+      "tags": [
+        "linux",
+        "gcc",
+        "installation",
+        "configure",
+        "gmp"
+      ],
+      "author": "Leonardo Carofiglio",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Reading String from File Returns Incorrect String Length, Program Crashes",
+      "url": "https://stackoverflow.com/questions/79985432/reading-string-from-file-returns-incorrect-string-length-program-crashes",
+      "summary": "",
+      "tags": [
+        "c++"
+      ],
+      "author": "Oliver Martin",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "JWT C++ OpenSSL RS256 Signature Verification",
+      "url": "https://stackoverflow.com/questions/79985443/jwt-c-openssl-rs256-signature-verification",
+      "summary": "",
+      "tags": [
+        "c++11",
+        "jwt",
+        "openssl",
+        "rsa",
+        "digital-signature"
+      ],
+      "author": "onlinedpaper",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How do I get Python GEKKO chemical splitter unit operation to propagate mole fractions from input to output streams?",
+      "url": "https://stackoverflow.com/questions/79985489/how-do-i-get-python-gekko-chemical-splitter-unit-operation-to-propagate-mole-fra",
+      "summary": "",
+      "tags": [
+        "python",
+        "gekko"
+      ],
+      "author": "JacquesStrydom",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Selenium Wire: POST request returns 403 Forbidden although cookies, CSRF token, and payload match browser request",
+      "url": "https://stackoverflow.com/questions/79985434/selenium-wire-post-request-returns-403-forbidden-although-cookies-csrf-token",
+      "summary": "",
+      "tags": [
+        "python",
+        "selenium-chromedriver",
+        "ui-automation"
+      ],
+      "author": "SMM",
+      "comments": 2,
+      "score": -2
+    },
+    {
+      "title": "How to iterate over two objects without heap allocations?",
+      "url": "https://stackoverflow.com/questions/79984276/how-to-iterate-over-two-objects-without-heap-allocations",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c#"
+      ],
+      "author": "Thelo",
+      "comments": 3,
+      "score": 4
+    },
+    {
+      "title": "How to verify that all projects in a solution were fully migrated to .NET 10 (TargetFramework and LangVersion) with Rider IDE?",
+      "url": "https://stackoverflow.com/questions/79985523/how-to-verify-that-all-projects-in-a-solution-were-fully-migrated-to-net-10-ta",
+      "summary": "",
+      "tags": [
+        "advice",
+        ".net-8.0",
+        "rider",
+        "migrate",
+        ".net-10.0"
+      ],
+      "author": "Mi2830",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Reset logic implementation in VHDL",
+      "url": "https://stackoverflow.com/questions/79985483/reset-logic-implementation-in-vhdl",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "vhdl",
+        "fpga",
+        "vivado"
+      ],
+      "author": "Vinay Madapura",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Elysia rate limit plugin",
+      "url": "https://stackoverflow.com/questions/79985475/elysia-rate-limit-plugin",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "rate-limiting",
+        "elysiajs"
+      ],
+      "author": "cancel this",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T14:09:52.971600+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "中国游戏创业者向 DHH 的 Omacom 基金会捐赠 100 万美元",
+      "url": "https://www.oschina.net/news/502257",
+      "summary": "Omacom Foundation 又募到了 200 万美元。这次的钱来自 Brian Armstrong 和 Yunjie Dai，两人各出 100 万，把基金会的资金池推到了 1200 万美元。 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "每周一天，关掉 AI 写代码",
+      "url": "https://www.oschina.net/news/502256/no-ai-fridays",
+      "summary": "Carson Gross 决定每周五不写代码。 不是不工作，是不用 AI 辅助写代码。他是 htmx 的创造者，一个以「用 HTML 搞定一切」出名的人，现在他想用一天...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "16,000 个 PR 之后，谁还在用 OpenClaw？",
+      "url": "https://www.oschina.net/news/502255/openclaw-2-accidentally",
+      "summary": "OpenClaw 2.0 的发布博客，标题叫《OpenClaw 2.0, Accidentally》。「意外」不是谦虚，是实情。 按社区经理 Hannes Rudolph 的说法，团队一开始只想...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Omarchy：一个把 AI Agent 写进内核的 Linux，和它引发的争议",
+      "url": "https://www.oschina.net/news/502254/dhh-omarchy",
+      "summary": "知名技术网红 DHH 在 37signals 内部孵化了 Omarchy。一个基于 Arch Linux + Hyprland 窗口管理器 + Quickshell 桌面构建套件的 Linux 发行版，口号...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "htmx 4.0 正式发布，版本号直接从 2.x 跳到了 4.0",
+      "url": "https://www.oschina.net/news/502253/htmx-4-0-0-released",
+      "summary": "版本号不是手滑。2.0 发布时，作者 Carson Gross 承诺过「永远不会有 3.0」，意思是不会有破坏性变更。结果他们还是做了破坏性变更，为了不食言，干...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Manus 恢复独立运营",
+      "url": "https://www.oschina.net/news/502250/manus-resumes-independent-operations",
+      "summary": "9 月 1 日，Manus 官方账号在 X 上宣布「恢复独立运营」，配文写着「进入一个由同样的创新精神驱动的新篇章」。这条推文发布十小时，浏览量 42.8 万...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "GFlow v1.0.0 发布：Go 生态审批工作流引擎，中国式审批、AI 先审、批完自动办",
+      "url": "https://www.oschina.net/news/502248",
+      "summary": "GFlow Engine 是一个基于 RuleGo 的轻量级、可嵌入审批工作流引擎，今天正式发布 v1.0.0 并以 Apache-2.0 协议开源：引一个 Go 库、建 7 张表，即可...",
+      "author": "rulego_team",
+      "comments": 0
+    },
+    {
+      "title": "云上AI应用故障诊断，上海开源大赛ZSvirt命题公布",
+      "url": "https://www.oschina.net/news/502247",
+      "summary": "现在不少 AI 应用跑在云环境里，我们称之为「智算云」。简单来说，就是专门承载 GPU 算力、支撑大模型训练和推理的云平台。 在智算云环境中，GPU、...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "《行业鸿蒙终端发展蓝皮书2026》发布：迈向规模复制，端侧AI打开增长空间",
+      "url": "https://www.oschina.net/news/502246",
+      "summary": "2026年8月28日，《行业鸿蒙终端发展蓝皮书2026》在深圳举行的鸿蒙生态大会（HEC·2026）主论坛上发布。全球智慧物联网联盟（GIIC）鸿蒙生态推进委员...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Kimoox 虚拟卡：一站式管理多卡预算，聚焦海外广告与全球订阅支付场景",
+      "url": "https://www.oschina.net/news/502245",
+      "summary": "Kimoox 虚拟卡：一站式管理多卡预算，聚焦海外广告与全球订阅支付场景 全球订阅支付卡平台 Kimoox 近日宣布，对其虚拟卡商户工作台进行全面升级，进...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "机器人自由搏斗大赛",
+      "url": "https://www.oschina.net/news/502244",
+      "summary": "当冰冷的钢铁机身踏上擂台，当精密算法取代临场本能，当机械铁拳、精准闪避、极限攻防轮番上演，一场属于未来的热血对决就此开启。不同于传统科技赛...",
+      "author": "osc_9450723168",
+      "comments": 0
+    },
+    {
+      "title": "qModel 算法模型平台开源版 v1.4.1 发布：界面焕新与任务管理优化，打造更流畅的模型管理体验",
+      "url": "https://www.oschina.net/news/502243",
+      "summary": "qModel算法模型平台开源版v1.4.1围绕模型管理流程进行体验升级，主要包括：首页布局优化、模型审批状态集中查看、计算任务统一管理、任务创建流程重...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "qKnow 智能体构建平台开源版 v2.4.2 发布：新增 HDFS/OSS 直连数据同步，海量文件极速入库！",
+      "url": "https://www.oschina.net/news/502241",
+      "summary": "qKnow智能体构建平台开源版V2.4.2围绕知识文件接入流程进行优化，在知识库和知识图谱中新增数据同步能力，支持直接连接HDFS、FTP、OSS等外部存储，...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek 开源的第一个多模态模型，不是拿来「看图说话」的",
+      "url": "https://www.oschina.net/news/502240/deepseek-v4-flash-vision-exp",
+      "summary": "8 月 31 日，DeepSeek 在 Hugging Face 上线了 DeepSeek-V4-Flash-Vision-Exp，MIT License，V4 家族第一款实验性多模态模型。305B 参数，基于 V4...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "OrcaTerm 更新了",
+      "url": "https://www.oschina.net/news/502239",
+      "summary": "我最近体验腾讯云 OrcaTerm 后，比较有感觉。 以前处理服务器问题，流程很碎： 打开 SSH → 想命令 → 搜答案 → 复制日志给 AI → 再复制命令回终...",
+      "author": "zoomlion09042809",
+      "comments": 0
+    },
+    {
+      "title": "智能知识管理系统 WCP 5.0.3 发布，让 AI 走进编辑器，选中文字就能用",
+      "url": "https://www.oschina.net/news/502238",
+      "summary": "在编辑器里选中任意文字，浮出一个\"AI\"按钮，点一下，AI 帮你润色、续写、翻译、总结、简化——所见即所得，一键替换或插入。 写作流不再被打断，A...",
+      "author": "farm",
+      "comments": 0
+    },
+    {
+      "title": "2026年家用无墨打印机什么牌子更好又耐用？3款实测推荐，哪款是你高性价比家用打印神器",
+      "url": "https://www.oschina.net/news/502237",
+      "summary": "家里有学龄娃的家长，大概率都踩过打印机的坑！传统喷墨打印机长期闲置堵头罢工、换耗材比买机器还贵，笨重占地方还容易卡纸漏墨，每次孩子深夜急着...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Microduck 刚开源，就有人把它从 MJCF 跑到了 CAD 装配图",
+      "url": "https://www.oschina.net/news/502236",
+      "summary": "Microduck 发布不到一周，就有人把它从里到外拆明白了。 GitHub 上的 microduck-replica 仓库，作者 fanhao375 从官方的 MJCF 仿真模型和 47 个 ST...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "399 美元的鸭子机器人开源了，今年最让人想立刻掏钱的硬件产品",
+      "url": "https://www.oschina.net/news/502235/hugging-face-pollen-robotics-microduck",
+      "summary": "Hugging Face 和法国机器人公司 Pollen Robotics 上周发布的 Microduck，是今年最让人想立刻掏钱的硬件产品。 一只 25 厘米高、不到 800 克的鸭子机...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "小蚂蚁云 XiaoMaYi-ArcoVue 单体敏捷开发框架 v1.3.0 发布",
+      "url": "https://www.oschina.net/news/502234",
+      "summary": "v1.3.0 更新内容： 1、优化核心云存储类库功能；  2、修复近期用户反馈的 BUG； 项目介绍 基于 SpringBoot3、SpringSecurity、MybatisPlus、Vue3、...",
+      "author": "小蚂蚁云官方",
+      "comments": 0
+    }
+  ]
+}

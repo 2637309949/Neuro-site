@@ -1,0 +1,278 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T14:17:49.828414+00:00",
+  "source": "tencent_stock",
+  "count": 30,
+  "columns": [
+    {
+      "name": "股票名",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "涨跌幅",
+      "key": "change",
+      "type": "metric",
+      "directionToggle": true
+    },
+    {
+      "name": "最新价",
+      "key": "price",
+      "type": "text"
+    },
+    {
+      "name": "成交额",
+      "key": "volume",
+      "type": "metric"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "嘉晨智能",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920096&module=hs&type=hsj",
+      "summary": "",
+      "change": "29.98%",
+      "price": "35.77",
+      "volume": 11583
+    },
+    {
+      "title": "格利尔",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920641&module=hs&type=hsj",
+      "summary": "",
+      "change": "29.97%",
+      "price": "15.57",
+      "volume": 11853
+    },
+    {
+      "title": "博汇科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688004&module=hs&type=hsj",
+      "summary": "",
+      "change": "20.01%",
+      "price": "37.19",
+      "volume": 35331
+    },
+    {
+      "title": "凡拓数创",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz301313&module=hs&type=hsj",
+      "summary": "",
+      "change": "20.00%",
+      "price": "46.8",
+      "volume": 110334
+    },
+    {
+      "title": "赛摩智能",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300466&module=hs&type=hsj",
+      "summary": "",
+      "change": "20.00%",
+      "price": "8.64",
+      "volume": 29593
+    },
+    {
+      "title": "恒玄科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688608&module=hs&type=hsj",
+      "summary": "",
+      "change": "20.00%",
+      "price": "106.32",
+      "volume": 134900
+    },
+    {
+      "title": "迪安诊断",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300244&module=hs&type=hsj",
+      "summary": "",
+      "change": "19.99%",
+      "price": "21.79",
+      "volume": 183116
+    },
+    {
+      "title": "长盈精密",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300115&module=hs&type=hsj",
+      "summary": "",
+      "change": "19.99%",
+      "price": "24.67",
+      "volume": 218323
+    },
+    {
+      "title": "*ST仕净",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz301030&module=hs&type=hsj",
+      "summary": "",
+      "change": "19.90%",
+      "price": "4.7",
+      "volume": 16643
+    },
+    {
+      "title": "海天瑞声",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688787&module=hs&type=hsj",
+      "summary": "",
+      "change": "17.55%",
+      "price": "103.49",
+      "volume": 86592
+    },
+    {
+      "title": "德马科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688360&module=hs&type=hsj",
+      "summary": "",
+      "change": "17.00%",
+      "price": "18.31",
+      "volume": 34529
+    },
+    {
+      "title": "华密新材",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920247&module=hs&type=hsj",
+      "summary": "",
+      "change": "16.91%",
+      "price": "15.9",
+      "volume": 18049
+    },
+    {
+      "title": "乐鑫科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688018&module=hs&type=hsj",
+      "summary": "",
+      "change": "16.86%",
+      "price": "140.72",
+      "volume": 245768
+    },
+    {
+      "title": "华依科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688071&module=hs&type=hsj",
+      "summary": "",
+      "change": "16.33%",
+      "price": "39.9",
+      "volume": 62593
+    },
+    {
+      "title": "银河微电",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688689&module=hs&type=hsj",
+      "summary": "",
+      "change": "16.22%",
+      "price": "39.34",
+      "volume": 72166
+    },
+    {
+      "title": "奥比中光-W",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688322&module=hs&type=hsj",
+      "summary": "",
+      "change": "15.86%",
+      "price": "90.67",
+      "volume": 220696
+    },
+    {
+      "title": "东华测试",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300354&module=hs&type=hsj",
+      "summary": "",
+      "change": "15.17%",
+      "price": "29.3",
+      "volume": 21548
+    },
+    {
+      "title": "汉威科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300007&module=hs&type=hsj",
+      "summary": "",
+      "change": "14.92%",
+      "price": "31.2",
+      "volume": 101711
+    },
+    {
+      "title": "田中精机",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300461&module=hs&type=hsj",
+      "summary": "",
+      "change": "14.50%",
+      "price": "33.8",
+      "volume": 58730
+    },
+    {
+      "title": "泰凌微",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688591&module=hs&type=hsj",
+      "summary": "",
+      "change": "13.98%",
+      "price": "29.67",
+      "volume": 29563
+    },
+    {
+      "title": "奥普特",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688686&module=hs&type=hsj",
+      "summary": "",
+      "change": "13.78%",
+      "price": "121.49",
+      "volume": 49623
+    },
+    {
+      "title": "广和通",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300638&module=hs&type=hsj",
+      "summary": "",
+      "change": "13.76%",
+      "price": "19.93",
+      "volume": 81310
+    },
+    {
+      "title": "翔宇医疗",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688626&module=hs&type=hsj",
+      "summary": "",
+      "change": "13.32%",
+      "price": "41.08",
+      "volume": 29919
+    },
+    {
+      "title": "索辰科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688507&module=hs&type=hsj",
+      "summary": "",
+      "change": "13.10%",
+      "price": "162.07",
+      "volume": 206128
+    },
+    {
+      "title": "觅睿科技",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjbj920036&module=hs&type=hsj",
+      "summary": "",
+      "change": "13.09%",
+      "price": "32.48",
+      "volume": 10646
+    },
+    {
+      "title": "海川智能",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz300720&module=hs&type=hsj",
+      "summary": "",
+      "change": "12.90%",
+      "price": "59.0",
+      "volume": 77593
+    },
+    {
+      "title": "均普智能",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688306&module=hs&type=hsj",
+      "summary": "",
+      "change": "12.19%",
+      "price": "9.02",
+      "volume": 33508
+    },
+    {
+      "title": "格灵深瞳",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688207&module=hs&type=hsj",
+      "summary": "",
+      "change": "12.09%",
+      "price": "19.0",
+      "volume": 33730
+    },
+    {
+      "title": "斯菱智驱",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsz301550&module=hs&type=hsj",
+      "summary": "",
+      "change": "12.03%",
+      "price": "112.78",
+      "volume": 195779
+    },
+    {
+      "title": "步科股份",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=bjsh688160&module=hs&type=hsj",
+      "summary": "",
+      "change": "11.76%",
+      "price": "92.38",
+      "volume": 34378
+    }
+  ]
+}

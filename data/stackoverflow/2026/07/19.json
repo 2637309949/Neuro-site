@@ -1,0 +1,429 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T14:35:25.810036+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "finding common characters from an array of words",
+      "url": "https://stackoverflow.com/questions/79982010/finding-common-characters-from-an-array-of-words",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "Ann",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "If I modify an imported Python module while a Slurm job is running, will later iterations use the new code?",
+      "url": "https://stackoverflow.com/questions/79982018/if-i-modify-an-imported-python-module-while-a-slurm-job-is-running-will-later-i",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python"
+      ],
+      "author": "Ahmed",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Under what conditions does the host-memory used to create an OpenCL buffer get updated?",
+      "url": "https://stackoverflow.com/questions/79982014/under-what-conditions-does-the-host-memory-used-to-create-an-opencl-buffer-get-u",
+      "summary": "",
+      "tags": [
+        "language-lawyer",
+        "buffer",
+        "opencl"
+      ],
+      "author": "einpoklum",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Is my Variable Elimination implementation correct? Asking because different TAs marked them differently",
+      "url": "https://stackoverflow.com/questions/79982005/is-my-variable-elimination-implementation-correct-asking-because-different-tas",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python",
+        "artificial-intelligence",
+        "bayesian",
+        "bayesian-networks"
+      ],
+      "author": "user12456500",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Cpp scope lock and share lock",
+      "url": "https://stackoverflow.com/questions/79981983/cpp-scope-lock-and-share-lock",
+      "summary": "",
+      "tags": [
+        "c++",
+        "thread-safety"
+      ],
+      "author": "NamLHD",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How can I convert an IP address to a country in R, and what are the recommended libraries?",
+      "url": "https://stackoverflow.com/questions/79981980/how-can-i-convert-an-ip-address-to-a-country-in-r-and-what-are-the-recommended",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "r",
+        "geolocation",
+        "ip2location"
+      ],
+      "author": "Ben",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "why is math.exp(2) has different value of e^2 than math.pow(math.e, 2) and math.e**2",
+      "url": "https://stackoverflow.com/questions/79981986/why-is-math-exp2-has-different-value-of-e2-than-math-powmath-e-2-and-math",
+      "summary": "",
+      "tags": [
+        "python",
+        "eulers-number"
+      ],
+      "author": "von Hegel",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "sqlmap through proxychains + MSF SOCKS proxy fails with &quot;unable to connect to the target URL&quot; while curl works fine",
+      "url": "https://stackoverflow.com/questions/79981996/sqlmap-through-proxychains-msf-socks-proxy-fails-with-unable-to-connect-to-th",
+      "summary": "",
+      "tags": [
+        "security",
+        "proxy",
+        "sqlmap",
+        "proxychains"
+      ],
+      "author": "alZerNest",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Helm reference values in values.yml",
+      "url": "https://stackoverflow.com/questions/79981995/helm-reference-values-in-values-yml",
+      "summary": "",
+      "tags": [
+        "kubernetes",
+        "yaml",
+        "kubernetes-helm",
+        "go-templates"
+      ],
+      "author": "khteh",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to set up an environment to a project",
+      "url": "https://stackoverflow.com/questions/79981970/how-to-set-up-an-environment-to-a-project",
+      "summary": "",
+      "tags": [
+        "python",
+        "cuda",
+        "artificial-intelligence"
+      ],
+      "author": "Alisa",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Is it acceptable to showcase a complex backend + DevOps project in a portfolio without any frontend (headless only)?",
+      "url": "https://stackoverflow.com/questions/79981979/is-it-acceptable-to-showcase-a-complex-backend-devops-project-in-a-portfolio-w",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "backend",
+        "headless",
+        "portfolio"
+      ],
+      "author": "Usman Ghani",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Why can my VS Code extension client not find a local module?",
+      "url": "https://stackoverflow.com/questions/79981958/why-can-my-vs-code-extension-client-not-find-a-local-module",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "typescript",
+        "npm",
+        "vscode-extensions"
+      ],
+      "author": "SASUKE31",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "DTExec cmd is failing sometimes when used with Autosys Agent",
+      "url": "https://stackoverflow.com/questions/79981984/dtexec-cmd-is-failing-sometimes-when-used-with-autosys-agent",
+      "summary": "",
+      "tags": [
+        "ssis",
+        "autosys",
+        "dtexec"
+      ],
+      "author": "Tathagata Das",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "What is the idiomatic way to track dependencies for asynchronous callbacks in Svelte 5?",
+      "url": "https://stackoverflow.com/questions/79981951/what-is-the-idiomatic-way-to-track-dependencies-for-asynchronous-callbacks-in-sv",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "svelte",
+        "svelte-3",
+        "svelte-5",
+        "svelte-4"
+      ],
+      "author": "skepticattus",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Why does Safari not support linear color spaces in WebGPU?",
+      "url": "https://stackoverflow.com/questions/79981978/why-does-safari-not-support-linear-color-spaces-in-webgpu",
+      "summary": "",
+      "tags": [
+        "safari",
+        "webgpu"
+      ],
+      "author": "Dmitry Urbanovich",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Vibration on mobile web",
+      "url": "https://stackoverflow.com/questions/79981945/vibration-on-mobile-web",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "web",
+        "game-development"
+      ],
+      "author": "AlexCharonix",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Azure Application Gateway for Containers mTLS header forwarding possible?",
+      "url": "https://stackoverflow.com/questions/79981954/azure-application-gateway-for-containers-mtls-header-forwarding-possible",
+      "summary": "",
+      "tags": [
+        "azure",
+        "kubernetes"
+      ],
+      "author": "alext",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to interpret questions with two criteria when looking at a scatter plot?",
+      "url": "https://stackoverflow.com/questions/79981938/how-to-interpret-questions-with-two-criteria-when-looking-at-a-scatter-plot",
+      "summary": "",
+      "tags": [
+        "advice",
+        "scatter-plot"
+      ],
+      "author": "user22751450",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Best architecture for building an ai text detection system with deberta-v3 and fast api",
+      "url": "https://stackoverflow.com/questions/79981941/best-architecture-for-building-an-ai-text-detection-system-with-deberta-v3-and-f",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python",
+        "machine-learning",
+        "artificial-intelligence"
+      ],
+      "author": "Sahul Hameed",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "SHGetFileInfo on &quot;Camera.lnk&quot; by PIDL outputs &quot;ReturnHr(3) tid(50b8) 80070490 Element not found&quot; but icon is correct",
+      "url": "https://stackoverflow.com/questions/79981948/shgetfileinfo-on-camera-lnk-by-pidl-outputs-returnhr3-tid50b8-80070490-el",
+      "summary": "",
+      "tags": [
+        "winapi"
+      ],
+      "author": "gene b.",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "gluestack-ui, Why isn&#39;t my Modal showing?",
+      "url": "https://stackoverflow.com/questions/79981947/gluestack-ui-why-isnt-my-modal-showing",
+      "summary": "",
+      "tags": [
+        "react-native",
+        "expo",
+        "gluestack"
+      ],
+      "author": "Tony.Luo",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Passing 2 Datetime variables to different SSIS SQL tasks in the package",
+      "url": "https://stackoverflow.com/questions/79981901/passing-2-datetime-variables-to-different-ssis-sql-tasks-in-the-package",
+      "summary": "",
+      "tags": [
+        "sql-server",
+        "ssis"
+      ],
+      "author": "Mehdi Baatout",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "AI&#39;s Impact on Website Profitability: Revenue Generation, Cost Considerations, and Shutdown Risks",
+      "url": "https://stackoverflow.com/questions/79981934/ais-impact-on-website-profitability-revenue-generation-cost-considerations-a",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "user32903707",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Xcode iOS UIToolbar not sending IBActions after update to use SceneDelegate",
+      "url": "https://stackoverflow.com/questions/79981893/xcode-ios-uitoolbar-not-sending-ibactions-after-update-to-use-scenedelegate",
+      "summary": "",
+      "tags": [
+        "ios",
+        "swift",
+        "xcode"
+      ],
+      "author": "Dave Hubbard",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How does a parallel stream continue after a stateful operation like sorted()?",
+      "url": "https://stackoverflow.com/questions/79981753/how-does-a-parallel-stream-continue-after-a-stateful-operation-like-sorted",
+      "summary": "",
+      "tags": [
+        "java",
+        "stream"
+      ],
+      "author": "CSRd",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Multiple dynamic arrays with arena memory allocator when parsing glTF",
+      "url": "https://stackoverflow.com/questions/79981913/multiple-dynamic-arrays-with-arena-memory-allocator-when-parsing-gltf",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c",
+        "json",
+        "dynamic-arrays",
+        "gltf"
+      ],
+      "author": "alexisrdt",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Where is the C Standard function sqrt actually defined? (Windows user)",
+      "url": "https://stackoverflow.com/questions/79981742/where-is-the-c-standard-function-sqrt-actually-defined-windows-user",
+      "summary": "",
+      "tags": [
+        "c",
+        "sqrt",
+        "c-standard-library"
+      ],
+      "author": "ricardovaras_99",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "Delete Codex from XCode Intelligence Settings option",
+      "url": "https://stackoverflow.com/questions/79981864/delete-codex-from-xcode-intelligence-settings-option",
+      "summary": "",
+      "tags": [
+        "xcode"
+      ],
+      "author": "KJM",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Does Meta ban your Business Portfolio if you test Embedded Signup with other phone numbers?",
+      "url": "https://stackoverflow.com/questions/79981928/does-meta-ban-your-business-portfolio-if-you-test-embedded-signup-with-other-pho",
+      "summary": "",
+      "tags": [
+        "whatsapp-cloud-api"
+      ],
+      "author": "Zipli Team",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Untracked files that should match gitignore are showing up for git status",
+      "url": "https://stackoverflow.com/questions/79981919/untracked-files-that-should-match-gitignore-are-showing-up-for-git-status",
+      "summary": "",
+      "tags": [
+        "git",
+        "gitignore"
+      ],
+      "author": "Califer",
+      "comments": 0,
+      "score": 1
+    }
+  ]
+}

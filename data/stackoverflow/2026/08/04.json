@@ -1,0 +1,437 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T15:34:11.495297+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Sap toolbar export button not accesible",
+      "url": "https://stackoverflow.com/questions/79990445/sap-toolbar-export-button-not-accesible",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net",
+        "sapui5"
+      ],
+      "author": "user32602103",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Deep learning neural network layer with largest vector",
+      "url": "https://stackoverflow.com/questions/79990421/deep-learning-neural-network-layer-with-largest-vector",
+      "summary": "",
+      "tags": [
+        "keras",
+        "deep-learning"
+      ],
+      "author": "Henry Thornton",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "KeyError2 when trying to access dataframe cell",
+      "url": "https://stackoverflow.com/questions/79990428/keyerror2-when-trying-to-access-dataframe-cell",
+      "summary": "",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "author": "user1",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Does Postgres have a way to compare URLs with mixed case-sensitivity?",
+      "url": "https://stackoverflow.com/questions/79990441/does-postgres-have-a-way-to-compare-urls-with-mixed-case-sensitivity",
+      "summary": "",
+      "tags": [
+        "postgresql"
+      ],
+      "author": "Galaxor Nebulon",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Python app make full installer with all bells and whistles",
+      "url": "https://stackoverflow.com/questions/79990435/python-app-make-full-installer-with-all-bells-and-whistles",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python-3.x",
+        "macos",
+        "installation"
+      ],
+      "author": "Jeex",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "VS Code auto-import suggestions not working for local workspace package in Turborepo (Next.js + Bun + TypeScript)",
+      "url": "https://stackoverflow.com/questions/79990437/vs-code-auto-import-suggestions-not-working-for-local-workspace-package-in-turbo",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "visual-studio-code",
+        "next.js",
+        "monorepo",
+        "turborepo"
+      ],
+      "author": "Saif Ali Khan",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "`Ctrl+Shift+V` in Cursor IDE/VS Code works as a single-direction switcher for markdown preview mode",
+      "url": "https://stackoverflow.com/questions/79990439/ctrlshiftv-in-cursor-ide-vs-code-works-as-a-single-direction-switcher-for-ma",
+      "summary": "",
+      "tags": [
+        "visual-studio-code",
+        "keyboard-shortcuts",
+        "cursor-ide",
+        "vs-code-settings"
+      ],
+      "author": "Tech of the Absence",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Parameter query - save entered value",
+      "url": "https://stackoverflow.com/questions/79990440/parameter-query-save-entered-value",
+      "summary": "",
+      "tags": [
+        "ms-access-2016"
+      ],
+      "author": "Chester",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Next.js app serves an old build after GitHub Actions deployment to a Google Cloud VM",
+      "url": "https://stackoverflow.com/questions/79990429/next-js-app-serves-an-old-build-after-github-actions-deployment-to-a-google-clou",
+      "summary": "",
+      "tags": [
+        "nginx",
+        "google-cloud-platform",
+        "next.js",
+        "github-actions",
+        "pm2"
+      ],
+      "author": "Scallar It Solution",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Encoding UTF-8 hex and decoding UTF-8 hex in JavaScript",
+      "url": "https://stackoverflow.com/questions/79990418/encoding-utf-8-hex-and-decoding-utf-8-hex-in-javascript",
+      "summary": "",
+      "tags": [
+        "advice",
+        "javascript",
+        "utf-8",
+        "utf-16",
+        "utf"
+      ],
+      "author": "brogrammer",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How to `git push` to git repo not owned by user with disabling any code being executed from the destination?",
+      "url": "https://stackoverflow.com/questions/79990400/how-to-git-push-to-git-repo-not-owned-by-user-with-disabling-any-code-being-ex",
+      "summary": "",
+      "tags": [
+        "git"
+      ],
+      "author": "Cigarette Smoking Man",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How do I make Playwright wait until the page has finished re-rendering before I start dragging?",
+      "url": "https://stackoverflow.com/questions/79990406/how-do-i-make-playwright-wait-until-the-page-has-finished-re-rendering-before-i",
+      "summary": "",
+      "tags": [
+        "dom",
+        "drag-and-drop",
+        "e2e-testing",
+        "playwright-test",
+        "playwright-typescript"
+      ],
+      "author": "shamili jangala",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Flutter installation installing issue",
+      "url": "https://stackoverflow.com/questions/79990403/flutter-installation-installing-issue",
+      "summary": "",
+      "tags": [
+        "flutter"
+      ],
+      "author": "Jo Justin Ong",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to correctly implement JSON-LD LocalBusiness schema in HTML?",
+      "url": "https://stackoverflow.com/questions/79990404/how-to-correctly-implement-json-ld-localbusiness-schema-in-html",
+      "summary": "",
+      "tags": [
+        "html",
+        "json",
+        "data-structures",
+        "seo"
+      ],
+      "author": "Peter Alison",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Which Maven dependencies are provided for plugins?",
+      "url": "https://stackoverflow.com/questions/79990413/which-maven-dependencies-are-provided-for-plugins",
+      "summary": "",
+      "tags": [
+        "maven",
+        "maven-3",
+        "maven-plugin"
+      ],
+      "author": "MrThaler",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "A query with a field that counts the number of fields &gt; 0",
+      "url": "https://stackoverflow.com/questions/79990374/a-query-with-a-field-that-counts-the-number-of-fields-0",
+      "summary": "",
+      "tags": [
+        "ms-access",
+        "ms-query"
+      ],
+      "author": "Massimo Costanzo",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Looking for a Road Map to make an Algorithm for Garments Transform Engine to apply uploaded image as garment on a AR Real Time in Camera User",
+      "url": "https://stackoverflow.com/questions/79990393/looking-for-a-road-map-to-make-an-algorithm-for-garments-transform-engine-to-app",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "algorithm",
+        "augmented-reality",
+        "virtual"
+      ],
+      "author": "Developer Saad",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How might I identify URL parametre names in Ellucian Banner",
+      "url": "https://stackoverflow.com/questions/79990399/how-might-i-identify-url-parametre-names-in-ellucian-banner",
+      "summary": "",
+      "tags": [
+        "ellucian-banner"
+      ],
+      "author": "Parapluie",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "VBA Userform Listbox click event issue: listbox will not &quot;clear selection&quot; when new items are added",
+      "url": "https://stackoverflow.com/questions/79990370/vba-userform-listbox-click-event-issue-listbox-will-not-clear-selection-when",
+      "summary": "",
+      "tags": [
+        "vba",
+        "listbox",
+        "activex"
+      ],
+      "author": "sergio trajano",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Should CRUD changes reflect directly in local state or wait for database update?",
+      "url": "https://stackoverflow.com/questions/79990360/should-crud-changes-reflect-directly-in-local-state-or-wait-for-database-update",
+      "summary": "",
+      "tags": [
+        "advice",
+        "best-practices",
+        "flutter",
+        "design-patterns",
+        "repository-pattern"
+      ],
+      "author": "Mohamed Badis Kerdellou",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "How can I get Eclipse to autoformat code inside greyed-out #ifdef .... #endif",
+      "url": "https://stackoverflow.com/questions/79990381/how-can-i-get-eclipse-to-autoformat-code-inside-greyed-out-ifdef-endif",
+      "summary": "",
+      "tags": [
+        "eclipse",
+        "eclipse-cdt"
+      ],
+      "author": "Rob",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Python subprocess.cwd differs from bash cd",
+      "url": "https://stackoverflow.com/questions/79990377/python-subprocess-cwd-differs-from-bash-cd",
+      "summary": "",
+      "tags": [
+        "python",
+        "wordpress",
+        "subprocess"
+      ],
+      "author": "npr_se",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "regarding starting with CP (competetive programming)",
+      "url": "https://stackoverflow.com/questions/79990386/regarding-starting-with-cp-competetive-programming",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "A Learner",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How to reset ContentControl.Color to default?",
+      "url": "https://stackoverflow.com/questions/79990355/how-to-reset-contentcontrol-color-to-default",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "node.js",
+        "ms-word",
+        "word-addins"
+      ],
+      "author": "Burned",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to programmatically clean author metadata, headers, and citations from raw text extracted from medical PDFs in Python?",
+      "url": "https://stackoverflow.com/questions/79990353/how-to-programmatically-clean-author-metadata-headers-and-citations-from-raw-t",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "python"
+      ],
+      "author": "Shakshyam Shrestha",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Classic scrollbar width getters not working on Firefox",
+      "url": "https://stackoverflow.com/questions/79990317/classic-scrollbar-width-getters-not-working-on-firefox",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "css",
+        "firefox"
+      ],
+      "author": "munHunger",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "AvaloniaUI app running on Linux DRM (”Framebuffer”), ILITek touch panel, Libinput: rotate touch input to match screen orientation?",
+      "url": "https://stackoverflow.com/questions/79990367/avaloniaui-app-running-on-linux-drm-framebuffer-ilitek-touch-panel-libinpu",
+      "summary": "",
+      "tags": [
+        "linux",
+        "framebuffer",
+        "avaloniaui",
+        "libinput"
+      ],
+      "author": "KrisW",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to set a whole range in a vector to some value",
+      "url": "https://stackoverflow.com/questions/79990324/how-to-set-a-whole-range-in-a-vector-to-some-value",
+      "summary": "",
+      "tags": [
+        "rust",
+        "vector"
+      ],
+      "author": "Bracket",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How to display a block of text in a .popover so it fits without hardcoding size values?",
+      "url": "https://stackoverflow.com/questions/79990241/how-to-display-a-block-of-text-in-a-popover-so-it-fits-without-hardcoding-size",
+      "summary": "",
+      "tags": [
+        "ios",
+        "swiftui",
+        "ipad",
+        "popover"
+      ],
+      "author": "Ser Pounce",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "Power Automate SFTP: Existing flows work, but new connections fail with 502 Bad Gateway",
+      "url": "https://stackoverflow.com/questions/79990352/power-automate-sftp-existing-flows-work-but-new-connections-fail-with-502-bad",
+      "summary": "",
+      "tags": [
+        "ftp",
+        "sftp",
+        "power-automate"
+      ],
+      "author": "Amel ha",
+      "comments": 0,
+      "score": 1
+    }
+  ]
+}

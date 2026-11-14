@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T12:57:49.155226+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "summary": "",
+      "author": "shekhar101",
+      "comments": 2654,
+      "score": 1482
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "summary": "",
+      "author": "ahlCVA",
+      "comments": 338,
+      "score": 912
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 453,
+      "score": 534
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "summary": "",
+      "author": "pretext",
+      "comments": 353,
+      "score": 385
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 78,
+      "score": 336
+    },
+    {
+      "title": "I love software rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 208,
+      "score": 331
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "summary": "",
+      "author": "antipaul",
+      "comments": 167,
+      "score": 329
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "summary": "",
+      "author": "Anon84",
+      "comments": 75,
+      "score": 307
+    },
+    {
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "summary": "",
+      "author": "theanonymousone",
+      "comments": 110,
+      "score": 286
+    },
+    {
+      "title": "Ultramarine 1 Flash",
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "summary": "",
+      "author": "i_rush_carriers",
+      "comments": 90,
+      "score": 281
+    },
+    {
+      "title": "Butlerian Jihad",
+      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+      "summary": "",
+      "author": "wetwater",
+      "comments": 159,
+      "score": 277
+    },
+    {
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "summary": "",
+      "author": "farlight",
+      "comments": 188,
+      "score": 276
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "",
+      "author": "theykk",
+      "comments": 97,
+      "score": 245
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "summary": "",
+      "author": "7402",
+      "comments": 210,
+      "score": 233
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "summary": "",
+      "author": "__cayenne__",
+      "comments": 102,
+      "score": 228
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "",
+      "author": "gmays",
+      "comments": 51,
+      "score": 177
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "summary": "",
+      "author": "pretext",
+      "comments": 32,
+      "score": 152
+    },
+    {
+      "title": "Monte-Carlo Simulations",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "summary": "",
+      "author": "ibobev",
+      "comments": 26,
+      "score": 135
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "summary": "",
+      "author": "albinstman",
+      "comments": 42,
+      "score": 120
+    },
+    {
+      "title": "New 'super ice' 10 times stronger, bringing it close to the strength of concrete",
+      "url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+      "summary": "",
+      "author": "andrewl",
+      "comments": 82,
+      "score": 111
+    },
+    {
+      "title": "Nine-Inch Snails",
+      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+      "summary": "",
+      "author": "zdw",
+      "comments": 38,
+      "score": 81
+    },
+    {
+      "title": "Intuitive concurrent programming in any language",
+      "url": "https://www.lf-lang.org/",
+      "summary": "",
+      "author": "mpweiher",
+      "comments": 14,
+      "score": 70
+    },
+    {
+      "title": "I built the RealWorld app in Lean 4",
+      "url": "https://leangineer.com/blog/realworld-in-lean/",
+      "summary": "",
+      "author": "saviorand",
+      "comments": 6,
+      "score": 69
+    },
+    {
+      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+      "summary": "",
+      "author": "michidk",
+      "comments": 3,
+      "score": 57
+    },
+    {
+      "title": "0/1 Knapsack Problem in PyTorch",
+      "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+      "summary": "",
+      "author": "yu3zhou4",
+      "comments": 2,
+      "score": 28
+    },
+    {
+      "title": "Super Intelligence",
+      "url": "https://www.si.gov/",
+      "summary": "",
+      "author": "wiradikusuma",
+      "comments": 13,
+      "score": 23
+    },
+    {
+      "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
+      "url": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
+      "summary": "",
+      "author": "javahippie",
+      "comments": 4,
+      "score": 19
+    },
+    {
+      "title": "Orbital Angular Momentum of Light",
+      "url": "https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light",
+      "summary": "",
+      "author": "peter_d_sherman",
+      "comments": 1,
+      "score": 8
+    },
+    {
+      "title": "The cryptoint library (2025) [pdf]",
+      "url": "https://cr.yp.to/papers/cryptoint-20250424.pdf",
+      "summary": "",
+      "author": "akkartik",
+      "comments": 0,
+      "score": 3
+    },
+    {
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "url": "https://www.flexport.com/company/careers/",
+      "summary": "",
+      "author": "thedogeye",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

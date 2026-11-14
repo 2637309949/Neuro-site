@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T15:58:24.079583+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "summary": "",
+      "author": "fluxusars",
+      "comments": 270,
+      "score": 1071
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "summary": "",
+      "author": "infwhispers",
+      "comments": 422,
+      "score": 787
+    },
+    {
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
+      "summary": "",
+      "author": "LaurensBER",
+      "comments": 124,
+      "score": 674
+    },
+    {
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "summary": "",
+      "author": "karagenit",
+      "comments": 329,
+      "score": 504
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "summary": "",
+      "author": "shmulc",
+      "comments": 352,
+      "score": 488
+    },
+    {
+      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+      "summary": "",
+      "author": "thunderbong",
+      "comments": 392,
+      "score": 390
+    },
+    {
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "summary": "",
+      "author": "antiuniverse",
+      "comments": 98,
+      "score": 350
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "summary": "",
+      "author": "hedgerow-dev",
+      "comments": 61,
+      "score": 264
+    },
+    {
+      "title": "Person of Interest",
+      "url": "https://krthr.co/person-of-interest/",
+      "summary": "",
+      "author": "krthr",
+      "comments": 131,
+      "score": 211
+    },
+    {
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "summary": "",
+      "author": "rbanffy",
+      "comments": 115,
+      "score": 179
+    },
+    {
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "summary": "",
+      "author": "germanrabbit",
+      "comments": 46,
+      "score": 173
+    },
+    {
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "summary": "",
+      "author": "xiaoyu2006",
+      "comments": 113,
+      "score": 166
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "summary": "",
+      "author": "joshcsimmons",
+      "comments": 41,
+      "score": 140
+    },
+    {
+      "title": "Clj.rs – a Clojure dialect implemented in Rust",
+      "url": "https://clj.rs/",
+      "summary": "",
+      "author": "simonpure",
+      "comments": 42,
+      "score": 106
+    },
+    {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "summary": "",
+      "author": "mthines",
+      "comments": 78,
+      "score": 104
+    },
+    {
+      "title": "Petered (what happens after the Peter Principle)",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "summary": "",
+      "author": "adrianhoward",
+      "comments": 63,
+      "score": 99
+    },
+    {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "summary": "",
+      "author": "maxall4",
+      "comments": 67,
+      "score": 97
+    },
+    {
+      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+      "url": "https://github.com/dmunozv04/isponsorblocktv",
+      "summary": "",
+      "author": "xnx",
+      "comments": 36,
+      "score": 88
+    },
+    {
+      "title": "Porting Android 16 to my blind mother's keypad phone",
+      "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+      "summary": "",
+      "author": "z1xus",
+      "comments": 17,
+      "score": 72
+    },
+    {
+      "title": "Kirlian Photography: Building Your Own Equipment",
+      "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+      "summary": "",
+      "author": "joebig",
+      "comments": 17,
+      "score": 64
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "summary": "",
+      "author": "dmit",
+      "comments": 9,
+      "score": 57
+    },
+    {
+      "title": "Mizu – zero-copy parallel R and Python over shared memory",
+      "url": "https://github.com/shikokuchuo/pymizu",
+      "summary": "",
+      "author": "cscheid",
+      "comments": 3,
+      "score": 51
+    },
+    {
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "summary": "",
+      "author": "jruohonen",
+      "comments": 6,
+      "score": 50
+    },
+    {
+      "title": "Finding Xanadu: Inside a JRPG classic translation 15 years in the making",
+      "url": "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 10,
+      "score": 49
+    },
+    {
+      "title": "Quadrillion-parameter transformers and how to train them",
+      "url": "https://qlabs.sh/research/parameters",
+      "summary": "",
+      "author": "frozenseven",
+      "comments": 34,
+      "score": 46
+    },
+    {
+      "title": "WaveDudeNext 2D Wave Simulator",
+      "url": "https://github.com/graealex/WaveDudeNext",
+      "summary": "",
+      "author": "sweetdingoes",
+      "comments": 9,
+      "score": 41
+    },
+    {
+      "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
+      "url": "https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl",
+      "summary": "",
+      "author": "mooreds",
+      "comments": 29,
+      "score": 37
+    },
+    {
+      "title": "New typeface using intricate designs from Shakespeare's First Folio (2023)",
+      "url": "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+      "summary": "",
+      "author": "bryanrasmussen",
+      "comments": 11,
+      "score": 33
+    },
+    {
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+      "summary": "",
+      "author": "armcat",
+      "comments": 10,
+      "score": 28
+    },
+    {
+      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "summary": "",
+      "author": "mfiguiere",
+      "comments": 4,
+      "score": 6
+    }
+  ]
+}

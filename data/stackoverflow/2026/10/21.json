@@ -1,0 +1,441 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T14:28:36.626983+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Breaking long URLs in comments, still having them selectable/clickable",
+      "url": "https://stackoverflow.com/questions/80011577/breaking-long-urls-in-comments-still-having-them-selectable-clickable",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "c"
+      ],
+      "author": "LuC",
+      "comments": 3,
+      "score": -2
+    },
+    {
+      "title": "How can I route system/game audio through a real-time C++ DSP pipeline instead of microphone capture?",
+      "url": "https://stackoverflow.com/questions/80011582/how-can-i-route-system-game-audio-through-a-real-time-c-dsp-pipeline-instead-o",
+      "summary": "",
+      "tags": [
+        "c++",
+        "audio"
+      ],
+      "author": "Kerem Ademoglu",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Unity 2D: How to Make a Thrown Grenade Stop Following the Player",
+      "url": "https://stackoverflow.com/questions/80011592/unity-2d-how-to-make-a-thrown-grenade-stop-following-the-player",
+      "summary": "",
+      "tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "author": "DANIL Kyrruaev",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I validate API responses before displaying them in a web application?",
+      "url": "https://stackoverflow.com/questions/80011600/how-can-i-validate-api-responses-before-displaying-them-in-a-web-application",
+      "summary": "",
+      "tags": [
+        "webapi"
+      ],
+      "author": "Ranjeet",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Autodesk APS Data Management returns 403 while Model Coordination works",
+      "url": "https://stackoverflow.com/questions/80011588/autodesk-aps-data-management-returns-403-while-model-coordination-works",
+      "summary": "",
+      "tags": [
+        "autodesk-forge",
+        "autodesk-model-derivative",
+        "autodesk-bim360",
+        "autodesk-data-management"
+      ],
+      "author": "ChrVMT",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to use variadic system calls from assembly? (Linux, x86-64)",
+      "url": "https://stackoverflow.com/questions/80011581/how-to-use-variadic-system-calls-from-assembly-linux-x86-64",
+      "summary": "",
+      "tags": [
+        "linux",
+        "assembly",
+        "x86-64",
+        "system-calls",
+        "variadic-functions"
+      ],
+      "author": "reichhart",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "An inspection priority filter crashes when its IN list includes NULL",
+      "url": "https://stackoverflow.com/questions/80011549/an-inspection-priority-filter-crashes-when-its-in-list-includes-null",
+      "summary": "",
+      "tags": [
+        "null",
+        "apache-iotdb",
+        "tablemodel"
+      ],
+      "author": "Lucas M",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "How to set Click action in C# for programmatically generated WinUI DropDownButton?",
+      "url": "https://stackoverflow.com/questions/80011558/how-to-set-click-action-in-c-for-programmatically-generated-winui-dropdownbutto",
+      "summary": "",
+      "tags": [
+        "c#",
+        "user-interface",
+        "drop-down-menu",
+        "winui-3"
+      ],
+      "author": "StuA",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Get sizeof string_views from std::array with variadic template",
+      "url": "https://stackoverflow.com/questions/80011536/get-sizeof-string-views-from-stdarray-with-variadic-template",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++20",
+        "variadic-templates",
+        "stdarray"
+      ],
+      "author": "Waldemar",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "Refresh parent modal dialog after closing a nested dialog",
+      "url": "https://stackoverflow.com/questions/80011568/refresh-parent-modal-dialog-after-closing-a-nested-dialog",
+      "summary": "",
+      "tags": [
+        "oracle-apex"
+      ],
+      "author": "Nav",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Fixing a scatterplot with different colours and shapes",
+      "url": "https://stackoverflow.com/questions/80011531/fixing-a-scatterplot-with-different-colours-and-shapes",
+      "summary": "",
+      "tags": [
+        "r",
+        "graph",
+        "colors",
+        "shapes",
+        "scatter-plot"
+      ],
+      "author": "user33223378",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Stop all sources from an array in Web Audio API",
+      "url": "https://stackoverflow.com/questions/80011523/stop-all-sources-from-an-array-in-web-audio-api",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "audio",
+        "html5-audio",
+        "web-audio-api"
+      ],
+      "author": "youkeow",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How can Chrome’s built-in PDF viewer download button use a custom filename for an authenticated PDF?",
+      "url": "https://stackoverflow.com/questions/80011542/how-can-chrome-s-built-in-pdf-viewer-download-button-use-a-custom-filename-for-a",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "angular",
+        "google-chrome",
+        "pdf",
+        "iframe"
+      ],
+      "author": "Monark Bhardwaj",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "R segmented function dealing with factors",
+      "url": "https://stackoverflow.com/questions/80011538/r-segmented-function-dealing-with-factors",
+      "summary": "",
+      "tags": [
+        "r",
+        "segment",
+        "r-factor"
+      ],
+      "author": "Gr&#233;gwar",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How do I start object initialization without blocking program shutdown?",
+      "url": "https://stackoverflow.com/questions/80011495/how-do-i-start-object-initialization-without-blocking-program-shutdown",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "python",
+        "asynchronous",
+        "concurrent.futures"
+      ],
+      "author": "Jorge Luis",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "Attempting to get a value from an annotation in C++26",
+      "url": "https://stackoverflow.com/questions/80011468/attempting-to-get-a-value-from-an-annotation-in-c26",
+      "summary": "",
+      "tags": [
+        "c++",
+        "reflection",
+        "constexpr",
+        "c++26"
+      ],
+      "author": "WettiestMan",
+      "comments": 3,
+      "score": 2
+    },
+    {
+      "title": "Store a file in zip without compression",
+      "url": "https://stackoverflow.com/questions/80011519/store-a-file-in-zip-without-compression",
+      "summary": "",
+      "tags": [
+        "java",
+        "zip",
+        "epub"
+      ],
+      "author": "Priyshrm",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "newsstickylist does not show news records in the right order for some subpages",
+      "url": "https://stackoverflow.com/questions/80011544/newsstickylist-does-not-show-news-records-in-the-right-order-for-some-subpages",
+      "summary": "",
+      "tags": [
+        "tx-news",
+        "typo3-11.x"
+      ],
+      "author": "chubert86",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to reference a file inside the current jar to be loaded in a library",
+      "url": "https://stackoverflow.com/questions/80011539/how-to-reference-a-file-inside-the-current-jar-to-be-loaded-in-a-library",
+      "summary": "",
+      "tags": [
+        "java",
+        "apache-kafka",
+        "apache-flink"
+      ],
+      "author": "Alex Lehmann",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Software Factories, Loop Engineering &amp; Agent Harness",
+      "url": "https://stackoverflow.com/questions/80011516/software-factories-loop-engineering-agent-harness",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "loops",
+        "factory",
+        "agent",
+        "claude-code"
+      ],
+      "author": "abdou97",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How can I verify data consistency when an API returns a successful response before processing is complete?",
+      "url": "https://stackoverflow.com/questions/80011502/how-can-i-verify-data-consistency-when-an-api-returns-a-successful-response-befo",
+      "summary": "",
+      "tags": [
+        "asynchronous",
+        "automated-tests",
+        "postman"
+      ],
+      "author": "Muhammad UmarHayat",
+      "comments": 0,
+      "score": -10
+    },
+    {
+      "title": "How to get a value generator to produce a non-variable value I can still use in CSS?",
+      "url": "https://stackoverflow.com/questions/80011460/how-to-get-a-value-generator-to-produce-a-non-variable-value-i-can-still-use-in",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "author": "dessicatedcorpus",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How to create smooth curve from given array of points and have an entity follow the curve?",
+      "url": "https://stackoverflow.com/questions/80011493/how-to-create-smooth-curve-from-given-array-of-points-and-have-an-entity-follow",
+      "summary": "",
+      "tags": [
+        "c",
+        "game-physics",
+        "game-engine",
+        "bezier"
+      ],
+      "author": "user28417116",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to make it so several buttons change each others&#39; image results in Javascript",
+      "url": "https://stackoverflow.com/questions/80011446/how-to-make-it-so-several-buttons-change-each-others-image-results-in-javascrip",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "author": "Moon Lich",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "To change Python version in venv, change pyvenv.cfg manually or in VS Code &quot;Python: Select Interpreter&quot;?",
+      "url": "https://stackoverflow.com/questions/80011408/to-change-python-version-in-venv-change-pyvenv-cfg-manually-or-in-vs-code-pyth",
+      "summary": "",
+      "tags": [
+        "python",
+        "vs-code",
+        "python-venv"
+      ],
+      "author": "damovandG",
+      "comments": 2,
+      "score": -4
+    },
+    {
+      "title": "How to customize or change the position of the &quot;Apply Filters&quot; button in Apache Superset dashboard filter panel?",
+      "url": "https://stackoverflow.com/questions/80011481/how-to-customize-or-change-the-position-of-the-apply-filters-button-in-apache",
+      "summary": "",
+      "tags": [
+        "apache-superset"
+      ],
+      "author": "Gana Amruth",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "git pull only upstream branch and nothing else",
+      "url": "https://stackoverflow.com/questions/80011449/git-pull-only-upstream-branch-and-nothing-else",
+      "summary": "",
+      "tags": [
+        "git",
+        "git-pull"
+      ],
+      "author": "Tadhg McDonald-Jensen",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Introducing unit tests in an existing C project",
+      "url": "https://stackoverflow.com/questions/80011347/introducing-unit-tests-in-an-existing-c-project",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c",
+        "unit-testing"
+      ],
+      "author": "Doohyeon Won",
+      "comments": 3,
+      "score": 3
+    },
+    {
+      "title": "Testing whether given variable within a Cheetah template is defined",
+      "url": "https://stackoverflow.com/questions/80011451/testing-whether-given-variable-within-a-cheetah-template-is-defined",
+      "summary": "",
+      "tags": [
+        "cheetah"
+      ],
+      "author": "HippoMan",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Using @AllArgsConstructor and @NoArgsConstructor Lombok annotations for Java Spring Boot - Error &quot;constructor cannot be applied to given types&quot;",
+      "url": "https://stackoverflow.com/questions/80011467/using-allargsconstructor-and-noargsconstructor-lombok-annotations-for-java-spr",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring-boot",
+        "constructor",
+        "lombok",
+        "bytecode"
+      ],
+      "author": "Max Weber",
+      "comments": 0,
+      "score": -6
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T15:52:12.614615+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "avr/io.h port IO address as template parameter in avr-g++",
+      "url": "https://stackoverflow.com/questions/80013659/avr-io-h-port-io-address-as-template-parameter-in-avr-g",
+      "summary": "",
+      "tags": [
+        "c++",
+        "templates",
+        "avr",
+        "avr-gcc",
+        "attiny"
+      ],
+      "author": "Bernhard Bodenstorfer",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to ignore or negate CSS class if other class does not exist?",
+      "url": "https://stackoverflow.com/questions/80013662/how-to-ignore-or-negate-css-class-if-other-class-does-not-exist",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "reactjs"
+      ],
+      "author": "Jens MoeHellum",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Qt QList - check for first item - bool conversion error",
+      "url": "https://stackoverflow.com/questions/80013658/qt-qlist-check-for-first-item-bool-conversion-error",
+      "summary": "",
+      "tags": [
+        "qt6"
+      ],
+      "author": "STOBX",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Best free LLM for coding with local and cloud options?",
+      "url": "https://stackoverflow.com/questions/80013633/best-free-llm-for-coding-with-local-and-cloud-options",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation"
+      ],
+      "author": "user25473760",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to smoothly animate container width/height when switching between slides with different text content without text reflow jumps?",
+      "url": "https://stackoverflow.com/questions/80013665/how-to-smoothly-animate-container-width-height-when-switching-between-slides-wit",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "author": "newuser",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to deploy properly a full-stack proyect on the cloud",
+      "url": "https://stackoverflow.com/questions/80013649/how-to-deploy-properly-a-full-stack-proyect-on-the-cloud",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "Leonardo Azama Villena Takuby_",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How to iterate a dictionary which has custom objects defined by a class for keys?",
+      "url": "https://stackoverflow.com/questions/80013648/how-to-iterate-a-dictionary-which-has-custom-objects-defined-by-a-class-for-keys",
+      "summary": "",
+      "tags": [
+        "python",
+        "dictionary",
+        "class"
+      ],
+      "author": "Felicitas Poletto",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Computing li(x) the logarithmic integral accurately in double precision when x ~ 10^16",
+      "url": "https://stackoverflow.com/questions/80013640/computing-lix-the-logarithmic-integral-accurately-in-double-precision-when-x",
+      "summary": "",
+      "tags": [
+        "c",
+        "algorithm",
+        "numerical-methods",
+        "polynomial-approximations",
+        "continued-fractions"
+      ],
+      "author": "Martin Brown",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Android 17: prefer_angle manifest meta-data is ignored, and GraphicsEnvironment returns the default driver",
+      "url": "https://stackoverflow.com/questions/80013638/android-17-prefer-angle-manifest-meta-data-is-ignored-and-graphicsenvironment",
+      "summary": "",
+      "tags": [
+        "android",
+        "unity-game-engine",
+        "google-play-console",
+        "vulkan",
+        "angle"
+      ],
+      "author": "Ch&#237; H&#224;o H&#224;",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "WhatsApp Cloud API: has anyone had the disabled OBA &quot;Submit request&quot; button become enabled, and what changed?",
+      "url": "https://stackoverflow.com/questions/80013643/whatsapp-cloud-api-has-anyone-had-the-disabled-oba-submit-request-button-beco",
+      "summary": "",
+      "tags": [
+        "facebook-graph-api",
+        "whatsapp",
+        "whatsapp-cloud-api"
+      ],
+      "author": "Loida Gallardo",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to build Nuxt 4 static SPA once and deploy under any sub-path (no per-path rebuild)?",
+      "url": "https://stackoverflow.com/questions/80013642/how-to-build-nuxt-4-static-spa-once-and-deploy-under-any-sub-path-no-per-path-r",
+      "summary": "",
+      "tags": [
+        "apache",
+        "nuxt.js",
+        "vue-router"
+      ],
+      "author": "m477h145h3rm53n",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Invoke-Command not passing variable to target machine",
+      "url": "https://stackoverflow.com/questions/80013627/invoke-command-not-passing-variable-to-target-machine",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "variables",
+        "scope",
+        "invoke-command"
+      ],
+      "author": "Otso",
+      "comments": 3,
+      "score": 3
+    },
+    {
+      "title": "Do you host with Kinsta? Were your sites attacked by the wp2shell vulnerability?",
+      "url": "https://stackoverflow.com/questions/80013637/do-you-host-with-kinsta-were-your-sites-attacked-by-the-wp2shell-vulnerability",
+      "summary": "",
+      "tags": [
+        "advice",
+        "kinsta"
+      ],
+      "author": "Alex Knopp",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Excel VBA Selenium problems opening port",
+      "url": "https://stackoverflow.com/questions/80013631/excel-vba-selenium-problems-opening-port",
+      "summary": "",
+      "tags": [
+        "advice",
+        "excel",
+        "vba",
+        "selenium-webdriver"
+      ],
+      "author": "G. Asins",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to record system sound with mciSendString",
+      "url": "https://stackoverflow.com/questions/80013630/how-to-record-system-sound-with-mcisendstring",
+      "summary": "",
+      "tags": [
+        "vb.net"
+      ],
+      "author": "Richard- den toom",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Handling TransientTransactionError in bulk write operations in MongoDB using Node.JS driver",
+      "url": "https://stackoverflow.com/questions/80013618/handling-transienttransactionerror-in-bulk-write-operations-in-mongodb-using-nod",
+      "summary": "",
+      "tags": [
+        "advice",
+        "node.js",
+        "mongodb",
+        "transactions",
+        "bulk"
+      ],
+      "author": "preitinger",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Encountering a compilation error in the generated hash() related to additionalProperties when using the OpenApi Generator Plugin with SpringBoot",
+      "url": "https://stackoverflow.com/questions/80013621/encountering-a-compilation-error-in-the-generated-hash-related-to-additionalpr",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring-boot",
+        "swagger",
+        "openapi-generator",
+        "openapi-generator-maven-plugin"
+      ],
+      "author": "Aditya Mehta",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Youtube WCAG 4.12 issue aria-label on element with no role",
+      "url": "https://stackoverflow.com/questions/80013616/youtube-wcag-4-12-issue-aria-label-on-element-with-no-role",
+      "summary": "",
+      "tags": [
+        "youtube",
+        "wai-aria"
+      ],
+      "author": "PatrickCc",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Git filter-repo excludes hidden files",
+      "url": "https://stackoverflow.com/questions/80013604/git-filter-repo-excludes-hidden-files",
+      "summary": "",
+      "tags": [
+        "git",
+        "git-filter-repo",
+        "filter-repo"
+      ],
+      "author": "TheAG",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Write Prim&#39;s algorithm in Python",
+      "url": "https://stackoverflow.com/questions/80013569/write-prims-algorithm-in-python",
+      "summary": "",
+      "tags": [
+        "python",
+        "prims-algorithm"
+      ],
+      "author": "JAc Polloc",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "What role does z/OSMF REST API play in mainframe automation?",
+      "url": "https://stackoverflow.com/questions/80013610/what-role-does-z-osmf-rest-api-play-in-mainframe-automation",
+      "summary": "",
+      "tags": [
+        "ansible",
+        "mainframe"
+      ],
+      "author": "Pallavi aditii",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How to prevent Git from removing line breaks from commit messages?",
+      "url": "https://stackoverflow.com/questions/80013619/how-to-prevent-git-from-removing-line-breaks-from-commit-messages",
+      "summary": "",
+      "tags": [
+        "git",
+        "commit",
+        "line-breaks"
+      ],
+      "author": "Binarus",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How can I audit PostgreSQL virtual generated columns when OLD and NEW contain NULL?",
+      "url": "https://stackoverflow.com/questions/80013545/how-can-i-audit-postgresql-virtual-generated-columns-when-old-and-new-contain-nu",
+      "summary": "",
+      "tags": [
+        "postgresql",
+        "triggers",
+        "audit",
+        "virtual-column",
+        "postgresql-18"
+      ],
+      "author": "David Brierton",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Function bubble wrapped in propagation",
+      "url": "https://stackoverflow.com/questions/80013586/function-bubble-wrapped-in-propagation",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "event-bubbling",
+        "event-propagation"
+      ],
+      "author": "Realto619",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Retrieve a specific comment by its ID",
+      "url": "https://stackoverflow.com/questions/80013590/retrieve-a-specific-comment-by-its-id",
+      "summary": "",
+      "tags": [
+        "laravel",
+        "eloquent"
+      ],
+      "author": "BAYA",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Which one is better to learn C or C++ Language",
+      "url": "https://stackoverflow.com/questions/80013548/which-one-is-better-to-learn-c-or-c-language",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "c++",
+        "c"
+      ],
+      "author": "user33255118",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "Polarion Scriptpage Livedoc ,filter requirements according to selected revison from dropdown",
+      "url": "https://stackoverflow.com/questions/80013620/polarion-scriptpage-livedoc-filter-requirements-according-to-selected-revison-f",
+      "summary": "",
+      "tags": [
+        "polarion"
+      ],
+      "author": "Kumar",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Netbox Plugin with Template Extension does not take account of PluginTemplateExtension.models",
+      "url": "https://stackoverflow.com/questions/80013585/netbox-plugin-with-template-extension-does-not-take-account-of-plugintemplateext",
+      "summary": "",
+      "tags": [
+        "python",
+        "netbox"
+      ],
+      "author": "Rainer",
+      "comments": 0,
+      "score": 3
+    },
+    {
+      "title": "How to input number in brainfuck?",
+      "url": "https://stackoverflow.com/questions/80013553/how-to-input-number-in-brainfuck",
+      "summary": "",
+      "tags": [
+        "brainfuck"
+      ],
+      "author": "Cordership",
+      "comments": 2,
+      "score": -3
+    },
+    {
+      "title": "An empty alarm-threshold lookup errors globally but returns NULL when correlated",
+      "url": "https://stackoverflow.com/questions/80013574/an-empty-alarm-threshold-lookup-errors-globally-but-returns-null-when-correlated",
+      "summary": "",
+      "tags": [
+        "sql",
+        "subquery",
+        "apache-iotdb"
+      ],
+      "author": "Alex Chen",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}

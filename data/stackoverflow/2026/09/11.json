@@ -1,0 +1,422 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T13:31:55.780837+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "FFmpeg encode fps in AVFrame structure",
+      "url": "https://stackoverflow.com/questions/80002408/ffmpeg-encode-fps-in-avframe-structure",
+      "summary": "",
+      "tags": [
+        "video",
+        "ffmpeg",
+        "video-streaming",
+        "video-processing"
+      ],
+      "author": "NetHead",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "laravel 12.69.2 password.confirm middleware",
+      "url": "https://stackoverflow.com/questions/80002407/laravel-12-69-2-password-confirm-middleware",
+      "summary": "",
+      "tags": [
+        "laravel"
+      ],
+      "author": "laravel",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Building a CLI wizard that consumes JSON Schema and exposes project-local env vars in the current shell",
+      "url": "https://stackoverflow.com/questions/80002390/building-a-cli-wizard-that-consumes-json-schema-and-exposes-project-local-env-va",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "configuration",
+        "environment-variables",
+        "setup-wizard",
+        "mise"
+      ],
+      "author": "creative-resort",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "In Windows task manager the CPU percentages do not add up the give total sum (laptop more unresponsive than before)",
+      "url": "https://stackoverflow.com/questions/80002397/in-windows-task-manager-the-cpu-percentages-do-not-add-up-the-give-total-sum-la",
+      "summary": "",
+      "tags": [
+        "windows"
+      ],
+      "author": "Kjetil S.",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Expand square flexboxes two dimensionally within bounds",
+      "url": "https://stackoverflow.com/questions/80002396/expand-square-flexboxes-two-dimensionally-within-bounds",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "flexbox",
+        "responsive-design"
+      ],
+      "author": "Weak to Enuma Elish",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "PowerShell works on cmd line, fails in system.d or crontab",
+      "url": "https://stackoverflow.com/questions/80002395/powershell-works-on-cmd-line-fails-in-system-d-or-crontab",
+      "summary": "",
+      "tags": [
+        "linux",
+        "powershell",
+        "icu"
+      ],
+      "author": "user1226230",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "jj: &#39;checkout&#39; a revision without editing it, so `@` points to the target revision",
+      "url": "https://stackoverflow.com/questions/80002381/jj-checkout-a-revision-without-editing-it-so-points-to-the-target-revisi",
+      "summary": "",
+      "tags": [
+        "jujutsu"
+      ],
+      "author": "Norman Gray",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Anylogic &#39;PedChangeLevel&#39; Pedestrian Going Down Stairs Animation Moving in Reverse",
+      "url": "https://stackoverflow.com/questions/80002389/anylogic-pedchangelevel-pedestrian-going-down-stairs-animation-moving-in-rever",
+      "summary": "",
+      "tags": [
+        "anylogic"
+      ],
+      "author": "Fristo Aprilano Sasmito",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Why does subprocess.run(cmd, shell=True) with shlex.quote() break on Windows?",
+      "url": "https://stackoverflow.com/questions/80002375/why-does-subprocess-runcmd-shell-true-with-shlex-quote-break-on-windows",
+      "summary": "",
+      "tags": [
+        "python",
+        "windows",
+        "shell",
+        "subprocess",
+        "cross-platform"
+      ],
+      "author": "kainat khattak",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Creating a virtual monitor in code to transmit the processed image to an arduino",
+      "url": "https://stackoverflow.com/questions/80002376/creating-a-virtual-monitor-in-code-to-transmit-the-processed-image-to-an-arduino",
+      "summary": "",
+      "tags": [
+        "python",
+        "c++",
+        "windows",
+        "arduino",
+        "driver"
+      ],
+      "author": "Andrew",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How to ask questions in all-MiniLM-L6-V2?",
+      "url": "https://stackoverflow.com/questions/80002349/how-to-ask-questions-in-all-minilm-l6-v2",
+      "summary": "",
+      "tags": [
+        "maui",
+        "ml.net",
+        "onnxruntime"
+      ],
+      "author": "Angella Yu",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How to surround a variable with a Live Template?",
+      "url": "https://stackoverflow.com/questions/80002358/how-to-surround-a-variable-with-a-live-template",
+      "summary": "",
+      "tags": [
+        "phpstorm"
+      ],
+      "author": "Mm-Art-In",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "How to copy development branches from Git repository to another",
+      "url": "https://stackoverflow.com/questions/80002351/how-to-copy-development-branches-from-git-repository-to-another",
+      "summary": "",
+      "tags": [
+        "git",
+        "github"
+      ],
+      "author": "TheAG",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Looking for LUA hacks that might lead to a string being interpretted differently",
+      "url": "https://stackoverflow.com/questions/80002361/looking-for-lua-hacks-that-might-lead-to-a-string-being-interpretted-differently",
+      "summary": "",
+      "tags": [
+        "string",
+        "lua",
+        "multilinestring"
+      ],
+      "author": "ZeroPhase",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "Manual context annotation and using loss to classify the context inside the model will be a good idea or publishable idea?",
+      "url": "https://stackoverflow.com/questions/80002368/manual-context-annotation-and-using-loss-to-classify-the-context-inside-the-mode",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "SAKTHI JCse2024 Vel Tech Chenn",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How to multiplex virtual threads on fixed number of platform threads?",
+      "url": "https://stackoverflow.com/questions/80002354/how-to-multiplex-virtual-threads-on-fixed-number-of-platform-threads",
+      "summary": "",
+      "tags": [
+        "java",
+        "virtual-threads"
+      ],
+      "author": "Muthu Palaniyappan OL",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Is there any way to get live HDMI-IN output into a custom Android TV app?",
+      "url": "https://stackoverflow.com/questions/80002360/is-there-any-way-to-get-live-hdmi-in-output-into-a-custom-android-tv-app",
+      "summary": "",
+      "tags": [
+        "android",
+        "android-tv",
+        "hdmi-cec"
+      ],
+      "author": "sushil chhetri",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Apple Business Domain Capture: Timing of availability for managed Apple IDs/30 day-period",
+      "url": "https://stackoverflow.com/questions/80002353/apple-business-domain-capture-timing-of-availability-for-managed-apple-ids-30-d",
+      "summary": "",
+      "tags": [
+        "apple-business-manager"
+      ],
+      "author": "Michael_IT",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Concurrency and Parallelism in Go and C++",
+      "url": "https://stackoverflow.com/questions/80002325/concurrency-and-parallelism-in-go-and-c",
+      "summary": "",
+      "tags": [
+        "c++",
+        "concurrency",
+        "stdthread"
+      ],
+      "author": "user32968616",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to optimize AWS cost",
+      "url": "https://stackoverflow.com/questions/80002315/how-to-optimize-aws-cost",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "amazon-web-services",
+        "image",
+        "amazon-cloudfront"
+      ],
+      "author": "Bảo Nguyễn",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Port Type Handling and Validation for APIs",
+      "url": "https://stackoverflow.com/questions/80002329/port-type-handling-and-validation-for-apis",
+      "summary": "",
+      "tags": [
+        "validation",
+        "swagger",
+        "asp.net-core-middleware",
+        "porttype"
+      ],
+      "author": "user33108682",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "What is a proper way to handle a constructor process that might fail?",
+      "url": "https://stackoverflow.com/questions/80002273/what-is-a-proper-way-to-handle-a-constructor-process-that-might-fail",
+      "summary": "",
+      "tags": [
+        "c++",
+        "oop",
+        "constructor",
+        "private-constructor"
+      ],
+      "author": "L1L2L3",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Print character that appear more then Once?",
+      "url": "https://stackoverflow.com/questions/80002327/print-character-that-appear-more-then-once",
+      "summary": "",
+      "tags": [
+        "javascript"
+      ],
+      "author": "NacroMan",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Is it okay to have a varied structure definition and implementation?",
+      "url": "https://stackoverflow.com/questions/80002164/is-it-okay-to-have-a-varied-structure-definition-and-implementation",
+      "summary": "",
+      "tags": [
+        "c",
+        "struct"
+      ],
+      "author": "LakshyaK2011",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Why Temporary IPv6 Address, Link-local IPv6 Address on my internet connection?",
+      "url": "https://stackoverflow.com/questions/80002321/why-temporary-ipv6-address-link-local-ipv6-address-on-my-internet-connection",
+      "summary": "",
+      "tags": [
+        "ip"
+      ],
+      "author": "Mohit Thakur",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Can anyone tell me where the device selection option is in Android Studio&#39;s App Inspection?",
+      "url": "https://stackoverflow.com/questions/80002282/can-anyone-tell-me-where-the-device-selection-option-is-in-android-studios-app",
+      "summary": "",
+      "tags": [
+        "android-studio",
+        "app-inspection"
+      ],
+      "author": "Roop Kumar",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "DCOS Cassandra node-0 DN state",
+      "url": "https://stackoverflow.com/questions/80002322/dcos-cassandra-node-0-dn-state",
+      "summary": "",
+      "tags": [
+        "cassandra"
+      ],
+      "author": "DevOpsTree",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How can I recover my azure portal account?",
+      "url": "https://stackoverflow.com/questions/80002317/how-can-i-recover-my-azure-portal-account",
+      "summary": "",
+      "tags": [
+        "azureportal",
+        "multi-factor-authentication"
+      ],
+      "author": "vpv",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Why is there no sorted_vector container in the C++ standard library, and what are the recommended alternatives?",
+      "url": "https://stackoverflow.com/questions/80002149/why-is-there-no-sorted-vector-container-in-the-c-standard-library-and-what-ar",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++"
+      ],
+      "author": "Saint-Martin",
+      "comments": 3,
+      "score": 7
+    },
+    {
+      "title": "Deterministic use-after-free crash in berry::AbstractContributionFactory::GetNamespace() during Workbench destruction (MITK 2016.11 / CTK)",
+      "url": "https://stackoverflow.com/questions/80002302/deterministic-use-after-free-crash-in-berryabstractcontributionfactorygetnam",
+      "summary": "",
+      "tags": [
+        "c++",
+        "qt",
+        "crash",
+        "mitk"
+      ],
+      "author": "Ben",
+      "comments": 0,
+      "score": -3
+    }
+  ]
+}

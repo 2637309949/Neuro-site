@@ -1,0 +1,429 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T07:54:02.637641+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Why did C++26 get cancelled, and what does it mean for C++26 written programs?",
+      "url": "https://stackoverflow.com/questions/80015046/why-did-c26-get-cancelled-and-what-does-it-mean-for-c26-written-programs",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c++",
+        "c++26"
+      ],
+      "author": "Anoop Rana",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Beginner wants to get used to LLM&#180;s and AI",
+      "url": "https://stackoverflow.com/questions/80015057/beginner-wants-to-get-used-to-llm%c2%b4s-and-ai",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "Tim Zugowski",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How to make sure that the outputs of a pipeline are in quotes?",
+      "url": "https://stackoverflow.com/questions/80015050/how-to-make-sure-that-the-outputs-of-a-pipeline-are-in-quotes",
+      "summary": "",
+      "tags": [
+        "zsh",
+        "quotes"
+      ],
+      "author": "ultravi_lets",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Flutter TextField loses keystrokes while typing when using Provider and setState",
+      "url": "https://stackoverflow.com/questions/80015056/flutter-textfield-loses-keystrokes-while-typing-when-using-provider-and-setstate",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "dart",
+        "keystroke"
+      ],
+      "author": "Karthick",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why is Java&#39;s IntStream&#39;s overridden Iterator () method present in the source code but missing in Javadoc from Java 10 onwards?",
+      "url": "https://stackoverflow.com/questions/80015041/why-is-javas-intstreams-overridden-iterator-method-present-in-the-source-co",
+      "summary": "",
+      "tags": [
+        "java",
+        "javadoc",
+        "java-10"
+      ],
+      "author": "Venkata Raju",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
+      "url": "https://stackoverflow.com/questions/80015000/how-can-i-check-whether-a-lazy-import-has-executed-in-python-3-15-without-trigge",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-import",
+        "lazy-loading"
+      ],
+      "author": "Daniel Sodkiewicz",
+      "comments": 1,
+      "score": 5
+    },
+    {
+      "title": "Examples in Clojure function documentation",
+      "url": "https://stackoverflow.com/questions/80015040/examples-in-clojure-function-documentation",
+      "summary": "",
+      "tags": [
+        "clojure",
+        "documentation",
+        "documentation-generation"
+      ],
+      "author": "user33096679",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "сhange the keyboard layout in ms-dos by f12 key",
+      "url": "https://stackoverflow.com/questions/80015043/%d1%81hange-the-keyboard-layout-in-ms-dos-by-f12-key",
+      "summary": "",
+      "tags": [
+        "dos"
+      ],
+      "author": "ganz",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "YouTube IFrame API: what are the security benefits of setting origin=mydomain.com in URL?",
+      "url": "https://stackoverflow.com/questions/80015029/youtube-iframe-api-what-are-the-security-benefits-of-setting-origin-mydomain-co",
+      "summary": "",
+      "tags": [
+        "advice",
+        "iframe",
+        "youtube-iframe-api",
+        "websecurity"
+      ],
+      "author": "Always a Newb at Something",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Learned ZOrder Implementation on Parquet files using Apache Spark and Java",
+      "url": "https://stackoverflow.com/questions/80015042/learned-zorder-implementation-on-parquet-files-using-apache-spark-and-java",
+      "summary": "",
+      "tags": [
+        "apache-spark",
+        "bigdata",
+        "z-order"
+      ],
+      "author": "Riddhi patel",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Online voting system",
+      "url": "https://stackoverflow.com/questions/80015026/online-voting-system",
+      "summary": "",
+      "tags": [
+        "django"
+      ],
+      "author": "Vishwa Chaithan Bolla",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "prevent Node.js Socket library from fragmenting large messages into 8192-byte chunks?",
+      "url": "https://stackoverflow.com/questions/80015025/prevent-node-js-socket-library-from-fragmenting-large-messages-into-8192-byte-ch",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "sockets",
+        "tcp"
+      ],
+      "author": "Daneolog",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How to stay informed about security advisories regarding JFrog Artifactory?",
+      "url": "https://stackoverflow.com/questions/80015006/how-to-stay-informed-about-security-advisories-regarding-jfrog-artifactory",
+      "summary": "",
+      "tags": [
+        "artifactory"
+      ],
+      "author": "Julian G",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Numba not speeding up python code looping over all pixels",
+      "url": "https://stackoverflow.com/questions/80015028/numba-not-speeding-up-python-code-looping-over-all-pixels",
+      "summary": "",
+      "tags": [
+        "python",
+        "performance",
+        "numba"
+      ],
+      "author": "Python4Life",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "How do I prompt for a file without uploading it in HTML",
+      "url": "https://stackoverflow.com/questions/80014992/how-do-i-prompt-for-a-file-without-uploading-it-in-html",
+      "summary": "",
+      "tags": [
+        "python",
+        "html"
+      ],
+      "author": "AlexHomeBrew",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "Handling cache invalidation while a shared in-flight task is still running",
+      "url": "https://stackoverflow.com/questions/80014991/handling-cache-invalidation-while-a-shared-in-flight-task-is-still-running",
+      "summary": "",
+      "tags": [
+        "python",
+        "caching",
+        "concurrency",
+        "python-asyncio"
+      ],
+      "author": "Faheem",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Keycloak Setup Script - configure local dev w/o setup script",
+      "url": "https://stackoverflow.com/questions/80015005/keycloak-setup-script-configure-local-dev-w-o-setup-script",
+      "summary": "",
+      "tags": [
+        "bash",
+        "docker",
+        "keycloak",
+        "openid-connect"
+      ],
+      "author": "kalekale",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Select operating point from small training set",
+      "url": "https://stackoverflow.com/questions/80015021/select-operating-point-from-small-training-set",
+      "summary": "",
+      "tags": [
+        "training-data",
+        "ml"
+      ],
+      "author": "Amal Nasir",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Cannot auto import Django classes in VS Code despite changing package index depth",
+      "url": "https://stackoverflow.com/questions/80015022/cannot-auto-import-django-classes-in-vs-code-despite-changing-package-index-dept",
+      "summary": "",
+      "tags": [
+        "python",
+        "django",
+        "python-import"
+      ],
+      "author": "IgorArnaut",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "ESP32C6 bare-metal MCPWM_CLK_CFG_REG prescale register not latching",
+      "url": "https://stackoverflow.com/questions/80014990/esp32c6-bare-metal-mcpwm-clk-cfg-reg-prescale-register-not-latching",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c",
+        "esp32",
+        "bare-metal"
+      ],
+      "author": "Alexander Nygaard",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "How to narrow down an ast selection to only assignments with a name on the RHS",
+      "url": "https://stackoverflow.com/questions/80014888/how-to-narrow-down-an-ast-selection-to-only-assignments-with-a-name-on-the-rhs",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-ast"
+      ],
+      "author": "NickC",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How to apply custom cursor on clickable items?",
+      "url": "https://stackoverflow.com/questions/80014981/how-to-apply-custom-cursor-on-clickable-items",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "Einar",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "Content Catalog API v2: PATCH on /collectionIds adds a “Type Catalog” badge, and the content can’t be loaded",
+      "url": "https://stackoverflow.com/questions/80015014/content-catalog-api-v2-patch-on-collectionids-adds-a-type-catalog-badge-and",
+      "summary": "",
+      "tags": [
+        "autodesk-forge",
+        "revit-api",
+        "json-patch"
+      ],
+      "author": "madbridgedesign",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "`UNION ALL of JOINs` vs `JOIN on UNION ALL` performance",
+      "url": "https://stackoverflow.com/questions/80014937/union-all-of-joins-vs-join-on-union-all-performance",
+      "summary": "",
+      "tags": [
+        "postgresql",
+        "performance",
+        "join"
+      ],
+      "author": "Kuraga",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "A local IMAP server to sync with a remote IMAP server, where the local machine doesn&#39;t host any of the remote user ID&#39;s",
+      "url": "https://stackoverflow.com/questions/80014996/a-local-imap-server-to-sync-with-a-remote-imap-server-where-the-local-machine-d",
+      "summary": "",
+      "tags": [
+        "advice",
+        "proxy",
+        "synchronization",
+        "imap"
+      ],
+      "author": "HippoMan",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How to build Pip RPM from bootstrap using tarball/wheel?",
+      "url": "https://stackoverflow.com/questions/80014848/how-to-build-pip-rpm-from-bootstrap-using-tarball-wheel",
+      "summary": "",
+      "tags": [
+        "python",
+        "macos",
+        "pip",
+        "rpm",
+        "rpmbuild"
+      ],
+      "author": "Somya Ranjan Jena",
+      "comments": 0,
+      "score": 3
+    },
+    {
+      "title": "In plain CSS, how to achieve repeating nth-child ranges?",
+      "url": "https://stackoverflow.com/questions/80014800/in-plain-css-how-to-achieve-repeating-nth-child-ranges",
+      "summary": "",
+      "tags": [
+        "css",
+        "css-selectors",
+        "css-grid"
+      ],
+      "author": "guideo",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "Creating an Active Directory user password in Jitterbit",
+      "url": "https://stackoverflow.com/questions/80014860/creating-an-active-directory-user-password-in-jitterbit",
+      "summary": "",
+      "tags": [
+        "active-directory",
+        "jitterbit"
+      ],
+      "author": "Gus D",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How to fix character falling through the floor and collider in Unity",
+      "url": "https://stackoverflow.com/questions/80014966/how-to-fix-character-falling-through-the-floor-and-collider-in-unity",
+      "summary": "",
+      "tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "author": "Madison Burlew",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to safely migrate Homebrew installations after an Intel to Apple Silicon Mac migration",
+      "url": "https://stackoverflow.com/questions/80014976/how-to-safely-migrate-homebrew-installations-after-an-intel-to-apple-silicon-mac",
+      "summary": "",
+      "tags": [
+        "migration",
+        "homebrew",
+        "intel",
+        "package-managers"
+      ],
+      "author": "canary_in_the_data_mine",
+      "comments": 0,
+      "score": -7
+    }
+  ]
+}

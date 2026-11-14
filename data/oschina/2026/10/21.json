@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T14:30:38.420143+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "2026 上海开源大赛「智算云赛道」决赛名单公布",
+      "url": "https://www.oschina.net/news/503144",
+      "summary": "2026 上海开源软件应用创新大赛「智算云赛道」决赛入围名单今日公布，以下 10 支队伍成功晋级，将于 10 月 29 日在上海张江人工智能创新小镇参加总...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "从开源创新到全球增长 | 2026 上海开源软件应用创新大赛颁奖典礼暨创新增长大会",
+      "url": "https://www.oschina.net/news/503142",
+      "summary": "10 月 30 日，以“从开源创新到全球增长”为主题的 2026 上海开源软件应用创新大赛颁奖典礼暨创新增长大会，将落地上海张江人工智能创新小镇。 20...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Meta Muse 分享对话可被陌生人找到：标题写进 URL、一次 DNS 查询全暴露",
+      "url": "https://www.oschina.net/news/503140/meta-muse-exposes-users-personal-when-they-share-conversations",
+      "summary": "Meta 的 AI 助手 Muse 刚上线就撞上隐私问题：用户分享的对话，能被陌生人轻易找到。Meta 已经暂停了分享功能，理由正是安全公司 Claroc 的报告——...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "CSS 的下一步：@function 和 corner-shape，浏览器厂商正联手推进",
+      "url": "https://www.oschina.net/news/503139/interop-2027",
+      "summary": "CSS 正在经历一年里最大的一次进化。Josh W. Comeau 写了篇长文，前瞻 2027 年 CSS 最值得期待的 10 个特性——背景是浏览器厂商的 Interop 协作项...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "ApiGo 5.4.0发布，加固安全认证",
+      "url": "https://www.oschina.net/news/503138",
+      "summary": "ApiGo 5.2.0：接口认证新增 OAuth2 与企业 IdP JWT 两种方式 ApiGo 做的事没变——把 ERP、CRM 这类企业存量系统的数据封装成标准 REST API 和 MC...",
+      "author": "鲨鱼不刷牙",
+      "comments": 0
+    },
+    {
+      "title": "Mistral 发布 Voxtral 3，支持 50 多种语言的语音 Agent SDK",
+      "url": "https://www.oschina.net/news/503136/mistral-ai-voxtral-3",
+      "summary": "Mistral 发布了 Voxtral 3，一套语音 Agent SDK 加语音模型，支持 50 多种语言。官方给的演示场景很能说明定位：一个说英语的患者，拿着一张法语转...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "喜讯 | 玖章算术（NineData）成为中国通信学会单位会员",
+      "url": "https://www.oschina.net/news/503133",
+      "summary": "近日，玖章算术（浙江）科技有限公司（NineData）正式成为中国通信学会单位会员。这体现了公司在信息通信与数据管理领域的技术实力、行业贡献和发展...",
+      "author": "NineData",
+      "comments": 0
+    },
+    {
+      "title": "PHP 两个 RCE 漏洞被提前泄露，紧急补丁明天发",
+      "url": "https://www.oschina.net/news/503132/php-cve-2026-109618-cve-2026-109619-rce",
+      "summary": "PHP 团队发出了紧急警告：明天发布安全更新，修复两个严重漏洞。这不是常规的月度补丁，而是「信息提前泄露了，我们等不了原定的披露时间」——PHP...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "qData 数据中台开源版 v1.6.4 发布：修复数仓分层状态提示、帮助文档跳转及人大金仓编码问题",
+      "url": "https://www.oschina.net/news/503131",
+      "summary": "qData 数据中台开源版 v1.6.4 现已发布。 本次更新主要修复了以下问题： 数仓分层启停状态页面提示与实际结果不一致； 标准数据元页面帮助文档跳转...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "BeetlSQL 3.41 发布，翻页查询增强",
+      "url": "https://www.oschina.net/news/503129",
+      "summary": "BeetlSQL 研发自 2015 年，核心和生态扩展全部自研。目标是提供开发高效，维护高效，运行高效的数据访问框架，它适用范围广，定制性强，入门快。 ...",
+      "author": "闲大赋-李家智",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek 与华为合作设计 AI 芯片，训练环节彻底“去英伟达化”",
+      "url": "https://www.oschina.net/news/503127",
+      "summary": "DeepSeek 和华为的关系，已经远远超出了「芯片供应商—大模型客户」的边界。两家中国公司正在做的，是一起重新定义「AI 芯片应该怎么设计」——而这...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "EasyGoAdmin 敏捷开发框架 GoFrame+EleVue 版本 v2.8.0 发布  ",
+      "url": "https://www.oschina.net/news/503126",
+      "summary": "v2.8.0 更新内容： 1、新版本重构升级； :books: 项目介绍 基于 GoFrame v2、Vue3、TypeScript、ElementPlus 打造的模块化、高性能前后端分离敏捷...",
+      "author": "easygoadmin",
+      "comments": 0
+    },
+    {
+      "title": "Linux 7.4 引入 1.7 万行 Rust 内核代码，Zerocopy 一次跨八个版本",
+      "url": "https://www.oschina.net/news/503125",
+      "summary": "Linux 7.4 的合并窗口刚开，Rust for Linux 就送来了一份「大礼」：约 1.7 万行新 Rust 内核代码，由项目负责人 Miguel Ojeda 提交。这是近期 Rust...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "OpenBSD 8.0 发布：amd64 地址空间翻 128 倍，补上 hibernate",
+      "url": "https://www.oschina.net/news/503124/openbsd-8-0-released",
+      "summary": "OpenBSD 8.0 已正式发布。对大多数用户来说，这一版最直观的变化在 amd64 内核：虚拟地址空间从 4G 一下提到 512G——内核现在能映射超过 4GB 的 ...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "AI时代，神话并未消失：人类正在创造新的“数字神明”",
+      "url": "https://www.oschina.net/news/503123",
+      "summary": "一、引言：当算法开始回答神谕式问题 在过去的几年里，一个越来越常见的场景开始出现：当人们面对复杂的人生问题或难以理解的世界变化时，他们不再...",
+      "author": "王子健",
+      "comments": 0
+    },
+    {
+      "title": "服务器监控系统WGCLOUD v4.0.1 里程碑版本正式发布",
+      "url": "https://www.oschina.net/news/503120",
+      "summary": "WGCLOUD 是一款开源服务器运维监控平台，具有集群监控，易部署、易上手使用、轻量、高效、自动化等特点，server 端基于 springboot 开发，agent...",
+      "author": "王逅逅",
+      "comments": 0
+    },
+    {
+      "title": "Zentrola 1.2.1 发布：模型目录同步、Claude 订阅额度与计费修复",
+      "url": "https://www.oschina.net/news/503119",
+      "summary": "Zentrola 1.2.1 已发布。Zentrola 是面向研发团队的开源 AI Coding 能力治理平台：开发者继续使用 Codex、Claude Code 等熟悉的客户端，管理员集中...",
+      "author": "不穿格子衫的IT男",
+      "comments": 0
+    },
+    {
+      "title": "Jync 捷同 v1.7.6发布 首次全量同步大幅提速",
+      "url": "https://www.oschina.net/news/503118",
+      "summary": "Jync v1.7.6 首次全量同步大幅提速；新增只读数据预览、项目克隆与列清洗规则；修复 Oracle 11g / GBK 与若干同步正确性问题。 性能 全量分块并行：...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "他用 Python 从零画了个编程字体，把 Univers 装进 JetBrains Mono 的比例",
+      "url": "https://www.oschina.net/news/503117/nordwand-mono",
+      "summary": "一个开发者找不到「完美」的编程字体，干脆用 Python 自己设计了一个。这是 Nordwand-Mono 的故事——紧凑的 neo-grotesk 等宽字体，专为编码设计，...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek 开源推理框架 DeepInfer：服务链路的最后一块拼图",
+      "url": "https://www.oschina.net/news/503116",
+      "summary": "DeepSeek 把压箱底的推理框架开源了。这次不是模型，是那个决定算力成本和电费多少的中间层——DeepInfer。 推理框架这个角色，普通用户感受不到，...",
+      "author": "局",
+      "comments": 0
+    }
+  ]
+}

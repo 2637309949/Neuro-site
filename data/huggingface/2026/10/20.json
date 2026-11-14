@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T14:18:41.014786+00:00",
+  "source": "huggingface",
+  "count": 30,
+  "columns": [
+    {
+      "name": "模型名",
+      "key": "model",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "下载量",
+      "key": "downloads",
+      "type": "metric",
+      "icon": "Download"
+    },
+    {
+      "name": "点赞数",
+      "key": "likes",
+      "type": "metric",
+      "icon": "Heart"
+    }
+  ],
+  "items": [
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "model": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Image-Text-to-Text",
+      "downloads": 3,
+      "likes": 1850
+    },
+    {
+      "title": "black-forest-labs/flux-3-image-klein-comfy",
+      "model": "black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "summary": "Image-to-Image",
+      "downloads": 3,
+      "likes": 1040
+    },
+    {
+      "title": "fishaudio/drama-3",
+      "model": "fishaudio/drama-3",
+      "url": "https://huggingface.co/fishaudio/drama-3",
+      "summary": "Text-to-Speech",
+      "downloads": 3,
+      "likes": 803
+    },
+    {
+      "title": "jialinyyzz/humanizer",
+      "model": "jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "summary": "Text Generation",
+      "downloads": 6,
+      "likes": 2009
+    },
+    {
+      "title": "google/embeddinggemma-2",
+      "model": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "summary": "Feature Extraction",
+      "downloads": 14,
+      "likes": 2750
+    },
+    {
+      "title": "meta-models/Muse-Spark-Open-816B-A42B",
+      "model": "meta-models/Muse-Spark-Open-816B-A42B",
+      "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 5,
+      "likes": 596
+    },
+    {
+      "title": "black-forest-labs/flux-3-image-klein",
+      "model": "black-forest-labs/flux-3-image-klein",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+      "summary": "Image-to-Image",
+      "downloads": 4,
+      "likes": 546
+    },
+    {
+      "title": "LiquidAI/LFM2.5-24B-A2B",
+      "model": "LiquidAI/LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+      "summary": "Text Generation",
+      "downloads": 7,
+      "likes": 509
+    },
+    {
+      "title": "OpenMOSS-Team/MOSS-Image-SFT",
+      "model": "OpenMOSS-Team/MOSS-Image-SFT",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+      "summary": "Text-to-Image",
+      "downloads": 1,
+      "likes": 475
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "model": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "Image-to-Video",
+      "downloads": 9,
+      "likes": 8560
+    },
+    {
+      "title": "OpenMOSS-Team/MOSS-Image-Base",
+      "model": "OpenMOSS-Team/MOSS-Image-Base",
+      "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+      "summary": "Text-to-Image",
+      "downloads": 1,
+      "likes": 418
+    },
+    {
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "model": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "summary": "Text-to-Image",
+      "downloads": 8,
+      "likes": 4670
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "model": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 14,
+      "likes": 18000
+    },
+    {
+      "title": "datalab-to/indra-ocr",
+      "model": "datalab-to/indra-ocr",
+      "url": "https://huggingface.co/datalab-to/indra-ocr",
+      "summary": "Image-to-Text",
+      "downloads": 1250000,
+      "likes": 274
+    },
+    {
+      "title": "Comfy-Org/MOSS-Image",
+      "model": "Comfy-Org/MOSS-Image",
+      "url": "https://huggingface.co/Comfy-Org/MOSS-Image",
+      "summary": "Updated",
+      "downloads": 2,
+      "likes": 271
+    },
+    {
+      "title": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+      "model": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+      "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local",
+      "summary": "Image-Text-to-Text",
+      "downloads": 5,
+      "likes": 252
+    },
+    {
+      "title": "tencent/Hy-Memory-30B-A3B",
+      "model": "tencent/Hy-Memory-30B-A3B",
+      "url": "https://huggingface.co/tencent/Hy-Memory-30B-A3B",
+      "summary": "Text Generation",
+      "downloads": 4,
+      "likes": 231
+    },
+    {
+      "title": "Qwen/Qwen-Image-2.1-Turbo",
+      "model": "Qwen/Qwen-Image-2.1-Turbo",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "summary": "Text-to-Image",
+      "downloads": 8,
+      "likes": 1000
+    },
+    {
+      "title": "baidu/Unlimited-OCR",
+      "model": "baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Image-Text-to-Text",
+      "downloads": 6,
+      "likes": 4840
+    },
+    {
+      "title": "mistralai/Timestral-209M",
+      "model": "mistralai/Timestral-209M",
+      "url": "https://huggingface.co/mistralai/Timestral-209M",
+      "summary": "Time Series Forecasting",
+      "downloads": 5,
+      "likes": 219
+    },
+    {
+      "title": "LiquidAI/LFM2.5-24B-A2B-GGUF",
+      "model": "LiquidAI/LFM2.5-24B-A2B-GGUF",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF",
+      "summary": "Text Generation",
+      "downloads": 7,
+      "likes": 222
+    },
+    {
+      "title": "facebook/sam3",
+      "model": "facebook/sam3",
+      "url": "https://huggingface.co/facebook/sam3",
+      "summary": "Mask Generation",
+      "downloads": 2025,
+      "likes": 4740
+    },
+    {
+      "title": "reflection/Beam-1.0-501B-A23B",
+      "model": "reflection/Beam-1.0-501B-A23B",
+      "url": "https://huggingface.co/reflection/Beam-1.0-501B-A23B",
+      "summary": "Text Generation",
+      "downloads": 4,
+      "likes": 177
+    },
+    {
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
+      "model": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 181
+    },
+    {
+      "title": "meta-models/Muse-Spark-Open-816B-A42B-NVFP4",
+      "model": "meta-models/Muse-Spark-Open-816B-A42B-NVFP4",
+      "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B-NVFP4",
+      "summary": "Image-Text-to-Text",
+      "downloads": 5,
+      "likes": 188
+    },
+    {
+      "title": "lodestones/MOSS-Image-SFT-8-steps-dmd",
+      "model": "lodestones/MOSS-Image-SFT-8-steps-dmd",
+      "url": "https://huggingface.co/lodestones/MOSS-Image-SFT-8-steps-dmd",
+      "summary": "5B",
+      "downloads": 3,
+      "likes": 169
+    },
+    {
+      "title": "Qwen/Qwen3.8-Flash-Next",
+      "model": "Qwen/Qwen3.8-Flash-Next",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "summary": "Image-Text-to-Text",
+      "downloads": 27,
+      "likes": 6350
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "model": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 4670
+    },
+    {
+      "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "model": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "url": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+      "summary": "Image-Text-to-Text",
+      "downloads": 2,
+      "likes": 169
+    },
+    {
+      "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "model": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "url": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+      "summary": "Text Generation",
+      "downloads": 5,
+      "likes": 576
+    }
+  ]
+}
