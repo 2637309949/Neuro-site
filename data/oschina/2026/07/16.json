@@ -1,0 +1,173 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T15:14:38.751806+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Rider 2026.2 RC 发布",
+      "url": "https://www.oschina.net/news/471982/rider-2026-2-release-candidate",
+      "summary": "Rider 2026.2 RC 版本现已发布。即将发布的版本将向 AI 编程智能体开放 IDE 自身的智能功能，原生集成 GitHub Copilot，并大幅提升 .NET 和游戏开发...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "qKnow 智能体构建平台专业版 v3.1.1 发布：知识库问答对支持多格式导出与提示词自定义",
+      "url": "https://www.oschina.net/news/471945",
+      "summary": "在企业智能体的落地实践中，一个常被低估却又至关重要的环节，是知识供给侧的效率。 很多团队，算法模型调得再优，最终瓶颈却卡在“数据喂不进去”...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "GStreamer 1.28.5 发布，开源多媒体框架",
+      "url": "https://www.oschina.net/news/471901/gstreamer-1-28-5-released",
+      "summary": "GStreamer 1.28.5 现已发布，此版本包含错误修复和一些安全修复。具体更新内容如下： 修复了多个安全问题和播放问题 修复 AMD GPU上使用 VA 解码器...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "AI 编码实战 | 0 行手写代码，2 天重构 2 万行 Vue 项目",
+      "url": "https://my.oschina.net/vivotech/blog/19722516",
+      "summary": "文章的核心观点是：AI 辅助开发的关键不在 AI 本身的能力，而在于人为 AI 建立的约束体系 —— 通过 Skills 技能包注入领域知识、AGENTS.md 沉淀项...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "多款主流 Coding Agent 组团登陆 deepin 应用商店！",
+      "url": "https://www.oschina.net/news/471887",
+      "summary": "作为在 DistroWatch 全球排名中表现突出、广受全球用户认可的开源操作系统，deepin 积极拥抱人工智能，紧跟智能化发展的趋势。随着 AI 编程技术高...",
+      "author": "深度操作系统",
+      "comments": 0
+    },
+    {
+      "title": "你的 Coding Agent 早就修过这个 bug 了，只是你不记得",
+      "url": "https://www.oschina.net/news/471847",
+      "summary": "AI 编程助手每天都在往你硬盘上写对话记录。Claude Code 的 JSONL、Codex 的 session 文件、opencode 的 SQLite 数据库——几个项目下来轻松破 GB...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "PipeWire 1.6.8 发布，多媒体处理工具",
+      "url": "https://www.oschina.net/news/471807/pipewire-1-6-8-released",
+      "summary": "PipeWire 是用于处理多媒体管道的服务器和用户空间 API 的多媒体处理工具，包括提供视频源（例如来自捕获设备或应用程序提供的流）并将其与客户端复...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Debian 13.6 发布",
+      "url": "https://www.oschina.net/news/471801/debian-13-6-released",
+      "summary": "Debian 13.6 现已发布，这是 Debian 13（代号 trixie）稳定版发行版的第五次更新。此次点版本更新主要针对安全问题进行了修复，并针对若干严重问题...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "PeaZip 11.2 发布",
+      "url": "https://www.oschina.net/news/471797/peazip-11-2-0-released",
+      "summary": "PeaZip 是一个适用于 Windows 和 Linux 的免费文件存档工具和 rar 提取器，可处理 200 多种存档类型（7z, ace, arc, bz2, cab, gz, iso, paq, pea...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Anaconda 收购 Kilo Code，要当企业 AI 开发的「治理层」",
+      "url": "https://www.oschina.net/news/471787/anaconda-acquires-kilo-code",
+      "summary": "「开发人员不会停止用 AI，问题是企业能不能掌控这个体验。」 Kilo Code CEO Scott Breitenother 这句话，基本概括了 Anaconda 收购 Kilo Code 的逻...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DBPanel 1.0.0 正式版发布：新一代 Linux 服务器管理面板",
+      "url": "https://www.oschina.net/news/471768",
+      "summary": "经过多个 RC 版本持续迭代，DBPanel 正式发布 1.0.0 版本。 DBPanel 是一款面向 Linux 服务器的中文管理面板，提供网站管理、数据库管理、SSL 证书...",
+      "author": "静静的风",
+      "comments": 0
+    },
+    {
+      "title": "小米发布 Xiaomi-Robotics-1 具身基座模型",
+      "url": "https://www.oschina.net/news/471764",
+      "summary": "小米宣布推出 Xiaomi-Robotics-1，一个面向真实移动操作任务的具身基座模型。代码和模型权重将在近期全面开源。 模型基于 10万 小时真实世界数据进...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "阿里确认通义千问集成至苹果智能系统",
+      "url": "https://www.oschina.net/news/471763",
+      "summary": "有消息称阿里自研大模型通义千问将在中国区苹果设备落地。对此，阿里巴巴发言人证实称：“面向中国用户，通义千问将集成至 iOS、iPadOS、macOS、v...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "2026年靠谱新闻发稿平台深度测评：年度靠谱新闻发稿平台实测对比与选型指南",
+      "url": "https://www.oschina.net/news/471761",
+      "summary": "关键要点： - 靠谱新闻发稿平台的核心竞争力在AI搜索+传统搜索双入口时代已升级为\"发布前可预测排名效果\"，预测准确率是衡量专业度的硬核指标 - 传...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Linus 怒斥反 AI 的内核开发者——你可以不喜欢 AI，但别挡着别人用",
+      "url": "https://www.oschina.net/news/471760",
+      "summary": "Linux 内核邮件列表又炸了。这次的导火索不是哪个驱动的代码风格问题，而是 AI。 一个叫 Sashiko 的 AI 代码审查系统正在内核开发流程里逐渐活跃起...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Blender 5.2 LTS 发布",
+      "url": "https://www.oschina.net/news/471759/blender-5-2-lts",
+      "summary": "Blender 5.2 LTS 现已发布，此版本包含长期支持，并将维护至 2028 年 7 月。 一些更新亮点包括： Blender 5.2 对其 Screen Space Raytracing pipe...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Tsuru 1.30.1 发布，基于 Docker 的 PaaS 框架",
+      "url": "https://www.oschina.net/news/471758/tsuru-1-30-1-released",
+      "summary": "Tsuru 是一个基于 Docker 的 PaaS 框架，可以让你构建自己的 PaaS 服务。Tsuru 采用 Go 语言编写，依赖 Go 环境和 libxml。 Tsuru 1.30.1 已发布，...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "Visual Studio Code 1.129 发布",
+      "url": "https://www.oschina.net/news/471757/vs-code-1-129-released",
+      "summary": "Visual Studio Code 1.129 现已发布，此版本新增了专用 agent host、Agents window 中的全新编辑器面板、使用!运行命令的功能以及现代 UI 预览。 ...",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "TinyEngine 2.11 版本发布：AI 进一步融入画布，Vue 工程可一键转 DSL",
+      "url": "https://my.oschina.net/u/6769809/blog/19722277",
+      "summary": "升级重点放在了三个方向上：更智能的开发体验、更顺滑的资产导入能力，以及更完整的设计器物料生态。",
+      "author": "白开水不加糖",
+      "comments": 0
+    },
+    {
+      "title": "SpaceXAI 宣布开源 Grok Build",
+      "url": "https://www.oschina.net/news/471755/grok-build-open-source",
+      "summary": "马斯克旗下 SpaceXAI 宣布将 Grok Build 全面开源，并且重置所有用户的 usage limits。 Grok Build 是 SpaceXAI 的基于终端的 AI 编程智能体。它以...",
+      "author": "白开水不加糖",
+      "comments": 0
+    }
+  ]
+}

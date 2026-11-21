@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T08:44:52.913046+00:00",
+  "source": "github",
+  "count": 19,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "cursor/plugins",
+      "repo": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "summary": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 17360,
+      "today_stars": 314
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "repo": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "summary": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "language": "Python",
+      "stars": 60084,
+      "today_stars": 389
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "repo": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 70368,
+      "today_stars": 1059
+    },
+    {
+      "title": "getarcaneapp/arcane",
+      "repo": "getarcaneapp/arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "summary": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "stars": 9988,
+      "today_stars": 547
+    },
+    {
+      "title": "NVIDIA/SkillEvaluator",
+      "repo": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
+      "language": "Python",
+      "stars": 3937,
+      "today_stars": 312
+    },
+    {
+      "title": "nvm-sh/nvm",
+      "repo": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "summary": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars": 96211,
+      "today_stars": 237
+    },
+    {
+      "title": "astral-sh/uv",
+      "repo": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "summary": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": 92347,
+      "today_stars": 258
+    },
+    {
+      "title": "google-research/paper-orchestra",
+      "repo": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "summary": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "language": "Python",
+      "stars": 4655,
+      "today_stars": 1524
+    },
+    {
+      "title": "google-labs-code/stitch-skills",
+      "repo": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "summary": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": 10529,
+      "today_stars": 365
+    },
+    {
+      "title": "sveltejs/svelte",
+      "repo": "sveltejs/svelte",
+      "url": "https://github.com/sveltejs/svelte",
+      "summary": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars": 89720,
+      "today_stars": 692
+    },
+    {
+      "title": "jquery/jquery",
+      "repo": "jquery/jquery",
+      "url": "https://github.com/jquery/jquery",
+      "summary": "jQuery JavaScript Library",
+      "language": "JavaScript",
+      "stars": 60078,
+      "today_stars": 266
+    },
+    {
+      "title": "appwrite/appwrite",
+      "repo": "appwrite/appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "summary": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "language": "TypeScript",
+      "stars": 58346,
+      "today_stars": 232
+    },
+    {
+      "title": "openvinotoolkit/openvino",
+      "repo": "openvinotoolkit/openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "summary": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars": 11421,
+      "today_stars": 24
+    },
+    {
+      "title": "obra/superpowers",
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 321544,
+      "today_stars": 822
+    },
+    {
+      "title": "affaan-m/ECC",
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 306814,
+      "today_stars": 1108
+    },
+    {
+      "title": "DeanChensj/jiangshan-map",
+      "repo": "DeanChensj/jiangshan-map",
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "summary": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+      "language": "JavaScript",
+      "stars": 8294,
+      "today_stars": 218
+    },
+    {
+      "title": "n8n-io/n8n",
+      "repo": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": 211299,
+      "today_stars": 325
+    },
+    {
+      "title": "solidjs/solid",
+      "repo": "solidjs/solid",
+      "url": "https://github.com/solidjs/solid",
+      "summary": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "language": "TypeScript",
+      "stars": 36711,
+      "today_stars": 40
+    },
+    {
+      "title": "punkpeye/awesome-mcp-servers",
+      "repo": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "summary": "A collection of MCP servers.",
+      "language": "",
+      "stars": 98166,
+      "today_stars": 53
+    }
+  ]
+}

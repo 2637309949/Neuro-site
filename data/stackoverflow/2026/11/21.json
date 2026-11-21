@@ -1,0 +1,439 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T08:15:03.407090+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Which is the best documentation or youtube tutorial to learn Flutter",
+      "url": "https://stackoverflow.com/questions/80017933/which-is-the-best-documentation-or-youtube-tutorial-to-learn-flutter",
+      "summary": "",
+      "tags": [
+        "flutter"
+      ],
+      "author": "unknown_iuser",
+      "comments": 0,
+      "score": -10
+    },
+    {
+      "title": "Working on one task that I am stuck on - I need help! Proxy | VPN",
+      "url": "https://stackoverflow.com/questions/80017919/working-on-one-task-that-i-am-stuck-on-i-need-help-proxy-vpn",
+      "summary": "",
+      "tags": [
+        "network-programming",
+        "architecture",
+        "system",
+        "vpn",
+        "mitmproxy"
+      ],
+      "author": "sahil koshti",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Why do we use serialVersionUID and marker interface in java?",
+      "url": "https://stackoverflow.com/questions/80017924/why-do-we-use-serialversionuid-and-marker-interface-in-java",
+      "summary": "",
+      "tags": [
+        "java"
+      ],
+      "author": "Vikrant singh",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "what&#180;ll be the best way to learn in the odin project?",
+      "url": "https://stackoverflow.com/questions/80017910/what%c2%b4ll-be-the-best-way-to-learn-in-the-odin-project",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "python",
+        "node.js"
+      ],
+      "author": "rathio",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Spark RPC TLS (spark.ssl.rpc.enabled) loads entire disk-cached blocks into memory, causing executor OOMs",
+      "url": "https://stackoverflow.com/questions/80017903/spark-rpc-tls-spark-ssl-rpc-enabled-loads-entire-disk-cached-blocks-into-memor",
+      "summary": "",
+      "tags": [
+        "apache-spark",
+        "ssl",
+        "out-of-memory",
+        "netty"
+      ],
+      "author": "user123456",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Is it possible to declare constexpr function in a module .cppm file and define it in a separate .cpp file?",
+      "url": "https://stackoverflow.com/questions/80017881/is-it-possible-to-declare-constexpr-function-in-a-module-cppm-file-and-define-i",
+      "summary": "",
+      "tags": [
+        "c++",
+        "templates",
+        "constexpr",
+        "c++23",
+        "c++-modules"
+      ],
+      "author": "L1L2L3",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Why does Google index my WordPress service pages but not rank them for local keywords?",
+      "url": "https://stackoverflow.com/questions/80017901/why-does-google-index-my-wordpress-service-pages-but-not-rank-them-for-local-key",
+      "summary": "",
+      "tags": [
+        "wordpress",
+        "google-search-console"
+      ],
+      "author": "Arjan Lal",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Make/edit a network adapter with Python without using other apps?",
+      "url": "https://stackoverflow.com/questions/80017889/make-edit-a-network-adapter-with-python-without-using-other-apps",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "Pouria Hosseini",
+      "comments": 0,
+      "score": -9
+    },
+    {
+      "title": "le cerveau d&#39;une calculatrice",
+      "url": "https://stackoverflow.com/questions/80017900/le-cerveau-dune-calculatrice",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python",
+        "tkinter"
+      ],
+      "author": "kiffi",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "How can you pin a thread to a single core on Apple M laptops?",
+      "url": "https://stackoverflow.com/questions/80017847/how-can-you-pin-a-thread-to-a-single-core-on-apple-m-laptops",
+      "summary": "",
+      "tags": [
+        "macos",
+        "apple-silicon",
+        "affinity"
+      ],
+      "author": "revolutionary",
+      "comments": 2,
+      "score": -2
+    },
+    {
+      "title": "Do I need static for a constant in an interface and would I need a reference as an interface and instantiate it using a different class&#39; constructor?",
+      "url": "https://stackoverflow.com/questions/80017864/do-i-need-static-for-a-constant-in-an-interface-and-would-i-need-a-reference-as",
+      "summary": "",
+      "tags": [
+        "advice",
+        "java",
+        "interface"
+      ],
+      "author": "CSP.AT.MASH",
+      "comments": 3,
+      "score": -4
+    },
+    {
+      "title": "Maven BUILD FAILURE error, The goal you specified requires a project to execute but there is no POM in this directory.Please verify you invoked",
+      "url": "https://stackoverflow.com/questions/80017896/maven-build-failure-error-the-goal-you-specified-requires-a-project-to-execute",
+      "summary": "",
+      "tags": [
+        "java",
+        "maven",
+        "web-applications",
+        "project",
+        "github-codespaces"
+      ],
+      "author": "ASHWANI KUMAR SHARMA",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to use Azure Blob storage REST api &quot;Put Blob from Url&quot; with a File storage URL",
+      "url": "https://stackoverflow.com/questions/80017854/how-to-use-azure-blob-storage-rest-api-put-blob-from-url-with-a-file-storage-u",
+      "summary": "",
+      "tags": [
+        "azure",
+        "azure-blob-storage"
+      ],
+      "author": "Edwin",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Trying to blit an image onto rect in pygame",
+      "url": "https://stackoverflow.com/questions/80017841/trying-to-blit-an-image-onto-rect-in-pygame",
+      "summary": "",
+      "tags": [
+        "python",
+        "pygame"
+      ],
+      "author": "Austine",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Unable to compile code for esp32 (works fine with Arduino)",
+      "url": "https://stackoverflow.com/questions/80017846/unable-to-compile-code-for-esp32-works-fine-with-arduino",
+      "summary": "",
+      "tags": [
+        "compiler-errors",
+        "arduino",
+        "compilation",
+        "esp32",
+        "arduino-ide"
+      ],
+      "author": "Barbatos Sama Venti",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How can I tell between a value set and a value if there&#39;s no identifier in ASN.1?",
+      "url": "https://stackoverflow.com/questions/80017893/how-can-i-tell-between-a-value-set-and-a-value-if-theres-no-identifier-in-asn-1",
+      "summary": "",
+      "tags": [
+        "asn.1"
+      ],
+      "author": "taylor_krs",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to stop reprex from outputting curly quotes, em dashes, and other smart typography?",
+      "url": "https://stackoverflow.com/questions/80017861/how-to-stop-reprex-from-outputting-curly-quotes-em-dashes-and-other-smart-typo",
+      "summary": "",
+      "tags": [
+        "r",
+        "unicode",
+        "pandoc",
+        "reprex"
+      ],
+      "author": "M--",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Is the height of the text same on different platform?",
+      "url": "https://stackoverflow.com/questions/80017803/is-the-height-of-the-text-same-on-different-platform",
+      "summary": "",
+      "tags": [
+        "android",
+        "ios",
+        "windows",
+        "canvas",
+        "fonts"
+      ],
+      "author": "liang.good",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Walmart I/O: uploading a PRODUCTION public key fails with “addPublicKey … status code 520” (sandbox works)",
+      "url": "https://stackoverflow.com/questions/80017882/walmart-i-o-uploading-a-production-public-key-fails-with-addpublickey-status",
+      "summary": "",
+      "tags": [
+        "rest"
+      ],
+      "author": "Kayla Kugler",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Does the Hugging Face audio classifier modify an audio sample before classifying it?",
+      "url": "https://stackoverflow.com/questions/80017867/does-the-hugging-face-audio-classifier-modify-an-audio-sample-before-classifying",
+      "summary": "",
+      "tags": [
+        "python",
+        "pytorch",
+        "huggingface-transformers",
+        "audio-processing"
+      ],
+      "author": "Mohammed Z.",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Balanced Ternary Division Algorithm",
+      "url": "https://stackoverflow.com/questions/80017844/balanced-ternary-division-algorithm",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c",
+        "algorithm",
+        "ternary"
+      ],
+      "author": "nimrag",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How to prevent auto zoom on input focus in iOS while keeping pinch-to-zoom enabled?",
+      "url": "https://stackoverflow.com/questions/80017765/how-to-prevent-auto-zoom-on-input-focus-in-ios-while-keeping-pinch-to-zoom-enabl",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "ios",
+        "responsive-design"
+      ],
+      "author": "Sreehari",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Translating an object relative to another",
+      "url": "https://stackoverflow.com/questions/80017848/translating-an-object-relative-to-another",
+      "summary": "",
+      "tags": [
+        "c#",
+        "monogame"
+      ],
+      "author": "Your Wizard of Joy",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "how to get mclapply in R to give me informative error messages",
+      "url": "https://stackoverflow.com/questions/80017799/how-to-get-mclapply-in-r-to-give-me-informative-error-messages",
+      "summary": "",
+      "tags": [
+        "r",
+        "lapply"
+      ],
+      "author": "quarague",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Supabase emailRedirectTo ignored: redirect_to always falls back to Site URL despite being in allow-list (Capacitor + Android App Links)",
+      "url": "https://stackoverflow.com/questions/80017792/supabase-emailredirectto-ignored-redirect-to-always-falls-back-to-site-url-desp",
+      "summary": "",
+      "tags": [
+        "android",
+        "authentication",
+        "deep-linking",
+        "capacitor",
+        "supabase"
+      ],
+      "author": "Brandon",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Which version of spyder and spyder-kernels work with Python 3.7",
+      "url": "https://stackoverflow.com/questions/80017840/which-version-of-spyder-and-spyder-kernels-work-with-python-3-7",
+      "summary": "",
+      "tags": [
+        "python",
+        "spyder"
+      ],
+      "author": "adr",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How do I select the values in a database for the names that match a given list?",
+      "url": "https://stackoverflow.com/questions/80017795/how-do-i-select-the-values-in-a-database-for-the-names-that-match-a-given-list",
+      "summary": "",
+      "tags": [
+        "python",
+        "sql",
+        "mssql-python"
+      ],
+      "author": "jellybeanmachine",
+      "comments": 1,
+      "score": -9
+    },
+    {
+      "title": "How can I avoid automatic scroll to embedded Youtube page if the video is missing?",
+      "url": "https://stackoverflow.com/questions/80017821/how-can-i-avoid-automatic-scroll-to-embedded-youtube-page-if-the-video-is-missin",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "scroll",
+        "youtube"
+      ],
+      "author": "user706420",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Obscure box appears sporadically at launch for Mac Desktop apps built in Xcode 26.5",
+      "url": "https://stackoverflow.com/questions/80017830/obscure-box-appears-sporadically-at-launch-for-mac-desktop-apps-built-in-xcode-2",
+      "summary": "",
+      "tags": [
+        "objective-c",
+        "xcode",
+        "cocoa"
+      ],
+      "author": "Paul",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Java regex to match 1 to 2 group excluding anything inside (and including) brackets and parentheses",
+      "url": "https://stackoverflow.com/questions/80017707/java-regex-to-match-1-to-2-group-excluding-anything-inside-and-including-brack",
+      "summary": "",
+      "tags": [
+        "java",
+        "regex"
+      ],
+      "author": "Tommy Tone",
+      "comments": 0,
+      "score": -6
+    }
+  ]
+}

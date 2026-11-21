@@ -1,0 +1,448 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T13:18:05.717279+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "?How to implement automatic topographic drawing from survey codes in an Android Kotlin app",
+      "url": "https://stackoverflow.com/questions/80012250/how-to-implement-automatic-topographic-drawing-from-survey-codes-in-an-android",
+      "summary": "",
+      "tags": [
+        "advice",
+        "kotlin",
+        "sqlite",
+        "geometry",
+        "android-custom-view"
+      ],
+      "author": "Ounis Geo Solutions",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "micropython on pico 2w ftp connection",
+      "url": "https://stackoverflow.com/questions/80012246/micropython-on-pico-2w-ftp-connection",
+      "summary": "",
+      "tags": [
+        "ftp",
+        "micropython"
+      ],
+      "author": "George Feichter",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How can i extract specific Metadata from the list of University URLs?",
+      "url": "https://stackoverflow.com/questions/80012241/how-can-i-extract-specific-metadata-from-the-list-of-university-urls",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "python",
+        "pandas",
+        "web-scraping",
+        "google-colaboratory"
+      ],
+      "author": "FRAZER NYAMBE",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Why does getObject() throw ORA-17004 for a VECTOR OUT parameter?",
+      "url": "https://stackoverflow.com/questions/80012235/why-does-getobject-throw-ora-17004-for-a-vector-out-parameter",
+      "summary": "",
+      "tags": [
+        "oracle-database",
+        "jdbc"
+      ],
+      "author": "ssd",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Openpyxl setting italic conditional formatting",
+      "url": "https://stackoverflow.com/questions/80012239/openpyxl-setting-italic-conditional-formatting",
+      "summary": "",
+      "tags": [
+        "python",
+        "openpyxl"
+      ],
+      "author": "CADV",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Create a sheet where cells are locked, but still allows tables to be sorted",
+      "url": "https://stackoverflow.com/questions/80012228/create-a-sheet-where-cells-are-locked-but-still-allows-tables-to-be-sorted",
+      "summary": "",
+      "tags": [
+        "advice",
+        "excel",
+        "vba",
+        "excel-365"
+      ],
+      "author": "ThatOddTetrapod",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Looking for active Discord servers/communities for software developers",
+      "url": "https://stackoverflow.com/questions/80012240/looking-for-active-discord-servers-communities-for-software-developers",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "discord"
+      ],
+      "author": "Roshyo",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Ambigous Type Conversion in Switch Statement With Only one Viable Conversion",
+      "url": "https://stackoverflow.com/questions/80012225/ambigous-type-conversion-in-switch-statement-with-only-one-viable-conversion",
+      "summary": "",
+      "tags": [
+        "c++",
+        "switch-statement",
+        "language-lawyer",
+        "c++20",
+        "requires-clause"
+      ],
+      "author": "Velocirobtor",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "For loop within a function that writes contents of list parameter to desired file name",
+      "url": "https://stackoverflow.com/questions/80012195/for-loop-within-a-function-that-writes-contents-of-list-parameter-to-desired-fil",
+      "summary": "",
+      "tags": [
+        "python",
+        "function",
+        "for-loop"
+      ],
+      "author": "xAvareS",
+      "comments": 2,
+      "score": -4
+    },
+    {
+      "title": "Is there a VS Code extension to detect PSR-4 namespace and file path mismatches in PHP?",
+      "url": "https://stackoverflow.com/questions/80012227/is-there-a-vs-code-extension-to-detect-psr-4-namespace-and-file-path-mismatches",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "php",
+        "visual-studio",
+        "yii"
+      ],
+      "author": "prince",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "&gt;10 query coming from an API makes frontend hang, due to data NOT being returned by database",
+      "url": "https://stackoverflow.com/questions/80012210/10-query-coming-from-an-api-makes-frontend-hang-due-to-data-not-being-returned",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "Adnan Khan",
+      "comments": 1,
+      "score": -7
+    },
+    {
+      "title": "How to add header and footer to shiny PDF output",
+      "url": "https://stackoverflow.com/questions/80012190/how-to-add-header-and-footer-to-shiny-pdf-output",
+      "summary": "",
+      "tags": [
+        "r",
+        "pdf",
+        "shiny",
+        "yaml"
+      ],
+      "author": "Peter",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Request for organic assistance debugging my fading-toolbar(JS)",
+      "url": "https://stackoverflow.com/questions/80012169/request-for-organic-assistance-debugging-my-fading-toolbarjs",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "css"
+      ],
+      "author": "BoJacks JJ",
+      "comments": 1,
+      "score": -7
+    },
+    {
+      "title": "Why does this linked-list C code segfault?",
+      "url": "https://stackoverflow.com/questions/80012068/why-does-this-linked-list-c-code-segfault",
+      "summary": "",
+      "tags": [
+        "c",
+        "segmentation-fault"
+      ],
+      "author": "Gempa Frem",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "Getting system information through VBA",
+      "url": "https://stackoverflow.com/questions/80012151/getting-system-information-through-vba",
+      "summary": "",
+      "tags": [
+        "vba",
+        "automation",
+        "zooming"
+      ],
+      "author": "Matheus_Martim",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to integrate a USB/Bluetooth barcode scanner with a web app on Hostinger for student attendance?",
+      "url": "https://stackoverflow.com/questions/80012162/how-to-integrate-a-usb-bluetooth-barcode-scanner-with-a-web-app-on-hostinger-for",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "laravel",
+        "web-applications",
+        "qr-code",
+        "barcode"
+      ],
+      "author": "Yahia Azab",
+      "comments": 1,
+      "score": -8
+    },
+    {
+      "title": "Oracle APEX running is encountered with error localhost refused to connect",
+      "url": "https://stackoverflow.com/questions/80012174/oracle-apex-running-is-encountered-with-error-localhost-refused-to-connect",
+      "summary": "",
+      "tags": [
+        "oracle-database",
+        "oracle-sqldeveloper",
+        "oracle-apex",
+        "apex",
+        "oracle23ai"
+      ],
+      "author": "titi zarif",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Reddit devvit stops with no error while fetching comments. What is happening and how would i circumvent this?",
+      "url": "https://stackoverflow.com/questions/80012182/reddit-devvit-stops-with-no-error-while-fetching-comments-what-is-happening-and",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "express",
+        "reddit"
+      ],
+      "author": "Asger &#216;rmen Dalmeijer",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "React Native Expo Nativewind Android failed to deserialize; expected an object-like struct named Specifier, found ()",
+      "url": "https://stackoverflow.com/questions/80012187/react-native-expo-nativewind-android-failed-to-deserialize-expected-an-object-l",
+      "summary": "",
+      "tags": [
+        "android",
+        "react-native",
+        "expo",
+        "nativewind",
+        "lightningcss"
+      ],
+      "author": "Russo",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How to have multiple functions execute on different sheets with formula recalculations of data from Form submission?",
+      "url": "https://stackoverflow.com/questions/80012183/how-to-have-multiple-functions-execute-on-different-sheets-with-formula-recalcul",
+      "summary": "",
+      "tags": [
+        "google-sheets",
+        "google-apps-script",
+        "triggers",
+        "google-forms"
+      ],
+      "author": "Razvan Raoof",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How can I split double hyphens in a Python word counter while preserving single hyphens and apostrophes?",
+      "url": "https://stackoverflow.com/questions/80011903/how-can-i-split-double-hyphens-in-a-python-word-counter-while-preserving-single",
+      "summary": "",
+      "tags": [
+        "python",
+        "regex",
+        "string"
+      ],
+      "author": "pg27",
+      "comments": 4,
+      "score": 2
+    },
+    {
+      "title": "Perforce - is this normal...?",
+      "url": "https://stackoverflow.com/questions/80012180/perforce-is-this-normal",
+      "summary": "",
+      "tags": [
+        "perforce",
+        "perforce-stream",
+        "depot",
+        "perforce-workspace"
+      ],
+      "author": "DustyShinigami",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "ESP32 with platformio and Arduino framework - how do I activate NAT in lwip?",
+      "url": "https://stackoverflow.com/questions/80012176/esp32-with-platformio-and-arduino-framework-how-do-i-activate-nat-in-lwip",
+      "summary": "",
+      "tags": [
+        "esp32",
+        "nat",
+        "lwip"
+      ],
+      "author": "Jens",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How can I detect whether a font supports a specific Unicode character in JavaScript?",
+      "url": "https://stackoverflow.com/questions/80012145/how-can-i-detect-whether-a-font-supports-a-specific-unicode-character-in-javascr",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "unicode",
+        "fonts"
+      ],
+      "author": "George Joseph",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to prevent Gemini from reading my website&#39;s tab in user&#39;s chrome",
+      "url": "https://stackoverflow.com/questions/80012148/how-to-prevent-gemini-from-reading-my-websites-tab-in-users-chrome",
+      "summary": "",
+      "tags": [
+        "google-chrome",
+        "artificial-intelligence",
+        "google-gemini"
+      ],
+      "author": "Entropy",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Drop database with missing .mdf file in SQL Server (localdb)",
+      "url": "https://stackoverflow.com/questions/80011995/drop-database-with-missing-mdf-file-in-sql-server-localdb",
+      "summary": "",
+      "tags": [
+        "c#",
+        "sql-server",
+        "localdb",
+        "mdf"
+      ],
+      "author": "DevEV",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Visual Studio 2026 - clr-namespace:System;assembly=mscorlib not working",
+      "url": "https://stackoverflow.com/questions/80012093/visual-studio-2026-clr-namespacesystemassembly-mscorlib-not-working",
+      "summary": "",
+      "tags": [
+        "visual-studio",
+        "xaml",
+        "winui-3"
+      ],
+      "author": "StuA",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "There&#39;s a link that I did not access that is in my history wondering if it could be identified",
+      "url": "https://stackoverflow.com/questions/80012168/theres-a-link-that-i-did-not-access-that-is-in-my-history-wondering-if-it-could",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Raincheck",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "How to average two (or more) hexadecimal color codes into one color code?",
+      "url": "https://stackoverflow.com/questions/80012119/how-to-average-two-or-more-hexadecimal-color-codes-into-one-color-code",
+      "summary": "",
+      "tags": [
+        "colors",
+        "hex",
+        "average"
+      ],
+      "author": "Brian",
+      "comments": 2,
+      "score": -3
+    },
+    {
+      "title": "How can the choice of `a` of a `Maybe a` being pattern matched cause both `Nothing` and `Just _` guards to fail?",
+      "url": "https://stackoverflow.com/questions/80012055/how-can-the-choice-of-a-of-a-maybe-a-being-pattern-matched-cause-both-nothi",
+      "summary": "",
+      "tags": [
+        "haskell",
+        "functional-programming",
+        "pattern-matching",
+        "non-exhaustive-patterns"
+      ],
+      "author": "Enlico",
+      "comments": 2,
+      "score": 1
+    }
+  ]
+}

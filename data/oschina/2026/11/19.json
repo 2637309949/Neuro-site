@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T08:45:10.784282+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "KaiwuDB 通过 CMMI 最高成熟度等级(5级)认证，研发管理能力再上新台阶",
+      "url": "https://www.oschina.net/news/503677",
+      "summary": "近日，KaiwuDB 顺利通过 CMMI-DEV 软件能力成熟度 5 级（优化级）认证，标志着 KaiwuDB 在研发全流程管控、量化质量管理、持续迭代优化、项目交付保...",
+      "author": "KaiwuDB",
+      "comments": 0
+    },
+    {
+      "title": "KaiwuDB 亮相 2026 世界物联网博览会，共探万物智联新机遇",
+      "url": "https://www.oschina.net/news/503676",
+      "summary": "近日，以“万物智联 共创未来”为主题的 2026 世界物联网博览会在无锡开幕。本届物博会展览面积超 5 万平方米，汇聚全球近 20 个国家和地区 400 余...",
+      "author": "KaiwuDB",
+      "comments": 0
+    },
+    {
+      "title": "Gemini 4 Neon 发布：Google 在最强和最便宜之间，塞进了一个中间档",
+      "url": "https://www.oschina.net/news/503675/google-gemini-4-neon",
+      "summary": "Gemini 4 系列现在是三个档位：Carbon 攻坚最难的长周期项目，Hydrogen 负责日常快速执行，新来的 Neon 卡在中间——按 Google 自己的说法，是「平...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "VMware 替代选哪家：ZStack ZVF 匹配存量架构",
+      "url": "https://www.oschina.net/news/503673",
+      "summary": "VMware替代项目的起点，通常是一份已有资产：服务器还在使用，存储仍有维保，业务分布在不同集群，备份软件和网络规则已经运行多年。新平台是否合适...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "AI 基础设施有哪些类型：ZStack AIOS 在哪一层",
+      "url": "https://www.oschina.net/news/503672",
+      "summary": "企业寻找“AI基础设施平台品牌推荐”时，常会同时看到芯片、服务器、公有云、模型开发平台和私有化软件。它们都参与AI建设，却交付不同的东西：服务...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "算力不够别急着买卡，先给 GPU 排班提效！",
+      "url": "https://www.oschina.net/news/503671",
+      "summary": "晚上十点，一家金融机构当天的业务材料已经收齐。白天用来查制度、查条款的在线模型，这会儿已经很少收到请求。另一边，夜间批处理要给这批材料分类...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "金融 VMware 替代：ZStack ZVF 安排迁移窗口",
+      "url": "https://www.oschina.net/news/503670",
+      "summary": "金融行业VMware替代方案的选择，不能只从虚拟机数量推算迁移周期。一个业务系统可能同时依赖数据库、接口平台、批量作业、身份认证和外部连接；只要...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "金融信创超融合怎么选：ZStack HCI 看数据库负载",
+      "url": "https://www.oschina.net/news/503669",
+      "summary": "金融信创超融合项目容易在两类材料之间摇摆：一类是国产化兼容证书，另一类是高性能测试数字。前者说明适配范围，后者说明特定配置和条件下的表现。...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "金融 AI 基础设施怎么建：ZStack AIOS 两类底座",
+      "url": "https://www.oschina.net/news/503668",
+      "summary": "金融机构讨论AI私有化部署，常把内部知识助手和模型开发放在同一张建设清单中。两者都使用模型，却有不同的运行目标：知识助手需要稳定响应、权限准...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Claude Code 团队怎么让 agent 自己证明活干对了",
+      "url": "https://www.oschina.net/news/503667/claude-dev-how-the-claude-code-team-thinks-about-verification",
+      "summary": "Claude Code 团队公开了一个数字：他们的代码大约 90% 由 Claude 编写和评审。 该团队工程师 Addy Osmani 在 claude.dev 上写了篇文章，讲这个规模...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "超融合产品推荐：ZStack HCI 按三类业务选",
+      "url": "https://www.oschina.net/news/503666",
+      "summary": "同样是超融合，分支机构可能更关心故障发生后谁来处理，生产数据库更关心高峰时延，研发团队则更关心环境创建和资源回收。把三类需求放进一张“厂商...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "🔥🔥开源接口平台 v6.5.1 发布",
+      "url": "https://www.oschina.net/news/503663",
+      "summary": "ApiGo 是一款在线接口开发和管理平台，多数据库插件化数据源框架、SQL2API 。支持 WorkBuddy、千问办公、Trea Work、豆包等 AI 办公平台 MCP 接入...",
+      "author": "鲨鱼不刷牙",
+      "comments": 0
+    },
+    {
+      "title": "🔥 拾趣 (Magpie) v0.1.23 发布：新增应用 Anki，学单词背英语一键导入 Anki",
+      "url": "https://www.oschina.net/news/503662",
+      "summary": "🔥 拾趣 (Magpie) v0.1.22 发布：新增应用 Anki，学单词背英语一键导入 Anki 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮...",
+      "author": "anziguoer",
+      "comments": 0
+    },
+    {
+      "title": "跨平台框架释放阔屏潜能：CPF-RN在Pura X Max阔折叠UI的适配实践",
+      "url": "https://www.oschina.net/news/503661",
+      "summary": "折叠、悬停、分屏等多形态窗口给 React Native 应用带来了新的适配挑战。本文基于 CPF-RN 结合华为 Pura X Max 折叠设备，讲解断点、栅格分栏、平行...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Jync 捷同 v2.4.0 发布：内置 AI 运维助手，引入多角色权限与 Apache-2.0 开源协议",
+      "url": "https://www.oschina.net/news/503660",
+      "summary": "Jync 捷同 v2.4.0 发布 新增 AI 运维助手：ADMIN / OPS 可用的内嵌悬浮窗，接入大模型后用自然语言查询任务状态、进度与吞吐、源 / 目标行数、数据...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "CyreneAdmin 1.6.0 发布：启动自动建表、RBAC 授权边界收敛与标签页右键最大化",
+      "url": "https://www.oschina.net/news/503659",
+      "summary": "CyreneAdmin 是一款面向企业级应用的后台管理系统脚手架，同时支持 Spring Boot 与 Solon 双框架，内置权限控制、用户管理、菜单配置、操作日志等核...",
+      "author": "CoCoTeaNet",
+      "comments": 0
+    },
+    {
+      "title": "Apache SeaTunnel 3.1.0 发布：让生产任务更稳，也让部署更灵活",
+      "url": "https://www.oschina.net/news/503658",
+      "summary": "从 3.0.0 到 3.1.0，SeaTunnel 社区围绕一个很实际的问题继续推进：数据集成任务怎样更容易部署、更方便运维，同时尽量不丢数据、不悄悄改错数据？...",
+      "author": "Apache SeaTunnel",
+      "comments": 0
+    },
+    {
+      "title": "Manus 成为开源游戏引擎 Godot 白金赞助商",
+      "url": "https://www.oschina.net/news/503657/manus-sponsorship-partners-godot-engine",
+      "summary": "Godot 基金会宣布 Manus 成为其白金赞助商。根据其官网的公开信息，白金级赞助商的门槛是每年至少 5 万欧元。 一家做通用 AI agent 的公司，掏钱赞...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": ":fire: xbatis 1.10.10 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+      "url": "https://www.oschina.net/news/503655",
+      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用...",
+      "author": "Ai东",
+      "comments": 0
+    },
+    {
+      "title": "CCF中国软件大会关注智能化缺陷治理：Testin云测探索智能座舱软件测试新路径",
+      "url": "https://www.oschina.net/news/503654",
+      "summary": "随着汽车智能化程度不断提升，智能座舱正从单一功能控制界面，发展为集导航、娱乐、语音交互及多设备互联于一体的综合软件平台。功能持续丰富的同时...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}

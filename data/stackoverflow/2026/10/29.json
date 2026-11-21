@@ -1,0 +1,426 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T07:01:11.463502+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Is there a Banno API for retrieving member-initiated secure conversations?",
+      "url": "https://stackoverflow.com/questions/80013291/is-there-a-banno-api-for-retrieving-member-initiated-secure-conversations",
+      "summary": "",
+      "tags": [
+        "advice",
+        "banno-digital-toolkit"
+      ],
+      "author": "Anshika",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How can I preserve Double precision when saving values in Android SharedPreferences?",
+      "url": "https://stackoverflow.com/questions/80013273/how-can-i-preserve-double-precision-when-saving-values-in-android-sharedpreferen",
+      "summary": "",
+      "tags": [
+        "android",
+        "kotlin",
+        "sharedpreferences"
+      ],
+      "author": "Gesler Duque",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How can developers implement ethical principles in AI-powered decision making systems?",
+      "url": "https://stackoverflow.com/questions/80013284/how-can-developers-implement-ethical-principles-in-ai-powered-decision-making-sy",
+      "summary": "",
+      "tags": [
+        "artificial-intelligence"
+      ],
+      "author": "Shekhar Natarajan",
+      "comments": 0,
+      "score": -9
+    },
+    {
+      "title": "How do I detect arrow key/non-alphanumeric keypresses with GLFW?",
+      "url": "https://stackoverflow.com/questions/80013254/how-do-i-detect-arrow-key-non-alphanumeric-keypresses-with-glfw",
+      "summary": "",
+      "tags": [
+        "c",
+        "opengl",
+        "glfw"
+      ],
+      "author": "p1xel12",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "How to cast a std::chrono::hh_mm_ss component to an integer",
+      "url": "https://stackoverflow.com/questions/80013245/how-to-cast-a-stdchronohh-mm-ss-component-to-an-integer",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++-chrono"
+      ],
+      "author": "omatai",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "509 Database Connection Error in Laravel 13",
+      "url": "https://stackoverflow.com/questions/80013275/509-database-connection-error-in-laravel-13",
+      "summary": "",
+      "tags": [
+        "laravel-13"
+      ],
+      "author": "user2419119",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Time-series engine only computes the group that receives new data — how do I close the previous minute for every group?",
+      "url": "https://stackoverflow.com/questions/80013272/time-series-engine-only-computes-the-group-that-receives-new-data-how-do-i-clo",
+      "summary": "",
+      "tags": [
+        "time-series",
+        "streaming",
+        "dolphindb"
+      ],
+      "author": "Nathaniel",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Can I make pyright catch unnecessarily broad type annotations?",
+      "url": "https://stackoverflow.com/questions/80013267/can-i-make-pyright-catch-unnecessarily-broad-type-annotations",
+      "summary": "",
+      "tags": [
+        "python",
+        "typing",
+        "pyright"
+      ],
+      "author": "JadenV15",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to use multiple files with egui",
+      "url": "https://stackoverflow.com/questions/80013269/how-to-use-multiple-files-with-egui",
+      "summary": "",
+      "tags": [
+        "rust",
+        "egui"
+      ],
+      "author": "littleDrummerBoy",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Why can&#39;t I make this loop in this pyglet-using code work?",
+      "url": "https://stackoverflow.com/questions/80013265/why-cant-i-make-this-loop-in-this-pyglet-using-code-work",
+      "summary": "",
+      "tags": [
+        "python",
+        "windows",
+        "loops",
+        "time",
+        "pyglet"
+      ],
+      "author": "user33244385",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Why does local account sometimes not appear in admin group even after being added via PowerShell?",
+      "url": "https://stackoverflow.com/questions/80013231/why-does-local-account-sometimes-not-appear-in-admin-group-even-after-being-adde",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "scripting",
+        "windows-11"
+      ],
+      "author": "skysthelimit91",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How can callers cancel independently when they share the same fetch request?",
+      "url": "https://stackoverflow.com/questions/80013221/how-can-callers-cancel-independently-when-they-share-the-same-fetch-request",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "promise",
+        "abortcontroller"
+      ],
+      "author": "David Brierton",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Prevent Google Translate from translating specific content",
+      "url": "https://stackoverflow.com/questions/80013257/prevent-google-translate-from-translating-specific-content",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "jsx",
+        "google-translate"
+      ],
+      "author": "YENCI MARIA HERNANDEZ MARTINEZ",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How to send emails with emojis with TIdSMTP?",
+      "url": "https://stackoverflow.com/questions/80013200/how-to-send-emails-with-emojis-with-tidsmtp",
+      "summary": "",
+      "tags": [
+        "delphi",
+        "indy",
+        "indy10",
+        "delphi-12-athens"
+      ],
+      "author": "delphirules",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Why is Pyright saying I have already declared this enum member?",
+      "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
+      "summary": "",
+      "tags": [
+        "python",
+        "typing",
+        "pyright"
+      ],
+      "author": "JadenV15",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "How can a Room @Insert method return the saved object required by an existing Kotlin interface?",
+      "url": "https://stackoverflow.com/questions/80013176/how-can-a-room-insert-method-return-the-saved-object-required-by-an-existing-ko",
+      "summary": "",
+      "tags": [
+        "android",
+        "kotlin",
+        "android-room"
+      ],
+      "author": "GERSON DAVID MONTUFAR ZECE&#209;A",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": ".Net MAUI label not updating with data binding",
+      "url": "https://stackoverflow.com/questions/80013242/net-maui-label-not-updating-with-data-binding",
+      "summary": "",
+      "tags": [
+        "mvvm",
+        "maui"
+      ],
+      "author": "SLAinc",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to import TypeScript project files in Mocha test file",
+      "url": "https://stackoverflow.com/questions/80013228/how-to-import-typescript-project-files-in-mocha-test-file",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "typescript",
+        "mocha.js"
+      ],
+      "author": "Ethan",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Severin Java EndpointMapping",
+      "url": "https://stackoverflow.com/questions/80013227/severin-java-endpointmapping",
+      "summary": "",
+      "tags": [
+        "advice",
+        "java"
+      ],
+      "author": "ChamberDiff393",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to enable HTTP/2.0 for unencrypted http requests in Kestrel",
+      "url": "https://stackoverflow.com/questions/80013217/how-to-enable-http-2-0-for-unencrypted-http-requests-in-kestrel",
+      "summary": "",
+      "tags": [
+        "c#",
+        "asp.net-core",
+        ".net-10.0"
+      ],
+      "author": "Nikki Locke",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Rules for std::start_lifetime_as",
+      "url": "https://stackoverflow.com/questions/80013196/rules-for-stdstart-lifetime-as",
+      "summary": "",
+      "tags": [
+        "c++",
+        "undefined-behavior",
+        "lifetime",
+        "strict-aliasing"
+      ],
+      "author": "user877329",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Count days between Events",
+      "url": "https://stackoverflow.com/questions/80013203/count-days-between-events",
+      "summary": "",
+      "tags": [
+        "r"
+      ],
+      "author": "TDaneri",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How can I safely unregister a one-time Wi-Fi event handler in Arduino-ESP32?",
+      "url": "https://stackoverflow.com/questions/80013188/how-can-i-safely-unregister-a-one-time-wi-fi-event-handler-in-arduino-esp32",
+      "summary": "",
+      "tags": [
+        "wifi",
+        "esp32",
+        "arduino-esp32"
+      ],
+      "author": "MELKIO",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "Exceptions in IAsyncEnumerable not passed upwards properly",
+      "url": "https://stackoverflow.com/questions/80013156/exceptions-in-iasyncenumerable-not-passed-upwards-properly",
+      "summary": "",
+      "tags": [
+        "c#",
+        "exception",
+        "async-await"
+      ],
+      "author": "kenod",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Product links don&#39;t respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "jquery",
+        "owl-carousel-2"
+      ],
+      "author": "user9440558",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Simmer: How to pause active trajectory timeout()s when new arrival seizes a resource",
+      "url": "https://stackoverflow.com/questions/80013206/simmer-how-to-pause-active-trajectory-timeouts-when-new-arrival-seizes-a-reso",
+      "summary": "",
+      "tags": [
+        "r",
+        "simulation",
+        "queueing"
+      ],
+      "author": "AWaddington",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to close mobile menu after clicking a link",
+      "url": "https://stackoverflow.com/questions/80013170/how-to-close-mobile-menu-after-clicking-a-link",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "responsive-design"
+      ],
+      "author": "Kismet-",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Problem with package-list-packages in emacs &gt; 27",
+      "url": "https://stackoverflow.com/questions/80013229/problem-with-package-list-packages-in-emacs-27",
+      "summary": "",
+      "tags": [
+        "emacs"
+      ],
+      "author": "user1102171",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Why does the compiler fail with an error &quot;invalid suffix&quot;",
+      "url": "https://stackoverflow.com/questions/80013149/why-does-the-compiler-fail-with-an-error-invalid-suffix",
+      "summary": "",
+      "tags": [
+        "c",
+        "hex",
+        "syntax-error"
+      ],
+      "author": "chqrlie",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "Phpspreadsheet throwing a php deprecated error",
+      "url": "https://stackoverflow.com/questions/80013137/phpspreadsheet-throwing-a-php-deprecated-error",
+      "summary": "",
+      "tags": [
+        "php",
+        "phpspreadsheet"
+      ],
+      "author": "DBerg",
+      "comments": 1,
+      "score": -3
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T13:34:01.131524+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "WhatsApp Business App Coexistence: how to onboard a business that owns the Meta App?",
+      "url": "https://stackoverflow.com/questions/80000507/whatsapp-business-app-coexistence-how-to-onboard-a-business-that-owns-the-meta",
+      "summary": "",
+      "tags": [
+        "whatsapp",
+        "whatsapp-cloud-api",
+        "coexistence"
+      ],
+      "author": "Helder Pereira",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Export to Excell Function in C# 2015",
+      "url": "https://stackoverflow.com/questions/80000506/export-to-excell-function-in-c-2015",
+      "summary": "",
+      "tags": [
+        "c#",
+        "stimulsoft"
+      ],
+      "author": "diego araujo",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How would you replace Azure Application Insights for application logging?",
+      "url": "https://stackoverflow.com/questions/80000489/how-would-you-replace-azure-application-insights-for-application-logging",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "azure",
+        "logging"
+      ],
+      "author": "Thurunu Mihiranga",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Opened .txt file seems to be empty after a for in function",
+      "url": "https://stackoverflow.com/questions/80000505/opened-txt-file-seems-to-be-empty-after-a-for-in-function",
+      "summary": "",
+      "tags": [
+        "python",
+        "string",
+        "for-loop",
+        "empty-list"
+      ],
+      "author": "Tommaso Bartalesi",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Meaning of single quotes in tcl and the expect command",
+      "url": "https://stackoverflow.com/questions/80000498/meaning-of-single-quotes-in-tcl-and-the-expect-command",
+      "summary": "",
+      "tags": [
+        "tcl",
+        "expect"
+      ],
+      "author": "oosh",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "What technologies should I learn to become a full-stack Python web developer?",
+      "url": "https://stackoverflow.com/questions/80000481/what-technologies-should-i-learn-to-become-a-full-stack-python-web-developer",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Raza Ansari",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Running the tomcat on the 443 port through non root user",
+      "url": "https://stackoverflow.com/questions/80000488/running-the-tomcat-on-the-443-port-through-non-root-user",
+      "summary": "",
+      "tags": [
+        "java",
+        "network-programming",
+        "tomcat",
+        "configuration"
+      ],
+      "author": "Vishal",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "embedding Python in C++ App - missing debug library on python nuget package",
+      "url": "https://stackoverflow.com/questions/80000482/embedding-python-in-c-app-missing-debug-library-on-python-nuget-package",
+      "summary": "",
+      "tags": [
+        "python-3.x",
+        "visual-studio",
+        "nuget-package",
+        "python-embedding"
+      ],
+      "author": "vlad_tepesch",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Are there any performance implications of Pub/Sub message ordering on the publisher only?",
+      "url": "https://stackoverflow.com/questions/80000483/are-there-any-performance-implications-of-pub-sub-message-ordering-on-the-publis",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "go",
+        "google-cloud-platform",
+        "google-cloud-pubsub"
+      ],
+      "author": "bhk",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to capture packets using libpnet in rust and send packet data to raspberry Pi?",
+      "url": "https://stackoverflow.com/questions/80000479/how-to-capture-packets-using-libpnet-in-rust-and-send-packet-data-to-raspberry-p",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "network-programming",
+        "rust",
+        "raspberry-pi"
+      ],
+      "author": "Vaishnav KM",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to get a list of commits that changed a specific file",
+      "url": "https://stackoverflow.com/questions/80000463/how-to-get-a-list-of-commits-that-changed-a-specific-file",
+      "summary": "",
+      "tags": [
+        "fossil"
+      ],
+      "author": "Alp",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "is JSEvent a macro task or synchronous task？",
+      "url": "https://stackoverflow.com/questions/80000471/is-jsevent-a-macro-task-or-synchronous-task",
+      "summary": "",
+      "tags": [
+        "advice",
+        "javascript"
+      ],
+      "author": "Evergreen",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Google Tasks API intermittently returns 403 Quota Exceeded while creating tasks",
+      "url": "https://stackoverflow.com/questions/80000477/google-tasks-api-intermittently-returns-403-quota-exceeded-while-creating-tasks",
+      "summary": "",
+      "tags": [
+        "google-api",
+        "google-developers-console",
+        "google-tasks-api"
+      ],
+      "author": "Vijay",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "How to propagate the artifact version from pom.xml to a Java constant?",
+      "url": "https://stackoverflow.com/questions/80000425/how-to-propagate-the-artifact-version-from-pom-xml-to-a-java-constant",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "java",
+        "maven",
+        "constants"
+      ],
+      "author": "ivant",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How do I move a grid in CSS upwards from the bottom of the page?",
+      "url": "https://stackoverflow.com/questions/80000405/how-do-i-move-a-grid-in-css-upwards-from-the-bottom-of-the-page",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "css-grid"
+      ],
+      "author": "The Rain",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How can I make numpy arrays the same shape before doing conditional computations?",
+      "url": "https://stackoverflow.com/questions/80000438/how-can-i-make-numpy-arrays-the-same-shape-before-doing-conditional-computations",
+      "summary": "",
+      "tags": [
+        "python",
+        "numpy",
+        "array-broadcasting",
+        "numpy-ufunc"
+      ],
+      "author": "schtandard",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Call Alexa event gateway from IPv6 only network",
+      "url": "https://stackoverflow.com/questions/80000476/call-alexa-event-gateway-from-ipv6-only-network",
+      "summary": "",
+      "tags": [
+        "alexa-skills-kit",
+        "alexa-smart-home-skill"
+      ],
+      "author": "rde1",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How can I test Stack Overflow API write operations?",
+      "url": "https://stackoverflow.com/questions/80000422/how-can-i-test-stack-overflow-api-write-operations",
+      "summary": "",
+      "tags": [
+        "advice",
+        "python"
+      ],
+      "author": "AmSurya",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "How should I start to learn gRPC using Python?",
+      "url": "https://stackoverflow.com/questions/80000444/how-should-i-start-to-learn-grpc-using-python",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "Mohammed Shahid S",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Which Android Emulator Is Recommended for Android Studio Development?",
+      "url": "https://stackoverflow.com/questions/80000416/which-android-emulator-is-recommended-for-android-studio-development",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "android",
+        "react-native",
+        "android-studio",
+        "android-emulator"
+      ],
+      "author": "Dawood zia",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "HTML select element not allowing typing to select option because of list length",
+      "url": "https://stackoverflow.com/questions/80000415/html-select-element-not-allowing-typing-to-select-option-because-of-list-length",
+      "summary": "",
+      "tags": [
+        "html",
+        "keyboard",
+        "twig",
+        "touch",
+        "tablet"
+      ],
+      "author": "sppie",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Inherited a large MS Access database, need to reorder, reorganize, and improve",
+      "url": "https://stackoverflow.com/questions/80000426/inherited-a-large-ms-access-database-need-to-reorder-reorganize-and-improve",
+      "summary": "",
+      "tags": [
+        "advice",
+        "sorting",
+        "date",
+        "ms-access"
+      ],
+      "author": "Feni",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Canvas click hit-testing vs devicePixelRatio scaling — why doesn&#39;t click code need the ratio?",
+      "url": "https://stackoverflow.com/questions/80000410/canvas-click-hit-testing-vs-devicepixelratio-scaling-why-doesnt-click-code-ne",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "css",
+        "canvas",
+        "html5-canvas"
+      ],
+      "author": "Arthur Davies",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "can C# JIT elimination of virtual function calls here?",
+      "url": "https://stackoverflow.com/questions/80000364/can-c-jit-elimination-of-virtual-function-calls-here",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c#",
+        "jit",
+        "existential-type"
+      ],
+      "author": "macomphy",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "What programming language or framework would you recommend for cross-platform mobile development on Android and iOS?",
+      "url": "https://stackoverflow.com/questions/80000381/what-programming-language-or-framework-would-you-recommend-for-cross-platform-mo",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "android",
+        "ios",
+        "flutter",
+        "react-native"
+      ],
+      "author": "Tom",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Powershell splitting string into chunks not working",
+      "url": "https://stackoverflow.com/questions/80000367/powershell-splitting-string-into-chunks-not-working",
+      "summary": "",
+      "tags": [
+        "powershell"
+      ],
+      "author": "Steven Buehler",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "When should I use GraphRAG instead of traditional vector-based RAG?",
+      "url": "https://stackoverflow.com/questions/80000407/when-should-i-use-graphrag-instead-of-traditional-vector-based-rag",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "retrieval-augmented-generation",
+        "graphrag"
+      ],
+      "author": "Teeny Weeny",
+      "comments": 0,
+      "score": 4
+    },
+    {
+      "title": "Observed cycle/iter greater than what&#39;s expected in simple x86 loop kernel",
+      "url": "https://stackoverflow.com/questions/80000370/observed-cycle-iter-greater-than-whats-expected-in-simple-x86-loop-kernel",
+      "summary": "",
+      "tags": [
+        "assembly",
+        "x86",
+        "cpu-architecture",
+        "intel"
+      ],
+      "author": "Devashish",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "Troubleshooting why my Test library is not loading ConnectionStrings from app.config file",
+      "url": "https://stackoverflow.com/questions/80000403/troubleshooting-why-my-test-library-is-not-loading-connectionstrings-from-app-co",
+      "summary": "",
+      "tags": [
+        ".net",
+        "automated-tests",
+        "app-config"
+      ],
+      "author": "Andrew Shepherd",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "non player character, vehicles keeps wobbling",
+      "url": "https://stackoverflow.com/questions/80000419/non-player-character-vehicles-keeps-wobbling",
+      "summary": "",
+      "tags": [
+        "3d",
+        "godot3"
+      ],
+      "author": "Unoye",
+      "comments": 0,
+      "score": -7
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T15:32:10.563358+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 1554,
+      "score": 1080
+    },
+    {
+      "title": "7.1 Earthquake in Japan",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "summary": "",
+      "author": "krembo",
+      "comments": 119,
+      "score": 589
+    },
+    {
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "summary": "",
+      "author": "dhorthy",
+      "comments": 100,
+      "score": 361
+    },
+    {
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "summary": "",
+      "author": "ilreb",
+      "comments": 90,
+      "score": 271
+    },
+    {
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "summary": "",
+      "author": "matheusmoreira",
+      "comments": 38,
+      "score": 254
+    },
+    {
+      "title": "How to Survive Boiling Water",
+      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+      "summary": "",
+      "author": "cainxinth",
+      "comments": 36,
+      "score": 231
+    },
+    {
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "summary": "",
+      "author": "codebyaditya",
+      "comments": 98,
+      "score": 223
+    },
+    {
+      "title": "Vehicle Motion Cues",
+      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+      "summary": "",
+      "author": "Austin_Conlon",
+      "comments": 94,
+      "score": 179
+    },
+    {
+      "title": "About the security content of macOS Tahoe 26.6",
+      "url": "https://support.apple.com/en-us/128067",
+      "summary": "",
+      "author": "andor",
+      "comments": 107,
+      "score": 160
+    },
+    {
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+      "url": "https://arxiv.org/abs/2510.26692",
+      "summary": "",
+      "author": "ronfriedhaber",
+      "comments": 38,
+      "score": 120
+    },
+    {
+      "title": "Mondragon Corporation – a federation of co-operatives",
+      "url": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
+      "summary": "",
+      "author": "brnt",
+      "comments": 19,
+      "score": 119
+    },
+    {
+      "title": "Ars Astronomica – English translations of rare Hebrew and Latin astronomy texts",
+      "url": "https://arsastronomica.com/",
+      "summary": "",
+      "author": "sweisman",
+      "comments": 32,
+      "score": 97
+    },
+    {
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "summary": "",
+      "author": "jordigg",
+      "comments": 51,
+      "score": 85
+    },
+    {
+      "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "summary": "",
+      "author": "adulion",
+      "comments": 51,
+      "score": 69
+    },
+    {
+      "title": "PyTorch: A Reference Language",
+      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "summary": "",
+      "author": "matt_d",
+      "comments": 7,
+      "score": 68
+    },
+    {
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "summary": "",
+      "author": "permute",
+      "comments": 22,
+      "score": 64
+    },
+    {
+      "title": "Show HN: tale.fyi, we deserve a home for fiction",
+      "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+      "summary": "",
+      "author": "samuelcole",
+      "comments": 34,
+      "score": 52
+    },
+    {
+      "title": "Show HN: Scala Tutorials – interactive Scala 3 lessons in the browser",
+      "url": "https://scalatutorials.com",
+      "summary": "",
+      "author": "eranation",
+      "comments": 11,
+      "score": 49
+    },
+    {
+      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+      "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+      "summary": "",
+      "author": "ruhani_grover",
+      "comments": 5,
+      "score": 41
+    },
+    {
+      "title": "What AI developers could learn from Charles Bukowski?",
+      "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+      "summary": "",
+      "author": "sedovsek",
+      "comments": 26,
+      "score": 37
+    },
+    {
+      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+      "summary": "",
+      "author": "882542F3884314B",
+      "comments": 20,
+      "score": 37
+    },
+    {
+      "title": "TWC Classics",
+      "url": "https://twcclassics.com/",
+      "summary": "",
+      "author": "stefanpie",
+      "comments": 3,
+      "score": 33
+    },
+    {
+      "title": "Solving Fermat: Andrew Wiles",
+      "url": "https://www.pbs.org/wgbh/nova/proof/wiles.html",
+      "summary": "",
+      "author": "1970-01-01",
+      "comments": 13,
+      "score": 32
+    },
+    {
+      "title": "Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules",
+      "url": "https://necroticgnome.com/collections/dolmenwood",
+      "summary": "",
+      "author": "doener",
+      "comments": 11,
+      "score": 28
+    },
+    {
+      "title": "Ask HN: Crooked Timber showed showed me a virus captcha, What now?",
+      "url": "https://news.ycombinator.com/item?id=49084404",
+      "summary": "",
+      "author": "Jgoauh",
+      "comments": 16,
+      "score": 24
+    },
+    {
+      "title": "Usenet Archive Toolkit – process Usenet messages into a searchable archive",
+      "url": "https://github.com/wolfpld/usenetarchive",
+      "summary": "",
+      "author": "bilegeek",
+      "comments": 0,
+      "score": 21
+    },
+    {
+      "title": "The Origins of Modern Mathematics in Russia",
+      "url": "https://valeman.medium.com/the-origins-of-modern-mathematics-in-russia-from-peter-the-great-to-the-bernoullis-and-euler-6711b01f5f8f",
+      "summary": "",
+      "author": "ibobev",
+      "comments": 4,
+      "score": 20
+    },
+    {
+      "title": "Beckett the Prophet",
+      "url": "https://theamericanscholar.org/beckett-the-prophet/",
+      "summary": "",
+      "author": "samclemens",
+      "comments": 1,
+      "score": 18
+    },
+    {
+      "title": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
+      "url": "https://segue.ai/",
+      "summary": "",
+      "author": "csaguiar",
+      "comments": 6,
+      "score": 15
+    },
+    {
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "summary": "",
+      "author": "mooreds",
+      "comments": 0,
+      "score": 13
+    }
+  ]
+}

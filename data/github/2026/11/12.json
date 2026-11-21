@@ -1,0 +1,135 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T08:15:45.115258+00:00",
+  "source": "github",
+  "count": 10,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "meta/astryx",
+      "repo": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "summary": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 25626,
+      "today_stars": 2776
+    },
+    {
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "summary": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "language": "Python",
+      "stars": 70786,
+      "today_stars": 278
+    },
+    {
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "summary": "",
+      "language": "TypeScript",
+      "stars": 2051,
+      "today_stars": 159
+    },
+    {
+      "title": "shadcn/improve",
+      "repo": "shadcn/improve",
+      "url": "https://github.com/shadcn/improve",
+      "summary": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "language": "",
+      "stars": 11214,
+      "today_stars": 361
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 116198,
+      "today_stars": 787
+    },
+    {
+      "title": "vercel-labs/agent-browser",
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "summary": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 50075,
+      "today_stars": 708
+    },
+    {
+      "title": "we-promise/sure",
+      "repo": "we-promise/sure",
+      "url": "https://github.com/we-promise/sure",
+      "summary": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": 13257,
+      "today_stars": 1078
+    },
+    {
+      "title": "homeassistant-ai/ha-mcp",
+      "repo": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "summary": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "language": "Python",
+      "stars": 7570,
+      "today_stars": 645
+    },
+    {
+      "title": "openai/codex-security",
+      "repo": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "summary": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+      "language": "TypeScript",
+      "stars": 11958,
+      "today_stars": 52
+    },
+    {
+      "title": "TheAlgorithms/Java",
+      "repo": "TheAlgorithms/Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "summary": "All Algorithms implemented in Java",
+      "language": "Java",
+      "stars": 67163,
+      "today_stars": 51
+    }
+  ]
+}

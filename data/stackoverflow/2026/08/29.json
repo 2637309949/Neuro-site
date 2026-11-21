@@ -1,0 +1,445 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T14:26:45.145775+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Does thread A seeing one atomic variable loaded with acquire and stored by thread B with release, see second atomic variable assuming thread B saw it",
+      "url": "https://stackoverflow.com/questions/79999208/does-thread-a-seeing-one-atomic-variable-loaded-with-acquire-and-stored-by-threa",
+      "summary": "",
+      "tags": [
+        "c++",
+        "multithreading",
+        "atomic",
+        "stdatomic",
+        "memory-model"
+      ],
+      "author": "Michał Marian",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "TreeMap in Java overrides values with same comparison keys",
+      "url": "https://stackoverflow.com/questions/79999184/treemap-in-java-overrides-values-with-same-comparison-keys",
+      "summary": "",
+      "tags": [
+        "java",
+        "treemap",
+        "java-21"
+      ],
+      "author": "DoublePi",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to load google recaptcha only on specific pages",
+      "url": "https://stackoverflow.com/questions/79999176/how-to-load-google-recaptcha-only-on-specific-pages",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "recaptcha",
+        "hugo"
+      ],
+      "author": "Malte K",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "How do I run Haskell with ghcid in Vim :terminal?",
+      "url": "https://stackoverflow.com/questions/79999172/how-do-i-run-haskell-with-ghcid-in-vim-terminal",
+      "summary": "",
+      "tags": [
+        "haskell",
+        "vim",
+        "cabal",
+        "ghci",
+        "ghcid"
+      ],
+      "author": "Enlico",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to perform a rebase without touching any worktree (or tree/blob object)?",
+      "url": "https://stackoverflow.com/questions/79999168/how-to-perform-a-rebase-without-touching-any-worktree-or-tree-blob-object",
+      "summary": "",
+      "tags": [
+        "git",
+        "rebase",
+        "git-rebase"
+      ],
+      "author": "Caulder",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Change color of Windows 11 taskbar search popup with C# (WinUI, .NET 10)",
+      "url": "https://stackoverflow.com/questions/79999155/change-color-of-windows-11-taskbar-search-popup-with-c-winui-net-10",
+      "summary": "",
+      "tags": [
+        "c#",
+        "windows",
+        "winapi",
+        "winui-3"
+      ],
+      "author": "Jacob Mordon",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Homebrew/Cask - Unable to upgrade &quot;wildfly-as 41.0.0 -&gt; 41.0.1&quot; etc",
+      "url": "https://stackoverflow.com/questions/79999174/homebrew-cask-unable-to-upgrade-wildfly-as-41-0-0-41-0-1-etc",
+      "summary": "",
+      "tags": [
+        "macos",
+        "homebrew",
+        "homebrew-cask"
+      ],
+      "author": "NOTiFY",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Duplicate Combobox entries when data loaded from Postgres database",
+      "url": "https://stackoverflow.com/questions/79999142/duplicate-combobox-entries-when-data-loaded-from-postgres-database",
+      "summary": "",
+      "tags": [
+        "postgresql",
+        "vb.net",
+        "combobox",
+        "duplicates",
+        "npgsql"
+      ],
+      "author": "wrinklypeter",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "PeopleSoft Classic Homepage Redirect Fails After Okta SSO with &quot;HomepageT, CREF with URL cannot be found",
+      "url": "https://stackoverflow.com/questions/79999173/peoplesoft-classic-homepage-redirect-fails-after-okta-sso-with-homepaget-cref",
+      "summary": "",
+      "tags": [
+        "single-sign-on",
+        "okta",
+        "peoplesoft"
+      ],
+      "author": "Usama Idrees",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Why is the terminal outputting &quot;0&quot; in this code?",
+      "url": "https://stackoverflow.com/questions/79999110/why-is-the-terminal-outputting-0-in-this-code",
+      "summary": "",
+      "tags": [
+        "c++",
+        "logic"
+      ],
+      "author": "MaxAmerico",
+      "comments": 3,
+      "score": -3
+    },
+    {
+      "title": "Why is TypeScript 7.02 type-checking behavior different between Linux and macOS?",
+      "url": "https://stackoverflow.com/questions/79999170/why-is-typescript-7-02-type-checking-behavior-different-between-linux-and-macos",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "linux",
+        "macos"
+      ],
+      "author": "prmph",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I determine the actual MP4 URL from a video page using JavaScript?",
+      "url": "https://stackoverflow.com/questions/79999138/how-can-i-determine-the-actual-mp4-url-from-a-video-page-using-javascript",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "video"
+      ],
+      "author": "shane watson",
+      "comments": 1,
+      "score": -7
+    },
+    {
+      "title": "WSO2 APIM 4.3 OAuth2 Token Validation Fails with NPE on Key Manager Username",
+      "url": "https://stackoverflow.com/questions/79999146/wso2-apim-4-3-oauth2-token-validation-fails-with-npe-on-key-manager-username",
+      "summary": "",
+      "tags": [
+        "wso2",
+        "wso2-api-manager"
+      ],
+      "author": "XYZ",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Python match-case vs. dictionary performance internals",
+      "url": "https://stackoverflow.com/questions/79999095/python-match-case-vs-dictionary-performance-internals",
+      "summary": "",
+      "tags": [
+        "python",
+        "performance",
+        "optimization",
+        "python-3.10",
+        "structural-pattern-matching"
+      ],
+      "author": "lowchess",
+      "comments": 2,
+      "score": 5
+    },
+    {
+      "title": "I’m having an issue with Flutter and Android Studio",
+      "url": "https://stackoverflow.com/questions/79999159/i-m-having-an-issue-with-flutter-and-android-studio",
+      "summary": "",
+      "tags": [
+        "flutter"
+      ],
+      "author": "Dhia Al-Qaheli",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How do I use Intel intrinsics with &lt;simd&gt; to implement a saturating cast?",
+      "url": "https://stackoverflow.com/questions/79999144/how-do-i-use-intel-intrinsics-with-simd-to-implement-a-saturating-cast",
+      "summary": "",
+      "tags": [
+        "c++",
+        "simd",
+        "intrinsics",
+        "avx2",
+        "c++26"
+      ],
+      "author": "Jan Schultke",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "Assembler linking or including",
+      "url": "https://stackoverflow.com/questions/79999084/assembler-linking-or-including",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "assembly",
+        "linker",
+        "nasm",
+        "fasm"
+      ],
+      "author": "Ld120",
+      "comments": 3,
+      "score": 3
+    },
+    {
+      "title": "How to retrieve argv and argc in assembly language for x86_64 processors on Linux (SYSTEM V) OS",
+      "url": "https://stackoverflow.com/questions/79999097/how-to-retrieve-argv-and-argc-in-assembly-language-for-x86-64-processors-on-linu",
+      "summary": "",
+      "tags": [
+        "linux",
+        "assembly",
+        "x86-64",
+        "low-level",
+        "low-level-code"
+      ],
+      "author": "Tahypro87",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I prevent duplicate Celery tasks when a FastAPI endpoint is retried?",
+      "url": "https://stackoverflow.com/questions/79999108/how-can-i-prevent-duplicate-celery-tasks-when-a-fastapi-endpoint-is-retried",
+      "summary": "",
+      "tags": [
+        "python",
+        "postgresql",
+        "fastapi"
+      ],
+      "author": "Diventra Labs",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Flutter socket_io_client connects but does not receive server events only in Play Store release build — how to diagnose and fix?",
+      "url": "https://stackoverflow.com/questions/79999109/flutter-socket-io-client-connects-but-does-not-receive-server-events-only-in-pla",
+      "summary": "",
+      "tags": [
+        "android",
+        "flutter",
+        "websocket",
+        "socket.io",
+        "socket.io-client"
+      ],
+      "author": "user33073013",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to install freepascal onto the Mac to allow compiling for AVR, MSP430, and the MacOS?",
+      "url": "https://stackoverflow.com/questions/79999129/how-to-install-freepascal-onto-the-mac-to-allow-compiling-for-avr-msp430-and-t",
+      "summary": "",
+      "tags": [
+        "macos",
+        "avr",
+        "freepascal",
+        "msp430"
+      ],
+      "author": "kd4ttc",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Allocation stratified sampling with R",
+      "url": "https://stackoverflow.com/questions/79999085/allocation-stratified-sampling-with-r",
+      "summary": "",
+      "tags": [
+        "r",
+        "sampling"
+      ],
+      "author": "Daniel AG",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Hiding multiple selections of a drop down",
+      "url": "https://stackoverflow.com/questions/79999106/hiding-multiple-selections-of-a-drop-down",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html"
+      ],
+      "author": "Firestar001",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "In Playwright, should browser launching and page interaction steps be separated?",
+      "url": "https://stackoverflow.com/questions/79999130/in-playwright-should-browser-launching-and-page-interaction-steps-be-separated",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "Merelie Bincal",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Passing in a list of files from git diff to the inline multidiff tab waterfall style in vscode",
+      "url": "https://stackoverflow.com/questions/79999111/passing-in-a-list-of-files-from-git-diff-to-the-inline-multidiff-tab-waterfall-s",
+      "summary": "",
+      "tags": [
+        "git",
+        "visual-studio-code"
+      ],
+      "author": "zitot",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to revert border-color calculation for in- &amp; outset borders to previous Chromium version?",
+      "url": "https://stackoverflow.com/questions/79999119/how-to-revert-border-color-calculation-for-in-outset-borders-to-previous-chro",
+      "summary": "",
+      "tags": [
+        "css",
+        "chromium",
+        "blink"
+      ],
+      "author": "Flonne Pocket",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to have set a precise size for a font in Swing",
+      "url": "https://stackoverflow.com/questions/79999022/how-to-have-set-a-precise-size-for-a-font-in-swing",
+      "summary": "",
+      "tags": [
+        "java",
+        "swing"
+      ],
+      "author": "Grinding For Reputation",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Permission denied to grant role pg_read_all_stats&quot; when creating a monitoring role",
+      "url": "https://stackoverflow.com/questions/79999125/permission-denied-to-grant-role-pg-read-all-stats-when-creating-a-monitoring-ro",
+      "summary": "",
+      "tags": [
+        "postgresql",
+        "supabase",
+        "database-permissions",
+        "pg-stat-statements"
+      ],
+      "author": "Amanpreet Singh",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Why is my look_at method is inverted for camera transformation?",
+      "url": "https://stackoverflow.com/questions/79999080/why-is-my-look-at-method-is-inverted-for-camera-transformation",
+      "summary": "",
+      "tags": [
+        "rust",
+        "graphics",
+        "3d",
+        "linear-algebra"
+      ],
+      "author": "Cheater Apa aja",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Building a custom section divider",
+      "url": "https://stackoverflow.com/questions/79999107/building-a-custom-section-divider",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "css",
+        "tailwind-css"
+      ],
+      "author": "David Mea",
+      "comments": 1,
+      "score": -1
+    }
+  ]
+}

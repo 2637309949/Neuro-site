@@ -1,0 +1,279 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:53:47.994678+00:00",
+  "source": "huggingface",
+  "count": 30,
+  "columns": [
+    {
+      "name": "模型名",
+      "key": "model",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "下载量",
+      "key": "downloads",
+      "type": "metric",
+      "icon": "Download"
+    },
+    {
+      "name": "点赞数",
+      "key": "likes",
+      "type": "metric",
+      "icon": "Heart"
+    }
+  ],
+  "items": [
+    {
+      "title": "LiquidAI/LFM3-1.7B",
+      "model": "LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "summary": "Text Generation",
+      "downloads": 1,
+      "likes": 1250
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "model": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Image-Text-to-Text",
+      "downloads": 17,
+      "likes": 4760
+    },
+    {
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "model": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "summary": "Automatic Speech Recognition",
+      "downloads": 4,
+      "likes": 700
+    },
+    {
+      "title": "mistralai/Mistral-Large-4-1T-A52B",
+      "model": "mistralai/Mistral-Large-4-1T-A52B",
+      "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 13,
+      "likes": 1510
+    },
+    {
+      "title": "speridlabs/idol",
+      "model": "speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "summary": "Image-to-3D",
+      "downloads": 5,
+      "likes": 440
+    },
+    {
+      "title": "baidu/Unlimited-OCR-2",
+      "model": "baidu/Unlimited-OCR-2",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR-2",
+      "summary": "Image-Text-to-Text",
+      "downloads": 1,
+      "likes": 570
+    },
+    {
+      "title": "ccore/Qwen3.5-4B-3D-Coder",
+      "model": "ccore/Qwen3.5-4B-3D-Coder",
+      "url": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
+      "summary": "5B",
+      "downloads": 1,
+      "likes": 573
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "model": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "Image-to-Video",
+      "downloads": 23,
+      "likes": 10400
+    },
+    {
+      "title": "Pika-Labs/Pika-H3-Flex",
+      "model": "Pika-Labs/Pika-H3-Flex",
+      "url": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+      "summary": "Image-to-Video",
+      "downloads": 4,
+      "likes": 366
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "model": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 14,
+      "likes": 19000
+    },
+    {
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "model": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "summary": "Text-to-Image",
+      "downloads": 22,
+      "likes": 5570
+    },
+    {
+      "title": "LiquidAI/LFM3-Omni-2B",
+      "model": "LiquidAI/LFM3-Omni-2B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
+      "summary": "Any-to-Any",
+      "downloads": 12,
+      "likes": 319
+    },
+    {
+      "title": "black-forest-labs/flux-3-image-klein-comfy",
+      "model": "black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "summary": "Image-to-Image",
+      "downloads": 8,
+      "likes": 2370
+    },
+    {
+      "title": "burner22/numbat",
+      "model": "burner22/numbat",
+      "url": "https://huggingface.co/burner22/numbat",
+      "summary": "6.8T",
+      "downloads": 10,
+      "likes": 303
+    },
+    {
+      "title": "Nanbeige/Nanbeige4.3-33B",
+      "model": "Nanbeige/Nanbeige4.3-33B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "summary": "Text Generation",
+      "downloads": 6,
+      "likes": 1010
+    },
+    {
+      "title": "Edge0/Audio8-TTS-Realistic-Air",
+      "model": "Edge0/Audio8-TTS-Realistic-Air",
+      "url": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air",
+      "summary": "Text-to-Speech",
+      "downloads": 20,
+      "likes": 256
+    },
+    {
+      "title": "FusionCow/Sulphur-3",
+      "model": "FusionCow/Sulphur-3",
+      "url": "https://huggingface.co/FusionCow/Sulphur-3",
+      "summary": "Updated",
+      "downloads": 5,
+      "likes": 281
+    },
+    {
+      "title": "Diffuspace/Clover-35B-A3B-Preview",
+      "model": "Diffuspace/Clover-35B-A3B-Preview",
+      "url": "https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview",
+      "summary": "Text Generation",
+      "downloads": 6,
+      "likes": 231
+    },
+    {
+      "title": "facebook/sam3",
+      "model": "facebook/sam3",
+      "url": "https://huggingface.co/facebook/sam3",
+      "summary": "Mask Generation",
+      "downloads": 2025,
+      "likes": 5740
+    },
+    {
+      "title": "LiquidAI/LFM3-VL-2B",
+      "model": "LiquidAI/LFM3-VL-2B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-VL-2B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 12,
+      "likes": 221
+    },
+    {
+      "title": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+      "model": "OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+      "url": "https://huggingface.co/OBLITERATUS/DeepSeek-V4.1-Flash-1017-obliterated",
+      "summary": "Text Generation",
+      "downloads": 4,
+      "likes": 224
+    },
+    {
+      "title": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "model": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "summary": "Text Generation",
+      "downloads": 3,
+      "likes": 223
+    },
+    {
+      "title": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
+      "model": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
+      "url": "https://huggingface.co/AtomicChat/LFM3-1.7B-Uncensored-GGUF",
+      "summary": "Text Generation",
+      "downloads": 6,
+      "likes": 223
+    },
+    {
+      "title": "RecursiveSI/flint",
+      "model": "RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "summary": "Text Generation",
+      "downloads": 13,
+      "likes": 1310
+    },
+    {
+      "title": "sensenova/SenseNova-Loop-9B-Preview",
+      "model": "sensenova/SenseNova-Loop-9B-Preview",
+      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview",
+      "summary": "Image-Text-to-Text",
+      "downloads": 16,
+      "likes": 194
+    },
+    {
+      "title": "LiquidAI/LFM3-Audio-2B",
+      "model": "LiquidAI/LFM3-Audio-2B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-Audio-2B",
+      "summary": "Any-to-Any",
+      "downloads": 13,
+      "likes": 201
+    },
+    {
+      "title": "LiquidAI/LFM3-1.7B-GGUF",
+      "model": "LiquidAI/LFM3-1.7B-GGUF",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B-GGUF",
+      "summary": "Text Generation",
+      "downloads": 13,
+      "likes": 202
+    },
+    {
+      "title": "xiaomi-research/Xiaomi-OCR-0",
+      "model": "xiaomi-research/Xiaomi-OCR-0",
+      "url": "https://huggingface.co/xiaomi-research/Xiaomi-OCR-0",
+      "summary": "Image-Text-to-Text",
+      "downloads": 5,
+      "likes": 250
+    },
+    {
+      "title": "LiquidAI/d1-2B",
+      "model": "LiquidAI/d1-2B",
+      "url": "https://huggingface.co/LiquidAI/d1-2B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 12,
+      "likes": 191
+    },
+    {
+      "title": "Efficient-Large-Model/Open-H3-Regenerate-2K",
+      "model": "Efficient-Large-Model/Open-H3-Regenerate-2K",
+      "url": "https://huggingface.co/Efficient-Large-Model/Open-H3-Regenerate-2K",
+      "summary": "Video-to-Video",
+      "downloads": 23,
+      "likes": 195
+    }
+  ]
+}

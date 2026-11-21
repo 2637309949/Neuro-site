@@ -1,0 +1,279 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T13:56:59.479138+00:00",
+  "source": "huggingface",
+  "count": 30,
+  "columns": [
+    {
+      "name": "模型名",
+      "key": "model",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "下载量",
+      "key": "downloads",
+      "type": "metric",
+      "icon": "Download"
+    },
+    {
+      "name": "点赞数",
+      "key": "likes",
+      "type": "metric",
+      "icon": "Heart"
+    }
+  ],
+  "items": [
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "model": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 5,
+      "likes": 11400
+    },
+    {
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "model": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "summary": "27B",
+      "downloads": 14,
+      "likes": 1900
+    },
+    {
+      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "model": "Qwen/Qwen3.8-2.4T-A95B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "summary": "Text Generation",
+      "downloads": 7,
+      "likes": 1080
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-Music3",
+      "model": "MiniMaxAI/MiniMax-Music3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "summary": "Text-to-Audio",
+      "downloads": 5,
+      "likes": 1010
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "model": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "Image-to-Video",
+      "downloads": 2,
+      "likes": 1280
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+      "model": "deepseek-ai/DeepSeek-V4-Pro-0813",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+      "summary": "Text Generation",
+      "downloads": 6,
+      "likes": 619
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B-FP8",
+      "model": "Qwen/Qwen3.8-27B-FP8",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "summary": "Image-Text-to-Text",
+      "downloads": 5,
+      "likes": 586
+    },
+    {
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "model": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+      "summary": "Image-Text-to-Text",
+      "downloads": 3,
+      "likes": 582
+    },
+    {
+      "title": "meta-models/Muse-Glimmer-30B",
+      "model": "meta-models/Muse-Glimmer-30B",
+      "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 8,
+      "likes": 1700
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-H3",
+      "model": "MiniMaxAI/MiniMax-H3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "summary": "Image-Text-to-Video",
+      "downloads": 7,
+      "likes": 4160
+    },
+    {
+      "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "model": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+      "summary": "Image-Text-to-Text",
+      "downloads": 10,
+      "likes": 474
+    },
+    {
+      "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "model": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "summary": "Text Generation",
+      "downloads": 3,
+      "likes": 448
+    },
+    {
+      "title": "unsloth/Qwen3.8-27B-NVFP4",
+      "model": "unsloth/Qwen3.8-27B-NVFP4",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4",
+      "summary": "20B",
+      "downloads": 2,
+      "likes": 273
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "model": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "summary": "Text Generation",
+      "downloads": 18,
+      "likes": 3540
+    },
+    {
+      "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "model": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 1,
+      "likes": 257
+    },
+    {
+      "title": "froggeric/Qwen-Fixed-Chat-Templates",
+      "model": "froggeric/Qwen-Fixed-Chat-Templates",
+      "url": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+      "summary": "Updated",
+      "downloads": 3,
+      "likes": 1280
+    },
+    {
+      "title": "dots-studio/dots3-note-prev",
+      "model": "dots-studio/dots3-note-prev",
+      "url": "https://huggingface.co/dots-studio/dots3-note-prev",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 227
+    },
+    {
+      "title": "Gazingstars123/Anima-2.9B",
+      "model": "Gazingstars123/Anima-2.9B",
+      "url": "https://huggingface.co/Gazingstars123/Anima-2.9B",
+      "summary": "Text-to-Image",
+      "downloads": 4,
+      "likes": 261
+    },
+    {
+      "title": "moonshotai/Kimi-K3",
+      "model": "moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "summary": "Image-Text-to-Text",
+      "downloads": 23,
+      "likes": 10800
+    },
+    {
+      "title": "Qwen/Qwen3.8-2.4T-A95B-FP8",
+      "model": "Qwen/Qwen3.8-2.4T-A95B-FP8",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+      "summary": "Text Generation",
+      "downloads": 7,
+      "likes": 229
+    },
+    {
+      "title": "Comfy-Org/MiniMax-Music-3",
+      "model": "Comfy-Org/MiniMax-Music-3",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-Music-3",
+      "summary": "Updated",
+      "downloads": 2,
+      "likes": 190
+    },
+    {
+      "title": "lightx2v/Minimax-h3-Turbo",
+      "model": "lightx2v/Minimax-h3-Turbo",
+      "url": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+      "summary": "Image-to-Video",
+      "downloads": 6,
+      "likes": 615
+    },
+    {
+      "title": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "model": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 4,
+      "likes": 184
+    },
+    {
+      "title": "LiquidAI/LFM2.5-VL-3B",
+      "model": "LiquidAI/LFM2.5-VL-3B",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 6,
+      "likes": 180
+    },
+    {
+      "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "model": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 7,
+      "likes": 2150
+    },
+    {
+      "title": "TenStrip/10Eros-Max",
+      "model": "TenStrip/10Eros-Max",
+      "url": "https://huggingface.co/TenStrip/10Eros-Max",
+      "summary": "Image-Text-to-Video",
+      "downloads": 9,
+      "likes": 276
+    },
+    {
+      "title": "Comfy-Org/MiniMax-H3",
+      "model": "Comfy-Org/MiniMax-H3",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+      "summary": "Updated",
+      "downloads": 2,
+      "likes": 1430
+    },
+    {
+      "title": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+      "model": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+      "url": "https://huggingface.co/Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 3,
+      "likes": 159
+    },
+    {
+      "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "model": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "url": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 2,
+      "likes": 162
+    },
+    {
+      "title": "inclusionAI/Ling-3.0-tiny",
+      "model": "inclusionAI/Ling-3.0-tiny",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.0-tiny",
+      "summary": "Text Generation",
+      "downloads": 3,
+      "likes": 327
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T08:45:01.748651+00:00",
+  "source": "huggingface",
+  "count": 30,
+  "columns": [
+    {
+      "name": "模型名",
+      "key": "model",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "下载量",
+      "key": "downloads",
+      "type": "metric",
+      "icon": "Download"
+    },
+    {
+      "name": "点赞数",
+      "key": "likes",
+      "type": "metric",
+      "icon": "Heart"
+    }
+  ],
+  "items": [
+    {
+      "title": "higurashi-ai/Haru-4B",
+      "model": "higurashi-ai/Haru-4B",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "summary": "Audio-to-Audio",
+      "downloads": 6,
+      "likes": 1310
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "model": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 12,
+      "likes": 20600
+    },
+    {
+      "title": "tencent/Hy4-flash",
+      "model": "tencent/Hy4-flash",
+      "url": "https://huggingface.co/tencent/Hy4-flash",
+      "summary": "Image-Text-to-Text",
+      "downloads": 1,
+      "likes": 269
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-H3-Image",
+      "model": "MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "summary": "Text-to-Image",
+      "downloads": 3,
+      "likes": 1600
+    },
+    {
+      "title": "harness-hub/Qwen3.8-27B-pi-adapted",
+      "model": "harness-hub/Qwen3.8-27B-pi-adapted",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+      "summary": "Image-Text-to-Text",
+      "downloads": 43,
+      "likes": 636
+    },
+    {
+      "title": "n4ze3m/tiny-voca",
+      "model": "n4ze3m/tiny-voca",
+      "url": "https://huggingface.co/n4ze3m/tiny-voca",
+      "summary": "Text-to-Speech",
+      "downloads": 19,
+      "likes": 302
+    },
+    {
+      "title": "apple/FastFrames-L",
+      "model": "apple/FastFrames-L",
+      "url": "https://huggingface.co/apple/FastFrames-L",
+      "summary": "Text-to-Video",
+      "downloads": 1,
+      "likes": 238
+    },
+    {
+      "title": "meituan-longcat/LongCat-Video-Avatar-1.6",
+      "model": "meituan-longcat/LongCat-Video-Avatar-1.6",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+      "summary": "Updated",
+      "downloads": 6,
+      "likes": 282
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "model": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "Image-to-Video",
+      "downloads": 11,
+      "likes": 12600
+    },
+    {
+      "title": "maxwell-model/Maxwell-V1-Flash",
+      "model": "maxwell-model/Maxwell-V1-Flash",
+      "url": "https://huggingface.co/maxwell-model/Maxwell-V1-Flash",
+      "summary": "Text Generation",
+      "downloads": 5,
+      "likes": 244
+    },
+    {
+      "title": "thinkingmachines/Inkling-2-Small",
+      "model": "thinkingmachines/Inkling-2-Small",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
+      "summary": "Image-Text-to-Text",
+      "downloads": 1,
+      "likes": 552
+    },
+    {
+      "title": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "model": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "summary": "Text-to-Image",
+      "downloads": 5,
+      "likes": 645
+    },
+    {
+      "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "model": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 6,
+      "likes": 3370
+    },
+    {
+      "title": "sensenova/SenseNova-Loop-9B",
+      "model": "sensenova/SenseNova-Loop-9B",
+      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 23,
+      "likes": 350
+    },
+    {
+      "title": "unsloth/Qwen3.8-27B-GGUF",
+      "model": "unsloth/Qwen3.8-27B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+      "summary": "27B",
+      "downloads": 7,
+      "likes": 6200
+    },
+    {
+      "title": "Edge0/Edge0-145B-NVFP4",
+      "model": "Edge0/Edge0-145B-NVFP4",
+      "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
+      "summary": "Text Generation",
+      "downloads": 4,
+      "likes": 537
+    },
+    {
+      "title": "Zyphra/ZONOS3-Mini",
+      "model": "Zyphra/ZONOS3-Mini",
+      "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+      "summary": "Text-to-Speech",
+      "downloads": 1,
+      "likes": 558
+    },
+    {
+      "title": "inworld/voice-isolator",
+      "model": "inworld/voice-isolator",
+      "url": "https://huggingface.co/inworld/voice-isolator",
+      "summary": "Audio-to-Audio",
+      "downloads": 5,
+      "likes": 129
+    },
+    {
+      "title": "internlm/Sage-S2.1-Flash",
+      "model": "internlm/Sage-S2.1-Flash",
+      "url": "https://huggingface.co/internlm/Sage-S2.1-Flash",
+      "summary": "321B",
+      "downloads": 3,
+      "likes": 149
+    },
+    {
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "model": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "summary": "Text Generation",
+      "downloads": 27,
+      "likes": 568
+    },
+    {
+      "title": "black-forest-labs/flux-3-image-klein-comfy",
+      "model": "black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "summary": "Image-to-Image",
+      "downloads": 16,
+      "likes": 3490
+    },
+    {
+      "title": "HuggingFaceTB/SmolVLM2-256M-Video-Instruct",
+      "model": "HuggingFaceTB/SmolVLM2-256M-Video-Instruct",
+      "url": "https://huggingface.co/HuggingFaceTB/SmolVLM2-256M-Video-Instruct",
+      "summary": "Image-Text-to-Text",
+      "downloads": 6,
+      "likes": 234
+    },
+    {
+      "title": "facebook/sam3",
+      "model": "facebook/sam3",
+      "url": "https://huggingface.co/facebook/sam3",
+      "summary": "Mask Generation",
+      "downloads": 2025,
+      "likes": 7000
+    },
+    {
+      "title": "briaai/RMBG-3.0",
+      "model": "briaai/RMBG-3.0",
+      "url": "https://huggingface.co/briaai/RMBG-3.0",
+      "summary": "Image Segmentation",
+      "downloads": 1,
+      "likes": 113
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "model": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Image-Text-to-Text",
+      "downloads": 9,
+      "likes": 5940
+    },
+    {
+      "title": "speridlabs/idol",
+      "model": "speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "summary": "Image-to-3D",
+      "downloads": 21,
+      "likes": 2490
+    },
+    {
+      "title": "KORMo-VL/KORMo-Web-11B",
+      "model": "KORMo-VL/KORMo-Web-11B",
+      "url": "https://huggingface.co/KORMo-VL/KORMo-Web-11B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 22,
+      "likes": 115
+    },
+    {
+      "title": "Reson8/Rumble-2-Flash",
+      "model": "Reson8/Rumble-2-Flash",
+      "url": "https://huggingface.co/Reson8/Rumble-2-Flash",
+      "summary": "Automatic Speech Recognition",
+      "downloads": 13,
+      "likes": 113
+    },
+    {
+      "title": "Cactus-Compute/mirage",
+      "model": "Cactus-Compute/mirage",
+      "url": "https://huggingface.co/Cactus-Compute/mirage",
+      "summary": "Image-Text-to-Text",
+      "downloads": 13,
+      "likes": 455
+    },
+    {
+      "title": "Comfy-Org/MiniMax-H3-Image",
+      "model": "Comfy-Org/MiniMax-H3-Image",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
+      "summary": "Text-to-Image",
+      "downloads": 13,
+      "likes": 564
+    }
+  ]
+}

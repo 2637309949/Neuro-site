@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T07:50:08.358453+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "summary": "",
+      "author": "ls612",
+      "comments": 723,
+      "score": 1099
+    },
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "summary": "",
+      "author": "armcat",
+      "comments": 305,
+      "score": 769
+    },
+    {
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "summary": "",
+      "author": "casi",
+      "comments": 298,
+      "score": 548
+    },
+    {
+      "title": "KDE: The documentary [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "summary": "",
+      "author": "mrkn1",
+      "comments": 97,
+      "score": 443
+    },
+    {
+      "title": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "summary": "",
+      "author": "umerf",
+      "comments": 139,
+      "score": 279
+    },
+    {
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "summary": "",
+      "author": "rbanffy",
+      "comments": 99,
+      "score": 232
+    },
+    {
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "summary": "",
+      "author": "hacb",
+      "comments": 97,
+      "score": 229
+    },
+    {
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "summary": "",
+      "author": "VaibhaavTiwari",
+      "comments": 21,
+      "score": 224
+    },
+    {
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "summary": "",
+      "author": "DeepLogin",
+      "comments": 104,
+      "score": 202
+    },
+    {
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "summary": "",
+      "author": "nobody9999",
+      "comments": 53,
+      "score": 199
+    },
+    {
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "summary": "",
+      "author": "Skyfall106",
+      "comments": 85,
+      "score": 192
+    },
+    {
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "summary": "",
+      "author": "acossta",
+      "comments": 40,
+      "score": 192
+    },
+    {
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "summary": "",
+      "author": "PaulHoule",
+      "comments": 42,
+      "score": 93
+    },
+    {
+      "title": "Memory Safety Bugs in Rust Standard Library",
+      "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+      "summary": "",
+      "author": "pjmlp",
+      "comments": 23,
+      "score": 81
+    },
+    {
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "summary": "",
+      "author": "ybathaee",
+      "comments": 16,
+      "score": 76
+    },
+    {
+      "title": "Testing a trash can Faraday cage",
+      "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "summary": "",
+      "author": "torutofu",
+      "comments": 57,
+      "score": 75
+    },
+    {
+      "title": "The Sicilian Citrus Family Tree",
+      "url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
+      "summary": "",
+      "author": "wmchen",
+      "comments": 24,
+      "score": 68
+    },
+    {
+      "title": "500 Lines or Less A 3D Modeller",
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "summary": "",
+      "author": "myth_drannon",
+      "comments": 5,
+      "score": 45
+    },
+    {
+      "title": "Oxford Molecular Motors",
+      "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
+      "summary": "",
+      "author": "handfuloflight",
+      "comments": 7,
+      "score": 42
+    },
+    {
+      "title": "My favourite modern NES games",
+      "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "summary": "",
+      "author": "jordigh",
+      "comments": 3,
+      "score": 39
+    },
+    {
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "summary": "",
+      "author": "MarinhoD",
+      "comments": 14,
+      "score": 36
+    },
+    {
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "summary": "",
+      "author": "pseudolus",
+      "comments": 6,
+      "score": 36
+    },
+    {
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "url": "https://bobbiec.github.io/jamaican-font.html",
+      "summary": "",
+      "author": "bobbiechen",
+      "comments": 5,
+      "score": 29
+    },
+    {
+      "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
+      "url": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
+      "summary": "",
+      "author": "CharlesW",
+      "comments": 0,
+      "score": 28
+    },
+    {
+      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "summary": "",
+      "author": "tthanh2k6",
+      "comments": 4,
+      "score": 27
+    },
+    {
+      "title": "One Man's Quest to Create the Perfect Whiskey Glass",
+      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "summary": "",
+      "author": "Kaibeezy",
+      "comments": 9,
+      "score": 25
+    },
+    {
+      "title": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
+      "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+      "summary": "",
+      "author": "everybodyknows",
+      "comments": 0,
+      "score": 25
+    },
+    {
+      "title": "Kiri – The Modern Container Runtime",
+      "url": "https://runkiri.com/",
+      "summary": "",
+      "author": "nikolay",
+      "comments": 11,
+      "score": 19
+    },
+    {
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "summary": "",
+      "author": "jaypatelani",
+      "comments": 0,
+      "score": 4
+    },
+    {
+      "title": "Open-Source HF Communications for Remote Communities and Experimenters",
+      "url": "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
+      "summary": "",
+      "author": "tejtm",
+      "comments": 1,
+      "score": 3
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T09:10:26.711942+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "qOntology 开源版 v1.1.3 发布：长文档抽取支持分窗重试与阶段续跑，完善候选校验",
+      "url": "https://www.oschina.net/news/503620",
+      "summary": "随着本体建模逐步引入 AI 辅助抽取，抽取任务的执行稳定性、候选数据的规范性，以及后续审核操作的完整性，都成为影响建模流程的重要环节。 本次 ...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "ModStart 支持 PHP8.5 + Laravel13，纯净仓库发布",
+      "url": "https://www.oschina.net/news/503618",
+      "summary": "三个仓库同一批推送：Laravel 5.1、Laravel 9、Laravel 13 各管一段 PHP 版本区间，装完只有核心模块。 新增的是 Laravel 13 仓库，composer.json...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "phimint v0.11.0 发布：不依赖 Node.js 和 Python，1 核 1G 跑起一个终端编码 agent",
+      "url": "https://www.oschina.net/news/503617",
+      "summary": "phimint v0.11.0 已发布（2026-11-16）。phimint 是一个用 Rust 写的终端 AI 编码 agent：一条命令装上，配好 API key，就能在终端里把需求变成跑通...",
+      "author": "hibuka",
+      "comments": 0
+    },
+    {
+      "title": "AI未来十年走向何方？李彦宏提出“智能组织”新判断及组织进化三原则｜百度世界2026回顾",
+      "url": "https://www.oschina.net/news/503615",
+      "summary": "11月12日，百度世界2026在北京·国家会议中心举办。百度创始人李彦宏在开幕式上提出，人工智能的下一幕是“智能组织”，并首次提出“组织进化三原则...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "六年 Rust 开发经历，他改变了自己的思考方式",
+      "url": "https://www.oschina.net/news/503613/how-rust-changed-me",
+      "summary": "Martijn Faassen 写 Rust 六年多，其中四年多是职业开发。他入门前就清楚这语言会折腾自己，也正因如此才想学。现在他给出的结论是：确实被改变了。...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek 悄悄收紧免费额度，或因算力资源紧张所致",
+      "url": "https://www.oschina.net/news/503610",
+      "summary": "11 月 16 日，「DeepSeek 使用额度已达上限」冲上热搜。多名用户反馈，App 和网页端同时收紧了限制，而且一次收了三条。 最直接的一条：超过 7 天没...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Windows 11 在记录你用过哪个 AI 编程助手",
+      "url": "https://www.oschina.net/news/503608/windows-coding-agent-telemetry",
+      "summary": "一位开发者在让 AI 帮忙翻 Windows 二进制文件时，在 MissionControlAggregator.dll 里翻到了一份名单：codex.exe、claude.exe、copilot.exe、cur...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Skyeye 云企业级 AI + 零代码智能制造系统-3D仓库 - v4.1.12 发布",
+      "url": "https://www.oschina.net/news/503607",
+      "summary": "Skyeye 云企业级AI+零代码智能制造，智能制造一体化，采用 SpringBoot+ UNI-APP + Ant Design Vue 的零代码平台开发模式。包含 100 多种电子流程，...",
+      "author": "Skyeye云",
+      "comments": 0
+    },
+    {
+      "title": "Casdoor 开源版新增 Marketplace：自托管 IAM 也能一键安装应用、身份源和登录页主题",
+      "url": "https://www.oschina.net/news/503603",
+      "summary": "Casdoor 是 Apache 2.0 开源的 IAM / SSO 平台，Go + React 实现，目前 GitHub 14.8k star，今年 2 月进入 CNCF 云原生全景图。项目这两个月完成了...",
+      "author": "Casbin开源社区",
+      "comments": 0
+    },
+    {
+      "title": "华为云“行业AI梦工厂”发布并开源昇腾原生具身世界模型CloudRobo-WM1.2",
+      "url": "https://www.oschina.net/news/503602",
+      "summary": "[中国，杭州，2026年11月16日] 今天，华为云“行业AI梦工厂”发布并开源昇腾原生的具身世界模型CloudRobo-WM1.2，采用共享世界模型骨干网络实现预测...",
+      "author": "卡卡西xi",
+      "comments": 0
+    },
+    {
+      "title": "SonnetDB 5.1.1 稳定版发布：收口 CI、恢复夹具与公开交付验证",
+      "url": "https://www.oschina.net/news/503601",
+      "summary": "SonnetDB 5.1.1 已正式发布。该版本延续 5.0 的 API、wire 与数据库迁移合同，集中修正稳定版发布阶段发现的验证缺口：主 solution 纳入独立全文进...",
+      "author": "麦壳饼",
+      "comments": 0
+    },
+    {
+      "title": "COSCon'26｜openKylin 专场论坛举办，共筑AI原生OS新范式",
+      "url": "https://www.oschina.net/news/503598",
+      "summary": "11月14日-15日，第十一届中国开源年会（COSCon'26）在杭州云谷中心举办，大会汇聚开源领域学者、技术开发者与产业代表，聚焦开源技术创新、生态共建...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "qData 主数据平台开源版 v1.0.0 首发上线：主数据全流程管理能力开放，构建统一可信数据底座",
+      "url": "https://www.oschina.net/news/503596",
+      "summary": "让核心业务数据有标准、可治理、能共享。 在企业数字化建设过程中，客户、供应商、产品、物料、组织等核心业务数据，广泛存在于 ERP、CRM、MES 等不...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "华为云携手福龙马官宣新一代清扫机器人启动预售，以物理AI重塑环卫具身智能",
+      "url": "https://www.oschina.net/news/503593",
+      "summary": "11月16日，华为云宣布与环卫装备龙头企业福龙马集团联合研制的下一代全新智能清扫机器人已正式启动预售，新品发布会定于12月在上海隆重举行。此次合...",
+      "author": "卡卡西xi",
+      "comments": 0
+    },
+    {
+      "title": "40+节AI公开课连播6小时！百度世界2026公开课收官",
+      "url": "https://www.oschina.net/news/503592",
+      "summary": "11月12日，百度世界2026在北京国家会议中心二期成功举办。当天下午，由业界专家、开发者及百度内部资深产研技术人员组成的讲师团，结合自身实践经验...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "ifreeSFTP 桌面 SFTP 客户端 Rust 重构版发布",
+      "url": "https://www.oschina.net/news/503591",
+      "summary": "桌面 SFTP 客户端——Windows 与 Linux 双平台，双窗格、多标签，远程至远程。快速、安全、完全免费。Rust + egui 原生实现，单文件、零随包运行时...",
+      "author": "freeshine",
+      "comments": 0
+    },
+    {
+      "title": "云从科技青山工业案例：返修分析与设备维修怎样各有侧重",
+      "url": "https://www.oschina.net/news/503590",
+      "summary": "2025年10月23日，云从科技副总裁张立在重庆举行的中德智能制造科技创新合作论坛上介绍了与青山工业合作的多智能体应用。其中两个生产质量角色，分别...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Asahi Linux 许可证从 MIT 换成 GPL，因为有人拿 AI 洗了它的代码",
+      "url": "https://www.oschina.net/news/503588/asahi-linux-drops-mit-for-gpl",
+      "summary": "Asahi Linux 是今天你能在 Apple Silicon Mac 上运行 Linux 的底层。多年来，这个开源项目把自己大部分代码放在 MIT 许可证下，好让任何人——包括...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "PostgreSQL 19 将是一个质量优良的新版本",
+      "url": "https://my.oschina.net/u/5729420/blog/19791498",
+      "summary": "PostgreSQL 每个大版本的发布都会带来一批值得关注的新特性。但对于生产环境而言，升级数据库的价值并不仅仅在于获得新的 SQL 语法或者新的功能，更...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "一个 100% 用 AI 写代码的工程师，开始担心它把代码库写“脆弱”了",
+      "url": "https://www.oschina.net/news/503586/ai-usage-generates-a-fragile-codebase",
+      "summary": "Evan X. Merz 现在 100% 的代码都用 AI 生成。不是因为他信这个，是因为他认为这才符合当今的行业标准。 今年 5 月他从 Meta 被裁。他对原因有个猜...",
+      "author": "局",
+      "comments": 0
+    }
+  ]
+}

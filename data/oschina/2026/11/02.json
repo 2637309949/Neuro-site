@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T07:39:53.082115+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "从桦之坚到元思无界：两年十亿级研发投入，是在赌一个什么未来？",
+      "url": "https://www.oschina.net/news/503344",
+      "summary": "资本持续涌入具身智能赛道，很多项目的亮点集中在演示视频与概念发布。但真正能同时拿下大额增资、高估值、产业化项目、规模化交付的团队，寥寥无几...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "开源数据库管理工具 CloudDM 发布新版本，支持团队多级审批工单",
+      "url": "https://www.oschina.net/news/503343",
+      "summary": "CloudDM 是一款免费且开源的团队化数据库管理工具，提供统一 Web 数据库访问、权限控制、数据脱敏、SQL 审核、流程协同和数据库 CI/CD 等能力。 亮...",
+      "author": "ClouGence",
+      "comments": 0
+    },
+    {
+      "title": "Go 语言重构 Java 项目会提升了多少",
+      "url": "https://www.oschina.net/news/503342",
+      "summary": "把Java项目ApiGo使用Go语言重构为ApiGoo，提升了哪些 背景: ApiGo 是一个gitee上开源的 SQL2API 平台——在线写 SQL，AI对话即可快速发布成 REST 接...",
+      "author": "鲨鱼不刷牙",
+      "comments": 0
+    },
+    {
+      "title": "跨平台框架社区释放阔屏潜能：KMP&CMP在PuraX Max折叠 UI的适配实践",
+      "url": "https://www.oschina.net/news/503341",
+      "summary": "Pura X Max作为阔形态折叠设备，设备会在窄外屏、阔展开内屏、悬停半折姿态之间动态切换，同时还需要兼容分屏、自由窗口、键盘唤起等场景。窗口的宽...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Excelize 开源基础库发布 2.11.1 版本更新",
+      "url": "https://www.oschina.net/news/503340",
+      "summary": "Excelize 是 Go 语言编写的用于操作 Office Excel 文档基础库，基于 ECMA-376，ISO/IEC 29500 国际标准。可以使用它来读取、写入由 Excel、WPS、O...",
+      "author": "xuri",
+      "comments": 0
+    },
+    {
+      "title": ":fire::fire: ApiGo 开源接口平台 Go 版本发布",
+      "url": "https://www.oschina.net/news/503339",
+      "summary": "ApiGoo 是 ApiGo 的go语言版本，是一款在线接口开发和管理平台，多数据库插件化数据源框架、SQL2API 。支持 WorkBuddy、千问办公、Trea Work、豆包...",
+      "author": "鲨鱼不刷牙",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek 团队把 Agent 设计成“操作系统”：多任务的上限不该是人的注意力",
+      "url": "https://www.oschina.net/news/503338/deepseek-harness-super-agent",
+      "summary": "DeepSeek Harness 团队发了一篇架构长文，讲他们怎么做出一个\"永远在线\"的 Agent。文章有一句话很精辟： 单任务的上限取决于模型能力，多任务的上限...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "软件测试脚本自愈能力如何实现：Testin云测Testin XAgent技术思路参考",
+      "url": "https://www.oschina.net/news/503337",
+      "summary": "在业务迭代提速、降本增效目标驱动之下，UI自动化已经成为软件测试团队的常规选择，但不少项目陷入“被提起—尝试应用—最终搁置”的循环怪圈。行业...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Postgres 19 迟到了，原因是 LLM 找出了太多老 bug",
+      "url": "https://www.oschina.net/news/503336/postgres-19-is-late-and-its-ais-fault",
+      "summary": "PostgreSQL 19 要迟到了，大概率拖到 11 月才发。过去十年它的发布节奏准得像钟表——不早于 9 月中，不晚于 10 月中——今年破了例。 更反常的是今...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "C++ web框架 Paozhu 发布1.17.4版",
+      "url": "https://www.oschina.net/news/503335",
+      "summary": "本次加上了 OAuth2.1 server ,OAuth2.1 client,  JWT模块 顺便添加一个gitub授权 client, 这样可以获取github能力了，是不是以后可以让agent提交代...",
+      "author": "osc_91229770",
+      "comments": 0
+    },
+    {
+      "title": "novel-plus v6.3.2 发布，原创文学 CMS 系统",
+      "url": "https://www.oschina.net/news/503333",
+      "summary": "novel-plus v6.3.2 发布了，v6.3.0 – v6.3.2 主要改变如下： 创作数据看板 + AI 解读：作家后台首页新增经营数据看板（收入、作品、章节等图表）...",
+      "author": "xxyopen",
+      "comments": 0
+    },
+    {
+      "title": "JimuBI v2.5.6 发布，修复 7 项安全漏洞",
+      "url": "https://www.oschina.net/news/503332",
+      "summary": "项目介绍 真正的 AI 大屏来了，一句话描述需求，AI 自动生成数据大屏与仪表盘，支持对话式修改优化 :sparkles: 积木报表是一款免费的数据可视化报表...",
+      "author": "JEECG官方",
+      "comments": 0
+    },
+    {
+      "title": "XXL-AI v1.4.0 发布｜AI 应用开发平台",
+      "url": "https://www.oschina.net/news/503331",
+      "summary": "Release Notes 【本地版（Desk 桌面端）】 1、【新增】人机交互流程统一：Agent执行任务过程中需要用户确认操作，主动发起人机交互请求，人机协同完...",
+      "author": "许雪里",
+      "comments": 0
+    },
+    {
+      "title": "花了三年搭了一套 iPaaS 低代码平台，今天决定把 Demo 开源",
+      "url": "https://www.oschina.net/news/503330",
+      "summary": "前言 做了好几年管理系统，每次给客户上 OA、CRM 或者 SaaS，总觉得重复造轮子的事情太多。表单、列表、审批流程、打印模板……这些东西几乎每个项...",
+      "author": "简单73896013",
+      "comments": 0
+    },
+    {
+      "title": "拾趣 (Magpie) v0.1.19 发布，AI 更智能，内容识别更精准",
+      "url": "https://www.oschina.net/news/503329",
+      "summary": "拾趣 (Magpie) v0.1.19 发布，AI 更智能，内容识别更精准   拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻译...",
+      "author": "anziguoer",
+      "comments": 0
+    },
+    {
+      "title": "2026 上海开源软件应用创新大赛获奖名单",
+      "url": "https://www.oschina.net/os2026/winners",
+      "summary": "大赛圆满落幕，恭喜所有获奖选手，感谢所有参赛的选手和评委。",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "Jync v1.9.0 · Webhook 告警与 ETL 批次",
+      "url": "https://www.oschina.net/news/503327",
+      "summary": "新增 Webhook 告警通知与 ETL 批次，ETL 连接类型扩到 7 种新库；同步链路修复了租约与连接池的一组问题。 新增 Webhook 告警通知：同步失败、CDC...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "酷瓜云课堂（网校企业版）v2.0.3 发布，PHP在线网校系统",
+      "url": "https://www.oschina.net/news/503326",
+      "summary": "更新内容 【增加】后台登录双因素验证（2FA/TOTP），支持在安全设置中开启 【增加】资金、积分、发票流水记录事前/事后余额 【增加】编辑器远程图片...",
+      "author": "xiaochong0302",
+      "comments": 0
+    },
+    {
+      "title": "🔥 优化及缺陷修复：开源 AI 无代码平台 NocoBase",
+      "url": "https://www.oschina.net/news/503325",
+      "summary": "汇总一周产品更新日志，最新发布可前往我们的博客查看。 NocoBase 目前更新包括三个分支： main、next 和 develop。** main： 截至目前最稳定的版本...",
+      "author": "NocoBase",
+      "comments": 0
+    },
+    {
+      "title": "MiniToolDesk v1.0 发布：纯前端离线开发者工具箱，杜绝数据泄露与广告骚扰         ",
+      "url": "https://www.oschina.net/news/503324",
+      "summary": "近日，现代化纯前端离线开发者工具箱 MiniToolDesk v1.0 正式发布，并同步上架 Google Chrome 网上应用店与微软 Edge 官方扩展中心。 该项目致力于...",
+      "author": "神经蛙 87139353",
+      "comments": 0
+    }
+  ]
+}

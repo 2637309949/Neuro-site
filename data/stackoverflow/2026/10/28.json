@@ -1,0 +1,436 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T15:58:52.358506+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Phpspreadsheet throwing a php deprecated error",
+      "url": "https://stackoverflow.com/questions/80013137/phpspreadsheet-throwing-a-php-deprecated-error",
+      "summary": "",
+      "tags": [
+        "php",
+        "phpspreadsheet"
+      ],
+      "author": "DBerg",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Eclipse does not format code when Lombok @Log4j2 is used",
+      "url": "https://stackoverflow.com/questions/80013135/eclipse-does-not-format-code-when-lombok-log4j2-is-used",
+      "summary": "",
+      "tags": [
+        "eclipse",
+        "lombok"
+      ],
+      "author": "Jaap D",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "LEON3 SPARC V8 processor: Unexpected saved PC/nPC values in %l1/%l2 registers when interrupt was called",
+      "url": "https://stackoverflow.com/questions/80013134/leon3-sparc-v8-processor-unexpected-saved-pc-npc-values-in-l1-l2-registers-wh",
+      "summary": "",
+      "tags": [
+        "assembly",
+        "cpu-architecture",
+        "cpu-registers",
+        "processor",
+        "sparc"
+      ],
+      "author": "Abhishek Mahato",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to update files after hosting a new website on github?",
+      "url": "https://stackoverflow.com/questions/80013113/how-to-update-files-after-hosting-a-new-website-on-github",
+      "summary": "",
+      "tags": [
+        "html",
+        "github",
+        "terminal",
+        "github-pages"
+      ],
+      "author": "Gabriella Dines",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "I can not install car on R 4.6 on MacOS 27",
+      "url": "https://stackoverflow.com/questions/80013114/i-can-not-install-car-on-r-4-6-on-macos-27",
+      "summary": "",
+      "tags": [
+        "r",
+        "macos",
+        "lme4",
+        "nlopt",
+        "arm64-darwin"
+      ],
+      "author": "MaxBr5",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "CAST fails when included in SELECT, works if outside of it",
+      "url": "https://stackoverflow.com/questions/80013109/cast-fails-when-included-in-select-works-if-outside-of-it",
+      "summary": "",
+      "tags": [
+        "sql-server",
+        "casting"
+      ],
+      "author": "David Schmitt",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "(How) can I use CMake&#39;s new &#39;discover_tests&#39; statement with Boost.Test suites?",
+      "url": "https://stackoverflow.com/questions/80013102/how-can-i-use-cmakes-new-discover-tests-statement-with-boost-test-suites",
+      "summary": "",
+      "tags": [
+        "cmake",
+        "ctest",
+        "boost-test"
+      ],
+      "author": "Zsar",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How do I insert a string variable into a JSON string in C#",
+      "url": "https://stackoverflow.com/questions/80013100/how-do-i-insert-a-string-variable-into-a-json-string-in-c",
+      "summary": "",
+      "tags": [
+        "c#",
+        "json",
+        "microsoft-teams"
+      ],
+      "author": "Kev",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How do I generate and use the PKCE code_verifier and code_challenge in a Keycloak authentication flow using Datadog API tests?",
+      "url": "https://stackoverflow.com/questions/80013097/how-do-i-generate-and-use-the-pkce-code-verifier-and-code-challenge-in-a-keycloa",
+      "summary": "",
+      "tags": [
+        "datadog",
+        "pkce"
+      ],
+      "author": "Alakananda S",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why is Pyright saying I have already declared this enum member?",
+      "url": "https://stackoverflow.com/questions/80013112/why-is-pyright-saying-i-have-already-declared-this-enum-member",
+      "summary": "",
+      "tags": [
+        "python",
+        "pyright"
+      ],
+      "author": "JadenV15",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "How do I get the DataContext from within a ListViewItem",
+      "url": "https://stackoverflow.com/questions/80013110/how-do-i-get-the-datacontext-from-within-a-listviewitem",
+      "summary": "",
+      "tags": [
+        "c++",
+        "winrt-xaml"
+      ],
+      "author": "RDP248",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Next.js 15 memory usage keeps increasing when polling a live darts API every second",
+      "url": "https://stackoverflow.com/questions/80013104/next-js-15-memory-usage-keeps-increasing-when-polling-a-live-darts-api-every-sec",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "typescript",
+        "next.js",
+        "memory-leaks"
+      ],
+      "author": "tudiude",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Have difficulty understanding Type traits using Generic Lambda",
+      "url": "https://stackoverflow.com/questions/80013105/have-difficulty-understanding-type-traits-using-generic-lambda",
+      "summary": "",
+      "tags": [
+        "c++",
+        "lambda",
+        "type-traits"
+      ],
+      "author": "HeartBleed",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Any tools or scripts to parse Qlikview scripts into Power BI / Power Query?",
+      "url": "https://stackoverflow.com/questions/80013092/any-tools-or-scripts-to-parse-qlikview-scripts-into-power-bi-power-query",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "powerbi",
+        "qlikview"
+      ],
+      "author": "Abhishek Verma",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How to classify expression statements into prvalue?",
+      "url": "https://stackoverflow.com/questions/80013087/how-to-classify-expression-statements-into-prvalue",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer"
+      ],
+      "author": "NeoZoom.lua",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Stylus Extension css important don&#39;t work",
+      "url": "https://stackoverflow.com/questions/80013069/stylus-extension-css-important-dont-work",
+      "summary": "",
+      "tags": [
+        "css",
+        "stylus"
+      ],
+      "author": "KhwanRoj",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How can I get started writing code from a blank file instead of only following tutorials?",
+      "url": "https://stackoverflow.com/questions/80013064/how-can-i-get-started-writing-code-from-a-blank-file-instead-of-only-following-t",
+      "summary": "",
+      "tags": [
+        "advice",
+        "project-structure"
+      ],
+      "author": "Ajah Wisdom Agaba",
+      "comments": 1,
+      "score": -8
+    },
+    {
+      "title": "Spring Boot endpoint that returns 202 with a jobId and runs a long sync task in the background",
+      "url": "https://stackoverflow.com/questions/80013080/spring-boot-endpoint-that-returns-202-with-a-jobid-and-runs-a-long-sync-task-in",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring-boot",
+        "multithreading",
+        "asynchronous"
+      ],
+      "author": "KAREN YAMILETH JIMENEZ GALICIA",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "TinyMCE 5 editor displays a blank white area when Android keyboard opens",
+      "url": "https://stackoverflow.com/questions/80013070/tinymce-5-editor-displays-a-blank-white-area-when-android-keyboard-opens",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "android",
+        "css",
+        "mobile",
+        "tinymce"
+      ],
+      "author": "Testas Testauskas",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to enable logging for PHP-FPM inside a container",
+      "url": "https://stackoverflow.com/questions/80013042/how-to-enable-logging-for-php-fpm-inside-a-container",
+      "summary": "",
+      "tags": [
+        "wordpress",
+        "fpm"
+      ],
+      "author": "Mehdi Haghgoo",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "React-PDF + IntersectionObserver not working correctly on multi page PDF",
+      "url": "https://stackoverflow.com/questions/80013053/react-pdf-intersectionobserver-not-working-correctly-on-multi-page-pdf",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "intersection-observer",
+        "react-pdf"
+      ],
+      "author": "yeln",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Load multiple copies of shared library in Rust C FFI",
+      "url": "https://stackoverflow.com/questions/80013017/load-multiple-copies-of-shared-library-in-rust-c-ffi",
+      "summary": "",
+      "tags": [
+        "linux",
+        "rust",
+        "shared-libraries",
+        "ffi",
+        "rust-bindgen"
+      ],
+      "author": "Ryan",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Does AutoCAD&#39;s managed SymbolTable API support enumerating AcDbFontTable and AcDbVXTable?",
+      "url": "https://stackoverflow.com/questions/80013066/does-autocads-managed-symboltable-api-support-enumerating-acdbfonttable-and-acd",
+      "summary": "",
+      "tags": [
+        "autodesk-forge"
+      ],
+      "author": "Van Phap Truong",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Block model doesn&#39;t show it texture, and item icon doesn&#39;t show up too",
+      "url": "https://stackoverflow.com/questions/80013057/block-model-doesnt-show-it-texture-and-item-icon-doesnt-show-up-too",
+      "summary": "",
+      "tags": [
+        "java",
+        "minecraft"
+      ],
+      "author": "user33242904",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Product links don&#39;t respond to the first tap on Android after swiping",
+      "url": "https://stackoverflow.com/questions/80013060/product-links-dont-respond-to-the-first-tap-on-android-after-swiping",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "jquery",
+        "owl-carousel-2"
+      ],
+      "author": "user9440558",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Does prvalue specifically include the constructor of a class?",
+      "url": "https://stackoverflow.com/questions/80012995/does-prvalue-specifically-include-the-constructor-of-a-class",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer"
+      ],
+      "author": "NeoZoom.lua",
+      "comments": 2,
+      "score": 4
+    },
+    {
+      "title": "How to build an effective sales and revenue analytics dashboard?",
+      "url": "https://stackoverflow.com/questions/80013059/how-to-build-an-effective-sales-and-revenue-analytics-dashboard",
+      "summary": "",
+      "tags": [
+        "advice",
+        "fastapi",
+        "analytics",
+        "dashboard"
+      ],
+      "author": "FSXplay",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Why can one equal-priority FreeRTOS task repeatedly win a non-blocking UART write?",
+      "url": "https://stackoverflow.com/questions/80013037/why-can-one-equal-priority-freertos-task-repeatedly-win-a-non-blocking-uart-writ",
+      "summary": "",
+      "tags": [
+        "c",
+        "hardware",
+        "cortex-m",
+        "freertos",
+        "mplab-x"
+      ],
+      "author": "Vijaynagarjun SN",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Migrating from the Memory schema engine to PBTree with limited downtime",
+      "url": "https://stackoverflow.com/questions/80013055/migrating-from-the-memory-schema-engine-to-pbtree-with-limited-downtime",
+      "summary": "",
+      "tags": [
+        "data-migration",
+        "apache-iotdb"
+      ],
+      "author": "Sarah Turner",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Is using PHP&#39;s official minimal source-backports for PHP 7.4/8.0/8.1 recommended for production, and what are the best practices for use them?",
+      "url": "https://stackoverflow.com/questions/80012903/is-using-phps-official-minimal-source-backports-for-php-7-4-8-0-8-1-recommended",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "php",
+        "security",
+        "cve"
+      ],
+      "author": "Jayendra Matarage",
+      "comments": 3,
+      "score": 2
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T12:21:57.245553+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "summary": "",
+      "author": "speerer",
+      "comments": 224,
+      "score": 1399
+    },
+    {
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "summary": "",
+      "author": "speckx",
+      "comments": 273,
+      "score": 1004
+    },
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "summary": "",
+      "author": "djoldman",
+      "comments": 190,
+      "score": 975
+    },
+    {
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "summary": "",
+      "author": "BoumTAC",
+      "comments": 1100,
+      "score": 678
+    },
+    {
+      "title": "TypeScript 7",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/",
+      "summary": "",
+      "author": "DanRosenwasser",
+      "comments": 260,
+      "score": 652
+    },
+    {
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "summary": "",
+      "author": "afturner",
+      "comments": 383,
+      "score": 645
+    },
+    {
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
+      "summary": "",
+      "author": "coloneltcb",
+      "comments": 255,
+      "score": 467
+    },
+    {
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "summary": "",
+      "author": "chenglong-hn",
+      "comments": 114,
+      "score": 310
+    },
+    {
+      "title": "My Thoughts on the Bun Rust Rewrite",
+      "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+      "summary": "",
+      "author": "kristoff_it",
+      "comments": 145,
+      "score": 228
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "summary": "",
+      "author": "sk4rekr0w",
+      "comments": 82,
+      "score": 225
+    },
+    {
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
+      "summary": "",
+      "author": "Gedxx",
+      "comments": 135,
+      "score": 198
+    },
+    {
+      "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+      "url": "https://www.yamanote.fun/",
+      "summary": "",
+      "author": "madebymagnolia",
+      "comments": 45,
+      "score": 196
+    },
+    {
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "summary": "",
+      "author": "Jedd",
+      "comments": 69,
+      "score": 179
+    },
+    {
+      "title": "Turning a pile of documents into a searchable useable knowledge base",
+      "url": "https://github.com/linuxrebel/DocuBrowser",
+      "summary": "",
+      "author": "linuxrebe1",
+      "comments": 35,
+      "score": 159
+    },
+    {
+      "title": "New Sweden: the US's long-lost 'secret' colony",
+      "url": "https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony",
+      "summary": "",
+      "author": "bookofjoe",
+      "comments": 51,
+      "score": 140
+    },
+    {
+      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+      "url": "https://nexte.st/",
+      "summary": "",
+      "author": "nateb2022",
+      "comments": 32,
+      "score": 132
+    },
+    {
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+      "summary": "",
+      "author": "tanelpoder",
+      "comments": 45,
+      "score": 114
+    },
+    {
+      "title": "Unicode's transliteration rules are Turing-complete",
+      "url": "https://seriot.ch/computation/uts35/",
+      "summary": "",
+      "author": "beefburger",
+      "comments": 29,
+      "score": 111
+    },
+    {
+      "title": "Meta reuses old RAM in new servers with custom bridge chip",
+      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+      "summary": "",
+      "author": "ihsw",
+      "comments": 32,
+      "score": 94
+    },
+    {
+      "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "summary": "",
+      "author": "rapnie",
+      "comments": 57,
+      "score": 92
+    },
+    {
+      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+      "summary": "",
+      "author": "theanonymousone",
+      "comments": 15,
+      "score": 80
+    },
+    {
+      "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
+      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
+      "summary": "",
+      "author": "Narann",
+      "comments": 23,
+      "score": 78
+    },
+    {
+      "title": "I Built the Only 2026 WWII Jeep",
+      "url": "https://www.theautopian.com/i-bet-my-company-on-an-impossible-jeep-build-then-a-miracle-happened/",
+      "summary": "",
+      "author": "martey",
+      "comments": 13,
+      "score": 68
+    },
+    {
+      "title": "How Donkey Kong Toppled Atari",
+      "url": "https://dfarq.homeip.net/how-donkey-kong-toppled-atari/",
+      "summary": "",
+      "author": "giuliomagnifico",
+      "comments": 12,
+      "score": 45
+    },
+    {
+      "title": "In-browser programmable robot simulator",
+      "url": "https://bittlex-sim.petoi.com/",
+      "summary": "",
+      "author": "lijay",
+      "comments": 0,
+      "score": 41
+    },
+    {
+      "title": "Apache Shiro security framework releases 3.0.0",
+      "url": "https://shiro.apache.org/blog/2026/06/apache-shiro-300-released.html",
+      "summary": "",
+      "author": "lprimak",
+      "comments": 7,
+      "score": 40
+    },
+    {
+      "title": "3D Airplane tracker on Mercator map",
+      "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+      "summary": "",
+      "author": "Lawyer24",
+      "comments": 3,
+      "score": 21
+    },
+    {
+      "title": "How to organize 3 acquired companies into one coherent website",
+      "url": "https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/",
+      "summary": "",
+      "author": "mooreds",
+      "comments": 0,
+      "score": 13
+    },
+    {
+      "title": "The Field Equation, living shader geometry folded into a breathing object",
+      "url": "https://sand-morph.up.railway.app/the-field-equation",
+      "summary": "",
+      "author": "echohive42",
+      "comments": 1,
+      "score": 12
+    },
+    {
+      "title": "Conway's Game of Life, in real life",
+      "url": "https://lcamtuf.coredump.cx/blog/conway/",
+      "summary": "",
+      "author": "ahlCVA",
+      "comments": 1,
+      "score": 12
+    }
+  ]
+}

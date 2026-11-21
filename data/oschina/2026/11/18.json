@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T08:31:40.900784+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Claude 用了三天，把模型“搬上” AMD 的 GPU",
+      "url": "https://www.oschina.net/news/503639/claude-mythos-slashed-software-work-to-onboard-amd-gpus",
+      "summary": "Anthropic 最近在 IPO 路演里给投资人放了一张幻灯片：把自家模型跑上 AMD GPU 需要的软件工作，Claude Mythos Preview 用了大约三天做完，几乎不需...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "技嘉AI TOP AERO重磅登场",
+      "url": "https://www.oschina.net/news/503637",
+      "summary": "技嘉推出 AI TOP AERO，持续扩充本地 AI 产品阵容。这款新一代小巧台式电脑，将强大的本地 AI 算力、丰富的创作工具与游戏娱乐带入你的个人工作空间...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "腾讯开源 Hy4 flash：单任务成本降到 Hy4 的二十分之一",
+      "url": "https://www.oschina.net/news/503636",
+      "summary": "腾讯宣布开源 Hy4 flash，该模型的总参数是 220B，每个 token 只激活 12B。这个比例本身就是这次发布的核心卖点。混元团队在模型卡里用了「迄今最具...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DBErp v3.0.8 发布，一套进销存管理多家 DBShop 商城",
+      "url": "https://www.oschina.net/news/503635",
+      "summary": "多个商城共用一套进销存，发货时要找对店铺，自提时要扣对仓库，月底还要分店核对支付手续费。DBErp v3.0.8 围绕这些日常操作更新了 DBShop 商城对...",
+      "author": "静静的风",
+      "comments": 0
+    },
+    {
+      "title": "DBShop 5.0.0-rc.2 发布，新增管理员两步验证，优化发货与在线更新",
+      "url": "https://www.oschina.net/news/503634",
+      "summary": "DBShop 5.0.0-rc.2（候选版）发布。DBShop 是基于 Laravel 和 Filament 的独立商城系统，可部署在自己的服务器上，统一管理商品、订单、会员和售后...",
+      "author": "静静的风",
+      "comments": 0
+    },
+    {
+      "title": "Jync 捷同 v2.3.0 发布：ETL 取数支持 SQL 变量，目标表支持按列交集写入",
+      "url": "https://www.oschina.net/news/503632",
+      "summary": "Jync v2.3.0 新增 ETL SQL 变量：取数 SQL（含脚本里的前置语句）、预执行 SQL、后处理 SQL 与范围条件支持 ${name}；任务表单新增「SQL 变量」文本...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "DBPanel服务器面板 1.1.5 发布，网站详情页可直接切换站点",
+      "url": "https://www.oschina.net/news/503631",
+      "summary": "在同一台服务器上管理多个网站时，查看另一个站点的备份或防护设置，往往要先回到网站列表，再打开对应栏目。DBPanel 1.1.5 支持在网站详情页直接切...",
+      "author": "静静的风",
+      "comments": 0
+    },
+    {
+      "title": "沐问 MuAsk v1.5.0",
+      "url": "https://www.oschina.net/news/503630",
+      "summary": "本版更新（v1.5.0） 新增 SQL Server 命名实例支持：数据源页新增「实例名」字段（仅 SQL Server 显示），也可在主机填 host\\实例名 并留空端口；S...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol，任务成本显著下降",
+      "url": "https://www.oschina.net/news/503626/openai-gpt-6-2-astra-sol",
+      "summary": "OpenAI 在推特上发了句挺少见的开场白：「有些人一直在非常礼貌地问，有些人就只是问。」然后宣布 GPT-6.2 Astra 和 Sol 上线。 两个模型分工很清楚...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "OpenCode 让 Agent 用上你的真实浏览器，连带你的登录状态",
+      "url": "https://www.oschina.net/news/503625/opencode-browse",
+      "summary": "OpenCode 最近发布了个新东西，叫 Browse。一句话说清：它让编程 agent 直接用你那个已经登录着各种账号的浏览器。 形态是一个 Chromium 扩展加一个...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "倒计时2天！openKylin开源论坛参会手册来了",
+      "url": "https://www.oschina.net/news/503624",
+      "summary": "时间：2026年11月20日 13:30-16:10 地址：郑州·国际文化交流中心 3楼E305 扫描下方二维码进行报名 【openKylin开源论坛】 选择「嘉宾」 输入openK...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "绿盟科技风云卫基座模型斩获CyberGym Model榜单全球第一，91.31%！",
+      "url": "https://www.oschina.net/news/503623",
+      "summary": "绿盟科技风云卫基座模型（SecLLM-3.6-27B） ，在CyberGym Model榜单（Model-Focused） 中以91.31%的任务成功率位列全球第一。 需要首先说清楚的...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "9 MB，一个文件，一个编程 Agent：连 TUI、沙箱和 TLS 都塞进去了",
+      "url": "https://www.oschina.net/news/503622",
+      "summary": "给它一句话，它自己读文件、改文件、跑命令，循环到给出结论。 而它本身只有一个 9.3 MB 的静态二进制：拷到任何 x86-64 Linux 上就能跑， 不要 no...",
+      "author": "funnywwh",
+      "comments": 0
+    },
+    {
+      "title": "qOntology 开源版 v1.1.3 发布：长文档抽取支持分窗重试与阶段续跑，完善候选校验",
+      "url": "https://www.oschina.net/news/503620",
+      "summary": "随着本体建模逐步引入 AI 辅助抽取，抽取任务的执行稳定性、候选数据的规范性，以及后续审核操作的完整性，都成为影响建模流程的重要环节。 本次 ...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "ModStart 支持 PHP8.5 + Laravel13，纯净仓库发布",
+      "url": "https://www.oschina.net/news/503618",
+      "summary": "三个仓库同一批推送：Laravel 5.1、Laravel 9、Laravel 13 各管一段 PHP 版本区间，装完只有核心模块。 新增的是 Laravel 13 仓库，composer.json...",
+      "author": "osc_14394387",
+      "comments": 0
+    },
+    {
+      "title": "phimint v0.11.0 发布：不依赖 Node.js 和 Python，1 核 1G 跑起一个终端编码 agent",
+      "url": "https://www.oschina.net/news/503617",
+      "summary": "phimint v0.11.0 已发布（2026-11-16）。phimint 是一个用 Rust 写的终端 AI 编码 agent：一条命令装上，配好 API key，就能在终端里把需求变成跑通...",
+      "author": "hibuka",
+      "comments": 0
+    },
+    {
+      "title": "AI未来十年走向何方？李彦宏提出“智能组织”新判断及组织进化三原则｜百度世界2026回顾",
+      "url": "https://www.oschina.net/news/503615",
+      "summary": "11月12日，百度世界2026在北京·国家会议中心举办。百度创始人李彦宏在开幕式上提出，人工智能的下一幕是“智能组织”，并首次提出“组织进化三原则...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "六年 Rust 开发经历，他改变了自己的思考方式",
+      "url": "https://www.oschina.net/news/503613/how-rust-changed-me",
+      "summary": "Martijn Faassen 写 Rust 六年多，其中四年多是职业开发。他入门前就清楚这语言会折腾自己，也正因如此才想学。现在他给出的结论是：确实被改变了。...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek 悄悄收紧免费额度，或因算力资源紧张所致",
+      "url": "https://www.oschina.net/news/503610",
+      "summary": "11 月 16 日，「DeepSeek 使用额度已达上限」冲上热搜。多名用户反馈，App 和网页端同时收紧了限制，而且一次收了三条。 最直接的一条：超过 7 天没...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Windows 11 在记录你用过哪个 AI 编程助手",
+      "url": "https://www.oschina.net/news/503608/windows-coding-agent-telemetry",
+      "summary": "一位开发者在让 AI 帮忙翻 Windows 二进制文件时，在 MissionControlAggregator.dll 里翻到了一份名单：codex.exe、claude.exe、copilot.exe、cur...",
+      "author": "局",
+      "comments": 0
+    }
+  ]
+}

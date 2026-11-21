@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T07:30:29.709552+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "summary": "",
+      "author": "karpathy",
+      "comments": 330,
+      "score": 1115
+    },
+    {
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "summary": "",
+      "author": "oger",
+      "comments": 215,
+      "score": 469
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "summary": "",
+      "author": "ecares",
+      "comments": 93,
+      "score": 335
+    },
+    {
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "summary": "",
+      "author": "armcat",
+      "comments": 157,
+      "score": 321
+    },
+    {
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "summary": "",
+      "author": "pretext",
+      "comments": 180,
+      "score": 313
+    },
+    {
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "summary": "",
+      "author": "aphyr",
+      "comments": 137,
+      "score": 246
+    },
+    {
+      "title": "Simple circuits can create complex behaviors",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "summary": "",
+      "author": "aatish",
+      "comments": 77,
+      "score": 237
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "summary": "",
+      "author": "guregodevo",
+      "comments": 95,
+      "score": 189
+    },
+    {
+      "title": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "summary": "",
+      "author": "ntur1337",
+      "comments": 53,
+      "score": 181
+    },
+    {
+      "title": "The Duty of a Scholar",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "summary": "",
+      "author": "gslin",
+      "comments": 32,
+      "score": 110
+    },
+    {
+      "title": "Surviving \"The Graduate\"",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "summary": "",
+      "author": "samizdis",
+      "comments": 31,
+      "score": 109
+    },
+    {
+      "title": "Reading and writing are less symmetric than you (probably) think",
+      "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+      "summary": "",
+      "author": "luu",
+      "comments": 24,
+      "score": 106
+    },
+    {
+      "title": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "summary": "",
+      "author": "uvdn7",
+      "comments": 4,
+      "score": 95
+    },
+    {
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "summary": "",
+      "author": "doodlesdev",
+      "comments": 33,
+      "score": 86
+    },
+    {
+      "title": "Electrification Could Cut Global Energy Use in Half",
+      "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+      "summary": "",
+      "author": "toomuchtodo",
+      "comments": 27,
+      "score": 85
+    },
+    {
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "summary": "",
+      "author": "ohjeez",
+      "comments": 23,
+      "score": 85
+    },
+    {
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "url": "https://epoyraz.github.io/nes-contra-us/",
+      "summary": "",
+      "author": "tevlon",
+      "comments": 48,
+      "score": 82
+    },
+    {
+      "title": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "summary": "",
+      "author": "Zariel",
+      "comments": 28,
+      "score": 81
+    },
+    {
+      "title": "Show HN: A language model that lives in a boot sector",
+      "url": "https://github.com/kerlenton/bootgpt",
+      "summary": "",
+      "author": "kerlenton",
+      "comments": 3,
+      "score": 78
+    },
+    {
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "summary": "",
+      "author": "hapax_legomena",
+      "comments": 29,
+      "score": 61
+    },
+    {
+      "title": "A 1580 Map Shows Why Data Visualization Is Never Neutral",
+      "url": "https://thereader.mitpress.mit.edu/a-1580-map-shows-why-data-visualization-is-never-neutral/",
+      "summary": "",
+      "author": "the-mitr",
+      "comments": 1,
+      "score": 30
+    },
+    {
+      "title": "Running a bootstrapped SaaS for 20 years with my brother",
+      "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+      "summary": "",
+      "author": "whyleyc",
+      "comments": 2,
+      "score": 29
+    },
+    {
+      "title": "Edgar Allan Poe, Quintessential American Writer",
+      "url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
+      "summary": "",
+      "author": "samclemens",
+      "comments": 1,
+      "score": 29
+    },
+    {
+      "title": "Decode kernel panic from QR Code photo",
+      "url": "https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546",
+      "summary": "",
+      "author": "modinfo",
+      "comments": 8,
+      "score": 24
+    },
+    {
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "summary": "",
+      "author": "creack",
+      "comments": 6,
+      "score": 23
+    },
+    {
+      "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+      "url": "http://thales.mit.edu/bush/index.php/4801-2/",
+      "summary": "",
+      "author": "peter_d_sherman",
+      "comments": 0,
+      "score": 19
+    },
+    {
+      "title": "A brief history of just-in-time: forty years of JIT work, from 1960–2000",
+      "url": "https://dl.acm.org/doi/10.1145/857076.857077",
+      "summary": "",
+      "author": "gjvc",
+      "comments": 0,
+      "score": 19
+    },
+    {
+      "title": "OTape",
+      "url": "https://www.otape.org/",
+      "summary": "",
+      "author": "dotmanish",
+      "comments": 6,
+      "score": 18
+    },
+    {
+      "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+      "url": "https://emarzion.github.io/KSRT/",
+      "summary": "",
+      "author": "mkckto",
+      "comments": 1,
+      "score": 17
+    },
+    {
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "summary": "",
+      "author": "luu",
+      "comments": 0,
+      "score": 3
+    }
+  ]
+}

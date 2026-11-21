@@ -1,0 +1,272 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T08:30:53.464972+00:00",
+  "source": "hackernews",
+  "count": 29,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "summary": "",
+      "author": "wslh",
+      "comments": 2087,
+      "score": 1063
+    },
+    {
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "summary": "",
+      "author": "harrisonpage",
+      "comments": 353,
+      "score": 848
+    },
+    {
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "summary": "",
+      "author": "cybermango",
+      "comments": 124,
+      "score": 751
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "summary": "",
+      "author": "cybermango",
+      "comments": 219,
+      "score": 482
+    },
+    {
+      "title": "Someone reported java4shell bug in September 2026",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "summary": "",
+      "author": "notmine1337",
+      "comments": 115,
+      "score": 419
+    },
+    {
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "summary": "",
+      "author": "krthr",
+      "comments": 61,
+      "score": 290
+    },
+    {
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "summary": "",
+      "author": "dev1one1",
+      "comments": 144,
+      "score": 265
+    },
+    {
+      "title": "How to CAD Almost Anything",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "summary": "",
+      "author": "o4c",
+      "comments": 79,
+      "score": 244
+    },
+    {
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "summary": "",
+      "author": "datascientist",
+      "comments": 211,
+      "score": 232
+    },
+    {
+      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+      "url": "https://cornholenews.news",
+      "summary": "",
+      "author": "cornholemedia",
+      "comments": 101,
+      "score": 220
+    },
+    {
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "",
+      "author": "JacobHenner",
+      "comments": 146,
+      "score": 199
+    },
+    {
+      "title": "Synology Security Advisory",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "summary": "",
+      "author": "choult",
+      "comments": 105,
+      "score": 138
+    },
+    {
+      "title": "PostgreSQL 19",
+      "url": "https://www.postgresql.org/docs/release/19.0/",
+      "summary": "",
+      "author": "linzhangrun",
+      "comments": 3,
+      "score": 128
+    },
+    {
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "summary": "",
+      "author": "D_R_Farrell",
+      "comments": 80,
+      "score": 116
+    },
+    {
+      "title": "Rebuilding my local voice assistant pipeline",
+      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+      "summary": "",
+      "author": "todsacerdoti",
+      "comments": 16,
+      "score": 105
+    },
+    {
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "summary": "",
+      "author": "sandslash",
+      "comments": 203,
+      "score": 102
+    },
+    {
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "summary": "",
+      "author": "emot",
+      "comments": 38,
+      "score": 95
+    },
+    {
+      "title": "FFmpeg 9.1 'Gauss'",
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "summary": "",
+      "author": "gyan",
+      "comments": 20,
+      "score": 93
+    },
+    {
+      "title": "RegExr: Temporarily Offline",
+      "url": "https://regexr.com/",
+      "summary": "",
+      "author": "somebudyelse",
+      "comments": 38,
+      "score": 77
+    },
+    {
+      "title": "Jujutsu Primer",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "summary": "",
+      "author": "renehsz",
+      "comments": 40,
+      "score": 76
+    },
+    {
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "",
+      "author": "craigkerstiens",
+      "comments": 8,
+      "score": 76
+    },
+    {
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "summary": "",
+      "author": "lexandstuff",
+      "comments": 5,
+      "score": 75
+    },
+    {
+      "title": "ChatGPT for SNES",
+      "url": "https://www.bxfoundry.com/chatgpt_snes/",
+      "summary": "",
+      "author": "evan_",
+      "comments": 21,
+      "score": 71
+    },
+    {
+      "title": "What Comes After AGI?",
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "summary": "",
+      "author": "jdkee",
+      "comments": 64,
+      "score": 33
+    },
+    {
+      "title": "Bit Shifting in Basic",
+      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+      "summary": "",
+      "author": "efren6",
+      "comments": 2,
+      "score": 32
+    },
+    {
+      "title": "Former YC President: \"Stop!”",
+      "url": "https://geoffralston.substack.com/p/stop",
+      "summary": "",
+      "author": "reducesuffering",
+      "comments": 12,
+      "score": 25
+    },
+    {
+      "title": "Automatic Checking of Compiler Correctness with E-Graphs",
+      "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
+      "summary": "",
+      "author": "g0xA52A2A",
+      "comments": 0,
+      "score": 22
+    },
+    {
+      "title": "Frankenstein PBC – Animation, bestowed upon lifeless matter",
+      "url": "https://www.frankensteinpbc.com/",
+      "summary": "",
+      "author": "ano-ther",
+      "comments": 5,
+      "score": 17
+    },
+    {
+      "title": "The Strongest Sokoban Solver",
+      "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+      "summary": "",
+      "author": "ibobev",
+      "comments": 1,
+      "score": 11
+    }
+  ]
+}

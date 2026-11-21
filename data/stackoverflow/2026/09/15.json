@@ -1,0 +1,441 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T14:20:11.107571+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Preserving whitespace during lxml serialization",
+      "url": "https://stackoverflow.com/questions/80003272/preserving-whitespace-during-lxml-serialization",
+      "summary": "",
+      "tags": [
+        "python",
+        "serialization",
+        "lxml"
+      ],
+      "author": "RichSpie",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to build a multimodal vector database for complex Plotly charts and RAG?",
+      "url": "https://stackoverflow.com/questions/80003267/how-to-build-a-multimodal-vector-database-for-complex-plotly-charts-and-rag",
+      "summary": "",
+      "tags": [
+        "json",
+        "plotly",
+        "embedding",
+        "vector-database",
+        "multimodal"
+      ],
+      "author": "anushiya-thevapalan",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Postgres row-level security leaks across tenants when using a pooled connection",
+      "url": "https://stackoverflow.com/questions/80003232/postgres-row-level-security-leaks-across-tenants-when-using-a-pooled-connection",
+      "summary": "",
+      "tags": [
+        "postgresql",
+        "multi-tenant",
+        "node-postgres",
+        "row-level-security"
+      ],
+      "author": "Muhammad Sufyan",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Why does a Promise .then() callback not execute before setTimeout() in this example?",
+      "url": "https://stackoverflow.com/questions/80003258/why-does-a-promise-then-callback-not-execute-before-settimeout-in-this-exam",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "async-await",
+        "promise"
+      ],
+      "author": "Jayesh Gondaliya",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How can I create a Windows installer (.exe) for a .NET Framework AutoCAD plugin?",
+      "url": "https://stackoverflow.com/questions/80003261/how-can-i-create-a-windows-installer-exe-for-a-net-framework-autocad-plugin",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        ".net",
+        "autocad-plugin"
+      ],
+      "author": "Isuru Shehara",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Generating Series of Date Values in an Interactive Grid",
+      "url": "https://stackoverflow.com/questions/80003236/generating-series-of-date-values-in-an-interactive-grid",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "oracle-database",
+        "oracle-apex",
+        "interactive-grid"
+      ],
+      "author": "Bhavin Adhvaryu",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Revit Design Automation: OperationCanceledException &quot;Opening was canceled&quot; after hundreds of &quot;Space is not in a properly enclosed region&quot; warnings",
+      "url": "https://stackoverflow.com/questions/80003262/revit-design-automation-operationcanceledexception-opening-was-canceled-after",
+      "summary": "",
+      "tags": [
+        "autodesk-forge",
+        "revit-api",
+        "autodesk-designautomation",
+        "autodesk-construction-cloud"
+      ],
+      "author": "Dennis",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How do I fix my NASM code auto exiting after I open the EXE on Windows 11?",
+      "url": "https://stackoverflow.com/questions/80003248/how-do-i-fix-my-nasm-code-auto-exiting-after-i-open-the-exe-on-windows-11",
+      "summary": "",
+      "tags": [
+        "error-handling",
+        "exe",
+        "nasm"
+      ],
+      "author": "Muhammad Zeeshan",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Manually adding a column to a DataGridView messes with ColumnIndex",
+      "url": "https://stackoverflow.com/questions/80003216/manually-adding-a-column-to-a-datagridview-messes-with-columnindex",
+      "summary": "",
+      "tags": [
+        "c#",
+        "datagridview"
+      ],
+      "author": "Bumpyroadhill",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "How DDD allows to maintain the logic where business rules require two and more domain contexts",
+      "url": "https://stackoverflow.com/questions/80003242/how-ddd-allows-to-maintain-the-logic-where-business-rules-require-two-and-more-d",
+      "summary": "",
+      "tags": [
+        "domain-driven-design",
+        "entity"
+      ],
+      "author": "betchreal",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Validate_Conversion - understanding PLS-00801: internal error [*** ASSERT at file pdz2.c ... ]",
+      "url": "https://stackoverflow.com/questions/80003239/validate-conversion-understanding-pls-00801-internal-error-assert-at-fil",
+      "summary": "",
+      "tags": [
+        "advice",
+        "sql",
+        "oracle-database",
+        "database-administration",
+        "plsqldeveloper"
+      ],
+      "author": "kbd",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Error when trying to loop through and display SQLite table within HTML page",
+      "url": "https://stackoverflow.com/questions/80003223/error-when-trying-to-loop-through-and-display-sqlite-table-within-html-page",
+      "summary": "",
+      "tags": [
+        "python",
+        "html",
+        "flask",
+        "sqlalchemy",
+        "flask-sqlalchemy"
+      ],
+      "author": "gh0st_dancing",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why private constructor in singleton?",
+      "url": "https://stackoverflow.com/questions/80003187/why-private-constructor-in-singleton",
+      "summary": "",
+      "tags": [
+        "java",
+        "multithreading",
+        "singleton"
+      ],
+      "author": "user2192809",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "Can a 32-bit U-boot launch a 64-bit kernel (RPi 4)",
+      "url": "https://stackoverflow.com/questions/80003226/can-a-32-bit-u-boot-launch-a-64-bit-kernel-rpi-4",
+      "summary": "",
+      "tags": [
+        "linux",
+        "u-boot",
+        "armv8"
+      ],
+      "author": "Lars Gjesse",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Which date format does Sportmicro Football&#39;s matches-by-date endpoint accept?",
+      "url": "https://stackoverflow.com/questions/80003217/which-date-format-does-sportmicro-footballs-matches-by-date-endpoint-accept",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "rest"
+      ],
+      "author": "Bile Trajanovksa",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Getting Uncaught TypeError: Cannot read properties of undefined (reading &#39;startTime&#39;)",
+      "url": "https://stackoverflow.com/questions/80003142/getting-uncaught-typeerror-cannot-read-properties-of-undefined-reading-startt",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "angular",
+        "google-chrome",
+        "browser",
+        "microsoft-edge"
+      ],
+      "author": "tutte2k",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Why does an equivalent BETWEEN bound leak an internal 305 error in a tree-model inspection query?",
+      "url": "https://stackoverflow.com/questions/80003220/why-does-an-equivalent-between-bound-leak-an-internal-305-error-in-a-tree-model",
+      "summary": "",
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ],
+      "author": "Alex Chen",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to realize which version of Selenium to use for each Chrome version?",
+      "url": "https://stackoverflow.com/questions/80003211/how-to-realize-which-version-of-selenium-to-use-for-each-chrome-version",
+      "summary": "",
+      "tags": [
+        "python",
+        "google-chrome",
+        "selenium-webdriver"
+      ],
+      "author": "Soroush Kalantari",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Why is Err.Clear not automatically called when Exit Function is executed in a VBA procedure?",
+      "url": "https://stackoverflow.com/questions/80003230/why-is-err-clear-not-automatically-called-when-exit-function-is-executed-in-a-vb",
+      "summary": "",
+      "tags": [
+        "excel",
+        "vba"
+      ],
+      "author": "Nicolas LIENART",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Cypher COUNT() on an unbound relationship undercounts parallel edges in FalkorDB - is this expected?",
+      "url": "https://stackoverflow.com/questions/80003201/cypher-count-on-an-unbound-relationship-undercounts-parallel-edges-in-falkordb",
+      "summary": "",
+      "tags": [
+        "cypher",
+        "falkordb"
+      ],
+      "author": "Teeny Weeny",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Algorithm of position control with incremental encoder PLC",
+      "url": "https://stackoverflow.com/questions/80003214/algorithm-of-position-control-with-incremental-encoder-plc",
+      "summary": "",
+      "tags": [
+        "algorithm",
+        "plc",
+        "encoder",
+        "structured-text",
+        "incremental"
+      ],
+      "author": "Noxi",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Extend body to the bottom edge of the screen in android devices with full screen indicator - removing the black color below the indicator",
+      "url": "https://stackoverflow.com/questions/80003178/extend-body-to-the-bottom-edge-of-the-screen-in-android-devices-with-full-screen",
+      "summary": "",
+      "tags": [
+        "android",
+        "flutter"
+      ],
+      "author": "fida1989",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Are imports to the __future__ module cached?",
+      "url": "https://stackoverflow.com/questions/80003191/are-imports-to-the-future-module-cached",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "PeterZ",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Why doesn&#39;t Python use a simpler, implied enum syntax?",
+      "url": "https://stackoverflow.com/questions/80003161/why-doesnt-python-use-a-simpler-implied-enum-syntax",
+      "summary": "",
+      "tags": [
+        "python",
+        "enums"
+      ],
+      "author": "antialiased",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Is it a good practice to manage Tekton Pipeline manifests using Argo CD?",
+      "url": "https://stackoverflow.com/questions/80003175/is-it-a-good-practice-to-manage-tekton-pipeline-manifests-using-argo-cd",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "playwright",
+        "argocd",
+        "tekton",
+        "tekton-pipelines"
+      ],
+      "author": "HarishVijayamohan",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "why does pubspec.lock file look modified even after &#39;flutter upgrade --force&#39; command?",
+      "url": "https://stackoverflow.com/questions/80003173/why-does-pubspec-lock-file-look-modified-even-after-flutter-upgrade-force-co",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "flutter-upgrade"
+      ],
+      "author": "Alp",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "If A *happens-before* B in an execution, could that execution be produced by B occurring an hour before A?",
+      "url": "https://stackoverflow.com/questions/80003154/if-a-happens-before-b-in-an-execution-could-that-execution-be-produced-by-b-o",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "atomic"
+      ],
+      "author": "xmh0511",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to check proximity between two ESP32&#39;s",
+      "url": "https://stackoverflow.com/questions/80003166/how-to-check-proximity-between-two-esp32s",
+      "summary": "",
+      "tags": [
+        "embedded",
+        "esp32",
+        "arduino-esp32"
+      ],
+      "author": "MOHAMMED IBRAHIM BIN FAISAL",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "FileInfo.Length is wrong on some files, correct on others",
+      "url": "https://stackoverflow.com/questions/80002981/fileinfo-length-is-wrong-on-some-files-correct-on-others",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net-4.8",
+        "windows-server-2019",
+        "file-length"
+      ],
+      "author": "kahakella",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "Why does a FLOAT INVERTED index change query results for a filter involving negative zero in Milvus?",
+      "url": "https://stackoverflow.com/questions/80003165/why-does-a-float-inverted-index-change-query-results-for-a-filter-involving-nega",
+      "summary": "",
+      "tags": [
+        "database",
+        "milvus"
+      ],
+      "author": "Cubkm Ewaybk",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}

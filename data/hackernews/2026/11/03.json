@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T07:53:44.070263+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "summary": "",
+      "author": "dbreunig",
+      "comments": 770,
+      "score": 2461
+    },
+    {
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "summary": "",
+      "author": "chalmovsky",
+      "comments": 619,
+      "score": 1465
+    },
+    {
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "summary": "",
+      "author": "aarushyadav",
+      "comments": 329,
+      "score": 661
+    },
+    {
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "summary": "",
+      "author": "ingve",
+      "comments": 112,
+      "score": 513
+    },
+    {
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "summary": "",
+      "author": "majorchord",
+      "comments": 128,
+      "score": 450
+    },
+    {
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "summary": "",
+      "author": "xoobdev",
+      "comments": 356,
+      "score": 370
+    },
+    {
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "summary": "",
+      "author": "cdrnsf",
+      "comments": 234,
+      "score": 314
+    },
+    {
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "summary": "",
+      "author": "stared",
+      "comments": 41,
+      "score": 259
+    },
+    {
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50338728",
+      "summary": "",
+      "author": "whoishiring",
+      "comments": 167,
+      "score": 213
+    },
+    {
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "url": "https://hackertimes.ca/",
+      "summary": "",
+      "author": "polpenn",
+      "comments": 61,
+      "score": 199
+    },
+    {
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "summary": "",
+      "author": "tomrod",
+      "comments": 54,
+      "score": 196
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "summary": "",
+      "author": "makeramen",
+      "comments": 104,
+      "score": 188
+    },
+    {
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "summary": "",
+      "author": "bpierre",
+      "comments": 35,
+      "score": 156
+    },
+    {
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "summary": "",
+      "author": "smilelamp",
+      "comments": 105,
+      "score": 154
+    },
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "summary": "",
+      "author": "wuweiweiwu",
+      "comments": 94,
+      "score": 141
+    },
+    {
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "summary": "",
+      "author": "ibobev",
+      "comments": 46,
+      "score": 128
+    },
+    {
+      "title": "Resisting Cognitive Surrender",
+      "url": "https://knlb.dev/essays/surrender",
+      "summary": "",
+      "author": "knlb",
+      "comments": 40,
+      "score": 126
+    },
+    {
+      "title": "Polyend releases the Tracker firmware source code",
+      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+      "summary": "",
+      "author": "austinallegro",
+      "comments": 38,
+      "score": 122
+    },
+    {
+      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+      "summary": "",
+      "author": "gmays",
+      "comments": 8,
+      "score": 68
+    },
+    {
+      "title": "European RISC-V Industrial Computing Initiative",
+      "url": "https://erici.eu",
+      "summary": "",
+      "author": "ymz5",
+      "comments": 24,
+      "score": 59
+    },
+    {
+      "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
+      "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
+      "summary": "",
+      "author": "birdculture",
+      "comments": 4,
+      "score": 49
+    },
+    {
+      "title": "Cloudflare experiencing multiple active incidents",
+      "url": "https://www.cloudflarestatus.com/",
+      "summary": "",
+      "author": "jp1016",
+      "comments": 4,
+      "score": 32
+    },
+    {
+      "title": "V100 SXM2 pinout and NVLink reference",
+      "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+      "summary": "",
+      "author": "airhangerf15",
+      "comments": 5,
+      "score": 31
+    },
+    {
+      "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+      "url": "https://arxiv.org/abs/2608.25820",
+      "summary": "",
+      "author": "teleforce",
+      "comments": 0,
+      "score": 22
+    },
+    {
+      "title": "Show HN: I built a little browser game to practice Vim commands",
+      "url": "https://hjkl.duy.run",
+      "summary": "",
+      "author": "dh1011",
+      "comments": 13,
+      "score": 20
+    },
+    {
+      "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+      "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+      "summary": "",
+      "author": "cornfieldlabs",
+      "comments": 2,
+      "score": 16
+    },
+    {
+      "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
+      "url": "https://www.argmin.net/p/galactus-the-devourer",
+      "summary": "",
+      "author": "sebg",
+      "comments": 4,
+      "score": 15
+    },
+    {
+      "title": "Show HN: ReBirth 338 in Browser",
+      "url": "https://margeux.com/rb338.html",
+      "summary": "",
+      "author": "vegnus",
+      "comments": 5,
+      "score": 14
+    },
+    {
+      "title": "Toit v2.0.0",
+      "url": "https://toit.io/blog/toit-v2-0-0/",
+      "summary": "",
+      "author": "floitsch",
+      "comments": 1,
+      "score": 11
+    },
+    {
+      "title": "Nvidia – open-source auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "summary": "",
+      "author": "campervans",
+      "comments": 1,
+      "score": 5
+    }
+  ]
+}

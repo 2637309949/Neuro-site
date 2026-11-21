@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T15:20:00.818407+00:00",
+  "source": "github",
+  "count": 17,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "opengeos/GeoLibre",
+      "repo": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "summary": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars": 3815,
+      "today_stars": 667
+    },
+    {
+      "title": "moeru-ai/airi",
+      "repo": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "summary": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 45228,
+      "today_stars": 676
+    },
+    {
+      "title": "affaan-m/ECC",
+      "repo": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 235335,
+      "today_stars": 860
+    },
+    {
+      "title": "huggingface/speech-to-speech",
+      "repo": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "summary": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars": 7680,
+      "today_stars": 837
+    },
+    {
+      "title": "1jehuang/jcode",
+      "repo": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "summary": "The most RAM effiecent harness",
+      "language": "Rust",
+      "stars": 13204,
+      "today_stars": 652
+    },
+    {
+      "title": "grokability/snipe-it",
+      "repo": "grokability/snipe-it",
+      "url": "https://github.com/grokability/snipe-it",
+      "summary": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "stars": 14321,
+      "today_stars": 197
+    },
+    {
+      "title": "deepfakes/faceswap",
+      "repo": "deepfakes/faceswap",
+      "url": "https://github.com/deepfakes/faceswap",
+      "summary": "Deepfakes Software For All",
+      "language": "Python",
+      "stars": 56075,
+      "today_stars": 135
+    },
+    {
+      "title": "microsoft/VibeVoice",
+      "repo": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "summary": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 51124,
+      "today_stars": 332
+    },
+    {
+      "title": "different-ai/openwork",
+      "repo": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "summary": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "language": "TypeScript",
+      "stars": 17545,
+      "today_stars": 58
+    },
+    {
+      "title": "obra/superpowers",
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 263059,
+      "today_stars": 634
+    },
+    {
+      "title": "MoonshotAI/FlashKDA",
+      "repo": "MoonshotAI/FlashKDA",
+      "url": "https://github.com/MoonshotAI/FlashKDA",
+      "summary": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "language": "Cuda",
+      "stars": 919,
+      "today_stars": 216
+    },
+    {
+      "title": "NanmiCoder/MediaCrawler",
+      "repo": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "summary": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars": 58980,
+      "today_stars": 187
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 15774,
+      "today_stars": 386
+    },
+    {
+      "title": "paperswithbacktest/awesome-systematic-trading",
+      "repo": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "summary": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars": 10178,
+      "today_stars": 950
+    },
+    {
+      "title": "maderix/ANE",
+      "repo": "maderix/ANE",
+      "url": "https://github.com/maderix/ANE",
+      "summary": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "language": "Objective-C",
+      "stars": 7093,
+      "today_stars": 13
+    },
+    {
+      "title": "pascalorg/editor",
+      "repo": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "summary": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 19361,
+      "today_stars": 1026
+    },
+    {
+      "title": "virgiliojr94/book-to-skill",
+      "repo": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "summary": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 12327,
+      "today_stars": 1428
+    }
+  ]
+}

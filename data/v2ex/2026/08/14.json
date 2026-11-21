@@ -1,0 +1,89 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T14:20:45.741837+00:00",
+  "source": "v2ex",
+  "count": 6,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "节点",
+      "key": "node",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回复数",
+      "key": "replies",
+      "type": "metric",
+      "icon": "MessageSquare",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "想起一件招笑的小事",
+      "url": "https://www.v2ex.com/t/1234269",
+      "summary": "",
+      "node": "生活",
+      "author": "v2er4241",
+      "replies": 145
+    },
+    {
+      "title": "local.ai，我来开个帖子接力吧",
+      "url": "https://www.v2ex.com/t/1234283",
+      "summary": "",
+      "node": "Local LLM",
+      "author": "dirkchou",
+      "replies": 133
+    },
+    {
+      "title": "脑供血不足晕倒",
+      "url": "https://www.v2ex.com/t/1234248",
+      "summary": "",
+      "node": "生活",
+      "author": "Leeeeex",
+      "replies": 95
+    },
+    {
+      "title": "第一次在本站拉黑人",
+      "url": "https://www.v2ex.com/t/1234332",
+      "summary": "",
+      "node": "随想",
+      "author": "Danswerme",
+      "replies": 81
+    },
+    {
+      "title": "撸铁并佩戴金戒指的佬们，如何解决戒指被各种哑铃杠铃刮花&搞变形的问题的？",
+      "url": "https://www.v2ex.com/t/1234281",
+      "summary": "",
+      "node": "问与答",
+      "author": "FaustinaD",
+      "replies": 79
+    },
+    {
+      "title": "公司本地部署开源模型",
+      "url": "https://www.v2ex.com/t/1234254",
+      "summary": "",
+      "node": "Local LLM",
+      "author": "majuzhang",
+      "replies": 49
+    }
+  ]
+}

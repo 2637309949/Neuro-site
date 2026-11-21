@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T13:35:49.899732+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Termexo V0.7.0 发布：终端可见并切换 Claude / Codex 登录账号",
+      "url": "https://www.oschina.net/news/502303",
+      "summary": "Termexo 于近日发布 V0.7.0 版本。该版本的主要方向是账号管理与窗口界面：把 Claude Code 与 Codex 的登录身份从隐藏在环境变量中的状态，变为终端...",
+      "author": "GuoMengyue",
+      "comments": 0
+    },
+    {
+      "title": "别再让员工偷偷用 ChatGPT 了：用一台内网网关，把大模型变成\"自来水\"",
+      "url": "https://www.oschina.net/news/502302",
+      "summary": "企业接入大模型，最难的不是技术，是秩序。本文分享一个开源思路：在内网部署一层轻量 API 网关（llm-proxy-tk），让大模型像公司内部的水电一样—...",
+      "author": "boonya",
+      "comments": 0
+    },
+    {
+      "title": "灵界 OS v3.1.2 现已发布",
+      "url": "https://www.oschina.net/news/502301",
+      "summary": "灵界 OS v3.1.2 现已发布。 本次更新重点优化系统交互质感，同时新增存储管理功能，并修复了 3 个 Bug 和 1 个安全漏洞。 【📦 新增功能】 存储管...",
+      "author": "xzh_Tim",
+      "comments": 0
+    },
+    {
+      "title": "UJCMS 12.3.2 发布，国内 Java CMS 网站内容管理系统",
+      "url": "https://www.oschina.net/news/502299",
+      "summary": "UJCMS 12.3.2 正式发布。本次版本重点完善会员服务与站内互动体验：私信会话记录按用户 ID 顺序先行写入，避免并发发送私信时产生死锁；修复区块项...",
+      "author": "ujcms",
+      "comments": 0
+    },
+    {
+      "title": "打破盲眼困境：多款AI Agent搜索Skill推荐及选型指南",
+      "url": "https://www.oschina.net/news/502298",
+      "summary": "AI Agent 的推理分析能力日益强大，但其对信息输入质量的依赖也达到了前所未有的高度。当前，众多开发者在构建智能工作流时频繁遭遇“盲眼巨人”困...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "shrl.io - 隐私优先的自托管 URL 短链接服务",
+      "url": "https://www.oschina.net/p/shrl-io",
+      "summary": "shrl.io 用 Go 写了四个微服务：内部 API、公开认证服务、Redis 驱动的重定向器、分析 worker。PostgreSQL 做数据源，Redis 缓存链接并流式处理访问...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "外交部公布：openKylin入选上合成果清单，重塑全球基础软件合作新范式",
+      "url": "https://www.oschina.net/news/502296",
+      "summary": "9月2日，外交部发布了《推动上海合作组织发展的中国行动成果清单（2025－2026年）》。该清单集中展示2025年上海合作组织天津峰会后，中国与上海合作...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "Meta 这个百万级上下文模型，用数据换折扣，差价 21 倍",
+      "url": "https://www.oschina.net/news/502295/meta-ai-muse-spark-1-3",
+      "summary": "Meta 最新 AI 大模型 Muse Spark 1.3 把上下文窗口拉到了 100 万 token，定价分了两档，差价超过 10 倍。 Meta 的新模型定位很明确：长周期、多步骤...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "腾讯 WorkBuddy 原生适配，上架 deepin 应用商店！",
+      "url": "https://www.oschina.net/news/502294",
+      "summary": "近日，腾讯 WorkBuddy 正式上架deepin应用商店，在deepin应用商店搜索“WorkBuddy”一键下载安装，开箱即用，无需任何额外配置。 :bulb: 现在下载体...",
+      "author": "深度操作系统",
+      "comments": 0
+    },
+    {
+      "title": "每个开发者都能做的工业质检AI，RT-Thread 命题公布",
+      "url": "https://www.oschina.net/news/502293",
+      "summary": "工厂质检是 AI 落地制造业最成熟的场景之一。产线上的划痕、裂纹、装配缺陷，机器视觉效率与准确度远高于人工。可要真正在工厂里铺开，事情没那么简...",
+      "author": "大东",
+      "comments": 0
+    },
+    {
+      "title": "ZStack ZVF 模块化替代：迁移、管理可拆分验收",
+      "url": "https://www.oschina.net/news/502292",
+      "summary": "VMware替代已经从“有没有国产方案”转向“哪种方案更适合现有环境”。服务器虚拟化平台的功能名称高度相似：虚拟机生命周期、HA、热迁移、存储和网...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "HarmonyOS Web开发指南：如何使用DevTools高效调试前端页面？",
+      "url": "https://www.oschina.net/news/502290",
+      "summary": "在HarmonyOS应用开发中，前端页面调试是定位问题、优化体验的关键环节。DevTools作为专业的Web前端开发调试工具，可实现电脑端对移动设备前端页面的...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "开源 AI 终端助手 Pragmatic AI Shell 发布 v1.0：多模型热切换 + 免 JRE 原生二进制",
+      "url": "https://www.oschina.net/news/502288",
+      "summary": "用自然语言驱动终端的开源工具 Pragmatic AI Shell（smartcli） 正式发布 v1.0：你说人话，它生成 shell 命令，安全过滤后确认执行，全程可审计...",
+      "author": "二两有点晕",
+      "comments": 0
+    },
+    {
+      "title": "MIPS发布工作负载原生平台，全面赋能物理AI",
+      "url": "https://www.oschina.net/news/502287",
+      "summary": "推理原生平台：MIPS Acies:tm:是一个面向现代边缘工作负载的AI推理开发者平台，配备开放、基于标准的NPU、开放软件栈，以及易于采用的外形设计。...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "DBErp v3.0.4 发布：新增销售毛利、移动平均成本与 SMTP 邮件服务",
+      "url": "https://www.oschina.net/news/502286",
+      "summary": "DBErp 进销存系统 v3.0.4 正式发布。 本次版本重点补充了 销售毛利分析、库存移动平均成本、SMTP 系统邮件、本地部署授权 等能力，同时继续完善库存...",
+      "author": "静静的风",
+      "comments": 0
+    },
+    {
+      "title": "2026科研图表工具箱：四类图表从统计到交互全解析",
+      "url": "https://www.oschina.net/news/502285",
+      "summary": "科研图表不是单一的视觉产物，而是一个包含多种类型、服务于不同表达目的的视觉体系。统计数据图表用于展示数据分析结果，科研插图用于呈现机制和概...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "RXThinkCMF 敏捷开发框架 ThinkPhp8+AntdVue 版本 v2.6.1 发布",
+      "url": "https://www.oschina.net/news/502284",
+      "summary": "v2.6.1 更新内容： 1、修复近用户反馈的问题； 一款 PHP 语言基于 ThinkPhp8、Vue3、AntDesign、MySQL 等框架精心打造的一款模块化、插件化、高性能...",
+      "author": "蓝鲸云开源",
+      "comments": 0
+    },
+    {
+      "title": "DjangoAdmin 敏捷开发框架 Django+Layui 版本 v2.8.1 发布",
+      "url": "https://www.oschina.net/news/502283",
+      "summary": "v2.8.1 更新内容： 1、修复近期用户反馈的问题； 一款 Python 语言基于 Django、Layui、MySQL 等框架精心打造的一款模块化、高性能、企业级的敏捷开...",
+      "author": "djangoadmin",
+      "comments": 0
+    },
+    {
+      "title": "Bee 3.0.0 LTS版发布,多层子表关联查询;分库分表Sharding同步升级;支持虚拟线程",
+      "url": "https://www.oschina.net/news/502281",
+      "summary": "ORM Bee,体积小,速度快,功能强. 接近JDBC的速度,3.0.0 LTS 版本仅969k. Bee, 接口简单，功能齐全，性能好，支持原生分页性能更高；还有分库分表 ...",
+      "author": "BeeHoney",
+      "comments": 0
+    },
+    {
+      "title": ":exclamation:️极速开源后台框架 FastAdmin V1.6.6 正式版（安全更新）",
+      "url": "https://www.oschina.net/news/502279",
+      "summary": "FastAdmin 是专为开发者精心打造的一款开源后台框架，高效且可以免费商用。 努力为开发者节省时间，让大家有更多的时间读书、健身、开源、投资、旅...",
+      "author": "建伟F4nniu",
+      "comments": 0
+    }
+  ]
+}
