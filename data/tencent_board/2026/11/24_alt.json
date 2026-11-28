@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T10:53:04.109758+00:00",
+  "source": "tencent_board",
+  "count": 30,
+  "columns": [
+    {
+      "name": "板块名",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "涨跌幅",
+      "key": "change",
+      "type": "metric",
+      "directionToggle": true
+    },
+    {
+      "name": "主力净流入",
+      "key": "netInflow",
+      "type": "metric"
+    },
+    {
+      "name": "领涨股",
+      "key": "leadStock",
+      "type": "text"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "贵金属",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801053&module=hy",
+      "summary": "",
+      "change": "-4.00%",
+      "netInflow": -26391,
+      "leadStock": "湖南白银"
+    },
+    {
+      "title": "工业金属",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801055&module=hy",
+      "summary": "",
+      "change": "-3.44%",
+      "netInflow": -81545,
+      "leadStock": "豪美新材"
+    },
+    {
+      "title": "小金属",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801054&module=hy",
+      "summary": "",
+      "change": "-2.14%",
+      "netInflow": -112653,
+      "leadStock": "厦门钨业"
+    },
+    {
+      "title": "炼化及贸易",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801963&module=hy",
+      "summary": "",
+      "change": "-2.08%",
+      "netInflow": -19548,
+      "leadStock": "宝利国际"
+    },
+    {
+      "title": "乘用车",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801095&module=hy",
+      "summary": "",
+      "change": "-2.07%",
+      "netInflow": -74642,
+      "leadStock": "赛力斯"
+    },
+    {
+      "title": "冶钢原料",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801043&module=hy",
+      "summary": "",
+      "change": "-1.98%",
+      "netInflow": -4923,
+      "leadStock": "方大炭素"
+    },
+    {
+      "title": "生物制品",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801152&module=hy",
+      "summary": "",
+      "change": "-1.98%",
+      "netInflow": -23363,
+      "leadStock": "*ST未名"
+    },
+    {
+      "title": "焦炭Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801952&module=hy",
+      "summary": "",
+      "change": "-1.97%",
+      "netInflow": -5323,
+      "leadStock": "安泰集团"
+    },
+    {
+      "title": "电视广播Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801995&module=hy",
+      "summary": "",
+      "change": "-1.80%",
+      "netInflow": -9679,
+      "leadStock": "新媒股份"
+    },
+    {
+      "title": "油服工程",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801962&module=hy",
+      "summary": "",
+      "change": "-1.75%",
+      "netInflow": -14133,
+      "leadStock": "海油发展"
+    },
+    {
+      "title": "贸易Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801202&module=hy",
+      "summary": "",
+      "change": "-1.68%",
+      "netInflow": -3512,
+      "leadStock": "凯瑞德"
+    },
+    {
+      "title": "多元金融",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801191&module=hy",
+      "summary": "",
+      "change": "-1.53%",
+      "netInflow": -21094,
+      "leadStock": "仁东控股"
+    },
+    {
+      "title": "普钢",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801044&module=hy",
+      "summary": "",
+      "change": "-1.52%",
+      "netInflow": -16772,
+      "leadStock": "中南股份"
+    },
+    {
+      "title": "证券Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801193&module=hy",
+      "summary": "",
+      "change": "-1.51%",
+      "netInflow": -154083,
+      "leadStock": "华林证券"
+    },
+    {
+      "title": "燃气Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801163&module=hy",
+      "summary": "",
+      "change": "-1.49%",
+      "netInflow": -15344,
+      "leadStock": "ST金鸿"
+    },
+    {
+      "title": "环境治理",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801971&module=hy",
+      "summary": "",
+      "change": "-1.48%",
+      "netInflow": -36740,
+      "leadStock": "*ST动力"
+    },
+    {
+      "title": "中药Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801155&module=hy",
+      "summary": "",
+      "change": "-1.46%",
+      "netInflow": -25331,
+      "leadStock": "维康药业"
+    },
+    {
+      "title": "造纸",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801143&module=hy",
+      "summary": "",
+      "change": "-1.33%",
+      "netInflow": -19446,
+      "leadStock": "山鹰国际"
+    },
+    {
+      "title": "风电设备",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801736&module=hy",
+      "summary": "",
+      "change": "-1.31%",
+      "netInflow": -17739,
+      "leadStock": "中环海陆"
+    },
+    {
+      "title": "医疗服务",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801156&module=hy",
+      "summary": "",
+      "change": "-1.26%",
+      "netInflow": -44970,
+      "leadStock": "澳洋健康"
+    },
+    {
+      "title": "化学原料",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801033&module=hy",
+      "summary": "",
+      "change": "-1.22%",
+      "netInflow": -32281,
+      "leadStock": "金牛化工"
+    },
+    {
+      "title": "综合Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801231&module=hy",
+      "summary": "",
+      "change": "-1.21%",
+      "netInflow": -2886,
+      "leadStock": "ST三木"
+    },
+    {
+      "title": "煤炭开采",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801951&module=hy",
+      "summary": "",
+      "change": "-1.18%",
+      "netInflow": -44128,
+      "leadStock": "中煤能源"
+    },
+    {
+      "title": "玻璃玻纤",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801712&module=hy",
+      "summary": "",
+      "change": "-1.17%",
+      "netInflow": -21072,
+      "leadStock": "振石股份"
+    },
+    {
+      "title": "化学纤维",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801032&module=hy",
+      "summary": "",
+      "change": "-1.16%",
+      "netInflow": 4084,
+      "leadStock": "宝丽迪"
+    },
+    {
+      "title": "教育",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801994&module=hy",
+      "summary": "",
+      "change": "-1.13%",
+      "netInflow": -4421,
+      "leadStock": "*ST开元"
+    },
+    {
+      "title": "专业工程",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801724&module=hy",
+      "summary": "",
+      "change": "-1.07%",
+      "netInflow": 4526,
+      "leadStock": "志特新材"
+    },
+    {
+      "title": "医疗器械",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801153&module=hy",
+      "summary": "",
+      "change": "-1.02%",
+      "netInflow": -22507,
+      "leadStock": "英诺特"
+    },
+    {
+      "title": "出版",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801769&module=hy",
+      "summary": "",
+      "change": "-0.98%",
+      "netInflow": -38356,
+      "leadStock": "读客文化"
+    },
+    {
+      "title": "化学制品",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801034&module=hy",
+      "summary": "",
+      "change": "-0.95%",
+      "netInflow": -91691,
+      "leadStock": "联合化学"
+    }
+  ]
+}

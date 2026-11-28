@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T14:31:52.571376+00:00",
+  "source": "github",
+  "count": 9,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "php/php-src",
+      "repo": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "summary": "The PHP Interpreter",
+      "language": "C",
+      "stars": 40892,
+      "today_stars": 110
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 31360,
+      "today_stars": 303
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 172806,
+      "today_stars": 1949
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 38423,
+      "today_stars": 2979
+    },
+    {
+      "title": "Graphify-Labs/graphify",
+      "repo": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "summary": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "stars": 132461,
+      "today_stars": 1407
+    },
+    {
+      "title": "supabase/supabase",
+      "repo": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "summary": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 113319,
+      "today_stars": 683
+    },
+    {
+      "title": "fastapi/fastapi",
+      "repo": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "stars": 103505,
+      "today_stars": 96
+    },
+    {
+      "title": "luongnv89/claude-howto",
+      "repo": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "summary": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": 42750,
+      "today_stars": 428
+    },
+    {
+      "title": "Meloong-Git/PCL",
+      "repo": "Meloong-Git/PCL",
+      "url": "https://github.com/Meloong-Git/PCL",
+      "summary": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "language": "Visual Basic .NET",
+      "stars": 8594,
+      "today_stars": 115
+    }
+  ]
+}

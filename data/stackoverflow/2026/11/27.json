@@ -1,0 +1,422 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-26T22:17:02.480803+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "while loop sometimes loops infinitely, but sometimes works fine",
+      "url": "https://stackoverflow.com/questions/80018915/while-loop-sometimes-loops-infinitely-but-sometimes-works-fine",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "loops"
+      ],
+      "author": "jfuertesm",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Unity / C#: enemy spawning every round",
+      "url": "https://stackoverflow.com/questions/80018913/unity-c-enemy-spawning-every-round",
+      "summary": "",
+      "tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "author": "Angelica Tadie",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How do I implement a yield function for my game engine?",
+      "url": "https://stackoverflow.com/questions/80018887/how-do-i-implement-a-yield-function-for-my-game-engine",
+      "summary": "",
+      "tags": [
+        "c",
+        "game-engine",
+        "coroutine"
+      ],
+      "author": "p1xel12",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Is there a way to make Chat GPT edit files opened in Delphi?",
+      "url": "https://stackoverflow.com/questions/80018906/is-there-a-way-to-make-chat-gpt-edit-files-opened-in-delphi",
+      "summary": "",
+      "tags": [
+        "delphi",
+        "openai-api"
+      ],
+      "author": "zac",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Does reassignment with the same variable name in Rust not allow for reclamation of the originally assigned variable?",
+      "url": "https://stackoverflow.com/questions/80018899/does-reassignment-with-the-same-variable-name-in-rust-not-allow-for-reclamation",
+      "summary": "",
+      "tags": [
+        "rust"
+      ],
+      "author": "Nobi2720",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How do I capture Mouse/Keyboard input in my game when it&#39;s not the window/application in focus?",
+      "url": "https://stackoverflow.com/questions/80018900/how-do-i-capture-mouse-keyboard-input-in-my-game-when-its-not-the-window-applic",
+      "summary": "",
+      "tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "author": "Awakened Goat",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Confusion between text and number while reading Excel using xlrd",
+      "url": "https://stackoverflow.com/questions/80018893/confusion-between-text-and-number-while-reading-excel-using-xlrd",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-3.x",
+        "excel",
+        "xlrd"
+      ],
+      "author": "O Janin",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Guthub custom image runners",
+      "url": "https://stackoverflow.com/questions/80018898/guthub-custom-image-runners",
+      "summary": "",
+      "tags": [
+        "image",
+        "github",
+        "image-management"
+      ],
+      "author": "Dscorpian",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Win32 C++ Progress Bar Indefinite Marquee Animation does not work despite PBS_MARQUEE style and PBM_SETMARQUEE message",
+      "url": "https://stackoverflow.com/questions/80018867/win32-c-progress-bar-indefinite-marquee-animation-does-not-work-despite-pbs-ma",
+      "summary": "",
+      "tags": [
+        "winapi"
+      ],
+      "author": "gene b.",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "C++ seg fault when printing matrix in file",
+      "url": "https://stackoverflow.com/questions/80018840/c-seg-fault-when-printing-matrix-in-file",
+      "summary": "",
+      "tags": [
+        "c++"
+      ],
+      "author": "Dionivio",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "How do you handle DbUp migrations when a hotfix script conflicts with changes already applied on develop?",
+      "url": "https://stackoverflow.com/questions/80018876/how-do-you-handle-dbup-migrations-when-a-hotfix-script-conflicts-with-changes-al",
+      "summary": "",
+      "tags": [
+        "c#",
+        "sql-server",
+        "dbup"
+      ],
+      "author": "EMN",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "YouTube Data API Upload Restriction",
+      "url": "https://stackoverflow.com/questions/80018884/youtube-data-api-upload-restriction",
+      "summary": "",
+      "tags": [
+        "youtube-api"
+      ],
+      "author": "01.Trivle",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "I narrowed a segfault to 22 lines of code but I already accounted for null terminators in dynamic memory and variable limits, what else could it be?",
+      "url": "https://stackoverflow.com/questions/80018742/i-narrowed-a-segfault-to-22-lines-of-code-but-i-already-accounted-for-null-termi",
+      "summary": "",
+      "tags": [
+        "c",
+        "struct",
+        "buffer-overflow"
+      ],
+      "author": "Enny",
+      "comments": 2,
+      "score": 9
+    },
+    {
+      "title": "Position of game object not updating",
+      "url": "https://stackoverflow.com/questions/80018855/position-of-game-object-not-updating",
+      "summary": "",
+      "tags": [
+        "c#",
+        "unity-game-engine"
+      ],
+      "author": "SuperSillyNova",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to define null collection for returning into blade",
+      "url": "https://stackoverflow.com/questions/80018875/how-to-define-null-collection-for-returning-into-blade",
+      "summary": "",
+      "tags": [
+        "php",
+        "arrays",
+        "laravel",
+        "collections",
+        "laravel-collection"
+      ],
+      "author": "Pouya Vaghefi",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "shell script to back up files",
+      "url": "https://stackoverflow.com/questions/80018874/shell-script-to-back-up-files",
+      "summary": "",
+      "tags": [
+        "linux",
+        "shell"
+      ],
+      "author": "CircleTR",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "v20 close accordion from button doesn&#39;t close",
+      "url": "https://stackoverflow.com/questions/80018805/v20-close-accordion-from-button-doesnt-close",
+      "summary": "",
+      "tags": [
+        "angular",
+        "primeng",
+        "accordion"
+      ],
+      "author": "FS - Angular Love",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "pathlib.Path quite slow",
+      "url": "https://stackoverflow.com/questions/80018863/pathlib-path-quite-slow",
+      "summary": "",
+      "tags": [
+        "python",
+        "pathlib"
+      ],
+      "author": "NickC",
+      "comments": 0,
+      "score": -9
+    },
+    {
+      "title": "CLP E2 FRESCO PLAY. Question 4 need correct sql code answer for",
+      "url": "https://stackoverflow.com/questions/80018873/clp-e2-fresco-play-question-4-need-correct-sql-code-answer-for",
+      "summary": "",
+      "tags": [
+        "sql",
+        "plsql"
+      ],
+      "author": "Soham Salvi",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Whats the most efficient way to pull new messages?",
+      "url": "https://stackoverflow.com/questions/80018832/whats-the-most-efficient-way-to-pull-new-messages",
+      "summary": "",
+      "tags": [
+        "advice",
+        "javascript",
+        "php"
+      ],
+      "author": "NoahGNielsen",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How to catch Git STDOUT while redirecting STDERR to dialog?",
+      "url": "https://stackoverflow.com/questions/80018862/how-to-catch-git-stdout-while-redirecting-stderr-to-dialog",
+      "summary": "",
+      "tags": [
+        "bash",
+        "dialog",
+        "io-redirection"
+      ],
+      "author": "fozzybear",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Flask-SQLAlchemy Delete Record by ID",
+      "url": "https://stackoverflow.com/questions/80018821/flask-sqlalchemy-delete-record-by-id",
+      "summary": "",
+      "tags": [
+        "python",
+        "flask",
+        "flask-sqlalchemy"
+      ],
+      "author": "gh0st_dancing",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Logitech wireless mouse not responding on both OS",
+      "url": "https://stackoverflow.com/questions/80018853/logitech-wireless-mouse-not-responding-on-both-os",
+      "summary": "",
+      "tags": [
+        "usb",
+        "driver",
+        "mouse",
+        "device",
+        "logitech"
+      ],
+      "author": "Noah Andriamampianina",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "Snakemake missing files after X seconds?",
+      "url": "https://stackoverflow.com/questions/80018844/snakemake-missing-files-after-x-seconds",
+      "summary": "",
+      "tags": [
+        "snakemake"
+      ],
+      "author": "lo2",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "fpc is not recognized as the name of a cmdlet",
+      "url": "https://stackoverflow.com/questions/80018834/fpc-is-not-recognized-as-the-name-of-a-cmdlet",
+      "summary": "",
+      "tags": [
+        "vs-code",
+        "pascal",
+        "freepascal"
+      ],
+      "author": "K&#233;zia.L",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Is there a notation for array literals in gawk?",
+      "url": "https://stackoverflow.com/questions/80018792/is-there-a-notation-for-array-literals-in-gawk",
+      "summary": "",
+      "tags": [
+        "arrays",
+        "for-loop",
+        "awk"
+      ],
+      "author": "U. Windl",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to configure a second DataSource using JdbcTemplate in Spring Boot?",
+      "url": "https://stackoverflow.com/questions/80018780/how-to-configure-a-second-datasource-using-jdbctemplate-in-spring-boot",
+      "summary": "",
+      "tags": [
+        "oracle-database",
+        "spring-boot",
+        "spring-data-jpa",
+        "spring-jdbc"
+      ],
+      "author": "viraj nerlekar",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Script to generate and fill a template does not populate",
+      "url": "https://stackoverflow.com/questions/80018752/script-to-generate-and-fill-a-template-does-not-populate",
+      "summary": "",
+      "tags": [
+        "google-sheets",
+        "google-apps-script"
+      ],
+      "author": "Los",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "Integrate a partial that is dedicated to site responsiveness through media queries",
+      "url": "https://stackoverflow.com/questions/80018733/integrate-a-partial-that-is-dedicated-to-site-responsiveness-through-media-queri",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "sass"
+      ],
+      "author": "joshu",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Why is reveal_type() recognised without import, but not assert_type() or assert_never()?",
+      "url": "https://stackoverflow.com/questions/80018710/why-is-reveal-type-recognised-without-import-but-not-assert-type-or-assert",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-typing"
+      ],
+      "author": "JadenV15",
+      "comments": 2,
+      "score": 1
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T07:21:17.981669+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Django template: show price normally, or show discount price with original price struck through below",
+      "url": "https://stackoverflow.com/questions/80008837/django-template-show-price-normally-or-show-discount-price-with-original-price",
+      "summary": "",
+      "tags": [
+        "advice",
+        "django",
+        "django-templates"
+      ],
+      "author": "Angelo",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How to block and unblock a user from sending messages in a Matrix protocol private room?",
+      "url": "https://stackoverflow.com/questions/80008840/how-to-block-and-unblock-a-user-from-sending-messages-in-a-matrix-protocol-priva",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "vue.js",
+        "nestjs",
+        "matrix-synapse"
+      ],
+      "author": "sunlyhuor",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Flutter FCM Topic Notifications Not Saved to Hive on iOS When App Is Closed",
+      "url": "https://stackoverflow.com/questions/80008843/flutter-fcm-topic-notifications-not-saved-to-hive-on-ios-when-app-is-closed",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "dart",
+        "push-notification",
+        "apple-push-notifications"
+      ],
+      "author": "Jiyad",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Vectorized mavg across rows on each column of an array vector",
+      "url": "https://stackoverflow.com/questions/80008839/vectorized-mavg-across-rows-on-each-column-of-an-array-vector",
+      "summary": "",
+      "tags": [
+        "arrays",
+        "moving-average",
+        "dolphindb"
+      ],
+      "author": "Ethan",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Merge Two Celery Tasks",
+      "url": "https://stackoverflow.com/questions/80008831/merge-two-celery-tasks",
+      "summary": "",
+      "tags": [
+        "python",
+        "celery"
+      ],
+      "author": "Sandi",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Few architectural doubts about Apache PLC4X",
+      "url": "https://stackoverflow.com/questions/80008828/few-architectural-doubts-about-apache-plc4x",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "apache-plc4x"
+      ],
+      "author": "Vigneshwara Sivakumar",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How do I create a Windows app in Node.js?",
+      "url": "https://stackoverflow.com/questions/80008821/how-do-i-create-a-windows-app-in-node-js",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "node.js",
+        "windows"
+      ],
+      "author": "Loliland Wizard",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How to color code individual rows of kableextra table in quarto",
+      "url": "https://stackoverflow.com/questions/80008803/how-to-color-code-individual-rows-of-kableextra-table-in-quarto",
+      "summary": "",
+      "tags": [
+        "r",
+        "quarto",
+        "kable"
+      ],
+      "author": "Kelly Ireland",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why does async void event handler swallow exceptions in .NET, and what&#39;s the proper pattern for async event handling?",
+      "url": "https://stackoverflow.com/questions/80008814/why-does-async-void-event-handler-swallow-exceptions-in-net-and-whats-the-pro",
+      "summary": "",
+      "tags": [
+        "c#",
+        "wpf"
+      ],
+      "author": "Aamir Master",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Is a dedicated MySQL replica for AI/agent traffic worth the cost and routing complexity?",
+      "url": "https://stackoverflow.com/questions/80008815/is-a-dedicated-mysql-replica-for-ai-agent-traffic-worth-the-cost-and-routing-com",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "mysql"
+      ],
+      "author": "forumbyr",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Stripe connect live account creation error",
+      "url": "https://stackoverflow.com/questions/80008820/stripe-connect-live-account-creation-error",
+      "summary": "",
+      "tags": [
+        "stripe-payments"
+      ],
+      "author": "Ronesia Isikuru",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Why does the PHP website example for create_session_id include a line that sets use_strict_mode to 0?",
+      "url": "https://stackoverflow.com/questions/80008792/why-does-the-php-website-example-for-create-session-id-include-a-line-that-sets",
+      "summary": "",
+      "tags": [
+        "php",
+        "session"
+      ],
+      "author": "Code83",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How to make use of Rust functions/structs in rust/bindings/bindings_generated.rs?",
+      "url": "https://stackoverflow.com/questions/80008811/how-to-make-use-of-rust-functions-structs-in-rust-bindings-bindings-generated-rs",
+      "summary": "",
+      "tags": [
+        "rust",
+        "linux-kernel",
+        "rust-bindgen"
+      ],
+      "author": "Ender",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "VScode kotlin unresolved reference println",
+      "url": "https://stackoverflow.com/questions/80008805/vscode-kotlin-unresolved-reference-println",
+      "summary": "",
+      "tags": [
+        "kotlin",
+        "vs-code",
+        "debugging"
+      ],
+      "author": "TheCoder779",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to function in Node.js without libraries",
+      "url": "https://stackoverflow.com/questions/80008799/how-to-function-in-node-js-without-libraries",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "css",
+        "node.js",
+        "node-modules"
+      ],
+      "author": "Koolaid222",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Floating point comparisons",
+      "url": "https://stackoverflow.com/questions/80008639/floating-point-comparisons",
+      "summary": "",
+      "tags": [
+        "c#",
+        "c"
+      ],
+      "author": "i486",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Why do some tags I am passing into createContextualFragment not appear as elements in the resulting DocumentFragment?",
+      "url": "https://stackoverflow.com/questions/80008787/why-do-some-tags-i-am-passing-into-createcontextualfragment-not-appear-as-elemen",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "dom",
+        "html-parsing",
+        "documentfragment"
+      ],
+      "author": "dumbass",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "legendry unable to nest axis guide",
+      "url": "https://stackoverflow.com/questions/80008798/legendry-unable-to-nest-axis-guide",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2",
+        "nested",
+        "axis"
+      ],
+      "author": "Matteo",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Why does the GCC compiler generate operands and mnemonics that specify just the low-order bytes instead of using the declared size?",
+      "url": "https://stackoverflow.com/questions/80008585/why-does-the-gcc-compiler-generate-operands-and-mnemonics-that-specify-just-the",
+      "summary": "",
+      "tags": [
+        "c",
+        "assembly",
+        "gcc",
+        "x86-64",
+        "compiler-construction"
+      ],
+      "author": "PEREZ MONSIVAIS JOSE DE JESUS ",
+      "comments": 2,
+      "score": 5
+    },
+    {
+      "title": "Select only if ID value is X and no other value",
+      "url": "https://stackoverflow.com/questions/80008655/select-only-if-id-value-is-x-and-no-other-value",
+      "summary": "",
+      "tags": [
+        "sql",
+        "where-clause",
+        "exists",
+        "having",
+        "sql-except"
+      ],
+      "author": "Alexandra Coito",
+      "comments": 7,
+      "score": 1
+    },
+    {
+      "title": "GeoPackage file loaded as SpatVector plotted using geom_spatvector() returns &quot;Error in ggplot2::geom_sf():! Problem while converting geom to grob.&quot;",
+      "url": "https://stackoverflow.com/questions/80008640/geopackage-file-loaded-as-spatvector-plotted-using-geom-spatvector-returns-er",
+      "summary": "",
+      "tags": [
+        "r",
+        "ggplot2",
+        "terra",
+        "tidyterra"
+      ],
+      "author": "MPB_2022",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to read Chrome cookies from Delphi 12?",
+      "url": "https://stackoverflow.com/questions/80008786/how-to-read-chrome-cookies-from-delphi-12",
+      "summary": "",
+      "tags": [
+        "google-chrome",
+        "delphi",
+        "delphi-12-athens"
+      ],
+      "author": "delphirules",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "I can&#39;t login to Snowflake, can&#39;t get my password reset link sent to my account and am being charged for an account I can&#39;t access",
+      "url": "https://stackoverflow.com/questions/80008781/i-cant-login-to-snowflake-cant-get-my-password-reset-link-sent-to-my-account",
+      "summary": "",
+      "tags": [
+        "authentication",
+        "snowflake-cloud-data-platform"
+      ],
+      "author": "rvdbrvdb",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Securing App&#39;s Access to Database using Entra/MAL",
+      "url": "https://stackoverflow.com/questions/80008782/securing-apps-access-to-database-using-entra-mal",
+      "summary": "",
+      "tags": [
+        "advice",
+        "authentication",
+        "authorization",
+        "microsoft-entra-id"
+      ],
+      "author": "In Hoc Signo",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Unity custom Ui shader not alpha blending properly with render to texture?",
+      "url": "https://stackoverflow.com/questions/80008767/unity-custom-ui-shader-not-alpha-blending-properly-with-render-to-texture",
+      "summary": "",
+      "tags": [
+        "unity-game-engine",
+        "shader",
+        "hlsl"
+      ],
+      "author": "FunnerSoft",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How can I preserve ID3 metadata when converting audio files to MP3 in Python?",
+      "url": "https://stackoverflow.com/questions/80008773/how-can-i-preserve-id3-metadata-when-converting-audio-files-to-mp3-in-python",
+      "summary": "",
+      "tags": [
+        "python",
+        "audio",
+        "metadata",
+        "mp3",
+        "id3"
+      ],
+      "author": "spotload",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Nested members using std::shared_ptr",
+      "url": "https://stackoverflow.com/questions/80008577/nested-members-using-stdshared-ptr",
+      "summary": "",
+      "tags": [
+        "c++",
+        "shared-ptr"
+      ],
+      "author": "Natan Camargos",
+      "comments": 4,
+      "score": 4
+    },
+    {
+      "title": "image getting cached on an &lt;img&gt; tag but not on background-image on a &lt;button&gt; tag",
+      "url": "https://stackoverflow.com/questions/80008733/image-getting-cached-on-an-img-tag-but-not-on-background-image-on-a-button-t",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "JacaneU",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Flutter iOS archive fails in Azure DevOps after migrating from CocoaPods to Swift Package Manager: SPM target does not support provisioning profiles",
+      "url": "https://stackoverflow.com/questions/80008681/flutter-ios-archive-fails-in-azure-devops-after-migrating-from-cocoapods-to-swif",
+      "summary": "",
+      "tags": [
+        "flutter",
+        "azure",
+        "continuous-integration",
+        "swift-package-manager"
+      ],
+      "author": "PKP",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Print subscript character to console in Java",
+      "url": "https://stackoverflow.com/questions/80008756/print-subscript-character-to-console-in-java",
+      "summary": "",
+      "tags": [
+        "java",
+        "character-encoding",
+        "console"
+      ],
+      "author": "Matthew",
+      "comments": 2,
+      "score": 1
+    }
+  ]
+}

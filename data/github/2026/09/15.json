@@ -1,0 +1,171 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T14:21:50.283234+00:00",
+  "source": "github",
+  "count": 14,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "alibaba/open-code-review",
+      "repo": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "summary": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars": 27501,
+      "today_stars": 2751
+    },
+    {
+      "title": "JustVugg/colibri",
+      "repo": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": 33194,
+      "today_stars": 2035
+    },
+    {
+      "title": "ever-co/ever-gauzy",
+      "repo": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "summary": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+      "language": "TypeScript",
+      "stars": 6368,
+      "today_stars": 632
+    },
+    {
+      "title": "debpalash/VoiceStudio",
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "summary": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 30393,
+      "today_stars": 2081
+    },
+    {
+      "title": "Homebrew/BrewUI",
+      "repo": "Homebrew/BrewUI",
+      "url": "https://github.com/Homebrew/BrewUI",
+      "summary": "📺 Homebrew's official macOS GUI",
+      "language": "Swift",
+      "stars": 1115,
+      "today_stars": 388
+    },
+    {
+      "title": "melgarafael/DeskcommCRM",
+      "repo": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "summary": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "stars": 2643,
+      "today_stars": 205
+    },
+    {
+      "title": "alphaXiv/OpenResearch",
+      "repo": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "summary": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "stars": 2986,
+      "today_stars": 593
+    },
+    {
+      "title": "NationalSecurityAgency/ghidra",
+      "repo": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "summary": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars": 76383,
+      "today_stars": 755
+    },
+    {
+      "title": "danny-avila/LibreChat",
+      "repo": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "summary": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "stars": 43666,
+      "today_stars": 261
+    },
+    {
+      "title": "pacifio/atlas",
+      "repo": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "summary": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "Rust",
+      "stars": 4495,
+      "today_stars": 102
+    },
+    {
+      "title": "MG1937/ASC",
+      "repo": "MG1937/ASC",
+      "url": "https://github.com/MG1937/ASC",
+      "summary": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "language": "Python",
+      "stars": 1043,
+      "today_stars": 122
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 94559,
+      "today_stars": 354
+    },
+    {
+      "title": "tonhowtf/omniget",
+      "repo": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "summary": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
+      "stars": 12545,
+      "today_stars": 318
+    },
+    {
+      "title": "earendil-works/pi",
+      "repo": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "summary": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": 105492,
+      "today_stars": 437
+    }
+  ]
+}

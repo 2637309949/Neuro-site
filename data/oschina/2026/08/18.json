@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T13:56:33.041947+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "WSL 上的 Ubuntu 用户数量将超过原生 Linux 桌面用户",
+      "url": "https://www.oschina.net/news/501989/canonical-wsl-growth",
+      "summary": "Canonical 工程副总裁 Jon Seager 在接受 The Pragmatic Engineer 采访时透露了一个数据：Ubuntu 在 WSL 中的增长，远高于原生桌面版的增长。他预计...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Firefox iOS 版内置原生广告拦截器，但搜索引擎广告例外",
+      "url": "https://www.oschina.net/news/501988/block-ads-firefox-ios",
+      "summary": "Firefox for iOS 终于内置了原生广告拦截功能。 这个拦截器基于 EasyList 过滤列表，在网络层面阻止第三方广告网络、广告追踪器和弹窗广告。默认关...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Bluesky 截图里多出来的 Logo 是怎么来的？一个 iOS 的「隐私功能」被用成了增长黑客",
+      "url": "https://www.oschina.net/news/501987/bluesky-screenshots",
+      "summary": "你有没有注意到，在 Bluesky 里截图分享帖子时，截出来的图片右上角会多一个 Bluesky 的 Logo，而正常使用 App 时那个位置显示的是「Follow」按钮？...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "你想替代 GitHub，先得做到不依赖 GitHub",
+      "url": "https://www.oschina.net/news/501986",
+      "summary": "2026 年 8 月 17 日，周一，中国时间晚上 9:40 左右，GitHub 开始大面积宕机。 这次宕机持续了超过 7 个小时，直到 8 月 18 日凌晨 5:15（北京时间...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Rust 编译器原生支持 GPU 卸载了：一份论文试图终结「安全」和「快」的二选一",
+      "url": "https://www.oschina.net/news/501985",
+      "summary": "GPU 编程一直有一个绕不开的权衡：想跑得快，就得写 CUDA/HIP 这种厂商绑定的 DSL，或者手动摆弄裸指针；想安全，就得接受一层又一层的抽象，性能随...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "GitHub 爆发严重宕机事故，开发者开始认真找退路",
+      "url": "https://www.oschina.net/news/501984",
+      "summary": "GitHub 又宕机了。Hacker News 社区毫无意外又有人发起了那个老生常谈问题：\"有没有值得迁移的替代方案？\" 讨论质量很高，社区给出的答案分成了几个...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "从“即兴创作”到“工业级流水线”- 华为云码道提供鸿蒙应用开发新范式",
+      "url": "https://www.oschina.net/news/501983",
+      "summary": "一、鸿蒙开发的新挑战：AI 编程需要的不只是\"写代码\" HarmonyOS 生态正在快速扩张，越来越多的开发者投入到鸿蒙原生应用的开发中。然而，鸿蒙开发面...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "DuckDB 异步 I/O 让远程查询加速 20 倍",
+      "url": "https://www.oschina.net/news/501982/duckdb-asynchronous-io",
+      "summary": "DuckDB 做了一个关键的架构变更。 从 v2.0（2026 年秋季）开始，DuckDB 将支持 Parquet 和 CSV 文件的异步读取。核心设计是双线程池：REGULAR 线程...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "从趋势到落地：百语，面向智能硬件的语音Agent全栈服务平台",
+      "url": "https://www.oschina.net/news/501981",
+      "summary": "随着AI大模型快速演进，语音交互正在跳出传统工具属性，逐步成长为全域人机交互的重要入口。它不止服务于办公生产场景，也广泛适用于娱乐闲聊、儿童...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "StreamSQL v1.2.0 发布：边缘 SQL 流处理引擎，补齐 CEP 与分析函数能力",
+      "url": "https://www.oschina.net/news/501980",
+      "summary": "这是 v1.0.0 之后一次比较完整的能力升级。 这一版补上了 CEP 模式识别、分析函数、资源边界和可观测性相关能力，让 StreamSQL 不只是能做实时聚...",
+      "author": "rulego_team",
+      "comments": 0
+    },
+    {
+      "title": "qKnow 专业版 v3.1.2 上线：文件中心无缝对接 HDFS/OSS，海量数据秒级入库！",
+      "url": "https://www.oschina.net/news/501979",
+      "summary": "在企业构建知识库、智能体应用和知识图谱的过程中，数据接入是影响知识应用效果的重要环节。 实际业务环境中的知识数据通常并非集中存储于单一系统...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "GitHub 宕机超过 7 小时，AI 编码狂潮把基础设施压垮了",
+      "url": "https://www.oschina.net/news/501978/github-outage-disrupts-developers-worldwide",
+      "summary": "2026 年 8 月 17 日，周一，中国时间晚上 9:40 左右，GitHub 开始大面积宕机。 这次宕机持续了超过 7 个小时，直到 8 月 18 日凌晨 5:15（北京时间...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Google AI 重组内幕：创始人 Brin 亲自督战，DeepMind 权力洗牌",
+      "url": "https://www.oschina.net/news/501977",
+      "summary": "路透社发表独家报道，揭示了 Google 过去几个月 AI 部门动荡的内幕。核心剧情线有三条：一位联合创始人亲自下场干预模型训练，一位深度学习之父被架...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "AI 文本水印是一场注定失败的战争",
+      "url": "https://www.oschina.net/news/501976/text-ai-watermarks-always-be-trivial-to-remove",
+      "summary": "从 2026 年 8 月起，欧盟 AI 法案开始对新系统生效。法案第 50 条要求 AI 提供者让输出内容「可被检测为人工生成」。换句话说，LLM 必须在输出中嵌...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Anthropic 公开 Claude 全系列模型 System Prompt 历史版本",
+      "url": "https://www.oschina.net/news/501975/claude-system-prompts",
+      "summary": "Anthropic 在一个新页面上公开了 Claude 全系列模型的 system prompt 历史版本，覆盖从 Claude 3 到 Claude Opus 5 的所有模型，最早可以追溯到 20...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DuckDB v2.0 预览：自研 SQL 解析器、异步 I/O、40 倍递归查询提速",
+      "url": "https://www.oschina.net/news/501974/duckdb-2-0-highlights-preview",
+      "summary": "开源列式关系数据库管理系统（RDBMS）DuckDB 发布了 v2.0 预览版，代号 \"Cyanoptera\"，预计今年秋季正式发布。这是一次大版本升级，将带来以下亮点...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Ollmo v0.1.0 正式发布｜生产级全功能 RAG+Agent 可视化平台上线",
+      "url": "https://www.oschina.net/news/501973",
+      "summary": "项目简介   ollmo 是面向私有化、团队协作场景打造的生产级 RAG (检索增强生成) 平台。上传文档、提出问题、拿到带精准出处的答案。内置混合检索、...",
+      "author": "超级牛来了",
+      "comments": 0
+    },
+    {
+      "title": "Vercel 开发了专门给 AI Agent 用的编程语言 Zero",
+      "url": "https://www.oschina.net/news/501972/vercel-labs-zerolang",
+      "summary": "Vercel Labs 在 GitHub 上开源了一个实验性编程语言 Zero，5310 个 star，339 个 fork。但数字不是重点——重点是它的定位：给 AI Agent 用的编程语...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "深耕开源生态，论道 AI 操作系统——openKylin 全方位亮相 2026 CCF 中国开源大会",
+      "url": "https://www.oschina.net/news/501971",
+      "summary": "8月15日至16日，以 “渝见开源，数智启新” 为主题的 2026 CCF 中国开源大会在重庆顺利举办。大会围绕AI赋能软件工程（AI4SE）与软件工程驱动AI（S...",
+      "author": "openKylin",
+      "comments": 0
+    },
+    {
+      "title": "DjangoAdmin 敏捷开发框架 Flask+EleVue 版本 v2.8.1 发布",
+      "url": "https://www.oschina.net/news/501970",
+      "summary": "v2.8.1 更新内容： 1、修复近期用户反馈的问题； 一款 Python 语言基于 Flask、Vue、ElementUI、MySQL 等框架精心打造的一款模块化、高性能、企业级...",
+      "author": "djangoadmin",
+      "comments": 0
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T15:40:39.737579+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "summary": "",
+      "author": "PLenz",
+      "comments": 1936,
+      "score": 1079
+    },
+    {
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "summary": "",
+      "author": "mfiguiere",
+      "comments": 140,
+      "score": 852
+    },
+    {
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "summary": "",
+      "author": "theanomaly",
+      "comments": 128,
+      "score": 531
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "summary": "",
+      "author": "ChrisArchitect",
+      "comments": 307,
+      "score": 367
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "summary": "",
+      "author": "fluxusars",
+      "comments": 118,
+      "score": 366
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "summary": "",
+      "author": "thisisauserid",
+      "comments": 241,
+      "score": 352
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "summary": "",
+      "author": "infwhispers",
+      "comments": 176,
+      "score": 326
+    },
+    {
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "summary": "",
+      "author": "SerCe",
+      "comments": 112,
+      "score": 260
+    },
+    {
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "summary": "",
+      "author": "LaSombra",
+      "comments": 48,
+      "score": 235
+    },
+    {
+      "title": "Upload Your RAM",
+      "url": "https://uploadyourram.org",
+      "summary": "",
+      "author": "susanthenerd",
+      "comments": 194,
+      "score": 222
+    },
+    {
+      "title": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "summary": "",
+      "author": "DAlperin",
+      "comments": 47,
+      "score": 181
+    },
+    {
+      "title": "Devvm.dev: One VM for every project",
+      "url": "https://devvm.dev/",
+      "summary": "",
+      "author": "luispa",
+      "comments": 68,
+      "score": 171
+    },
+    {
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "summary": "",
+      "author": "derbOac",
+      "comments": 22,
+      "score": 156
+    },
+    {
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "summary": "",
+      "author": "benbreen",
+      "comments": 125,
+      "score": 154
+    },
+    {
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "summary": "",
+      "author": "fiej",
+      "comments": 79,
+      "score": 150
+    },
+    {
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "summary": "",
+      "author": "raybb",
+      "comments": 108,
+      "score": 148
+    },
+    {
+      "title": "Notes on San Marino",
+      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "summary": "",
+      "author": "yorwba",
+      "comments": 42,
+      "score": 104
+    },
+    {
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "summary": "",
+      "author": "ntur1337",
+      "comments": 17,
+      "score": 103
+    },
+    {
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "summary": "",
+      "author": "geoffbp",
+      "comments": 49,
+      "score": 93
+    },
+    {
+      "title": "Running a law firm on Free software",
+      "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+      "summary": "",
+      "author": "DeepLogin",
+      "comments": 32,
+      "score": 81
+    },
+    {
+      "title": "The Flash C Compiler",
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "summary": "",
+      "author": "AlexeyBrin",
+      "comments": 35,
+      "score": 79
+    },
+    {
+      "title": "PostgreSQL Internals [pdf] (2023)",
+      "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+      "summary": "",
+      "author": "Foe",
+      "comments": 6,
+      "score": 56
+    },
+    {
+      "title": "The great butter and cheese fire of 1991",
+      "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+      "summary": "",
+      "author": "subroutine",
+      "comments": 18,
+      "score": 54
+    },
+    {
+      "title": "ToothPaste",
+      "url": "https://brisk4t.github.io/blog/toothpaste/",
+      "summary": "",
+      "author": "speckx",
+      "comments": 11,
+      "score": 44
+    },
+    {
+      "title": "The $8 Linux Computer (2022)",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "summary": "",
+      "author": "zenincognito",
+      "comments": 18,
+      "score": 40
+    },
+    {
+      "title": "8088 Domination Post-Mortem",
+      "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+      "summary": "",
+      "author": "cosmojg",
+      "comments": 5,
+      "score": 39
+    },
+    {
+      "title": "Port 0: The Port That Does Not Exist",
+      "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+      "summary": "",
+      "author": "NewCzech",
+      "comments": 11,
+      "score": 35
+    },
+    {
+      "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+      "url": "https://github.com/hyphatech/spindle",
+      "summary": "",
+      "author": "zaiev",
+      "comments": 6,
+      "score": 27
+    },
+    {
+      "title": "Building the NBC News Big Board",
+      "url": "https://ejfox.com/projects/nbc-big-board",
+      "summary": "",
+      "author": "whalesalad",
+      "comments": 8,
+      "score": 26
+    },
+    {
+      "title": "British Library Legal deposit and web archiving",
+      "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
+      "summary": "",
+      "author": "robtherobber",
+      "comments": 1,
+      "score": 13
+    }
+  ]
+}

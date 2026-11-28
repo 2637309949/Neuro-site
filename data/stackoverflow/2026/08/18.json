@@ -1,0 +1,442 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T13:54:42.713169+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Fixing hotspot in C++",
+      "url": "https://stackoverflow.com/questions/79996162/fixing-hotspot-in-c",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "performance",
+        "c++17"
+      ],
+      "author": "CSGuy",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "Modular monolith architecture",
+      "url": "https://stackoverflow.com/questions/79996163/modular-monolith-architecture",
+      "summary": "",
+      "tags": [
+        "advice",
+        "typescript",
+        "architecture",
+        "frontend",
+        "modular-monolith"
+      ],
+      "author": "Juan Pablo Spiatta",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Inconsistent return with std::expected and auto return",
+      "url": "https://stackoverflow.com/questions/79996161/inconsistent-return-with-stdexpected-and-auto-return",
+      "summary": "",
+      "tags": [
+        "c++",
+        "auto",
+        "c++23",
+        "std-expected"
+      ],
+      "author": "Romain",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to efficiently implement nearby-user discovery for a location-based social platform with 100K+ users?",
+      "url": "https://stackoverflow.com/questions/79996176/how-to-efficiently-implement-nearby-user-discovery-for-a-location-based-social-p",
+      "summary": "",
+      "tags": [
+        "advice",
+        "php",
+        "mysql"
+      ],
+      "author": "Daniel",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Open Sharing protocol of Databricks Apps and SaaS sharing",
+      "url": "https://stackoverflow.com/questions/79996165/open-sharing-protocol-of-databricks-apps-and-saas-sharing",
+      "summary": "",
+      "tags": [
+        "databricks",
+        "delta-sharing"
+      ],
+      "author": "Eddmik",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "What is the earliest point at which the browser calls requestAnimationFrame?",
+      "url": "https://stackoverflow.com/questions/79996174/what-is-the-earliest-point-at-which-the-browser-calls-requestanimationframe",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "frontend"
+      ],
+      "author": "Joe J",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Multiple similar scanners with GNU Flex",
+      "url": "https://stackoverflow.com/questions/79996178/multiple-similar-scanners-with-gnu-flex",
+      "summary": "",
+      "tags": [
+        "flex-lexer"
+      ],
+      "author": "Simon Richter",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to configure HTTPS with a Self-Signed Certificate for a Tomcat application via a subdomain without browser warnings?",
+      "url": "https://stackoverflow.com/questions/79996177/how-to-configure-https-with-a-self-signed-certificate-for-a-tomcat-application-v",
+      "summary": "",
+      "tags": [
+        "java",
+        "ssl",
+        "tomcat",
+        "subdomain",
+        "tls1.2"
+      ],
+      "author": "Vishal",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How do I deploy a website using a separate CSS stylesheet?",
+      "url": "https://stackoverflow.com/questions/79996155/how-do-i-deploy-a-website-using-a-separate-css-stylesheet",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "deployment",
+        "gitlab"
+      ],
+      "author": "Ast",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Wrapping a texture on a 3d model",
+      "url": "https://stackoverflow.com/questions/79996149/wrapping-a-texture-on-a-3d-model",
+      "summary": "",
+      "tags": [
+        "java",
+        "libgdx"
+      ],
+      "author": "jerussanjose",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why is `std::pair&lt;int, int&gt;` not designed to be trivially copyable?",
+      "url": "https://stackoverflow.com/questions/79996136/why-is-stdpairint-int-not-designed-to-be-trivially-copyable",
+      "summary": "",
+      "tags": [
+        "c++",
+        "performance",
+        "optimization",
+        "std",
+        "language-design"
+      ],
+      "author": "xmllmx",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": ".NET 10 Elevation Bug when using Admin By Request",
+      "url": "https://stackoverflow.com/questions/79996148/net-10-elevation-bug-when-using-admin-by-request",
+      "summary": "",
+      "tags": [
+        ".net",
+        "runtime"
+      ],
+      "author": "Curt Blunt",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to display the logs using APIProduct in WSO2 API Manager",
+      "url": "https://stackoverflow.com/questions/79996146/how-to-display-the-logs-using-apiproduct-in-wso2-api-manager",
+      "summary": "",
+      "tags": [
+        "java",
+        "logging",
+        "wso2"
+      ],
+      "author": "Bryan Caliwag",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Bug with Boolean Operation",
+      "url": "https://stackoverflow.com/questions/79996139/bug-with-boolean-operation",
+      "summary": "",
+      "tags": [
+        "freecad"
+      ],
+      "author": "ubuntuuser",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Rotating image or not?",
+      "url": "https://stackoverflow.com/questions/79996126/rotating-image-or-not",
+      "summary": "",
+      "tags": [
+        "python",
+        "rotation",
+        "ocr",
+        "kie",
+        "text-recognition"
+      ],
+      "author": "An Đo&#224;n Nguyễn Bảo",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "A second operation was started on this context instance before a previous operation completed. This is usually caused by diff",
+      "url": "https://stackoverflow.com/questions/79996129/a-second-operation-was-started-on-this-context-instance-before-a-previous-operat",
+      "summary": "",
+      "tags": [
+        "c#",
+        "entity-framework-core",
+        "ef-core-8.0"
+      ],
+      "author": "Usman",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "JDBC write save is not working the same for two table save",
+      "url": "https://stackoverflow.com/questions/79996125/jdbc-write-save-is-not-working-the-same-for-two-table-save",
+      "summary": "",
+      "tags": [
+        "azure-pipelines",
+        "azure-synapse",
+        "spark-notebook"
+      ],
+      "author": "Jack jdeoel",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Delphi 13 Android deployment fails with E7432 NoSuchFileException for missing JAR files",
+      "url": "https://stackoverflow.com/questions/79996115/delphi-13-android-deployment-fails-with-e7432-nosuchfileexception-for-missing-ja",
+      "summary": "",
+      "tags": [
+        "android",
+        "deployment",
+        "delphi-13-florence"
+      ],
+      "author": "BennieC",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Chrome extension cannot extract Kuaishou video URL",
+      "url": "https://stackoverflow.com/questions/79996103/chrome-extension-cannot-extract-kuaishou-video-url",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "google-chrome",
+        "google-chrome-extension"
+      ],
+      "author": "user107968",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Can&#39;t open an Excel file shared on SharePoint because of error &#39;-2147417848 (80010108)&#39;",
+      "url": "https://stackoverflow.com/questions/79996097/cant-open-an-excel-file-shared-on-sharepoint-because-of-error-2147417848-800",
+      "summary": "",
+      "tags": [
+        "excel",
+        "vba",
+        "client",
+        "sharepoint-online"
+      ],
+      "author": "Line",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Zabbix 7.4 trapper rejects historical data older than 1 hour despite HistoryStoragePeriod set to 730 days",
+      "url": "https://stackoverflow.com/questions/79996098/zabbix-7-4-trapper-rejects-historical-data-older-than-1-hour-despite-historystor",
+      "summary": "",
+      "tags": [
+        "zabbix"
+      ],
+      "author": "TA1989",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Can a TCL server socket be made HTTPS for local work?",
+      "url": "https://stackoverflow.com/questions/79996078/can-a-tcl-server-socket-be-made-https-for-local-work",
+      "summary": "",
+      "tags": [
+        "server",
+        "tcl"
+      ],
+      "author": "Gary",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Problems using JVM diagnostic tool on Tomcat 9 on Ubuntu: Is there a better solution?",
+      "url": "https://stackoverflow.com/questions/79996093/problems-using-jvm-diagnostic-tool-on-tomcat-9-on-ubuntu-is-there-a-better-solu",
+      "summary": "",
+      "tags": [
+        "java",
+        "ubuntu",
+        "tomcat",
+        "tomcat9",
+        "diagnostics"
+      ],
+      "author": "JillT",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Prefered Database List",
+      "url": "https://stackoverflow.com/questions/79996087/prefered-database-list",
+      "summary": "",
+      "tags": [
+        "database",
+        "web-testing"
+      ],
+      "author": "Saad Hassan",
+      "comments": 0,
+      "score": -14
+    },
+    {
+      "title": "How to get audio.src to use a cached response instead of making a new network request?",
+      "url": "https://stackoverflow.com/questions/79996046/how-to-get-audio-src-to-use-a-cached-response-instead-of-making-a-new-network-re",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "browser-cache"
+      ],
+      "author": "Gary",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to prevent ungraceful update of oscillator output and resulting audio chunks during an ongoing envelope?",
+      "url": "https://stackoverflow.com/questions/79996085/how-to-prevent-ungraceful-update-of-oscillator-output-and-resulting-audio-chunks",
+      "summary": "",
+      "tags": [
+        "swift",
+        "audiokit",
+        "chunks",
+        "envelope",
+        "akoscillator"
+      ],
+      "author": "jumbopilot",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How to delete an item from array only on the second click on the same element in React?",
+      "url": "https://stackoverflow.com/questions/79996061/how-to-delete-an-item-from-array-only-on-the-second-click-on-the-same-element-in",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "author": "user22414499",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Sticky/jerky scroll behavior on homepage with custom scroll implementation",
+      "url": "https://stackoverflow.com/questions/79996067/sticky-jerky-scroll-behavior-on-homepage-with-custom-scroll-implementation",
+      "summary": "",
+      "tags": [
+        "css",
+        "reactjs",
+        "scroll",
+        "tailwind-css"
+      ],
+      "author": "Jatin Harchandani",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to expose a multi-model, case-scoped &quot;detail&quot; read in DRF without adding a new endpoint?",
+      "url": "https://stackoverflow.com/questions/79995992/how-to-expose-a-multi-model-case-scoped-detail-read-in-drf-without-adding-a-n",
+      "summary": "",
+      "tags": [
+        "python",
+        "django",
+        "rest",
+        "django-rest-framework",
+        "api-design"
+      ],
+      "author": "Paul 054m41",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Grouping by variables in a dataset across multiple columns",
+      "url": "https://stackoverflow.com/questions/79995960/grouping-by-variables-in-a-dataset-across-multiple-columns",
+      "summary": "",
+      "tags": [
+        "r",
+        "dataframe",
+        "dplyr"
+      ],
+      "author": "Cameron",
+      "comments": 3,
+      "score": 2
+    }
+  ]
+}

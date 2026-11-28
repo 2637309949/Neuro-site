@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T15:45:45.818734+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Loosing files because of names encoding in R when using unzip - could be because of encoding (umlauts)",
+      "url": "https://stackoverflow.com/questions/80007526/loosing-files-because-of-names-encoding-in-r-when-using-unzip-could-be-because",
+      "summary": "",
+      "tags": [
+        "r",
+        "unzip"
+      ],
+      "author": "canIchangethis",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "GCC11 fails to create string or string_view from range iterators",
+      "url": "https://stackoverflow.com/questions/80007510/gcc11-fails-to-create-string-or-string-view-from-range-iterators",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++20",
+        "std-ranges"
+      ],
+      "author": "pptaszni",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How I make a PyTorch model bit-identical outputs across different GPUs, cuDNN versions, and CPU fallback, with no source of nondeterminism anywhere?",
+      "url": "https://stackoverflow.com/questions/80007514/how-i-make-a-pytorch-model-bit-identical-outputs-across-different-gpus-cudnn-ve",
+      "summary": "",
+      "tags": [
+        "pytorch",
+        "floating-point",
+        "cuda"
+      ],
+      "author": "Zi Ba",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "All of the extension&#39;s IndexedDB data has been lost",
+      "url": "https://stackoverflow.com/questions/80007513/all-of-the-extensions-indexeddb-data-has-been-lost",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "google-chrome-extension",
+        "indexeddb"
+      ],
+      "author": "John ",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Does an item expired in a MemoryCache becomes available for garbage collection?",
+      "url": "https://stackoverflow.com/questions/80007502/does-an-item-expired-in-a-memorycache-becomes-available-for-garbage-collection",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net"
+      ],
+      "author": "Calimero",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Which approach do you prefer to persist multiple pieces of data to the database in parallel?",
+      "url": "https://stackoverflow.com/questions/80007479/which-approach-do-you-prefer-to-persist-multiple-pieces-of-data-to-the-database",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c#",
+        "asp.net-core",
+        "entity-framework-core"
+      ],
+      "author": "katarina zed",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Blazor not reading connection strings from appsettings.json but reads from app.config",
+      "url": "https://stackoverflow.com/questions/80007475/blazor-not-reading-connection-strings-from-appsettings-json-but-reads-from-app-c",
+      "summary": "",
+      "tags": [
+        "c#",
+        "blazor",
+        ".net-8.0"
+      ],
+      "author": "Marietta Akumbom",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Pod OOMKilled at 2Gi limit when loading ~1GB sentence-transformers ONNX model (Python 3.11)",
+      "url": "https://stackoverflow.com/questions/80007506/pod-oomkilled-at-2gi-limit-when-loading-1gb-sentence-transformers-onnx-model-p",
+      "summary": "",
+      "tags": [
+        "docker",
+        "kubernetes",
+        "fastapi",
+        "huggingface-transformers",
+        "onnx"
+      ],
+      "author": "nursat",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "AI_CLASSIFY leveraging system-one backend like jev",
+      "url": "https://stackoverflow.com/questions/80007509/ai-classify-leveraging-system-one-backend-like-jev",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "user2148414",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Vector of std::string_view from std::filesystem::path is not correctly passed as a parameter",
+      "url": "https://stackoverflow.com/questions/80007494/vector-of-stdstring-view-from-stdfilesystempath-is-not-correctly-passed-as",
+      "summary": "",
+      "tags": [
+        "c++",
+        "vector",
+        "string-view"
+      ],
+      "author": "Natan Camargos",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to delete specific string from bash history and make it permanent on logout",
+      "url": "https://stackoverflow.com/questions/80007487/how-to-delete-specific-string-from-bash-history-and-make-it-permanent-on-logout",
+      "summary": "",
+      "tags": [
+        "bash"
+      ],
+      "author": "not2qubit",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Inline Script-In-Head With notFound Explicit Calling Issue At NextJS",
+      "url": "https://stackoverflow.com/questions/80007466/inline-script-in-head-with-notfound-explicit-calling-issue-at-nextjs",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "html",
+        "next.js"
+      ],
+      "author": "Alex Sindre",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "View the content of a message in Wildfly ActiveMQ subsystem",
+      "url": "https://stackoverflow.com/questions/80007480/view-the-content-of-a-message-in-wildfly-activemq-subsystem",
+      "summary": "",
+      "tags": [
+        "wildfly",
+        "jboss-cli",
+        "wildfly-14"
+      ],
+      "author": "glacier",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Interpreting output of a clmm",
+      "url": "https://stackoverflow.com/questions/80007441/interpreting-output-of-a-clmm",
+      "summary": "",
+      "tags": [
+        "output",
+        "rstudio",
+        "ordinal"
+      ],
+      "author": "Ella",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why do characters repeat in the terminal when drawing a matrix of cells in C?",
+      "url": "https://stackoverflow.com/questions/80007468/why-do-characters-repeat-in-the-terminal-when-drawing-a-matrix-of-cells-in-c",
+      "summary": "",
+      "tags": [
+        "c",
+        "terminal",
+        "cell",
+        "putchar"
+      ],
+      "author": "Sameer Ahmed",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How to make two attr.s instances equal each other in this code",
+      "url": "https://stackoverflow.com/questions/80007474/how-to-make-two-attr-s-instances-equal-each-other-in-this-code",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-attrs"
+      ],
+      "author": "Train-Case",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "PyCharm option Jupyter: Notebook File Root (Set the root directory for Jupyter Notebooks) missing",
+      "url": "https://stackoverflow.com/questions/80007464/pycharm-option-jupyter-notebook-file-root-set-the-root-directory-for-jupyter-n",
+      "summary": "",
+      "tags": [
+        "python",
+        "jupyter-notebook",
+        "pycharm"
+      ],
+      "author": "FluidMechanics Potential Flows",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Input validation by data type best practices in C",
+      "url": "https://stackoverflow.com/questions/80007403/input-validation-by-data-type-best-practices-in-c",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c"
+      ],
+      "author": "Terry Wendt",
+      "comments": 2,
+      "score": -2
+    },
+    {
+      "title": "Finding value within nested dictionary with arrays",
+      "url": "https://stackoverflow.com/questions/80007452/finding-value-within-nested-dictionary-with-arrays",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "BConn63",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why is my AAB file 85 MB while my APK is only 25 MB in React Native?",
+      "url": "https://stackoverflow.com/questions/80007455/why-is-my-aab-file-85-mb-while-my-apk-is-only-25-mb-in-react-native",
+      "summary": "",
+      "tags": [
+        "android",
+        "react-native"
+      ],
+      "author": "Dawood zia",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I make chrono::year work with simdjson deserialization?",
+      "url": "https://stackoverflow.com/questions/80007453/how-can-i-make-chronoyear-work-with-simdjson-deserialization",
+      "summary": "",
+      "tags": [
+        "c++",
+        "json",
+        "reflection",
+        "deserialization",
+        "c++-chrono"
+      ],
+      "author": "digito_evo",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "CSS and JavaScript not applying on my localhost",
+      "url": "https://stackoverflow.com/questions/80007444/css-and-javascript-not-applying-on-my-localhost",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "css",
+        "macos",
+        "apache",
+        "macos-tahoe"
+      ],
+      "author": "N&#233;o Kerroux",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Querying &amp; filtering Tableau data based on names from a dropdown",
+      "url": "https://stackoverflow.com/questions/80007465/querying-filtering-tableau-data-based-on-names-from-a-dropdown",
+      "summary": "",
+      "tags": [
+        "tableau-desktop"
+      ],
+      "author": "willfrancis",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Manage searches with special characters like &#39;-&#39; (minus sign)",
+      "url": "https://stackoverflow.com/questions/80007439/manage-searches-with-special-characters-like-minus-sign",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net",
+        "examine"
+      ],
+      "author": "Henrik Bengtsson",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "QtCreator&#39;s Design Tab can&#39;t resolve paths for sources",
+      "url": "https://stackoverflow.com/questions/80007431/qtcreators-design-tab-cant-resolve-paths-for-sources",
+      "summary": "",
+      "tags": [
+        "qml",
+        "qt-creator",
+        "qt6"
+      ],
+      "author": "alberh",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why and how does Python treat __new__ differently when called from an instance?",
+      "url": "https://stackoverflow.com/questions/80007399/why-and-how-does-python-treat-new-differently-when-called-from-an-instance",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "Train-Case",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "next js routing issue seo friendly",
+      "url": "https://stackoverflow.com/questions/80007429/next-js-routing-issue-seo-friendly",
+      "summary": "",
+      "tags": [
+        "nextjs14"
+      ],
+      "author": "Saira Riaz",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "MCP inspector debugging tutorial",
+      "url": "https://stackoverflow.com/questions/80007423/mcp-inspector-debugging-tutorial",
+      "summary": "",
+      "tags": [
+        "model-context-protocol",
+        "mcp-server"
+      ],
+      "author": "Kavin Raj",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "Egress Pod/Service Traffic BPF",
+      "url": "https://stackoverflow.com/questions/80007408/egress-pod-service-traffic-bpf",
+      "summary": "",
+      "tags": [
+        "advice",
+        "kubernetes",
+        "ebpf",
+        "cilium"
+      ],
+      "author": "Minona",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How does AttachedToVisualTree work in Avalonia UI?",
+      "url": "https://stackoverflow.com/questions/80007397/how-does-attachedtovisualtree-work-in-avalonia-ui",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net-8.0",
+        "avaloniaui",
+        "avalonia"
+      ],
+      "author": "Mangatur",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}

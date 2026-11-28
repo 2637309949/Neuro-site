@@ -1,0 +1,427 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T12:44:14.876505+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Leaks in PAPI_event_name_to_code() when called concurrently from multiple threads",
+      "url": "https://stackoverflow.com/questions/79998945/leaks-in-papi-event-name-to-code-when-called-concurrently-from-multiple-thread",
+      "summary": "",
+      "tags": [
+        "c",
+        "multithreading",
+        "memory-leaks",
+        "papi"
+      ],
+      "author": "caquis caquis",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Jenkins Build Fails",
+      "url": "https://stackoverflow.com/questions/79998942/jenkins-build-fails",
+      "summary": "",
+      "tags": [
+        "git",
+        "github",
+        "jenkins",
+        "version-control",
+        "continuous-integration"
+      ],
+      "author": "Arav",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "USE_COLUMN_TABLE hint has no effect in EXPLAIN — same plan with and without hint",
+      "url": "https://stackoverflow.com/questions/79998939/use-column-table-hint-has-no-effect-in-explain-same-plan-with-and-without-hint",
+      "summary": "",
+      "tags": [
+        "sql",
+        "optimizer-hints",
+        "oceanbase"
+      ],
+      "author": "jinglan0379",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to resolve access of variables in a nested chain of templated classes?",
+      "url": "https://stackoverflow.com/questions/79998925/how-to-resolve-access-of-variables-in-a-nested-chain-of-templated-classes",
+      "summary": "",
+      "tags": [
+        "c++"
+      ],
+      "author": "Reinhard Schrage",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to update a &quot;nice date&quot; in Android Java?",
+      "url": "https://stackoverflow.com/questions/79998932/how-to-update-a-nice-date-in-android-java",
+      "summary": "",
+      "tags": [
+        "advice",
+        "java",
+        "android"
+      ],
+      "author": "LenR",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Dynamic ComboBox list from folder names",
+      "url": "https://stackoverflow.com/questions/79998905/dynamic-combobox-list-from-folder-names",
+      "summary": "",
+      "tags": [
+        "excel",
+        "vba",
+        "combobox"
+      ],
+      "author": "Callum",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "FI/FR Python project server deployment issue",
+      "url": "https://stackoverflow.com/questions/79998931/fi-fr-python-project-server-deployment-issue",
+      "summary": "",
+      "tags": [
+        "python",
+        "deployment",
+        "rhel",
+        "ninja",
+        "milvus"
+      ],
+      "author": "Satwik kondapalli",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Child transition modifiers ignored when parent container is inserted/removed by a switch/if-else",
+      "url": "https://stackoverflow.com/questions/79998916/child-transition-modifiers-ignored-when-parent-container-is-inserted-removed-by",
+      "summary": "",
+      "tags": [
+        "ios",
+        "swiftui"
+      ],
+      "author": "rayaantaneja",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to create a selectizeInput() with groups names to order choices in the list using an existing table, which also works for groups with one element",
+      "url": "https://stackoverflow.com/questions/79998923/how-to-create-a-selectizeinput-with-groups-names-to-order-choices-in-the-list",
+      "summary": "",
+      "tags": [
+        "r",
+        "shiny"
+      ],
+      "author": "osc07",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Use a group by to have as results a count of &#39;value = x&#39; and a count of &#39;value &lt;&gt; x&#39;?",
+      "url": "https://stackoverflow.com/questions/79998914/use-a-group-by-to-have-as-results-a-count-of-value-x-and-a-count-of-value",
+      "summary": "",
+      "tags": [
+        "sql",
+        "oracle-database"
+      ],
+      "author": "Marco Flavio Farella",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Running into build wheel error installing specific version of Frida, unsure how to proceed",
+      "url": "https://stackoverflow.com/questions/79998895/running-into-build-wheel-error-installing-specific-version-of-frida-unsure-how",
+      "summary": "",
+      "tags": [
+        "python",
+        "json",
+        "windows-11",
+        "frida"
+      ],
+      "author": "Miasma Baboon",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Custom Search JSON API: persistent 403 &quot;project does not have access&quot; despite enabled API, billing, API key &amp; OAuth auth",
+      "url": "https://stackoverflow.com/questions/79998913/custom-search-json-api-persistent-403-project-does-not-have-access-despite-en",
+      "summary": "",
+      "tags": [
+        "google-cloud-platform",
+        "google-custom-search"
+      ],
+      "author": "tomoki nishii Nichan",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "API Access Issue ACC/Forma",
+      "url": "https://stackoverflow.com/questions/79998904/api-access-issue-acc-forma",
+      "summary": "",
+      "tags": [
+        "autodesk-forge"
+      ],
+      "author": "William Roberts",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "why rust need Pin when already have Box",
+      "url": "https://stackoverflow.com/questions/79998906/why-rust-need-pin-when-already-have-box",
+      "summary": "",
+      "tags": [
+        "advice",
+        "asynchronous",
+        "rust"
+      ],
+      "author": "jason",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How can I get the ServerAuthCode for Sign in with GooglePlayGamesServices?",
+      "url": "https://stackoverflow.com/questions/79998893/how-can-i-get-the-serverauthcode-for-sign-in-with-googleplaygamesservices",
+      "summary": "",
+      "tags": [
+        "c#"
+      ],
+      "author": "Bryan",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Clarification on ES6 Modules",
+      "url": "https://stackoverflow.com/questions/79998866/clarification-on-es6-modules",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "es6-modules"
+      ],
+      "author": "Manngo",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Why is my USDZ 3D car model not loading properly using ModelI/O and MetalKit?",
+      "url": "https://stackoverflow.com/questions/79998902/why-is-my-usdz-3d-car-model-not-loading-properly-using-modeli-o-and-metalkit",
+      "summary": "",
+      "tags": [
+        "swift",
+        "metal",
+        "metalkit",
+        "apple-model-io"
+      ],
+      "author": "Anonymous User",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I get the IdentityToken for Sign in with Apple?",
+      "url": "https://stackoverflow.com/questions/79998891/how-can-i-get-the-identitytoken-for-sign-in-with-apple",
+      "summary": "",
+      "tags": [
+        "c#"
+      ],
+      "author": "Bryan",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Has anyone encountered TikTok MAPI error 40002?",
+      "url": "https://stackoverflow.com/questions/79998870/has-anyone-encountered-tiktok-mapi-error-40002",
+      "summary": "",
+      "tags": [
+        "tiktok",
+        "tiktok-api",
+        "message-system"
+      ],
+      "author": "Tran Gia Long",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How to launch AFS prOxide Client on Windows?",
+      "url": "https://stackoverflow.com/questions/79998867/how-to-launch-afs-proxide-client-on-windows",
+      "summary": "",
+      "tags": [
+        "reverse-proxy"
+      ],
+      "author": "Alex",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "How to learn frontend",
+      "url": "https://stackoverflow.com/questions/79998864/how-to-learn-frontend",
+      "summary": "",
+      "tags": [
+        "advice",
+        "frontend"
+      ],
+      "author": "Tushar",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "ToolStripMenuItem ShortcutKeys Add and Subtract not working",
+      "url": "https://stackoverflow.com/questions/79998855/toolstripmenuitem-shortcutkeys-add-and-subtract-not-working",
+      "summary": "",
+      "tags": [
+        "c#",
+        "winforms",
+        "keyboard-shortcuts"
+      ],
+      "author": "Derek Johnson",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Connect SQL to Java without displaying the password",
+      "url": "https://stackoverflow.com/questions/79998830/connect-sql-to-java-without-displaying-the-password",
+      "summary": "",
+      "tags": [
+        "java",
+        "mysql",
+        "passwords"
+      ],
+      "author": "William",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "GWT compile changes not reflecting in DEV",
+      "url": "https://stackoverflow.com/questions/79998865/gwt-compile-changes-not-reflecting-in-dev",
+      "summary": "",
+      "tags": [
+        "java",
+        "maven",
+        "user-interface",
+        "gwt-compiler"
+      ],
+      "author": "deiva abinaya",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Difference in template call performance. Reasons?",
+      "url": "https://stackoverflow.com/questions/79998791/difference-in-template-call-performance-reasons",
+      "summary": "",
+      "tags": [
+        "c++",
+        "performance",
+        "templates"
+      ],
+      "author": "user626528",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "Append column from multiple pandas dataframes while retaining filename",
+      "url": "https://stackoverflow.com/questions/79998829/append-column-from-multiple-pandas-dataframes-while-retaining-filename",
+      "summary": "",
+      "tags": [
+        "python",
+        "pandas",
+        "dataframe"
+      ],
+      "author": "Anme",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "gcc: structured binding parameter pack not captured by lambda",
+      "url": "https://stackoverflow.com/questions/79998823/gcc-structured-binding-parameter-pack-not-captured-by-lambda",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++26"
+      ],
+      "author": "LWimsey",
+      "comments": 1,
+      "score": 4
+    },
+    {
+      "title": "Create .mylogin.cnf from a PHP script on Windows",
+      "url": "https://stackoverflow.com/questions/79998816/create-mylogin-cnf-from-a-php-script-on-windows",
+      "summary": "",
+      "tags": [
+        "php",
+        "command-line-interface"
+      ],
+      "author": "Keith M. Swartz",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Why does typing break when I convert my classes to generic classes?",
+      "url": "https://stackoverflow.com/questions/79998840/why-does-typing-break-when-i-convert-my-classes-to-generic-classes",
+      "summary": "",
+      "tags": [
+        "generics",
+        "python-typing",
+        "pylance"
+      ],
+      "author": "iamthebull",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "NSTextBlock breaks autosizing {UI,NS}TextView",
+      "url": "https://stackoverflow.com/questions/79998861/nstextblock-breaks-autosizing-ui-nstextview",
+      "summary": "",
+      "tags": [
+        "ios",
+        "macos",
+        "uikit",
+        "appkit"
+      ],
+      "author": "Paul",
+      "comments": 0,
+      "score": 0
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T09:29:42.237332+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "summary": "",
+      "author": "Kotlopou",
+      "comments": 1301,
+      "score": 1494
+    },
+    {
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "summary": "",
+      "author": "lxhrstn",
+      "comments": 604,
+      "score": 1411
+    },
+    {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "summary": "",
+      "author": "nb-t",
+      "comments": 227,
+      "score": 448
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "summary": "",
+      "author": "rmason",
+      "comments": 317,
+      "score": 377
+    },
+    {
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "summary": "",
+      "author": "bjin",
+      "comments": 104,
+      "score": 366
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "summary": "",
+      "author": "gslin",
+      "comments": 130,
+      "score": 282
+    },
+    {
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "summary": "",
+      "author": "dang",
+      "comments": 96,
+      "score": 255
+    },
+    {
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "summary": "",
+      "author": "Herrera",
+      "comments": 116,
+      "score": 228
+    },
+    {
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "summary": "",
+      "author": "encyclopedism",
+      "comments": 78,
+      "score": 221
+    },
+    {
+      "title": "SSH is a GUI framework",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "summary": "",
+      "author": "teledream",
+      "comments": 98,
+      "score": 190
+    },
+    {
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "summary": "",
+      "author": "sohkamyung",
+      "comments": 18,
+      "score": 160
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "summary": "",
+      "author": "acossta",
+      "comments": 42,
+      "score": 153
+    },
+    {
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "summary": "",
+      "author": "miohtama",
+      "comments": 35,
+      "score": 144
+    },
+    {
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "summary": "",
+      "author": "dm",
+      "comments": 54,
+      "score": 140
+    },
+    {
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp",
+      "summary": "",
+      "author": "vinhnx",
+      "comments": 38,
+      "score": 127
+    },
+    {
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "summary": "",
+      "author": "rguiscard",
+      "comments": 17,
+      "score": 116
+    },
+    {
+      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "summary": "",
+      "author": "qzervaas",
+      "comments": 12,
+      "score": 94
+    },
+    {
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "summary": "",
+      "author": "joonehur",
+      "comments": 15,
+      "score": 92
+    },
+    {
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "summary": "",
+      "author": "Michelangelo11",
+      "comments": 23,
+      "score": 87
+    },
+    {
+      "title": "Deriving Black-Scholes",
+      "url": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+      "summary": "",
+      "author": "meysamazad",
+      "comments": 48,
+      "score": 74
+    },
+    {
+      "title": "How did pinwheel calculators work?",
+      "url": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 6,
+      "score": 70
+    },
+    {
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "summary": "",
+      "author": "jomon003",
+      "comments": 87,
+      "score": 59
+    },
+    {
+      "title": "XKCD and Fourier",
+      "url": "https://leancrew.com/all-this/2026/10/xkcd-and-fourier/",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 17,
+      "score": 56
+    },
+    {
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "summary": "",
+      "author": "amanverasia",
+      "comments": 28,
+      "score": 48
+    },
+    {
+      "title": "Qualcomm's Oryon 3 Reaches the Top",
+      "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "summary": "",
+      "author": "wmf",
+      "comments": 19,
+      "score": 48
+    },
+    {
+      "title": "Show HN: Synth Patch Hero",
+      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "summary": "",
+      "author": "kaidon",
+      "comments": 7,
+      "score": 34
+    },
+    {
+      "title": "The history of civilization is the history of wheat",
+      "url": "https://asteriskmag.com/issues/16/marginal-grains",
+      "summary": "",
+      "author": "NaOH",
+      "comments": 7,
+      "score": 27
+    },
+    {
+      "title": "Unconditional Integer Factorization in Subexponential Time",
+      "url": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+      "summary": "",
+      "author": "_alternator_",
+      "comments": 2,
+      "score": 27
+    },
+    {
+      "title": "'Castles' Review",
+      "url": "https://www.wsj.com/arts-culture/books/castles-review-playing-defense-da10d776?st=tR9KT4&reflink=desktopwebshare_permalink",
+      "summary": "",
+      "author": "mr_tyzik",
+      "comments": 3,
+      "score": 16
+    },
+    {
+      "title": "Who is in charge of Britain's web addresses?",
+      "url": "https://medium.com/@jharbourne/who-is-in-charge-of-britains-web-addresses-6efc797bc133",
+      "summary": "",
+      "author": "jharbourne",
+      "comments": 1,
+      "score": 12
+    }
+  ]
+}

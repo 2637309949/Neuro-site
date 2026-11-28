@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T08:59:59.072390+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "谷歌世界模型 Genie 4 更新，支持“实时”更改世界",
+      "url": "https://www.oschina.net/news/503750",
+      "summary": "在生成的世界里走着走着，打一行字，天气就变了；再打一行，一个角色出现在你面前；想换个走向，直接说。 Genie 4 最核心的升级就是这个：你可以在...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": ":fire: xbatis 1.10.12 正式发版，mybatis 系列最好用最简单最方便的 ORM !!",
+      "url": "https://www.oschina.net/news/503748",
+      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用...",
+      "author": "Ai东",
+      "comments": 0
+    },
+    {
+      "title": "微语 5.3.0 发布 - 支持远程协助",
+      "url": "https://www.oschina.net/news/503747",
+      "summary": "基于AI全新打造的一款开源企业级多租户团队协作工具，集成多种功能于一体：企业即时通讯IM、在线客服、知识库、客户之声、工单系统、AI对话、工作流...",
+      "author": "码总",
+      "comments": 0
+    },
+    {
+      "title": "一条命令就能让 Mac 用本地模型跑编程 Agent",
+      "url": "https://www.oschina.net/news/503746",
+      "summary": "一条命令就能在 Mac 上跑起 agentic coding，模型全在本地。 \r\nuv pip install localcode\r\ncd your-project\r\nlocalcode\r\n 这是 mjwsolo 做的 loca...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Jync v2.4.5 · 注释同步与游标优先级",
+      "url": "https://www.oschina.net/news/503745",
+      "summary": "Jync v2.4.5 · 注释同步与游标优先级 本版概要 v2.4.5 聚焦数据库元数据完整性与同步可控性：SQL Server 源端可读取表 / 字段注释，Oracle、Postg...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "AI 越来越便宜，AI 越来越烧钱",
+      "url": "https://www.oschina.net/news/503743/token-spending-at-that-jevons-moment",
+      "summary": "160年前，英国经济学家杰文斯观察到一个反直觉的现象：蒸汽机烧煤的效率越高，英国的煤炭消耗量反而越大。 原因并不复杂。效率提高以后，用煤变得更...",
+      "author": "菠萝的海子",
+      "comments": 0
+    },
+    {
+      "title": "mod_wsgi 创始人用 Rust 重写了一个 Python 服务器",
+      "url": "https://www.oschina.net/news/503742/rust-muru",
+      "summary": "Graham Dumpleton 二十年前写了 mod_wsgi。这二十年里他一直在想同一件事：Python web 应用在生产环境里最理想的跑法是什么。 Muru 是他的答案。一...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "SJF4J - 面向JSON的Java编程",
+      "url": "https://www.oschina.net/news/503741",
+      "summary": "SJF4J - 面向 JSON 的 Java 编程 Java 对象也能直接使用 JSONPath、JSON Schema 和 JSON Patch？ 开源项目 SJF4J（Simple JSON Facade for Java）1...",
+      "author": "osc_34875346",
+      "comments": 0
+    },
+    {
+      "title": "微软 CEO 纳德拉承认，VS Code 的护城河被人从终端绕过去了",
+      "url": "https://www.oschina.net/news/503739/nadella-admits-vs-code-faded-in-six-months",
+      "summary": "微软花了十多年把 VS Code 做成开发者的默认工作台。然后 Nadella 自己承认，它称霸十年后仅大概六个月就“销声匿迹”了。 他在《The Pragmatic E...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "🔥MakuBoot 5.3 发布，AI 低代码开发平台，快速开发利器",
+      "url": "https://www.oschina.net/news/503738",
+      "summary": "介绍 maku-boot 是采用 SpringBoot4.0、SpringSecurity7.0、Flowable8.0、Mybatis-Plus、Vue3、Element-plus 等技术开发的低代码开发平台，旨在为开...",
+      "author": "码库开源",
+      "comments": 0
+    },
+    {
+      "title": "OpenAI 首席科学家提议为 AI 开发设置“行业上限”",
+      "url": "https://www.oschina.net/news/503737/openai-perplexity-and-intelligence",
+      "summary": "OpenAI 首席科学家 Jakub Pachocki 写了篇论文式的文章，主张把 perplexity（困惑度，等价于交叉熵损失）确立为跨公司比较模型的行业指标，并以此为...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": " qData 主数据平台开源版 v1.0.1 发布：聚焦使用反馈，功能细节与产品体验持续优化",
+      "url": "https://www.oschina.net/news/503735",
+      "summary": "一笔冻结申请显示“已通过”，回到主数据列表一看，对应记录却还没冻结。 类似“页面提示与最终状态不一致”的使用反馈，是 qData 主数据平台开源版...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "TCP/IP 为什么没申请专利？Vint Cerf 说因为不知道 25 年后盟友是谁",
+      "url": "https://www.oschina.net/news/503734/vint-cerf-on-why-tcpip-was-never",
+      "summary": "TCP/IP 为什么没有申请专利？Vint Cerf 在 João Tomé 的新播客《Future Stories》里给了答案。 他 1970 年代和 Bob Kahn 一起写下了那套让全世界...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "MrDoc v1.1.2 发布，全平台多终端的私有部署AI知识库系统",
+      "url": "https://www.oschina.net/news/503733",
+      "summary": "觅思文档（MrDoc）是一款面向团队与企业的私有化知识管理解决方案，致力于帮助组织构建结构化、可沉淀、可复用的知识体系。 通过「文集 + 文档」的...",
+      "author": "州的先生",
+      "comments": 0
+    },
+    {
+      "title": "从“看地图”到“看世界”：东软OneCoreGo:registered:获卫星导航定位科学技术奖金奖",
+      "url": "https://www.oschina.net/news/503732",
+      "summary": "他没有输入终点，也没有点开地图。 周一早高峰，车主只对车机说了一句：“一会儿公司有个会，顺路买个早餐。”中控屏上，去公司的路线随即展开，沿...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "2026开放原子开发者大会在郑州举行 汇聚开发者力量共建开源生态",
+      "url": "https://www.oschina.net/news/503731",
+      "summary": "11月20日，2026开放原子开发者大会在河南郑州开幕。河南省委常委、郑州市委书记王崧，工业和信息化部信息技术发展司副司长王威伟，郑州市人民政府市...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "让代码背后的贡献者站到台前：开放原子开源基金会致谢32位年度突出开发者",
+      "url": "https://www.oschina.net/news/503730",
+      "summary": "11月20日，2026开放原子开发者大会在郑州开幕。大会开幕式上，开放原子开源基金会举行年度突出开发者致谢仪式，向来自23个开源项目的32位开发者致以...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "🔥 拾趣 Magpie v0.2.0 发布：模型视图更准确，词典功能上新，多项细节优化",
+      "url": "https://www.oschina.net/news/503729",
+      "summary": "🔥 拾趣 Magpie v0.2.0 发布：模型视图更准确，多项细节优化 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词工具 划选或双击，浮动条随即弹出：翻...",
+      "author": "anziguoer",
+      "comments": 0
+    },
+    {
+      "title": "XXL-AI v1.7.0 发布｜AI 应用开发平台",
+      "url": "https://www.oschina.net/news/503728",
+      "summary": "Release Notes： 【本地版（Desk 桌面端）】 1、【架构】Harness模块独立：针对会话Loop，包含模型请求、工具调用、MCP调用、SKILL加载等等，统一闭...",
+      "author": "许雪里",
+      "comments": 0
+    },
+    {
+      "title": "从算力底座到行业落地，华为智启未来主题论坛亮相 2026 世界计算大会",
+      "url": "https://www.oschina.net/news/503727",
+      "summary": "11 月 20 日，2026 世界计算大会举办期间，由华为主办的“数智共昇 鸿湘有为”智启未来主题论坛在长沙举办。论坛深度对接湖南省“AI+”发展战略，围...",
+      "author": "鲜菇小肉包",
+      "comments": 0
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T07:56:14.939342+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "summary": "",
+      "author": "karagenit",
+      "comments": 457,
+      "score": 751
+    },
+    {
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "summary": "",
+      "author": "TheWiggles",
+      "comments": 397,
+      "score": 734
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "summary": "",
+      "author": "karimf",
+      "comments": 597,
+      "score": 578
+    },
+    {
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "summary": "",
+      "author": "smusamashah",
+      "comments": 63,
+      "score": 496
+    },
+    {
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "summary": "",
+      "author": "dcoulmbe",
+      "comments": 116,
+      "score": 423
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "summary": "",
+      "author": "joshcsimmons",
+      "comments": 185,
+      "score": 411
+    },
+    {
+      "title": "Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "summary": "",
+      "author": "xmddmx",
+      "comments": 264,
+      "score": 370
+    },
+    {
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "summary": "",
+      "author": "jruohonen",
+      "comments": 87,
+      "score": 341
+    },
+    {
+      "title": "RIP, Harvest",
+      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "summary": "",
+      "author": "zdw",
+      "comments": 90,
+      "score": 309
+    },
+    {
+      "title": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "summary": "",
+      "author": "infosecau",
+      "comments": 92,
+      "score": 273
+    },
+    {
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "summary": "",
+      "author": "indigodaddy",
+      "comments": 86,
+      "score": 264
+    },
+    {
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "summary": "",
+      "author": "kyunez",
+      "comments": 163,
+      "score": 226
+    },
+    {
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "summary": "",
+      "author": "matteoraso",
+      "comments": 292,
+      "score": 213
+    },
+    {
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "summary": "",
+      "author": "david927",
+      "comments": 660,
+      "score": 198
+    },
+    {
+      "title": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "summary": "",
+      "author": "nmstoker",
+      "comments": 24,
+      "score": 182
+    },
+    {
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "summary": "",
+      "author": "edward",
+      "comments": 73,
+      "score": 127
+    },
+    {
+      "title": "When a language's creator and its owners strongly disagree [pdf]",
+      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "summary": "",
+      "author": "acossta",
+      "comments": 110,
+      "score": 115
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "summary": "",
+      "author": "dmit",
+      "comments": 21,
+      "score": 101
+    },
+    {
+      "title": "A Critique of GPUI",
+      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "summary": "",
+      "author": "ByteAtATime",
+      "comments": 42,
+      "score": 77
+    },
+    {
+      "title": "Playing with the STM32MP2",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "summary": "",
+      "author": "dverlaeckt80",
+      "comments": 32,
+      "score": 57
+    },
+    {
+      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "summary": "",
+      "author": "bookofjoe",
+      "comments": 5,
+      "score": 50
+    },
+    {
+      "title": "A Bit about Email",
+      "url": "https://maurycyz.com/misc/email/",
+      "summary": "",
+      "author": "vinhnx",
+      "comments": 4,
+      "score": 27
+    },
+    {
+      "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
+      "url": "https://github.com/rkaehn/uniform",
+      "summary": "",
+      "author": "rkaehn",
+      "comments": 11,
+      "score": 25
+    },
+    {
+      "title": "The Qlobe: Rotating Quine (2010)",
+      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "summary": "",
+      "author": "niceguitars",
+      "comments": 0,
+      "score": 22
+    },
+    {
+      "title": "Branching Beyond Leonardo: The Evolution of Tree Architecture Theory",
+      "url": "https://blue-continuum.com/branching-beyond-leonardo",
+      "summary": "",
+      "author": "dnetesn",
+      "comments": 0,
+      "score": 15
+    },
+    {
+      "title": "Ur-Nammu Founder of the Sumerian Renaissance",
+      "url": "https://www.worldhistory.org/Ur-Nammu/",
+      "summary": "",
+      "author": "Bluestein",
+      "comments": 0,
+      "score": 14
+    },
+    {
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "url": "https://github.com/OmniJev/Flide",
+      "summary": "",
+      "author": "unikcc",
+      "comments": 1,
+      "score": 13
+    },
+    {
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "summary": "",
+      "author": "rzk",
+      "comments": 5,
+      "score": 12
+    },
+    {
+      "title": "Show HN: My compact, bio inspired distributed edge detection algorithm",
+      "url": "https://github.com/RenderBear/haci",
+      "summary": "",
+      "author": "RenderBear",
+      "comments": 0,
+      "score": 12
+    },
+    {
+      "title": "Quasi-Logarithmic Kitchen Timer",
+      "url": "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer",
+      "summary": "",
+      "author": "surprisetalk",
+      "comments": 2,
+      "score": 9
+    }
+  ]
+}

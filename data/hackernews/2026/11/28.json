@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T08:55:35.830844+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "summary": "",
+      "author": "brandonb",
+      "comments": 317,
+      "score": 516
+    },
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "summary": "",
+      "author": "scanr",
+      "comments": 269,
+      "score": 514
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "summary": "",
+      "author": "dr_red_dog",
+      "comments": 277,
+      "score": 434
+    },
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "summary": "",
+      "author": "DeepLogin",
+      "comments": 224,
+      "score": 373
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "summary": "",
+      "author": "mday404",
+      "comments": 124,
+      "score": 370
+    },
+    {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": "",
+      "author": "ComputedCamp995",
+      "comments": 138,
+      "score": 358
+    },
+    {
+      "title": "The Balatro Timeline",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "summary": "",
+      "author": "sheepscreek",
+      "comments": 69,
+      "score": 318
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "summary": "",
+      "author": "MickyTheMouse",
+      "comments": 94,
+      "score": 295
+    },
+    {
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "url": "https://unkernel.dev",
+      "summary": "",
+      "author": "nreece",
+      "comments": 47,
+      "score": 250
+    },
+    {
+      "title": "False computer-checked proofs",
+      "url": "https://cr.yp.to/proofs/falseccp.html",
+      "summary": "",
+      "author": "_tk_",
+      "comments": 87,
+      "score": 225
+    },
+    {
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "summary": "",
+      "author": "Bender",
+      "comments": 63,
+      "score": 211
+    },
+    {
+      "title": "Atari Homebrew Awards Cancelled",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "summary": "",
+      "author": "bpierre",
+      "comments": 186,
+      "score": 195
+    },
+    {
+      "title": "Citroën Hydraulic System",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "summary": "",
+      "author": "o4c",
+      "comments": 59,
+      "score": 188
+    },
+    {
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "url": "https://dragdropmath.com/",
+      "summary": "",
+      "author": "ziofill",
+      "comments": 38,
+      "score": 131
+    },
+    {
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "summary": "",
+      "author": "tylermw",
+      "comments": 16,
+      "score": 124
+    },
+    {
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "url": "https://progrium.github.io/9ux/",
+      "summary": "",
+      "author": "rbanffy",
+      "comments": 29,
+      "score": 121
+    },
+    {
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "url": "https://tabernet.es/",
+      "summary": "",
+      "author": "mmcclure",
+      "comments": 39,
+      "score": 115
+    },
+    {
+      "title": "Cyberpunk Television Shows",
+      "url": "https://shellzine.net/cyberpunk-television/",
+      "summary": "",
+      "author": "zdw",
+      "comments": 88,
+      "score": 99
+    },
+    {
+      "title": "Show HN: Analysis of Hacker News predictions since 2008",
+      "url": "https://hnpredictions.com/",
+      "summary": "",
+      "author": "mv4",
+      "comments": 70,
+      "score": 90
+    },
+    {
+      "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+      "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
+      "summary": "",
+      "author": "gregsadetsky",
+      "comments": 18,
+      "score": 83
+    },
+    {
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "summary": "",
+      "author": "PaulHoule",
+      "comments": 7,
+      "score": 81
+    },
+    {
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "summary": "",
+      "author": "ingve",
+      "comments": 22,
+      "score": 66
+    },
+    {
+      "title": "Sydney Fire Ant Infestation",
+      "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+      "summary": "",
+      "author": "altilunium",
+      "comments": 28,
+      "score": 56
+    },
+    {
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "summary": "",
+      "author": "robtherobber",
+      "comments": 6,
+      "score": 50
+    },
+    {
+      "title": "Knuth: Moratorium on Error Reports",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "summary": "",
+      "author": "ultraficial",
+      "comments": 14,
+      "score": 48
+    },
+    {
+      "title": "How WinHelp Files Work",
+      "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+      "summary": "",
+      "author": "frostbyte7",
+      "comments": 24,
+      "score": 35
+    },
+    {
+      "title": "fplotlib – Fortran Plotting Library",
+      "url": "https://github.com/fortran-lang/fplotlib",
+      "summary": "",
+      "author": "AlexeyBrin",
+      "comments": 3,
+      "score": 15
+    },
+    {
+      "title": "What Is the Metabolism-First Theory for the Origin of Life?",
+      "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+      "summary": "",
+      "author": "ibobev",
+      "comments": 2,
+      "score": 13
+    },
+    {
+      "title": "FastLanes: Next-gen File Format [pdf]",
+      "url": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
+      "summary": "",
+      "author": "todsacerdoti",
+      "comments": 0,
+      "score": 5
+    },
+    {
+      "title": "Same Streets, Different Empires: The Hidden Narrative of Map Copyright",
+      "url": "https://blogs.loc.gov/maps/2026/11/same-streets-different-empires/",
+      "summary": "",
+      "author": "pavel_lishin",
+      "comments": 0,
+      "score": 3
+    }
+  ]
+}

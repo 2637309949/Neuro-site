@@ -1,0 +1,438 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T07:43:27.521301+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Do you compare raw output values or only the final prediction when validating a deployed model?",
+      "url": "https://stackoverflow.com/questions/80015975/do-you-compare-raw-output-values-or-only-the-final-prediction-when-validating-a",
+      "summary": "",
+      "tags": [
+        "tensorflow",
+        "neural-network",
+        "embedded",
+        "classification",
+        "quantization"
+      ],
+      "author": "FabianHem42",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How can I exclude sampling gaps when calculating accompanying time between two Ganos trajectories?",
+      "url": "https://stackoverflow.com/questions/80015963/how-can-i-exclude-sampling-gaps-when-calculating-accompanying-time-between-two-g",
+      "summary": "",
+      "tags": [
+        "sql",
+        "postgresql",
+        "polardb"
+      ],
+      "author": "李思哲",
+      "comments": 0,
+      "score": 3
+    },
+    {
+      "title": "FreeRTOS producer-consumer queue locks up / consumer task fails to execute on ATSAMC21 (Harmony v3)",
+      "url": "https://stackoverflow.com/questions/80015953/freertos-producer-consumer-queue-locks-up-consumer-task-fails-to-execute-on-at",
+      "summary": "",
+      "tags": [
+        "c",
+        "freertos",
+        "microchip",
+        "rtos",
+        "firmware"
+      ],
+      "author": "ViZe",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "GPT-UPI not working after you have cancel the auto-pay mandate from UPI",
+      "url": "https://stackoverflow.com/questions/80015948/gpt-upi-not-working-after-you-have-cancel-the-auto-pay-mandate-from-upi",
+      "summary": "",
+      "tags": [
+        "chatgpt-api",
+        "upi"
+      ],
+      "author": "CHITRAVANSH MOHAN",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Why is the original array still affected?",
+      "url": "https://stackoverflow.com/questions/80015903/why-is-the-original-array-still-affected",
+      "summary": "",
+      "tags": [
+        "c"
+      ],
+      "author": "Isaiah noxy",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Basic guide about how to work with C++ modules, CMake, and external libraries from a package manager",
+      "url": "https://stackoverflow.com/questions/80015933/basic-guide-about-how-to-work-with-c-modules-cmake-and-external-libraries-fr",
+      "summary": "",
+      "tags": [
+        "c++",
+        "cmake",
+        "package-managers",
+        "c++23",
+        "c++-modules"
+      ],
+      "author": "L1L2L3",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Regarding eval with read-from-string",
+      "url": "https://stackoverflow.com/questions/80015928/regarding-eval-with-read-from-string",
+      "summary": "",
+      "tags": [
+        "common-lisp",
+        "eval"
+      ],
+      "author": "Plus Ultra",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Quarto websites version navigation of the rendered website",
+      "url": "https://stackoverflow.com/questions/80015934/quarto-websites-version-navigation-of-the-rendered-website",
+      "summary": "",
+      "tags": [
+        "quarto"
+      ],
+      "author": "PAll",
+      "comments": 0,
+      "score": -11
+    },
+    {
+      "title": "Does Sleep(0) let the core execute another core&#39;s thread that is ready to run?",
+      "url": "https://stackoverflow.com/questions/80015891/does-sleep0-let-the-core-execute-another-cores-thread-that-is-ready-to-run",
+      "summary": "",
+      "tags": [
+        "multithreading",
+        "winapi",
+        "sleep",
+        "cpu-cores"
+      ],
+      "author": "yoonsoh",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why does MSVC compile a structured binding of `std::pair&lt;int, float&gt;` worse in `/std:c++20` than in `/std:c++latest`?",
+      "url": "https://stackoverflow.com/questions/80015860/why-does-msvc-compile-a-structured-binding-of-stdpairint-float-worse-in",
+      "summary": "",
+      "tags": [
+        "c++",
+        "visual-c++",
+        "compiler-optimization",
+        "std-pair",
+        "structured-bindings"
+      ],
+      "author": "Fedor",
+      "comments": 1,
+      "score": 5
+    },
+    {
+      "title": "Installing git in a OpenBSD jail",
+      "url": "https://stackoverflow.com/questions/80015917/installing-git-in-a-openbsd-jail",
+      "summary": "",
+      "tags": [
+        "git",
+        "server",
+        "chroot",
+        "openbsd"
+      ],
+      "author": "Connor Thomson",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "How to get the lowest value from a tuple, contained within a list with other tuples as elements?",
+      "url": "https://stackoverflow.com/questions/80015895/how-to-get-the-lowest-value-from-a-tuple-contained-within-a-list-with-other-tup",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "Manos Fountis",
+      "comments": 3,
+      "score": -5
+    },
+    {
+      "title": "Where-object cmdlet does not seem to behave as expected and returns error",
+      "url": "https://stackoverflow.com/questions/80015896/where-object-cmdlet-does-not-seem-to-behave-as-expected-and-returns-error",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "console",
+        "where-object"
+      ],
+      "author": "matthew Higgs",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Defining functions and then printing values",
+      "url": "https://stackoverflow.com/questions/80015898/defining-functions-and-then-printing-values",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "zpargo87",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "pastclim::download_dataset eval(parse error",
+      "url": "https://stackoverflow.com/questions/80015910/pastclimdownload-dataset-evalparse-error",
+      "summary": "",
+      "tags": [
+        "download",
+        "dataset",
+        "eval",
+        "sdmx"
+      ],
+      "author": "Colleen Nelsen",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "In which condition RPI Pico DBGPAUSE flags stop the TIMER clocks?",
+      "url": "https://stackoverflow.com/questions/80015901/in-which-condition-rpi-pico-dbgpause-flags-stop-the-timer-clocks",
+      "summary": "",
+      "tags": [
+        "c++",
+        "raspberry-pi-pico",
+        "swd"
+      ],
+      "author": "PCh",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Spring Boot multi-service project: &quot;package org.springframework.boot does not exist&quot; in IntelliJ IDEA",
+      "url": "https://stackoverflow.com/questions/80015825/spring-boot-multi-service-project-package-org-springframework-boot-does-not-ex",
+      "summary": "",
+      "tags": [
+        "java",
+        "spring-boot",
+        "maven",
+        "intellij-idea"
+      ],
+      "author": "Ira",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How do I pull truly unique dictionaries from a list of dictionaries in Python?",
+      "url": "https://stackoverflow.com/questions/80015882/how-do-i-pull-truly-unique-dictionaries-from-a-list-of-dictionaries-in-python",
+      "summary": "",
+      "tags": [
+        "python",
+        "dictionary"
+      ],
+      "author": "Joshua White",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "What is the cheapest way to host a small web app with a database?",
+      "url": "https://stackoverflow.com/questions/80015865/what-is-the-cheapest-way-to-host-a-small-web-app-with-a-database",
+      "summary": "",
+      "tags": [
+        "web-hosting"
+      ],
+      "author": "Javier Luraschi",
+      "comments": 0,
+      "score": -12
+    },
+    {
+      "title": "I created 2 arrays that store letter values for a scrabble game. However my program assigns the wrong point value to 4 of the letters. Why?",
+      "url": "https://stackoverflow.com/questions/80015748/i-created-2-arrays-that-store-letter-values-for-a-scrabble-game-however-my-prog",
+      "summary": "",
+      "tags": [
+        "c",
+        "multidimensional-array",
+        "indexing",
+        "cs50",
+        "c-strings"
+      ],
+      "author": "Adeline Wright",
+      "comments": 3,
+      "score": 4
+    },
+    {
+      "title": "How to compile a dual-purpose ELF binary (Executable &amp; Shared Library) that supports both dlopen and -l linking?",
+      "url": "https://stackoverflow.com/questions/80015869/how-to-compile-a-dual-purpose-elf-binary-executable-shared-library-that-supp",
+      "summary": "",
+      "tags": [
+        "c",
+        "linux",
+        "gcc",
+        "shared-libraries",
+        "elf"
+      ],
+      "author": "Stef1611",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Use reference for the evaluated cell in Apple Numbers",
+      "url": "https://stackoverflow.com/questions/80015887/use-reference-for-the-evaluated-cell-in-apple-numbers",
+      "summary": "",
+      "tags": [
+        "apple-numbers",
+        "apple-numbers-formula"
+      ],
+      "author": "Alvaro Pedraza",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Trigonometric computation using math library",
+      "url": "https://stackoverflow.com/questions/80015841/trigonometric-computation-using-math-library",
+      "summary": "",
+      "tags": [
+        "python",
+        "math"
+      ],
+      "author": "zpargo87",
+      "comments": 1,
+      "score": -7
+    },
+    {
+      "title": "std::formattable fails on custom std::formatter specialization",
+      "url": "https://stackoverflow.com/questions/80015802/stdformattable-fails-on-custom-stdformatter-specialization",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++23",
+        "stdformat"
+      ],
+      "author": "KokosNaPalmie",
+      "comments": 1,
+      "score": 6
+    },
+    {
+      "title": "How would you design and implement a local data infrastructure?",
+      "url": "https://stackoverflow.com/questions/80015859/how-would-you-design-and-implement-a-local-data-infrastructure",
+      "summary": "",
+      "tags": [
+        "data-structures",
+        "local"
+      ],
+      "author": "Yomorei",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Accessing a model&#39;s individual layer",
+      "url": "https://stackoverflow.com/questions/80015880/accessing-a-models-individual-layer",
+      "summary": "",
+      "tags": [
+        "python",
+        "pytorch",
+        "huggingface-transformers",
+        "large-language-model"
+      ],
+      "author": "Jordon",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Adding Go Packages",
+      "url": "https://stackoverflow.com/questions/80015872/adding-go-packages",
+      "summary": "",
+      "tags": [
+        "go",
+        "module"
+      ],
+      "author": "Ken Green",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "git identity switcher for linux",
+      "url": "https://stackoverflow.com/questions/80015830/git-identity-switcher-for-linux",
+      "summary": "",
+      "tags": [
+        "linux",
+        "bash",
+        "git",
+        "ssh",
+        "ssh-keys"
+      ],
+      "author": "honest_lier",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Passing form data from a popup window in Flask",
+      "url": "https://stackoverflow.com/questions/80015811/passing-form-data-from-a-popup-window-in-flask",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "python",
+        "flask"
+      ],
+      "author": "katastrophe",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Why does changing a value twice work for modifying a bound textbox?",
+      "url": "https://stackoverflow.com/questions/80015797/why-does-changing-a-value-twice-work-for-modifying-a-bound-textbox",
+      "summary": "",
+      "tags": [
+        ".net",
+        "vb.net",
+        "winforms"
+      ],
+      "author": "npr_se",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}

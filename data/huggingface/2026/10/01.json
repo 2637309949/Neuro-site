@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T07:12:21.857505+00:00",
+  "source": "huggingface",
+  "count": 30,
+  "columns": [
+    {
+      "name": "模型名",
+      "key": "model",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "下载量",
+      "key": "downloads",
+      "type": "metric",
+      "icon": "Download"
+    },
+    {
+      "name": "点赞数",
+      "key": "likes",
+      "type": "metric",
+      "icon": "Heart"
+    }
+  ],
+  "items": [
+    {
+      "title": "Edge0/Audio8-ASR-Infinite",
+      "model": "Edge0/Audio8-ASR-Infinite",
+      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+      "summary": "Automatic Speech Recognition",
+      "downloads": 7,
+      "likes": 1970
+    },
+    {
+      "title": "convaiinnovations/laya",
+      "model": "convaiinnovations/laya",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "summary": "Text Classification",
+      "downloads": 7,
+      "likes": 4710
+    },
+    {
+      "title": "XingChen-AGI/TeleOCR",
+      "model": "XingChen-AGI/TeleOCR",
+      "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+      "summary": "Image-Text-to-Text",
+      "downloads": 2,
+      "likes": 1120
+    },
+    {
+      "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "model": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "summary": "Text-to-Image",
+      "downloads": 3,
+      "likes": 2600
+    },
+    {
+      "title": "Contrastive-LM/CLM-v0.1-8B",
+      "model": "Contrastive-LM/CLM-v0.1-8B",
+      "url": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+      "summary": "Text Ranking",
+      "downloads": 6,
+      "likes": 581
+    },
+    {
+      "title": "Qwen/Qwen-Image-2.1",
+      "model": "Qwen/Qwen-Image-2.1",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+      "summary": "Text-to-Image",
+      "downloads": 1,
+      "likes": 2730
+    },
+    {
+      "title": "Lightricks/LTX-2.5",
+      "model": "Lightricks/LTX-2.5",
+      "url": "https://huggingface.co/Lightricks/LTX-2.5",
+      "summary": "Image-to-Video",
+      "downloads": 1,
+      "likes": 5750
+    },
+    {
+      "title": "Qwen/Qwen3.8-27B",
+      "model": "Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 14,
+      "likes": 16700
+    },
+    {
+      "title": "nvidia/Nemotron-3-Diarization",
+      "model": "nvidia/Nemotron-3-Diarization",
+      "url": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
+      "summary": "Voice Activity Detection",
+      "downloads": 99200000,
+      "likes": 567
+    },
+    {
+      "title": "SupersonicLabs/Julia-1",
+      "model": "SupersonicLabs/Julia-1",
+      "url": "https://huggingface.co/SupersonicLabs/Julia-1",
+      "summary": "Text Classification",
+      "downloads": 4,
+      "likes": 322
+    },
+    {
+      "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "model": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "summary": "Text Generation",
+      "downloads": 5,
+      "likes": 2310
+    },
+    {
+      "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
+      "model": "Viggle/Qwen-Image-2.1-viggle-turbo",
+      "url": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
+      "summary": "Text-to-Image",
+      "downloads": 4,
+      "likes": 466
+    },
+    {
+      "title": "fastino/GLiNER2.5-Decide",
+      "model": "fastino/GLiNER2.5-Decide",
+      "url": "https://huggingface.co/fastino/GLiNER2.5-Decide",
+      "summary": "Token Classification",
+      "downloads": 3,
+      "likes": 261
+    },
+    {
+      "title": "PSRben/VisionHOPE",
+      "model": "PSRben/VisionHOPE",
+      "url": "https://huggingface.co/PSRben/VisionHOPE",
+      "summary": "Image Classification",
+      "downloads": 1,
+      "likes": 351
+    },
+    {
+      "title": "orcarouter/OrcaSAQ-2-27B",
+      "model": "orcarouter/OrcaSAQ-2-27B",
+      "url": "https://huggingface.co/orcarouter/OrcaSAQ-2-27B",
+      "summary": "Text Generation",
+      "downloads": 7,
+      "likes": 234
+    },
+    {
+      "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "model": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 29,
+      "likes": 1860
+    },
+    {
+      "title": "Comfy-Org/Qwen-Image-2.1",
+      "model": "Comfy-Org/Qwen-Image-2.1",
+      "url": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+      "summary": "Updated",
+      "downloads": 1,
+      "likes": 871
+    },
+    {
+      "title": "Altworld/Hemmingway-1",
+      "model": "Altworld/Hemmingway-1",
+      "url": "https://huggingface.co/Altworld/Hemmingway-1",
+      "summary": "Text Generation",
+      "downloads": 9,
+      "likes": 793
+    },
+    {
+      "title": "akatz-ai/MiniMax-H3-Character-Swap-LoRA",
+      "model": "akatz-ai/MiniMax-H3-Character-Swap-LoRA",
+      "url": "https://huggingface.co/akatz-ai/MiniMax-H3-Character-Swap-LoRA",
+      "summary": "Video-to-Video",
+      "downloads": 3,
+      "likes": 200
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "model": "deepseek-ai/DeepSeek-V4.1-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+      "summary": "Image-Text-to-Text",
+      "downloads": 1,
+      "likes": 3940
+    },
+    {
+      "title": "akhilaaa3/Jev-Omni",
+      "model": "akhilaaa3/Jev-Omni",
+      "url": "https://huggingface.co/akhilaaa3/Jev-Omni",
+      "summary": "Text Classification",
+      "downloads": 6,
+      "likes": 331
+    },
+    {
+      "title": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "model": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "url": "https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "summary": "Text Generation",
+      "downloads": 4,
+      "likes": 202
+    },
+    {
+      "title": "Alissonerdx/BFS-Best-Face-Swap",
+      "model": "Alissonerdx/BFS-Best-Face-Swap",
+      "url": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
+      "summary": "Image-to-Image",
+      "downloads": 3,
+      "likes": 1060
+    },
+    {
+      "title": "TaichuAI/ZDTaichu5.0-9B",
+      "model": "TaichuAI/ZDTaichu5.0-9B",
+      "url": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 11,
+      "likes": 2470
+    },
+    {
+      "title": "XingChen-AGI/Xing4.0-29B-A4B",
+      "model": "XingChen-AGI/Xing4.0-29B-A4B",
+      "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+      "summary": "Text Generation",
+      "downloads": 13,
+      "likes": 1820
+    },
+    {
+      "title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+      "model": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+      "summary": "Image-Text-to-Text",
+      "downloads": 9,
+      "likes": 585
+    },
+    {
+      "title": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "model": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "url": "https://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "summary": "Text Generation",
+      "downloads": 7,
+      "likes": 173
+    },
+    {
+      "title": "inclusionAI/Ming-Image-0.1-Design",
+      "model": "inclusionAI/Ming-Image-0.1-Design",
+      "url": "https://huggingface.co/inclusionAI/Ming-Image-0.1-Design",
+      "summary": "Text-to-Image",
+      "downloads": 8,
+      "likes": 360
+    },
+    {
+      "title": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "model": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "summary": "Text Generation",
+      "downloads": 9,
+      "likes": 616
+    },
+    {
+      "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
+      "model": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
+      "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
+      "summary": "Image-Text-to-Text",
+      "downloads": 2,
+      "likes": 153
+    }
+  ]
+}

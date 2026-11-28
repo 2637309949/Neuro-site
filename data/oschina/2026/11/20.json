@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T08:31:08.142371+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "蚂蚁 OceanBase 团队开源 PowerContext，跨对话的 Agent 记忆服务",
+      "url": "https://www.oschina.net/news/503704/oceanbase-powercontex",
+      "summary": "蚂蚁 OceanBase 团队开源了名为「PowerContext」的项目，解决的问题很具体：上下文不该死在一次对话里。 它的定位是「给 AI agent 用的开源上下文服...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "GIMP 优化自动测试功能，会像真人一样与界面 UI 交互",
+      "url": "https://www.oschina.net/news/503702/gimp-ui-tests",
+      "summary": "GIMP 终于有了一套自动化的界面测试。起因很朴素：GIMP 有大量互相交织的菜单、对话框和工具。改动了界面的一部分，另一部分可能就悄悄坏了——有时...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "微软发布 7 款“世界级”新模型，全在打同一个算盘",
+      "url": "https://www.oschina.net/news/503701",
+      "summary": "微软一口气发布了七个宣称是“世界级”的 AI 模型，这个数量本身说明策略变了：不是追求一个最强模型，而是用一整个矩阵覆盖不同价位和场景。官方给...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Ruby 公开披露多个会触发远程代码执行的漏洞",
+      "url": "https://www.oschina.net/news/503699/ruby-lang-multiple-vulnerabilities-in-regexp-and-string",
+      "summary": "Ruby 团队公开表示其正则引擎和字符串大小写转换存在 7 个漏洞。官方安全公告说得很直接：已经知道有 PoC 能证明其中一些可以触发远程代码执行。修...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Google「AI Overviews」让网站的搜索流量下降四成",
+      "url": "https://www.oschina.net/news/503698",
+      "summary": "Google 搜索引擎「AI Overviews」服务正在抢走网站的流量。 根据一项随机实验的测试，AI Overview 导致从 Google 搜索结果指向外部网站的点击量下降...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Jync v2.4.2 · 替换 jar 升级修复",
+      "url": "https://www.oschina.net/news/503697",
+      "summary": "修复 元数据库枚举列升级：修复 2.3.0 及更早版本升级到 2.4.x 后替换 jync.jar 无法启动的问题。Hibernate 7 把 @Enumerated(STRING) 映射成建表时...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "华硕ProArt GR1X AI智能体电脑震撼上市：用小巧机身，让创想落地",
+      "url": "https://www.oschina.net/news/503696",
+      "summary": "华硕正式推出ProArt系列全新力作，基于NVIDIA RTX SparkN1X超级芯片的——ProArt GR1X个人AI智能体迷你电脑。将本地AI智能体、图像与视频生成以及模...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "PHP 8.6 正式发布：更快、更安全、更强大",
+      "url": "https://www.oschina.net/news/503695/php-8-6",
+      "summary": "PHP 8.6 已在 11 月 19 日正式发布。官方给的一句话总结是「更快、更安全、更强大」。 这次的头号新特性是部分函数应用（Partial Function Applic...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Cpro：一款国产通用C系列拼音编程语言",
+      "url": "https://www.oschina.net/news/503694",
+      "summary": "Cpro 是一门通用型 C 系列编程语言，在兼容 C 语言基础生态思想的前提下，对语法、编译模型与安全特性做了重新设计，可用于后端服务、桌面程序、嵌...",
+      "author": "程序瞭望塔",
+      "comments": 0
+    },
+    {
+      "title": "史上最大 IPO，Anthropic 上市首日市值达 1.271 万亿美元",
+      "url": "https://www.oschina.net/news/503693/anthropics-historic-debut-put",
+      "summary": "Anthropic 于 2026 年 11 月 19 日在纳斯达克挂牌上市，股票代码“ANT”。上市首日，其开盘价 111.50 美元，比 83 美元的发行价高出 34%。按开盘价...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "大模型竞技场与标准评测：ArtArk获SuperCLUE四项总榜第一",
+      "url": "https://www.oschina.net/news/503692",
+      "summary": "四项第一,两个方向全胜。SuperCLUE 2026年11月图像大模型评测结果出炉,进化智能旗下图像大模型ArtArk在文生图与图像编辑的大模型竞技场、标准评测中...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "绿盟科技荣获Frost & Sullivan两项大奖，AI安全创新领导力获国际认可",
+      "url": "https://www.oschina.net/news/503690",
+      "summary": "11月18日，Frost & Sullivan 2026最佳实践认可( 2026 Best Practices Recognition)颁奖典礼在新加坡举办，绿盟科技荣获2026年度中国AI安全行业技术...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "qKnow 智能体构建平台专业版 v3.1.6 发布：底座组件标准化升级，主题与品牌定制能力上线",
+      "url": "https://www.oschina.net/news/503689",
+      "summary": "随着智能体应用逐步落地，平台除了需要持续完善核心业务能力，也需要关注基础组件、系统配置和应用运行等方面的建设。对于企业私有化部署场景而言，...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "Casvisor 2.0.0 发布：新增系统账号与自动改密、MySQL 和 PostgreSQL 审计、作业中心",
+      "url": "https://www.oschina.net/news/503687",
+      "summary": "Apache-2.0 开源堡垒机 Casvisor 发布 2.0.0。该版本补齐了系统账号、数据库审计、批量作业、访问申请和审计日志导出等能力，仍是单个 Go 二进制，...",
+      "author": "Casbin开源社区",
+      "comments": 0
+    },
+    {
+      "title": "Jync v2.4.1 · TDengine 轮询源与布尔 / 改列修复",
+      "url": "https://www.oschina.net/news/503686",
+      "summary": "新增 TDengine 轮询源：新增 TDengine 3.x 预设（预设数 35 种），经官方驱动 3.10.0 的 WebSocket 接口（6041 端口）读取，需自备 taos-jdbcdrive...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "二十年逆向老手：LLM 给我的好奇心装上了涡轮增压",
+      "url": "https://www.oschina.net/news/503685/llm-assisted-reverse-engineering",
+      "summary": "一名从事硬件和软件逆向已有二十年的工程师，最近半年做出了许多他自称「每一个手做都要花好几年」的成果。 他的原话是：在 2026 年，有了 AI 的辅...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "Anthropic IPO 发行价定了：每股 83 美元",
+      "url": "https://www.oschina.net/news/503684/anthropic-prices-initial-public-offering",
+      "summary": "Anthropic 把 IPO 发行价定在了每股 83 美元。发行规模 9.8 亿股 A 类普通股，其中 9.5635 亿股由 Anthropic 自己卖出，2365 万股来自现有股东。公...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "「放量·2026 极新 AIGC 创新大会」邀您和产业领袖一起相聚2026 JAIC",
+      "url": "https://www.oschina.net/news/503682",
+      "summary": "2026年，极新AIGC峰会正式升级为极新AIGC创新大会（JIXIN AIGC INNOVATION CONFERENCE——JAIC）。 去年时间里，我们谈论的是想象。 2025年AI技术让...",
+      "author": "卡卡西xi",
+      "comments": 0
+    },
+    {
+      "title": "wlnmp 一键安装包更新 261119（修复NGINX2Root漏洞）",
+      "url": "https://www.oschina.net/news/503681",
+      "summary": "wlnmp 一键安装包 261119 更新内容如下： （更新）nginx1.30.7。 受NGINX2Root漏洞影响，请所有用户尽快更新Nginx至该版本，更新任何版本前，请做好...",
+      "author": "wlnmp",
+      "comments": 0
+    },
+    {
+      "title": "NGINX 被曝两个高危 RCE，其中一个在代码里藏了十年",
+      "url": "https://www.oschina.net/news/503679/nginx-http2-rce-vulnerabilities",
+      "summary": "NGINX 近日被曝出两个高危漏洞：编号 CVE-2026-123633 和 CVE-2026-123007，都能让未认证的攻击者在服务器上执行任意代码。CVSS 4.0 都是 9.2，两个...",
+      "author": "局",
+      "comments": 0
+    }
+  ]
+}

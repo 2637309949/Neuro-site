@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T07:19:42.217385+00:00",
+  "source": "github",
+  "count": 13,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "morluto/rea",
+      "repo": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 17616,
+      "today_stars": 4655
+    },
+    {
+      "title": "mattpocock/skills",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 280117,
+      "today_stars": 1403
+    },
+    {
+      "title": "boykopovar/AnyPS5",
+      "repo": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "summary": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "language": "C++",
+      "stars": 11705,
+      "today_stars": 2716
+    },
+    {
+      "title": "ayghri/i-have-adhd",
+      "repo": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "summary": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 55410,
+      "today_stars": 619
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "repo": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "summary": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 45334,
+      "today_stars": 825
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 103032,
+      "today_stars": 677
+    },
+    {
+      "title": "EpicGames/raddebugger",
+      "repo": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "summary": "A native, user-mode, multi-process, graphical debugger.",
+      "language": "C",
+      "stars": 7946,
+      "today_stars": 90
+    },
+    {
+      "title": "thedotmack/claude-mem",
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 97927,
+      "today_stars": 578
+    },
+    {
+      "title": "manaflow-ai/cmux",
+      "repo": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "summary": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "language": "Swift",
+      "stars": 27953,
+      "today_stars": 44
+    },
+    {
+      "title": "trycua/cua",
+      "repo": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "summary": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "Rust",
+      "stars": 28894,
+      "today_stars": 228
+    },
+    {
+      "title": "cloudflare/security-audit-skill",
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 26257,
+      "today_stars": 576
+    },
+    {
+      "title": "tester-army/e2e",
+      "repo": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "summary": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars": 7803,
+      "today_stars": 1390
+    },
+    {
+      "title": "DuarteSantos8/openGym",
+      "repo": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "summary": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "language": "JavaScript",
+      "stars": 7391,
+      "today_stars": 1493
+    }
+  ]
+}

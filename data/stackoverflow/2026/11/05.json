@@ -1,0 +1,434 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T07:53:29.248934+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "In which scenarios / patterns are AI tools giving deviated answers? Native NodeJS https server fallbacks to Express patterns",
+      "url": "https://stackoverflow.com/questions/80014844/in-which-scenarios-patterns-are-ai-tools-giving-deviated-answers-native-nodej",
+      "summary": "",
+      "tags": [
+        "advice",
+        "node.js"
+      ],
+      "author": "manemakhil",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Speed improvement of highlighting matching term in filterable JComboBox",
+      "url": "https://stackoverflow.com/questions/80014845/speed-improvement-of-highlighting-matching-term-in-filterable-jcombobox",
+      "summary": "",
+      "tags": [
+        "java",
+        "performance",
+        "swing",
+        "jcombobox"
+      ],
+      "author": "Milos Stojanovic",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to build Pip RPM from bootstrap using tarball/wheel?",
+      "url": "https://stackoverflow.com/questions/80014848/how-to-build-pip-rpm-from-bootstrap-using-tarball-wheel",
+      "summary": "",
+      "tags": [
+        "python",
+        "macos",
+        "pip",
+        "rpm",
+        "rpmbuild"
+      ],
+      "author": "Somya Ranjan Jena",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to ignore duplicate IDs until they have been absent for 10 seconds in Python?",
+      "url": "https://stackoverflow.com/questions/80014831/how-to-ignore-duplicate-ids-until-they-have-been-absent-for-10-seconds-in-python",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "Daniel Sodkiewicz",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Clarifying RFS templates",
+      "url": "https://stackoverflow.com/questions/80014834/clarifying-rfs-templates",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "Ethan",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "WhatsApp Cloud API returns “(#10) Application does not have permission for this action” (error_subcode 2593181) when sending a template message",
+      "url": "https://stackoverflow.com/questions/80014832/whatsapp-cloud-api-returns-10-application-does-not-have-permission-for-this",
+      "summary": "",
+      "tags": [
+        "facebook-graph-api",
+        "whatsapp-cloud-api"
+      ],
+      "author": "Tanmay Ghosh",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why does Google Cloud Agent Search searchLite omit totalSize for broad queries, and is Limit + 1 pagination reliable?",
+      "url": "https://stackoverflow.com/questions/80014840/why-does-google-cloud-agent-search-searchlite-omit-totalsize-for-broad-queries",
+      "summary": "",
+      "tags": [
+        "google-cloud-platform",
+        "vertex-ai-search"
+      ],
+      "author": "yoshimotto",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Confluent packages tagged as suspicious and malicious",
+      "url": "https://stackoverflow.com/questions/80014837/confluent-packages-tagged-as-suspicious-and-malicious",
+      "summary": "",
+      "tags": [
+        "advice",
+        "security",
+        "data-warehouse",
+        "confluent-platform",
+        "debezium"
+      ],
+      "author": "Fork Seid",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Inconsistent additionalOverflowItems layout behavior between iOS 18 and iOS 26",
+      "url": "https://stackoverflow.com/questions/80014839/inconsistent-additionaloverflowitems-layout-behavior-between-ios-18-and-ios-26",
+      "summary": "",
+      "tags": [
+        "advice",
+        "ios"
+      ],
+      "author": "Cheok Yan Cheng",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Encoded semicolon (%3B) reaches Go backend as a literal semicolon behind AWS API Gateway",
+      "url": "https://stackoverflow.com/questions/80014820/encoded-semicolon-3b-reaches-go-backend-as-a-literal-semicolon-behind-aws-api",
+      "summary": "",
+      "tags": [
+        "go",
+        "aws-api-gateway"
+      ],
+      "author": "BlueSky",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Why does a task stack overflow trigger a HardFault instead of invoking vApplicationStackOverflowHook on Cortex-M0+?",
+      "url": "https://stackoverflow.com/questions/80014818/why-does-a-task-stack-overflow-trigger-a-hardfault-instead-of-invoking-vapplicat",
+      "summary": "",
+      "tags": [
+        "stack-overflow",
+        "microcontroller",
+        "freertos",
+        "firmware",
+        "atmelstudio"
+      ],
+      "author": "ViZe",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I reduce cross-region database round trips during bulk writes?",
+      "url": "https://stackoverflow.com/questions/80014819/how-can-i-reduce-cross-region-database-round-trips-during-bulk-writes",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        ".net",
+        "sql-server-2005",
+        "alwayson"
+      ],
+      "author": "Rohan Mano",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Phase 4 Response Body interruption fails: HTTP 200 headers flushed before ModSecurity can evaluate/block",
+      "url": "https://stackoverflow.com/questions/80014814/phase-4-response-body-interruption-fails-http-200-headers-flushed-before-modsec",
+      "summary": "",
+      "tags": [
+        "nginx",
+        "nginx-reverse-proxy",
+        "mod-security",
+        "mod-security2"
+      ],
+      "author": "Muhammad Anang Ramadhan",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Two frontend apps sharing one backend with identical credentials: what security or isolation problems does this design create?",
+      "url": "https://stackoverflow.com/questions/80014802/two-frontend-apps-sharing-one-backend-with-identical-credentials-what-security",
+      "summary": "",
+      "tags": [
+        "security",
+        "backend",
+        "multi-tenant",
+        "content-security-policy",
+        "saas"
+      ],
+      "author": "Luis Felipe Montoya Munera",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Azure - Not getting 2FA code in Authenticator App",
+      "url": "https://stackoverflow.com/questions/80014811/azure-not-getting-2fa-code-in-authenticator-app",
+      "summary": "",
+      "tags": [
+        "azure",
+        "authenticator"
+      ],
+      "author": "pelagos",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "how to achieve in plain css repeating nth-child ranges",
+      "url": "https://stackoverflow.com/questions/80014800/how-to-achieve-in-plain-css-repeating-nth-child-ranges",
+      "summary": "",
+      "tags": [
+        "css",
+        "css-selectors",
+        "css-grid"
+      ],
+      "author": "guideo",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Combining Small Parquet Files, Resulting in Way Bigger Total Size Than The Original",
+      "url": "https://stackoverflow.com/questions/80014803/combining-small-parquet-files-resulting-in-way-bigger-total-size-than-the-origi",
+      "summary": "",
+      "tags": [
+        "advice",
+        "azure",
+        "apache-spark",
+        "pyspark",
+        "fabric"
+      ],
+      "author": "Silly Sally",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Best way to move a large SQS FIFO backlog into Kafka on MSK?",
+      "url": "https://stackoverflow.com/questions/80014749/best-way-to-move-a-large-sqs-fifo-backlog-into-kafka-on-msk",
+      "summary": "",
+      "tags": [
+        "amazon-sqs",
+        "aws-msk",
+        "aws-sqs-fifo"
+      ],
+      "author": "Pranob Kanti Nath",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Yellow warning in terminal when I run scripts in VS Code",
+      "url": "https://stackoverflow.com/questions/80014761/yellow-warning-in-terminal-when-i-run-scripts-in-vs-code",
+      "summary": "",
+      "tags": [
+        "vs-code",
+        "warnings"
+      ],
+      "author": "merinber",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "SESV2Client from AWS SES - no super call in its instantiation",
+      "url": "https://stackoverflow.com/questions/80014765/sesv2client-from-aws-ses-no-super-call-in-its-instantiation",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "node.js",
+        "amazon-web-services"
+      ],
+      "author": "Jean-Bertho Almonord",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Connect Claude server to QuickBooks through MCP server",
+      "url": "https://stackoverflow.com/questions/80014773/connect-claude-server-to-quickbooks-through-mcp-server",
+      "summary": "",
+      "tags": [
+        "quickbooks",
+        "claude",
+        "mcp-server"
+      ],
+      "author": "John John",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How can I sum elements of a tensor based on a condition of one out of two values in its index pair into a new tensor using the pytorch package?",
+      "url": "https://stackoverflow.com/questions/80014777/how-can-i-sum-elements-of-a-tensor-based-on-a-condition-of-one-out-of-two-values",
+      "summary": "",
+      "tags": [
+        "python",
+        "pytorch",
+        "physics-engine"
+      ],
+      "author": "user33280062",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "Policy for &quot;Send scan results to Log Analytics&quot; Microsoft Defender for Storage setting",
+      "url": "https://stackoverflow.com/questions/80014794/policy-for-send-scan-results-to-log-analytics-microsoft-defender-for-storage-s",
+      "summary": "",
+      "tags": [
+        "azure-policy"
+      ],
+      "author": "d.breve",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "How to use Ellipsis as function argument default",
+      "url": "https://stackoverflow.com/questions/80014764/how-to-use-ellipsis-as-function-argument-default",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-typing",
+        "pyright"
+      ],
+      "author": "JadenV15",
+      "comments": 2,
+      "score": -2
+    },
+    {
+      "title": "Optimizing Text Mode calculation: Alternative to INDEX/MATCH/MODE.SNGL for large dynamic ranges",
+      "url": "https://stackoverflow.com/questions/80014688/optimizing-text-mode-calculation-alternative-to-index-match-mode-sngl-for-large",
+      "summary": "",
+      "tags": [
+        "excel"
+      ],
+      "author": "mahmoud moawad",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Building a CSS image display modal",
+      "url": "https://stackoverflow.com/questions/80014759/building-a-css-image-display-modal",
+      "summary": "",
+      "tags": [
+        "css",
+        "modal-dialog"
+      ],
+      "author": "zenzicubic",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Confirmit respondent data fetch erroring out in Forsta",
+      "url": "https://stackoverflow.com/questions/80014785/confirmit-respondent-data-fetch-erroring-out-in-forsta",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "jquery",
+        "asp.net",
+        ".net",
+        "jscript"
+      ],
+      "author": "Rick",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "`List.of()#iterator()` problem: wrapped in Apache commons-collections `ListIteratorWrapper` gives UOE",
+      "url": "https://stackoverflow.com/questions/80014687/list-ofiterator-problem-wrapped-in-apache-commons-collections-listitera",
+      "summary": "",
+      "tags": [
+        "java",
+        "collections",
+        "apache-commons-collection"
+      ],
+      "author": "Luca Basso Ricci",
+      "comments": 0,
+      "score": 4
+    },
+    {
+      "title": "Is there an equivalent to __import__ but for lazy imports?",
+      "url": "https://stackoverflow.com/questions/80014774/is-there-an-equivalent-to-import-but-for-lazy-imports",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "author": "JadenV15",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Logged in users seeing someone else&#39;s cached content",
+      "url": "https://stackoverflow.com/questions/80014779/logged-in-users-seeing-someone-elses-cached-content",
+      "summary": "",
+      "tags": [
+        "wordpress",
+        "caching",
+        "litespeed"
+      ],
+      "author": "Eric Barr",
+      "comments": 0,
+      "score": -6
+    }
+  ]
+}

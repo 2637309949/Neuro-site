@@ -1,0 +1,280 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T14:18:54.438199+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "summary": "",
+      "author": "arnemunthekaas",
+      "comments": 246,
+      "score": 2215
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "summary": "",
+      "author": "nonmaskable",
+      "comments": 330,
+      "score": 810
+    },
+    {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "summary": "",
+      "author": "polyphilz",
+      "comments": 125,
+      "score": 616
+    },
+    {
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "summary": "",
+      "author": "signa11",
+      "comments": 257,
+      "score": 589
+    },
+    {
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "summary": "",
+      "author": "krackers",
+      "comments": 139,
+      "score": 487
+    },
+    {
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+      "summary": "",
+      "author": "berkeleyjunk",
+      "comments": 402,
+      "score": 479
+    },
+    {
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "summary": "",
+      "author": "afilipovski",
+      "comments": 177,
+      "score": 284
+    },
+    {
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "url": "https://news.ycombinator.com/item?id=49738879",
+      "summary": "",
+      "author": "jakemanger",
+      "comments": 161,
+      "score": 240
+    },
+    {
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "summary": "",
+      "author": "johnjwang",
+      "comments": 98,
+      "score": 236
+    },
+    {
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "summary": "",
+      "author": "Ryan5453",
+      "comments": 89,
+      "score": 226
+    },
+    {
+      "title": "One Year of Sponsored Servo Development",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "summary": "",
+      "author": "AshleysBrain",
+      "comments": 101,
+      "score": 225
+    },
+    {
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "summary": "",
+      "author": "matt_d",
+      "comments": 35,
+      "score": 222
+    },
+    {
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "url": "https://jakeasmith.com/blog/http-build-url/",
+      "summary": "",
+      "author": "jakeasmith",
+      "comments": 54,
+      "score": 215
+    },
+    {
+      "title": "GLM Built Its Own Inference Infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "summary": "",
+      "author": "whiteros_e",
+      "comments": 142,
+      "score": 183
+    },
+    {
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "url": "https://harnesstax.github.io/",
+      "summary": "",
+      "author": "matt_d",
+      "comments": 68,
+      "score": 175
+    },
+    {
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "summary": "",
+      "author": "etoxin",
+      "comments": 81,
+      "score": 169
+    },
+    {
+      "title": "Developing provably correct Rust code with Verus",
+      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "summary": "",
+      "author": "Betelbuddy",
+      "comments": 35,
+      "score": 135
+    },
+    {
+      "title": "Cloudflare/Security-Audit-Skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "",
+      "author": "donk8r",
+      "comments": 20,
+      "score": 129
+    },
+    {
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "summary": "",
+      "author": "antonly",
+      "comments": 29,
+      "score": 120
+    },
+    {
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
+      "summary": "",
+      "author": "witweb",
+      "comments": 63,
+      "score": 105
+    },
+    {
+      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
+      "summary": "",
+      "author": "rramadass",
+      "comments": 31,
+      "score": 105
+    },
+    {
+      "title": "Comparison of Malloc() Algorithms",
+      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
+      "summary": "",
+      "author": "egberts1",
+      "comments": 28,
+      "score": 98
+    },
+    {
+      "title": "A 32-year-old bug walks into a Telnet server",
+      "url": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+      "summary": "",
+      "author": "paimapi",
+      "comments": 37,
+      "score": 84
+    },
+    {
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "summary": "",
+      "author": "my123",
+      "comments": 23,
+      "score": 74
+    },
+    {
+      "title": "Lucasart's Afterlife",
+      "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
+      "summary": "",
+      "author": "Bondi_Blue",
+      "comments": 27,
+      "score": 59
+    },
+    {
+      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+      "url": "https://manticoresearch.com/blog/auto-chunking/",
+      "summary": "",
+      "author": "GloriaVinogrado",
+      "comments": 8,
+      "score": 42
+    },
+    {
+      "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+      "url": "https://flat.social",
+      "summary": "",
+      "author": "pawelwentpawel",
+      "comments": 26,
+      "score": 39
+    },
+    {
+      "title": "Online Z3 Guide",
+      "url": "https://microsoft.github.io/z3guide/",
+      "summary": "",
+      "author": "Bluestein",
+      "comments": 9,
+      "score": 34
+    },
+    {
+      "title": "The American Religion of Self-Storage Facilities",
+      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+      "summary": "",
+      "author": "pseudolus",
+      "comments": 23,
+      "score": 31
+    },
+    {
+      "title": "I had Gemini train its own replacement for $9",
+      "url": "https://www.petervijeh.com/projects/reddit-ner",
+      "summary": "",
+      "author": "p-s-v",
+      "comments": 9,
+      "score": 23
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T15:27:02.716141+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "SQL Data Modelling Practice",
+      "url": "https://stackoverflow.com/questions/79991062/sql-data-modelling-practice",
+      "summary": "",
+      "tags": [
+        "sql",
+        "inheritance",
+        "database-design",
+        "database-relations",
+        "cardinality"
+      ],
+      "author": "Floris",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "std::ifstream vulnerabilities code or file injection",
+      "url": "https://stackoverflow.com/questions/79991041/stdifstream-vulnerabilities-code-or-file-injection",
+      "summary": "",
+      "tags": [
+        "c++",
+        "security",
+        "ifstream",
+        "c++98"
+      ],
+      "author": "alex barreiro",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Always unmute/mute a mic in Python",
+      "url": "https://stackoverflow.com/questions/79991046/always-unmute-mute-a-mic-in-python",
+      "summary": "",
+      "tags": [
+        "python",
+        "controls"
+      ],
+      "author": "Archie Enstone",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Logic behind sizeof() for 2D arrays in C",
+      "url": "https://stackoverflow.com/questions/79991056/logic-behind-sizeof-for-2d-arrays-in-c",
+      "summary": "",
+      "tags": [
+        "arrays",
+        "c",
+        "sizeof"
+      ],
+      "author": "Destroi",
+      "comments": 3,
+      "score": 0
+    },
+    {
+      "title": "RabbitMQ is missing every other message",
+      "url": "https://stackoverflow.com/questions/79991050/rabbitmq-is-missing-every-other-message",
+      "summary": "",
+      "tags": [
+        "python",
+        "rabbitmq"
+      ],
+      "author": "BertC",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Upload font to Zebra ZT410 - font does not appear",
+      "url": "https://stackoverflow.com/questions/79991053/upload-font-to-zebra-zt410-font-does-not-appear",
+      "summary": "",
+      "tags": [
+        "zebra-printers"
+      ],
+      "author": "Tomasz Filipek",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How can I adjust header columns in the Modern UI?",
+      "url": "https://stackoverflow.com/questions/79991038/how-can-i-adjust-header-columns-in-the-modern-ui",
+      "summary": "",
+      "tags": [
+        "acumatica",
+        "acumatica-kb"
+      ],
+      "author": "pmfith",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Custom LayoutManager is not executed when window is shrunk",
+      "url": "https://stackoverflow.com/questions/79991033/custom-layoutmanager-is-not-executed-when-window-is-shrunk",
+      "summary": "",
+      "tags": [
+        "java",
+        "swing",
+        "layout-manager"
+      ],
+      "author": "Grinding For Reputation",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Are spacy memory zones thread safe? Running a spacy pipeline inside a GCP function",
+      "url": "https://stackoverflow.com/questions/79991057/are-spacy-memory-zones-thread-safe-running-a-spacy-pipeline-inside-a-gcp-functi",
+      "summary": "",
+      "tags": [
+        "python",
+        "multithreading",
+        "google-cloud-platform",
+        "concurrency",
+        "spacy"
+      ],
+      "author": "lightning_missile",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Why does MySQL allow only one AUTO_INCREMENT Column per table?",
+      "url": "https://stackoverflow.com/questions/79991042/why-does-mysql-allow-only-one-auto-increment-column-per-table",
+      "summary": "",
+      "tags": [
+        "mysql",
+        "auto-increment"
+      ],
+      "author": "Amrutha Valli",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Redirect stderr to both stderr and stdout",
+      "url": "https://stackoverflow.com/questions/79990973/redirect-stderr-to-both-stderr-and-stdout",
+      "summary": "",
+      "tags": [
+        "linux",
+        "bash",
+        "stdout",
+        "stderr"
+      ],
+      "author": "JE_Muc",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "Documents generated in GeneXus cannot be printed double-sided from Adobe Reader",
+      "url": "https://stackoverflow.com/questions/79991030/documents-generated-in-genexus-cannot-be-printed-double-sided-from-adobe-reader",
+      "summary": "",
+      "tags": [
+        "pdf",
+        "genexus",
+        "adobe-reader"
+      ],
+      "author": "Nicola",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "ERROR: Could not install packages due to an OSError: [WinError 5] Access is denied: &#39;d:\\\\chatbot\\\\scripts\\\\pip.exe&#39; Check the permissions",
+      "url": "https://stackoverflow.com/questions/79991044/error-could-not-install-packages-due-to-an-oserror-winerror-5-access-is-deni",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "Trung Trưc",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "netbeans 30 doesn&#39;t seem to recognize lombok; returns a compiling error",
+      "url": "https://stackoverflow.com/questions/79991037/netbeans-30-doesnt-seem-to-recognize-lombok-returns-a-compiling-error",
+      "summary": "",
+      "tags": [
+        "netbeans",
+        "lombok"
+      ],
+      "author": "Stefania",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Formula that creates a running total cumulative sum for each unique value in a column",
+      "url": "https://stackoverflow.com/questions/79990964/formula-that-creates-a-running-total-cumulative-sum-for-each-unique-value-in-a-c",
+      "summary": "",
+      "tags": [
+        "google-sheets"
+      ],
+      "author": "Hazardus",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Return const unique_ptrs vs. const raw pointers",
+      "url": "https://stackoverflow.com/questions/79990882/return-const-unique-ptrs-vs-const-raw-pointers",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c++",
+        "vector",
+        "unique-ptr"
+      ],
+      "author": "Mauro",
+      "comments": 3,
+      "score": 2
+    },
+    {
+      "title": "How do I check when my raycast exists the collision shape for a specific value to be switched to &quot;false&quot;?",
+      "url": "https://stackoverflow.com/questions/79991007/how-do-i-check-when-my-raycast-exists-the-collision-shape-for-a-specific-value-t",
+      "summary": "",
+      "tags": [
+        "godot",
+        "gdscript",
+        "godot4"
+      ],
+      "author": "NMNamu",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Query has Error 1054 Unknown column &#39;temp.category_id&#39; in on clause",
+      "url": "https://stackoverflow.com/questions/79990993/query-has-error-1054-unknown-column-temp-category-id-in-on-clause",
+      "summary": "",
+      "tags": [
+        "sql",
+        "mysql",
+        "mysql-error-1054",
+        "sakila-database"
+      ],
+      "author": "C P CP aus K am R",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Uncomment in Google Chrome on macOS",
+      "url": "https://stackoverflow.com/questions/79991004/uncomment-in-google-chrome-on-macos",
+      "summary": "",
+      "tags": [
+        "macos",
+        "google-chrome",
+        "codepen"
+      ],
+      "author": "user32976480",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Query about unique pointers in C++",
+      "url": "https://stackoverflow.com/questions/79990921/query-about-unique-pointers-in-c",
+      "summary": "",
+      "tags": [
+        "c++",
+        "memory",
+        "smart-pointers"
+      ],
+      "author": "Rhythm Dutta",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Issue Adding a Component in Salesforce",
+      "url": "https://stackoverflow.com/questions/79991001/issue-adding-a-component-in-salesforce",
+      "summary": "",
+      "tags": [
+        "salesforce",
+        "salesforce-lightning"
+      ],
+      "author": "Keshava Harish",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Can a Milvus BM25 function use a VARCHAR field added after data was sealed?",
+      "url": "https://stackoverflow.com/questions/79990998/can-a-milvus-bm25-function-use-a-varchar-field-added-after-data-was-sealed",
+      "summary": "",
+      "tags": [
+        "collections",
+        "milvus"
+      ],
+      "author": "D Ff",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to auto-fill first suggestion in VS2022?",
+      "url": "https://stackoverflow.com/questions/79990957/how-to-auto-fill-first-suggestion-in-vs2022",
+      "summary": "",
+      "tags": [
+        "c#",
+        "visual-studio-2022",
+        "intellisense"
+      ],
+      "author": "komodosp",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "GCC accepts call to overloaded member function template while Clang rejects",
+      "url": "https://stackoverflow.com/questions/79990881/gcc-accepts-call-to-overloaded-member-function-template-while-clang-rejects",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "c++23",
+        "compiler-bug"
+      ],
+      "author": "Anoop Rana",
+      "comments": 1,
+      "score": 7
+    },
+    {
+      "title": "How to correctly apply causal masking in Keras Multi-Head Attention for multi-step time series forecasting?",
+      "url": "https://stackoverflow.com/questions/79990938/how-to-correctly-apply-causal-masking-in-keras-multi-head-attention-for-multi-st",
+      "summary": "",
+      "tags": [
+        "tensorflow",
+        "keras",
+        "deep-learning",
+        "time-series",
+        "transformer-model"
+      ],
+      "author": "Keyvan Doostkam",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "i want to open share dialog which can perform share in java swing or javafx",
+      "url": "https://stackoverflow.com/questions/79990923/i-want-to-open-share-dialog-which-can-perform-share-in-java-swing-or-javafx",
+      "summary": "",
+      "tags": [
+        "java",
+        "windows",
+        "swing",
+        "javafx"
+      ],
+      "author": "Shubham kumar",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Plawright Input Text Action not Shown on Headed Mode",
+      "url": "https://stackoverflow.com/questions/79990977/plawright-input-text-action-not-shown-on-headed-mode",
+      "summary": "",
+      "tags": [
+        "typescript",
+        "playwright"
+      ],
+      "author": "Ivan",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Disable specific Python error raising in VS Code",
+      "url": "https://stackoverflow.com/questions/79990929/disable-specific-python-error-raising-in-vs-code",
+      "summary": "",
+      "tags": [
+        "visual-studio-code",
+        "pylance"
+      ],
+      "author": "Thomas",
+      "comments": 2,
+      "score": -2
+    },
+    {
+      "title": "How should PostgreSQL Row-Level Security be managed with Prisma Migrate inside migration files or a separate reapply step?",
+      "url": "https://stackoverflow.com/questions/79990965/how-should-postgresql-row-level-security-be-managed-with-prisma-migrate-inside-m",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "postgresql",
+        "database-migration",
+        "multi-tenant",
+        "row-level-security"
+      ],
+      "author": "Milan",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "Why does VS Code not let me use pygame when VS Code is at its most recent version and pygame is installed?",
+      "url": "https://stackoverflow.com/questions/79990944/why-does-vs-code-not-let-me-use-pygame-when-vs-code-is-at-its-most-recent-versio",
+      "summary": "",
+      "tags": [
+        "python",
+        "visual-studio-code",
+        "pygame"
+      ],
+      "author": "Sufian Says Hello",
+      "comments": 0,
+      "score": -3
+    }
+  ]
+}

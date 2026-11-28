@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T09:28:50.175820+00:00",
+  "source": "tencent_board",
+  "count": 30,
+  "columns": [
+    {
+      "name": "板块名",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "涨跌幅",
+      "key": "change",
+      "type": "metric",
+      "directionToggle": true
+    },
+    {
+      "name": "主力净流入",
+      "key": "netInflow",
+      "type": "metric"
+    },
+    {
+      "name": "领涨股",
+      "key": "leadStock",
+      "type": "text"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "航空机场",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801991&module=hy",
+      "summary": "",
+      "change": "-3.43%",
+      "netInflow": -18540,
+      "leadStock": "厦门空港"
+    },
+    {
+      "title": "文娱用品",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801145&module=hy",
+      "summary": "",
+      "change": "-3.34%",
+      "netInflow": -9118,
+      "leadStock": "舒华体育"
+    },
+    {
+      "title": "生物制品",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801152&module=hy",
+      "summary": "",
+      "change": "-2.80%",
+      "netInflow": -46148,
+      "leadStock": "百普赛斯"
+    },
+    {
+      "title": "厨卫电器",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801114&module=hy",
+      "summary": "",
+      "change": "-2.31%",
+      "netInflow": -4007,
+      "leadStock": "华帝股份"
+    },
+    {
+      "title": "个护用品",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801981&module=hy",
+      "summary": "",
+      "change": "-2.07%",
+      "netInflow": 28366,
+      "leadStock": "洁雅股份"
+    },
+    {
+      "title": "电机Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801731&module=hy",
+      "summary": "",
+      "change": "-2.06%",
+      "netInflow": -16013,
+      "leadStock": "康平科技"
+    },
+    {
+      "title": "化妆品",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801982&module=hy",
+      "summary": "",
+      "change": "-2.03%",
+      "netInflow": -4191,
+      "leadStock": "丸美生物"
+    },
+    {
+      "title": "照明设备Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801115&module=hy",
+      "summary": "",
+      "change": "-1.88%",
+      "netInflow": -5825,
+      "leadStock": "欧普照明"
+    },
+    {
+      "title": "医药商业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801154&module=hy",
+      "summary": "",
+      "change": "-1.85%",
+      "netInflow": -7809,
+      "leadStock": "开开实业"
+    },
+    {
+      "title": "航空装备Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801742&module=hy",
+      "summary": "",
+      "change": "-1.83%",
+      "netInflow": -37848,
+      "leadStock": "利君股份"
+    },
+    {
+      "title": "养殖业",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801017&module=hy",
+      "summary": "",
+      "change": "-1.80%",
+      "netInflow": -30179,
+      "leadStock": "天山生物"
+    },
+    {
+      "title": "教育",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801994&module=hy",
+      "summary": "",
+      "change": "-1.77%",
+      "netInflow": -6485,
+      "leadStock": "ST东时"
+    },
+    {
+      "title": "休闲食品",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801128&module=hy",
+      "summary": "",
+      "change": "-1.76%",
+      "netInflow": -479,
+      "leadStock": "来伊份"
+    },
+    {
+      "title": "互联网电商",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801206&module=hy",
+      "summary": "",
+      "change": "-1.75%",
+      "netInflow": -6438,
+      "leadStock": "华凯易佰"
+    },
+    {
+      "title": "酒店餐饮",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801219&module=hy",
+      "summary": "",
+      "change": "-1.74%",
+      "netInflow": -1130,
+      "leadStock": "华天酒店"
+    },
+    {
+      "title": "乘用车",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801095&module=hy",
+      "summary": "",
+      "change": "-1.69%",
+      "netInflow": -49579,
+      "leadStock": "海马汽车"
+    },
+    {
+      "title": "数字媒体",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801767&module=hy",
+      "summary": "",
+      "change": "-1.64%",
+      "netInflow": -20688,
+      "leadStock": "风语筑"
+    },
+    {
+      "title": "家电零部件Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801116&module=hy",
+      "summary": "",
+      "change": "-1.57%",
+      "netInflow": -19893,
+      "leadStock": "长虹华意"
+    },
+    {
+      "title": "食品加工",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801124&module=hy",
+      "summary": "",
+      "change": "-1.56%",
+      "netInflow": 4208,
+      "leadStock": "金字火腿"
+    },
+    {
+      "title": "软件开发",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801104&module=hy",
+      "summary": "",
+      "change": "-1.54%",
+      "netInflow": -57512,
+      "leadStock": "拓维信息"
+    },
+    {
+      "title": "电池",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801737&module=hy",
+      "summary": "",
+      "change": "-1.52%",
+      "netInflow": -172554,
+      "leadStock": "金杨精密"
+    },
+    {
+      "title": "医疗器械",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801153&module=hy",
+      "summary": "",
+      "change": "-1.50%",
+      "netInflow": -34254,
+      "leadStock": "福瑞医科"
+    },
+    {
+      "title": "汽车零部件",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801093&module=hy",
+      "summary": "",
+      "change": "-1.38%",
+      "netInflow": -4811,
+      "leadStock": "正强股份"
+    },
+    {
+      "title": "饲料",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801014&module=hy",
+      "summary": "",
+      "change": "-1.33%",
+      "netInflow": -36911,
+      "leadStock": "金新农"
+    },
+    {
+      "title": "调味发酵品Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801129&module=hy",
+      "summary": "",
+      "change": "-1.30%",
+      "netInflow": -2493,
+      "leadStock": "莲花控股"
+    },
+    {
+      "title": "计算机设备",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801101&module=hy",
+      "summary": "",
+      "change": "-1.28%",
+      "netInflow": 23795,
+      "leadStock": "旋极信息"
+    },
+    {
+      "title": "游戏Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801764&module=hy",
+      "summary": "",
+      "change": "-1.24%",
+      "netInflow": -44547,
+      "leadStock": "迅游科技"
+    },
+    {
+      "title": "专业连锁Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801204&module=hy",
+      "summary": "",
+      "change": "-1.23%",
+      "netInflow": -1379,
+      "leadStock": "华致酒行"
+    },
+    {
+      "title": "家居用品",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801142&module=hy",
+      "summary": "",
+      "change": "-1.15%",
+      "netInflow": -10938,
+      "leadStock": "好太太"
+    },
+    {
+      "title": "证券Ⅱ",
+      "url": "https://stockapp.finance.qq.com/mstats/#mod=detail&id=pt01801193&module=hy",
+      "summary": "",
+      "change": "-1.15%",
+      "netInflow": -92790,
+      "leadStock": "锦龙股份"
+    }
+  ]
+}

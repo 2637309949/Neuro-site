@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T14:26:47.996932+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "Claude 开始给生成内容打水印了，用户最担心的是代码",
+      "url": "https://www.oschina.net/news/493379",
+      "summary": "Anthropic 宣布从 2026 年 8 月 2 日起，新发布的 Claude 模型将内置 AI 生成内容标记功能。两种技术：文本嵌入式水印和 C2PA 签名来源元数据。全球...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "动态语言对 AI 编程更友好？开发者用三个真实任务给了答案",
+      "url": "https://www.oschina.net/news/493223/pl-tokens",
+      "summary": "\"动态语言对 AI 编程更友好，因为少了类型声明，代码更紧凑，token 消耗更少。\"这个说法在过去一年被反复引用，几乎成了 AI 编程语言选择的常识。D...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "10 亿 Token 奖池，写出属于你的 deepin 桌面插件！ ",
+      "url": "https://www.oschina.net/news/493132",
+      "summary": "前段时间deepin（深度）社区开源了 deepin Skills 项目（GitHub - linuxdeepin/deepin-skills · GitHub），为了鼓励更多独立开发者、开源爱好者...",
+      "author": "深度操作系统",
+      "comments": 0
+    },
+    {
+      "title": "MaxKB 开源企业级智能体平台 v2.10.5 LTS 版本发布，修复安全漏洞及相关问题",
+      "url": "https://my.oschina.net/u/4736111/blog/19735596",
+      "summary": "2026 年 8 月 6 日，MaxKB 开源企业级智能体平台发布 v2.10.5 LTS 版本。本次版本更新仍以安全漏洞修复和问题修复为主，持续提升系统安全性，欢迎广...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "韶音投了一家端侧Infra公司，00后清华博士生打造AI native终端｜智能涌现融资首发",
+      "url": "https://www.oschina.net/news/493120",
+      "summary": "万象智维的会议室里，一字铺开了市面上主流的AI硬件。CEO王拓为告诉《智能涌现》，最近他们在讨论，一个AI硬件应该被设计成什么样的形态。   ...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "ERD Online5.0.0 数据库设计 Git + Figma",
+      "url": "https://www.oschina.net/news/493105",
+      "summary": "更新内容 ERD Online 5.0.0 本次迭代主要围绕建模复用、DDL 导出与登录体验。 字段库 后端字段库 MVP 落地（platform / group / user 三级 scop...",
+      "author": "Martin88",
+      "comments": 0
+    },
+    {
+      "title": "Redis 之父又出手了：一个 C 写的原生 MiniMax-H3 推理引擎，让 Mac 本地跑视频生成",
+      "url": "https://www.oschina.net/news/493089",
+      "summary": "继 DeepSeek V4 Flash 专用推理引擎 ds4 之后，Redis 作者 antirez（Salvatore Sanfilippo）又出手了——h3.c，一个纯 C 语言写成的 MiniMax-H3...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "GeekAI v4.3.0 已经发布，AI 助手全套开源解决方案",
+      "url": "https://www.oschina.net/news/493064",
+      "summary": "GeekAI v4.3.0 已经发布，AI 助手全套开源解决方案 此版本更新内容包括： 功能新增：PPT 生成功能，复刻 NotebookLLM 的演示文稿生成功能，支持编辑...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "Solon 的日志设计哲学：不只是用 SLF4J 做统一门面",
+      "url": "https://www.oschina.net/news/493049",
+      "summary": "每个 Java 项目都需要日志。每个 Java 开发者都有一两个关于日志配置的\"战争故事\"——那个膨胀到 200 行的 XML、互相打架的桥接包、深夜因为日志级...",
+      "author": "梅子酒好吃",
+      "comments": 0
+    },
+    {
+      "title": "智谱 ZCode 发布重大升级，并重置所有 GLM Coding Plan 使用额度",
+      "url": "https://www.oschina.net/news/493033",
+      "summary": "智谱发布了 ZCode 的重大升级，上线了四个新功能：Goal、Subagents、Remote Control 和闲时任务。此外，作为百万用户里程碑的特别回馈，GLM Codin...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "首发 | 如意玲珑打包 Agents： 用 AI 重构 Linux 生态打包体验",
+      "url": "https://www.oschina.net/news/493018",
+      "summary": "在 Linux 生态中，应用打包的工作一直以来都有一定门槛。面对 Debian 构建规则、玲珑的 linglong.yaml 配置、各种格式的软件包转换……即使是经验...",
+      "author": "深度操作系统",
+      "comments": 0
+    },
+    {
+      "title": "5 分钟用 wastnet 开发一个 HTTP/2 服务",
+      "url": "https://www.oschina.net/news/492995",
+      "summary": "如今 HTTP/2 已在主流网站与浏览器中大面积普及，相比 HTTP/1.1 的队头阻塞，它通过多路复用、头部压缩（HPACK）与服务端推送显著降低了延迟、提升...",
+      "author": "wycst",
+      "comments": 0
+    },
+    {
+      "title": "sqltoy-orm 5.6.90.RC3 已经发布，ORM 框架",
+      "url": "https://www.oschina.net/news/492992",
+      "summary": "sqltoy-orm 5.6.90.RC3 已经发布，ORM 框架 此版本更新内容包括： 背景 当 LIKE 查询的参数值中包含 _、%、\\ 等 SQL 通配符/转义符时，这些字符会被...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "从“灵光”到落地 青年科学家与创新者共探AI新未来",
+      "url": "https://www.oschina.net/news/492989",
+      "summary": "8月8日，“Spark Moment·灵光一闪”Link-X Demo Day（创新项目展示日）活动在北京中关村国际技术交易中心举行。活动由中关村科学城公司指导，北京...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Termexo 0.4.4 发布：统一管理 Claude Code、Codex 与多模型供应商",
+      "url": "https://www.oschina.net/news/492967",
+      "summary": "Termexo V0.4.4 已发布。作为项目维护者，我想解决的不是“再做一个 AI 聊天界面”，而是一个更具体的问题：当开发者同时运行多个 Claude Code、C...",
+      "author": "GuoMengyue",
+      "comments": 0
+    },
+    {
+      "title": "wastnet v1.0.1 已经发布，轻量级 Java NIO 网络通信框架",
+      "url": "https://www.oschina.net/news/492947",
+      "summary": "wastnet 1.0.1 零依赖、轻量级的自研 Java 网络应用框架 核心特性 零依赖：仅依赖 JDK，无传递依赖，无依赖冲突。 HTTP/1.1 + HTTP/2（h2 / h2c）：...",
+      "author": "Gitee快讯",
+      "comments": 0
+    },
+    {
+      "title": "通过知识截止日期，反向推断 AI 模型的真实训练时间线",
+      "url": "https://www.oschina.net/news/492855/exploring-claudegpt-knowledge-cutoffs",
+      "summary": "开发者写了一篇博客，通过分析 Claude 和 GPT 系列模型的知识截止日期，来推断它们的实际预训练时间线。方法很简单：问模型一系列事件发生在什么时...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "扎克伯格发表万字长文，要重新定义「超级智能应该属于谁」",
+      "url": "https://www.oschina.net/news/492836/meta-zuck-thefutureisforeveryone",
+      "summary": "8月10日，扎克伯格在 Meta 官网发了一篇文章，标题叫《The Future is for Everyone》。这不是一篇产品发布公告，也不是一次技术路线说明。这是一篇...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "qModel 开源 v1.4.0 发布：一键发布 API 服务，全链路计算任务让算法模型真正“动起来”",
+      "url": "https://www.oschina.net/news/492830",
+      "summary": "本次 qModel 算法模型平台开源版 v1.4.0 围绕模型服务化调用、计算任务管理、执行过程追踪以及结果可视化等方向进行升级，新增一键发布 API 服务与...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "AI换脸监测取证难，腾瑞云版权维权服务平台推出全链路防护方案",
+      "url": "https://www.oschina.net/news/492826",
+      "summary": "2026 年北京互联网法院审结AI短剧换脸侵权案，涉事企业与播出平台共同承担侵权赔偿。当下AI换脸工具普及，仿人脸短视频、低俗短剧泛滥，权利人遭遇...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}

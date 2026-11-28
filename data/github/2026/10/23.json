@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T14:14:33.151114+00:00",
+  "source": "github",
+  "count": 8,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "repo": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 41096,
+      "today_stars": 2706
+    },
+    {
+      "title": "php/php-src",
+      "repo": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "summary": "The PHP Interpreter",
+      "language": "C",
+      "stars": 41479,
+      "today_stars": 722
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 31989,
+      "today_stars": 643
+    },
+    {
+      "title": "NVIDIA/OpenShell",
+      "repo": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 18388,
+      "today_stars": 1240
+    },
+    {
+      "title": "Renhuai123/ziwei-doushu",
+      "repo": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "summary": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "language": "TypeScript",
+      "stars": 6656,
+      "today_stars": 547
+    },
+    {
+      "title": "SnailSploit/Claude-Red",
+      "repo": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "summary": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars": 8117,
+      "today_stars": 209
+    },
+    {
+      "title": "OpenBMB/VoxCPM",
+      "repo": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "summary": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 40059,
+      "today_stars": 144
+    },
+    {
+      "title": "nodejs/node",
+      "repo": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "summary": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars": 122644,
+      "today_stars": 93
+    }
+  ]
+}

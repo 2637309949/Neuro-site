@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T07:22:54.808414+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "无人机烧了 Yandex 数据中心，两个 AI 超级计算机可能搭在里面",
+      "url": "https://www.oschina.net/news/502918/russia-yandex-ukraine-drone-strike-data-center",
+      "summary": "10 月 8 日，位于俄罗斯梁赞州 Sasovo 的 Yandex 数据中心遭乌克兰无人机打击，起火后运营被迫完全暂停。根据路透社的报道：这个中心是 Yandex 五个...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "2026勒索病毒升级-云端数据也可能无法恢复,舍末无勒解读495家企业案例",
+      "url": "https://www.oschina.net/news/502917",
+      "summary": "企业将ERP、数据库和网站部署到云端，通常希望获得更稳定的基础设施。然而，2026年10月发生在日本IDCF云服务上的勒索攻击，再次提醒企业：数据存放...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "不写一行 Python，不引一行 C：纯 Uya 从零实现的 CLI 编程 Agent 开源了",
+      "url": "https://www.oschina.net/news/502916",
+      "summary": "一个 Agent 项目，不依赖 Python，不引入一行 C 代码——纯 Uya 写的 CLI 编程 Agent 如果你在 2026 年还在用 Python 写 Agent，大概率已经习惯了这...",
+      "author": "funnywwh",
+      "comments": 0
+    },
+    {
+      "title": "Markdown 是 AI 编程时代的“源代码”，应该把它提交到 /src 目录",
+      "url": "https://www.oschina.net/news/502915/markdown-in-src",
+      "summary": "htmx 作者 Carson Gross 写了一篇随笔，主张把 Markdown 当成源代码。他不是要说「文档该用 Markdown 写」这种老话，而是一个正在行业里成形的趋势...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "NineData 亮相 2026 新加坡 Tech Week，以数据管理 AI Agent 加速布局全球市场",
+      "url": "https://www.oschina.net/news/502914",
+      "summary": "9月29日至30日，新加坡科技周（Tech Week Singapore 2026）在新加坡滨海湾金沙会展中心举办。在浙江省商务厅的组织邀请下，NineData作为浙江参展企...",
+      "author": "NineData",
+      "comments": 0
+    },
+    {
+      "title": "开源 Rust 游戏引擎 Bevy 0.20 发布：着色器换 WESL、光追渲染器转正，全都在给场景编辑器铺路",
+      "url": "https://www.oschina.net/news/502913/bevy-engine-0-20",
+      "summary": "Bevy 0.20 已正式发布，十个多月攒出来的大版本，核心词是「场景编辑器」——几乎所有重量级新特性都在为它铺路。最抢眼的是 Solari，Bevy 的实时路...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "RXThinkCMF 敏捷开发框架 ThinkPhp6+AntdVue 版本 v2.7.0 发布",
+      "url": "https://www.oschina.net/news/502912",
+      "summary": "v2.7.0 更新内容： 1、修复近用户反馈的问题； 项目介绍 一款基于 ThinkPHP6、Vue3、TypeScript、AntDesign、Vite、VueRouter 等技术栈构建的前后端...",
+      "author": "蓝鲸云开源",
+      "comments": 0
+    },
+    {
+      "title": "【HarmonyOS API 26 】数字盾服务2.0：硬件级安全的随身虚拟U盾",
+      "url": "https://www.oschina.net/news/502911",
+      "summary": "当硬件U盾不再需要随身携带，每一台鸿蒙设备，都是你的专属金融级安全盾。 在金融转账、企业网银、电子签章等高可信场景中，传统物理U盾一直是核心...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "lamp-cloud 5.10.1 发布，专注多租户解决方案",
+      "url": "https://www.oschina.net/news/502910",
+      "summary": "5.10.1 升级日志 统计范围：2026-05-27 ~ 2026-10-09，涵盖以下仓库： 一、重大变更：在线文档 knife4j → NextDoc4j 全平台在线文档由 knife4j ...",
+      "author": "最后_",
+      "comments": 0
+    },
+    {
+      "title": "StreamSQL v1.3.0 发布：流-流 JOIN，补齐双流窗口化关联",
+      "url": "https://www.oschina.net/news/502909",
+      "summary": "状态化算子三件套的最后一块。 v1.1 交付 Over 分析函数，v1.2 交付 CEP 模式识别，本版补上 stream-stream JOIN：两条实时流按主键关联、且事件...",
+      "author": "rulego_team",
+      "comments": 0
+    },
+    {
+      "title": "告别零散的在线工具！开源桌面工具箱 ToolForge v0.1.7 发布",
+      "url": "https://www.oschina.net/news/502908",
+      "summary": "ToolForge v0.1.7 正式发布！ ToolForge 是一款基于 Rust + Tauri 2 构建的开源桌面工具箱，面向开发者和效率工作者，致力于将日常开发中常用的工具...",
+      "author": "trendforge",
+      "comments": 0
+    },
+    {
+      "title": "开源智能问数平台YOLO Data v1.0发布",
+      "url": "https://www.oschina.net/news/502907",
+      "summary": "\"让模型直接写 SQL\"这条路，大概率行不通；而\"把确定性还给平台、还给工作流\"这才是可行的路径。 YOLO Data 将大模型 DataAgent 、实时指标体系、业...",
+      "author": "靓仔力学",
+      "comments": 0
+    },
+    {
+      "title": "$100 预算 + 四个顶级大模型，造出的 PDF 编辑器点几下就露馅",
+      "url": "https://www.oschina.net/news/502906/the-remaining-shortcomings-of-coding-agents",
+      "summary": "一个研究 LLM for Code 的研究者，拿 400 美元做了个实验：给 Gemini 3.8 Flash、GPT Astra 6、Opus 5、Fable 5 四个前沿模型各 $100 预算，让它们...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "用鸿蒙开发鸿蒙！DevEco Studio/Code/CLI 鸿蒙PC公测版来了！",
+      "url": "https://www.oschina.net/news/502905",
+      "summary": "10月8日，DevEco Studio正式上线鸿蒙PC并开启公测，一站式鸿蒙应用AI开发工具DevEco Code与AI开发能力套件DevEco CLI同步迎来鸿蒙PC版首次公测，为...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "跳出 AI 试点陷阱：SUSE 企业级私有 AI 战略，用开源基础设施打通生产级落地",
+      "url": "https://www.oschina.net/news/502904",
+      "summary": "AI 发展正在经历一个非常明显的分水岭：大量企业已经跑完概念验证，做过 Demo 试点，但卡在 “从实验环境迈向生产部署” 这道鸿沟上。很多团队会遇...",
+      "author": "哈哈欧尼OSC",
+      "comments": 0
+    },
+    {
+      "title": "隐私保护搜索工具推荐：从查询留存到结果溯源，2026选型参考",
+      "url": "https://www.oschina.net/news/502903",
+      "summary": "当 AI 开始替你搜索、替你决策，每一次查询的去向就成了新的隐私问题。这篇文章从隐私保护 AI 搜索工具的筛选标准讲起，结合公开基准测试与生态数据...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "AI Agent 搜索 Skill 推荐指南：给 Agent 一个更靠谱的搜索入口",
+      "url": "https://www.oschina.net/news/502902",
+      "summary": "结论先行：如果你的 AI Agent 需要联网搜索能力，建议把「输出结构化、数据覆盖垂直领域、接入足够简单、隐私安全合规」作为四条选型硬标准；AnySe...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "Meerkat 服务器集群实时监控平台 - 基于 go/telegram/influxdb 的服务器监控系统",
+      "url": "https://www.oschina.net/news/502900",
+      "summary": "“meerkat”在中文中通常翻译为猫鼬或狐獴，属于獴科的一种小型食肉哺乳动物，原产于非洲南部,它们喜欢群居生活，跟小伙伴在一起的时候，总有一个专...",
+      "author": "陨落人间",
+      "comments": 0
+    },
+    {
+      "title": "Personal Agent 的终点不该是一个更聪明的命令行",
+      "url": "https://my.oschina.net/u/9765709/blog/19774529",
+      "summary": "Qoni 是 Cognitive（认知）的延伸，是一个 Personal Agent 的托管基础设施，让企业开发者都能开发属于自己的 Muse。...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "德国搜索引擎 Ecosia 甩了 Mistral：性能落后一整年，换中国开源模型省一半钱",
+      "url": "https://www.oschina.net/news/502897/germany-ecosia-search-engine-mistral-china-open-source-ai",
+      "summary": "一个德国环保搜索引擎，当着整个欧洲的面说：你们的 AI 旗舰不行了，我用中国的。Ecosia，总部在柏林的搜索引擎和浏览器运营商，决定结束与法国 Mi...",
+      "author": "局",
+      "comments": 1
+    }
+  ]
+}

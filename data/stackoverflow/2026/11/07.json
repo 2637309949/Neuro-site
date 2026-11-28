@@ -1,0 +1,431 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T15:38:59.238469+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How can I improve website responsiveness across different devices?",
+      "url": "https://stackoverflow.com/questions/80015355/how-can-i-improve-website-responsiveness-across-different-devices",
+      "summary": "",
+      "tags": [
+        "web"
+      ],
+      "author": "Jon Michael",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "I want to convert Adjacency list to Matrix",
+      "url": "https://stackoverflow.com/questions/80015343/i-want-to-convert-adjacency-list-to-matrix",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "algorithm"
+      ],
+      "author": "HlmCode",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "Suggestions for a game using Visual Studio",
+      "url": "https://stackoverflow.com/questions/80015341/suggestions-for-a-game-using-visual-studio",
+      "summary": "",
+      "tags": [
+        "c#",
+        "node.js",
+        "asp.net",
+        ".net",
+        "asp.net-mvc"
+      ],
+      "author": "Adeife",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "CSS grid not/weirdly working when the divs are in a details element",
+      "url": "https://stackoverflow.com/questions/80015336/css-grid-not-weirdly-working-when-the-divs-are-in-a-details-element",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "css-grid",
+        "html-tag-details",
+        "html-tag-summary"
+      ],
+      "author": "lili",
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "title": "Data virtualization | Handling thumbnails in WPF",
+      "url": "https://stackoverflow.com/questions/80015347/data-virtualization-handling-thumbnails-in-wpf",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "c#",
+        "wpf",
+        "image",
+        "thumbnails"
+      ],
+      "author": "KonTuk",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "database connection error in laravel 13.40",
+      "url": "https://stackoverflow.com/questions/80015331/database-connection-error-in-laravel-13-40",
+      "summary": "",
+      "tags": [
+        "laravel-13"
+      ],
+      "author": "user2419119",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Adding an extra line changes the lazy import object entirely",
+      "url": "https://stackoverflow.com/questions/80015329/adding-an-extra-line-changes-the-lazy-import-object-entirely",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-import"
+      ],
+      "author": "JadenV15",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "How can a CMake release tag and an embedded About-screen version stay in sync?",
+      "url": "https://stackoverflow.com/questions/80015338/how-can-a-cmake-release-tag-and-an-embedded-about-screen-version-stay-in-sync",
+      "summary": "",
+      "tags": [
+        "git",
+        "cmake"
+      ],
+      "author": "user1376748",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Why can&#39;t I give my elements a box-shadow?",
+      "url": "https://stackoverflow.com/questions/80015332/why-cant-i-give-my-elements-a-box-shadow",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "Einar",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Can an Android app reliably determine after a crash whether a maxUsageCount=1 Keystore key was consumed?",
+      "url": "https://stackoverflow.com/questions/80015334/can-an-android-app-reliably-determine-after-a-crash-whether-a-maxusagecount-1-ke",
+      "summary": "",
+      "tags": [
+        "android",
+        "android-keystore"
+      ],
+      "author": "Yogi",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Remove all characters between brackets and the brackets as well from file names",
+      "url": "https://stackoverflow.com/questions/80015263/remove-all-characters-between-brackets-and-the-brackets-as-well-from-file-names",
+      "summary": "",
+      "tags": [
+        "bash",
+        "fish",
+        "batch-rename"
+      ],
+      "author": "rustyshark",
+      "comments": 3,
+      "score": 2
+    },
+    {
+      "title": "How do get a program which transforms its input into standard output, to act in-place?",
+      "url": "https://stackoverflow.com/questions/80015303/how-do-get-a-program-which-transforms-its-input-into-standard-output-to-act-in",
+      "summary": "",
+      "tags": [
+        "shell",
+        "command-line",
+        "wrapper",
+        "in-place"
+      ],
+      "author": "einpoklum",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "OkHttp HTTP/2 writeTimeout when server sets INITIAL_WINDOW_SIZE to 4096: Http2Writer.dataFrame does not call sink.flush()",
+      "url": "https://stackoverflow.com/questions/80015311/okhttp-http-2-writetimeout-when-server-sets-initial-window-size-to-4096-http2wr",
+      "summary": "",
+      "tags": [
+        "retrofit",
+        "okhttp",
+        "http2",
+        "okio"
+      ],
+      "author": "Panda",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to instruct clangd to NOT canonicalize symlinks (treat them as normal files/their contents)?",
+      "url": "https://stackoverflow.com/questions/80015324/how-to-instruct-clangd-to-not-canonicalize-symlinks-treat-them-as-normal-files",
+      "summary": "",
+      "tags": [
+        "clang",
+        "symlink",
+        "clangd"
+      ],
+      "author": "Alessandro Bertulli",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How do I know which types are expected? Where do I get that information from?",
+      "url": "https://stackoverflow.com/questions/80015301/how-do-i-know-which-types-are-expected-where-do-i-get-that-information-from",
+      "summary": "",
+      "tags": [
+        "ruby",
+        "oop"
+      ],
+      "author": "cluster1",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Problem with asterisk parsing when debugging a calculator code using lldb",
+      "url": "https://stackoverflow.com/questions/80015291/problem-with-asterisk-parsing-when-debugging-a-calculator-code-using-lldb",
+      "summary": "",
+      "tags": [
+        "c++",
+        "debugging",
+        "lldb"
+      ],
+      "author": "Rhythm Dutta",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How can I serialize a Python 3.15 sentinel value to JSON and restore its identity?",
+      "url": "https://stackoverflow.com/questions/80015253/how-can-i-serialize-a-python-3-15-sentinel-value-to-json-and-restore-its-identit",
+      "summary": "",
+      "tags": [
+        "python",
+        "json",
+        "serialization"
+      ],
+      "author": "Daniel Sodkiewicz",
+      "comments": 2,
+      "score": 2
+    },
+    {
+      "title": "Intelllj File differences view the Ignore Whitespace option is now buried in a gear menu",
+      "url": "https://stackoverflow.com/questions/80015272/intelllj-file-differences-view-the-ignore-whitespace-option-is-now-buried-in-a-g",
+      "summary": "",
+      "tags": [
+        "intellij-idea"
+      ],
+      "author": "Kirby",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Why did C++26 get cancelled, and what does it mean for C++26 written programs?",
+      "url": "https://stackoverflow.com/questions/80015046/why-did-c26-get-cancelled-and-what-does-it-mean-for-c26-written-programs",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c++",
+        "c++26"
+      ],
+      "author": "Anoop Rana",
+      "comments": 3,
+      "score": 2
+    },
+    {
+      "title": "Intermittent Cloudflare Error 520 across multiple IIS websites hosted on the same Windows Server",
+      "url": "https://stackoverflow.com/questions/80015282/intermittent-cloudflare-error-520-across-multiple-iis-websites-hosted-on-the-sam",
+      "summary": "",
+      "tags": [
+        "asp.net",
+        "iis",
+        "cloudflare",
+        "windows-server",
+        "http.sys"
+      ],
+      "author": "Itzz Roshan",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Program generated by NASM on Windows doesn&#39;t display anything",
+      "url": "https://stackoverflow.com/questions/80015257/program-generated-by-nasm-on-windows-doesnt-display-anything",
+      "summary": "",
+      "tags": [
+        "nasm"
+      ],
+      "author": "Beck",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "Calculate dependent due dates for Activity B based on Activity A cycles without resetting prematurely",
+      "url": "https://stackoverflow.com/questions/80015224/calculate-dependent-due-dates-for-activity-b-based-on-activity-a-cycles-without",
+      "summary": "",
+      "tags": [
+        "sql",
+        "sql-server"
+      ],
+      "author": "Kofisam",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Laravel 13 installation issues",
+      "url": "https://stackoverflow.com/questions/80015156/laravel-13-installation-issues",
+      "summary": "",
+      "tags": [
+        "php",
+        "laravel"
+      ],
+      "author": "fenix_63",
+      "comments": 3,
+      "score": 1
+    },
+    {
+      "title": "How can I check whether a lazy import has executed in Python 3.15 without triggering it?",
+      "url": "https://stackoverflow.com/questions/80015000/how-can-i-check-whether-a-lazy-import-has-executed-in-python-3-15-without-trigge",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-import",
+        "lazy-loading"
+      ],
+      "author": "Daniel Sodkiewicz",
+      "comments": 1,
+      "score": 14
+    },
+    {
+      "title": "The field has an invalid XAML formula definition",
+      "url": "https://stackoverflow.com/questions/80015248/the-field-has-an-invalid-xaml-formula-definition",
+      "summary": "",
+      "tags": [
+        "dynamics-crm",
+        "power-platform",
+        "powerapps-modeldriven"
+      ],
+      "author": "AniB",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "How do I write a string to a file or socket in Python?",
+      "url": "https://stackoverflow.com/questions/80015255/how-do-i-write-a-string-to-a-file-or-socket-in-python",
+      "summary": "",
+      "tags": [
+        "python"
+      ],
+      "author": "deb2014",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Is it undefined behavior to copy an invalid reference of an empty object in C++?",
+      "url": "https://stackoverflow.com/questions/80015180/is-it-undefined-behavior-to-copy-an-invalid-reference-of-an-empty-object-in-c",
+      "summary": "",
+      "tags": [
+        "c++",
+        "reference",
+        "language-lawyer",
+        "undefined-behavior"
+      ],
+      "author": "Shady",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "amCharts4: legend clipping issue",
+      "url": "https://stackoverflow.com/questions/80015217/amcharts4-legend-clipping-issue",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "amcharts4"
+      ],
+      "author": "P S",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Argument is not consteval in a &#39;if consteval&#39; branch?",
+      "url": "https://stackoverflow.com/questions/80015198/argument-is-not-consteval-in-a-if-consteval-branch",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++23",
+        "consteval",
+        "constexpr-function"
+      ],
+      "author": "LeDYoM",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "C++20 allows known-to-unknown bound array convertion. Why doesn&#39;t it work in templates?",
+      "url": "https://stackoverflow.com/questions/80015152/c20-allows-known-to-unknown-bound-array-convertion-why-doesnt-it-work-in-tem",
+      "summary": "",
+      "tags": [
+        "c++",
+        "arrays",
+        "templates",
+        "language-lawyer",
+        "c++20"
+      ],
+      "author": "Xeverous",
+      "comments": 1,
+      "score": 1
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T09:10:14.322647+00:00",
+  "source": "hackernews",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "点赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "summary": "",
+      "author": "pcompeau",
+      "comments": 195,
+      "score": 1450
+    },
+    {
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "summary": "",
+      "author": "samk3nny",
+      "comments": 644,
+      "score": 769
+    },
+    {
+      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "summary": "",
+      "author": "cwaffles",
+      "comments": 416,
+      "score": 580
+    },
+    {
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "summary": "",
+      "author": "lode",
+      "comments": 231,
+      "score": 518
+    },
+    {
+      "title": "Frame – 31.5\" color ePaper display",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "summary": "",
+      "author": "geerlingguy",
+      "comments": 282,
+      "score": 402
+    },
+    {
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "summary": "",
+      "author": "burntsushi",
+      "comments": 81,
+      "score": 374
+    },
+    {
+      "title": "What is w2rt6byl5nf1opmc-a.com?",
+      "url": "https://jack.cab/blog/siterate",
+      "summary": "",
+      "author": "dverlaeckt80",
+      "comments": 150,
+      "score": 342
+    },
+    {
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "summary": "",
+      "author": "kristjansson",
+      "comments": 138,
+      "score": 320
+    },
+    {
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "summary": "",
+      "author": "Bender",
+      "comments": 219,
+      "score": 317
+    },
+    {
+      "title": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "summary": "",
+      "author": "PaulHoule",
+      "comments": 257,
+      "score": 269
+    },
+    {
+      "title": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "summary": "",
+      "author": "mfiguiere",
+      "comments": 126,
+      "score": 241
+    },
+    {
+      "title": "Chemistry is Actually Geometry",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "summary": "",
+      "author": "sebg",
+      "comments": 109,
+      "score": 218
+    },
+    {
+      "title": "Squircles",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "summary": "",
+      "author": "raphlinus",
+      "comments": 47,
+      "score": 187
+    },
+    {
+      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "summary": "",
+      "author": "jaredwiener",
+      "comments": 113,
+      "score": 141
+    },
+    {
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "url": "https://support.apple.com/en-us/149699",
+      "summary": "",
+      "author": "jshier",
+      "comments": 60,
+      "score": 116
+    },
+    {
+      "title": "Formal Verification Is Not Verifiable",
+      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+      "summary": "",
+      "author": "zdw",
+      "comments": 40,
+      "score": 116
+    },
+    {
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "summary": "",
+      "author": "mfiguiere",
+      "comments": 30,
+      "score": 112
+    },
+    {
+      "title": "Running coding agents without handing them my credentials",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "summary": "",
+      "author": "antoniomika",
+      "comments": 70,
+      "score": 111
+    },
+    {
+      "title": "Spamhaus new email sender requirements in November",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "summary": "",
+      "author": "computer23",
+      "comments": 94,
+      "score": 106
+    },
+    {
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "summary": "",
+      "author": "ronfriedhaber",
+      "comments": 27,
+      "score": 104
+    },
+    {
+      "title": "Do Repeat Yourself",
+      "url": "https://arcentry.com/blog/do-repeat-yourself/",
+      "summary": "",
+      "author": "max_sendfeld",
+      "comments": 27,
+      "score": 89
+    },
+    {
+      "title": "Stop Filming in Log?",
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "summary": "",
+      "author": "dabinat",
+      "comments": 75,
+      "score": 72
+    },
+    {
+      "title": "Mem Is Shutting Down",
+      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "summary": "",
+      "author": "qainsights",
+      "comments": 78,
+      "score": 54
+    },
+    {
+      "title": "Why did modems have speakers? (2019)",
+      "url": "https://retrocomputing.stackexchange.com/questions/11765",
+      "summary": "",
+      "author": "Skyfall106",
+      "comments": 30,
+      "score": 54
+    },
+    {
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "summary": "",
+      "author": "arshpatankar",
+      "comments": 20,
+      "score": 43
+    },
+    {
+      "title": "Nimony: A New Compiler for Nim",
+      "url": "https://nimony.org/",
+      "summary": "",
+      "author": "Fervicus",
+      "comments": 11,
+      "score": 40
+    },
+    {
+      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
+      "url": "https://github.com/ZigaoWang/zigzag",
+      "summary": "",
+      "author": "ZigaoWang",
+      "comments": 18,
+      "score": 39
+    },
+    {
+      "title": "Test/verification technique effectiveness with Astra",
+      "url": "https://danluu.com/astra-testing/",
+      "summary": "",
+      "author": "luu",
+      "comments": 6,
+      "score": 37
+    },
+    {
+      "title": "The Fossils That Haunted Lovecraft",
+      "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
+      "summary": "",
+      "author": "BigTTYGothGF",
+      "comments": 3,
+      "score": 31
+    },
+    {
+      "title": "40-domain study: 80% of Shopify stores expose /API/ucp/MCP, 0% /agents.md",
+      "url": "https://verisource.dev/benchmarks/ai-search-readiness-2026",
+      "summary": "",
+      "author": "kulinichnick",
+      "comments": 0,
+      "score": 5
+    }
+  ]
+}

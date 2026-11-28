@@ -1,0 +1,431 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T14:11:44.760703+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Change of laptop results to &quot;Argument not Optional&quot; error to a VBA Macro that worked perfectly fine before",
+      "url": "https://stackoverflow.com/questions/80003516/change-of-laptop-results-to-argument-not-optional-error-to-a-vba-macro-that-wo",
+      "summary": "",
+      "tags": [
+        "excel",
+        "vba",
+        "macros"
+      ],
+      "author": "wh3resmycar2",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "What&#39;s this MinShellCore built-in item template in Visual Studio? (undocumented?)",
+      "url": "https://stackoverflow.com/questions/80003511/whats-this-minshellcore-built-in-item-template-in-visual-studio-undocumented",
+      "summary": "",
+      "tags": [
+        "visual-studio",
+        "visual-studio-2026"
+      ],
+      "author": "winscripter",
+      "comments": 0,
+      "score": 2
+    },
+    {
+      "title": "&quot;$n = scalar(@a, @b)&quot; causes &quot;Useless use of private array in void context&quot;",
+      "url": "https://stackoverflow.com/questions/80003517/n-scalara-b-causes-useless-use-of-private-array-in-void-context",
+      "summary": "",
+      "tags": [
+        "arrays",
+        "perl"
+      ],
+      "author": "U. Windl",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I add an easy-to-manage blog to Astro and Cloudflare Pages?",
+      "url": "https://stackoverflow.com/questions/80003522/how-can-i-add-an-easy-to-manage-blog-to-astro-and-cloudflare-pages",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation"
+      ],
+      "author": "Isaac Escobar Guardia",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Exporting selected HTML pages to PDF without Selenium / browser automation",
+      "url": "https://stackoverflow.com/questions/80003489/exporting-selected-html-pages-to-pdf-without-selenium-browser-automation",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "html",
+        "pdf",
+        "wkhtmltopdf",
+        "weasyprint"
+      ],
+      "author": "OnceUponATime",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "CKEditor not initialized in DJago Admin forms - Initialization script not placed upon html",
+      "url": "https://stackoverflow.com/questions/80003505/ckeditor-not-initialized-in-djago-admin-forms-initialization-script-not-placed",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "python",
+        "django",
+        "ckeditor"
+      ],
+      "author": "Dimitrios Desyllas",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Linux. Cant reduce an unused PV from a VG",
+      "url": "https://stackoverflow.com/questions/80003492/linux-cant-reduce-an-unused-pv-from-a-vg",
+      "summary": "",
+      "tags": [
+        "linux",
+        "storage"
+      ],
+      "author": "TnTech",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "What is the safest way to modify a DXF file programmatically without breaking its structure?",
+      "url": "https://stackoverflow.com/questions/80003498/what-is-the-safest-way-to-modify-a-dxf-file-programmatically-without-breaking-it",
+      "summary": "",
+      "tags": [
+        "drawing",
+        "cad",
+        "dxf",
+        "dwg"
+      ],
+      "author": "Indiancad",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "MariaDB query is much faster when using CAST() on bound parameters?",
+      "url": "https://stackoverflow.com/questions/80003500/mariadb-query-is-much-faster-when-using-cast-on-bound-parameters",
+      "summary": "",
+      "tags": [
+        "sql",
+        "casting",
+        "mariadb"
+      ],
+      "author": "Mikolaj Buelens",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "AWS nodejs20.x Error &quot;Dynamic require of \\&quot;util\\&quot; is not supported&quot;",
+      "url": "https://stackoverflow.com/questions/80003506/aws-nodejs20-x-error-dynamic-require-of-util-is-not-supported",
+      "summary": "",
+      "tags": [
+        "node.js",
+        "aws-lambda",
+        "terraform",
+        "aws-sdk-nodejs"
+      ],
+      "author": "Fi Li Ppo",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "DLL version number affects deployment",
+      "url": "https://stackoverflow.com/questions/80003504/dll-version-number-affects-deployment",
+      "summary": "",
+      "tags": [
+        "c#",
+        "msbuild"
+      ],
+      "author": "Robert",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Is the Cell ID reported by an LTE-M module identical to the standard LTE Cell ID?",
+      "url": "https://stackoverflow.com/questions/80003502/is-the-cell-id-reported-by-an-lte-m-module-identical-to-the-standard-lte-cell-id",
+      "summary": "",
+      "tags": [
+        "embedded",
+        "at-command",
+        "lte"
+      ],
+      "author": "amit gadia",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "How can bounded-contexts interact with each other in DDD?",
+      "url": "https://stackoverflow.com/questions/80003497/how-can-bounded-contexts-interact-with-each-other-in-ddd",
+      "summary": "",
+      "tags": [
+        "domain-driven-design",
+        "entity",
+        "bounded-contexts"
+      ],
+      "author": "betchreal",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Snyk Code recognizes a custom log sanitizer only when it&#39;s in the same file — how to make it work across files?",
+      "url": "https://stackoverflow.com/questions/80003475/snyk-code-recognizes-a-custom-log-sanitizer-only-when-its-in-the-same-file-ho",
+      "summary": "",
+      "tags": [
+        "c#",
+        "asp.net-core",
+        "static-analysis",
+        "snyk"
+      ],
+      "author": "Mikey",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Do concurrent accesses to a volatile glvalue result in undefined behavior or implementation-defined behavior?",
+      "url": "https://stackoverflow.com/questions/80003401/do-concurrent-accesses-to-a-volatile-glvalue-result-in-undefined-behavior-or-imp",
+      "summary": "",
+      "tags": [
+        "c++",
+        "multithreading",
+        "language-lawyer",
+        "stdthread"
+      ],
+      "author": "xmh0511",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Download a new created zip-file in PHP",
+      "url": "https://stackoverflow.com/questions/80003478/download-a-new-created-zip-file-in-php",
+      "summary": "",
+      "tags": [
+        "php",
+        "download",
+        "zip"
+      ],
+      "author": "OfiserChris",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to implement 2D, 3D, etc. vectors with one templated struct?",
+      "url": "https://stackoverflow.com/questions/80003406/how-to-implement-2d-3d-etc-vectors-with-one-templated-struct",
+      "summary": "",
+      "tags": [
+        "c++",
+        "templates",
+        "metaprogramming",
+        "unions",
+        "default-constructor"
+      ],
+      "author": "kjgoebel",
+      "comments": 2,
+      "score": 4
+    },
+    {
+      "title": "How to open notification access settings for my app, programmatically?",
+      "url": "https://stackoverflow.com/questions/80003462/how-to-open-notification-access-settings-for-my-app-programmatically",
+      "summary": "",
+      "tags": [
+        "kotlin"
+      ],
+      "author": "Angel",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Redmine CSV export writes a bare parent id that the importer reads as a row index, so re-importing flattens the hierarchy",
+      "url": "https://stackoverflow.com/questions/80003465/redmine-csv-export-writes-a-bare-parent-id-that-the-importer-reads-as-a-row-inde",
+      "summary": "",
+      "tags": [
+        "advice",
+        "redmine",
+        "csv-import"
+      ],
+      "author": "Carter",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How to configure refresh token with express and react",
+      "url": "https://stackoverflow.com/questions/80003429/how-to-configure-refresh-token-with-express-and-react",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "node.js",
+        "express"
+      ],
+      "author": "Alberto Benedetto",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Windows Command Shell&#39;s type command doesn&#39;t recognize .cmd file by its name alone (needs its extension too)",
+      "url": "https://stackoverflow.com/questions/80003483/windows-command-shells-type-command-doesnt-recognize-cmd-file-by-its-name-alo",
+      "summary": "",
+      "tags": [
+        "batch-file",
+        "cmd"
+      ],
+      "author": "userid_150450",
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "title": "Adding text to a string translation",
+      "url": "https://stackoverflow.com/questions/80003435/adding-text-to-a-string-translation",
+      "summary": "",
+      "tags": [
+        "php",
+        "wordpress"
+      ],
+      "author": "Darren Collins",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to convert a genome-scale model in .json format into an SBML/MATLAB file (.xml/.mat format)",
+      "url": "https://stackoverflow.com/questions/80003453/how-to-convert-a-genome-scale-model-in-json-format-into-an-sbml-matlab-file-x",
+      "summary": "",
+      "tags": [
+        "json",
+        "matlab",
+        "sbml"
+      ],
+      "author": "Wassili",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "pg_dump not working through standby server",
+      "url": "https://stackoverflow.com/questions/80003449/pg-dump-not-working-through-standby-server",
+      "summary": "",
+      "tags": [
+        "postgresql",
+        "database-administration",
+        "high-availability",
+        "backup-strategies"
+      ],
+      "author": "Hangp",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "holoviews.Point bi-directional sync",
+      "url": "https://stackoverflow.com/questions/80003443/holoviews-point-bi-directional-sync",
+      "summary": "",
+      "tags": [
+        "python",
+        "holoviews"
+      ],
+      "author": "FLS",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Fix Maya AI: Gemini API Authentication and Voice Chat",
+      "url": "https://stackoverflow.com/questions/80003417/fix-maya-ai-gemini-api-authentication-and-voice-chat",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Hemanta Modak",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How to use onnxruntime on same GPU as graphics api i.e opengl",
+      "url": "https://stackoverflow.com/questions/80003394/how-to-use-onnxruntime-on-same-gpu-as-graphics-api-i-e-opengl",
+      "summary": "",
+      "tags": [
+        "c++",
+        "tensorflow",
+        "machine-learning",
+        "graphics",
+        "onnxruntime"
+      ],
+      "author": "james kerr",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does my XIAO esp32 S3 code show a 99.9% duty cycle?",
+      "url": "https://stackoverflow.com/questions/80003378/why-does-my-xiao-esp32-s3-code-show-a-99-9-duty-cycle",
+      "summary": "",
+      "tags": [
+        "c++",
+        "esp32"
+      ],
+      "author": "script kitty",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "New APS app in a Developer Hub returns 403 AUTH-001 for every scope (client_credentials, fresh secret)",
+      "url": "https://stackoverflow.com/questions/80003379/new-aps-app-in-a-developer-hub-returns-403-auth-001-for-every-scope-client-cred",
+      "summary": "",
+      "tags": [
+        "oauth",
+        "autodesk-forge"
+      ],
+      "author": "Wuttichai Saeton",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Monthly Payment in a C++ program to calculate loan payment details always evaluates to 1",
+      "url": "https://stackoverflow.com/questions/80003372/monthly-payment-in-a-c-program-to-calculate-loan-payment-details-always-evalua",
+      "summary": "",
+      "tags": [
+        "c++"
+      ],
+      "author": "Brendon Davidson",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}

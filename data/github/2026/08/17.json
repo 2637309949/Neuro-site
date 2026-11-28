@@ -1,0 +1,135 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T13:52:47.001291+00:00",
+  "source": "github",
+  "count": 10,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "summary": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 105399,
+      "today_stars": 494
+    },
+    {
+      "title": "usestrix/strix",
+      "repo": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 53731,
+      "today_stars": 856
+    },
+    {
+      "title": "nautechsystems/nautilus_trader",
+      "repo": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars": 25707,
+      "today_stars": 115
+    },
+    {
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "summary": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 28134,
+      "today_stars": 156
+    },
+    {
+      "title": "AlexsJones/llmfit",
+      "repo": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "summary": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": 32057,
+      "today_stars": 187
+    },
+    {
+      "title": "santifer/career-ops",
+      "repo": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "summary": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars": 64278,
+      "today_stars": 147
+    },
+    {
+      "title": "jundot/omlx",
+      "repo": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "summary": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 18860,
+      "today_stars": 60
+    },
+    {
+      "title": "immich-app/immich",
+      "repo": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "summary": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 110883,
+      "today_stars": 140
+    },
+    {
+      "title": "cordiverse/cordis",
+      "repo": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "summary": "Meta-Framework of Spatiotemporal Composability",
+      "language": "TypeScript",
+      "stars": 5406,
+      "today_stars": 959
+    },
+    {
+      "title": "agalwood/Motrix",
+      "repo": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "summary": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars": 52872,
+      "today_stars": 295
+    }
+  ]
+}

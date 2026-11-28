@@ -1,0 +1,449 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T06:07:37.064372+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How can I improve product page performance on an e-commerce website?",
+      "url": "https://stackoverflow.com/questions/80010981/how-can-i-improve-product-page-performance-on-an-e-commerce-website",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "performance",
+        "web-development-server"
+      ],
+      "author": "Nut Cravings",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "In Python, is it possible to execute a script without impacting the modules imported by the caller?",
+      "url": "https://stackoverflow.com/questions/80010983/in-python-is-it-possible-to-execute-a-script-without-impacting-the-modules-impo",
+      "summary": "",
+      "tags": [
+        "python",
+        "import",
+        "module",
+        "global-variables"
+      ],
+      "author": "Julien Fert&#233;",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Bluetooth Event Handling for Windows Application (C++)",
+      "url": "https://stackoverflow.com/questions/80010977/bluetooth-event-handling-for-windows-application-c",
+      "summary": "",
+      "tags": [
+        "c++",
+        "bluetooth",
+        "event-handling",
+        "bluetooth-lowenergy"
+      ],
+      "author": "Computer Machanic",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Android WebView dropping cookie / not setting cookie",
+      "url": "https://stackoverflow.com/questions/80010975/android-webview-dropping-cookie-not-setting-cookie",
+      "summary": "",
+      "tags": [
+        "android",
+        "mobile",
+        "android-webview"
+      ],
+      "author": "Thanatos",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Why does my lyrics lookup return no results for songs that exist in the database?",
+      "url": "https://stackoverflow.com/questions/80010969/why-does-my-lyrics-lookup-return-no-results-for-songs-that-exist-in-the-database",
+      "summary": "",
+      "tags": [
+        "python",
+        "swift",
+        "macos",
+        "electron"
+      ],
+      "author": "KenL",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to unpair or disconnect Bluetooth from an R5 device",
+      "url": "https://stackoverflow.com/questions/80010971/how-to-unpair-or-disconnect-bluetooth-from-an-r5-device",
+      "summary": "",
+      "tags": [
+        "android",
+        "ios",
+        "swift",
+        "flutter",
+        "core-bluetooth"
+      ],
+      "author": "August",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Ubuntu 26.04.1 LTS Terminal cut and paste gone",
+      "url": "https://stackoverflow.com/questions/80010959/ubuntu-26-04-1-lts-terminal-cut-and-paste-gone",
+      "summary": "",
+      "tags": [
+        "linux",
+        "ubuntu"
+      ],
+      "author": "older coder",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How should I design a Flink job that rebuilds a multi-join SQL view as a streaming result, and keep its state bounded?",
+      "url": "https://stackoverflow.com/questions/80010967/how-should-i-design-a-flink-job-that-rebuilds-a-multi-join-sql-view-as-a-streami",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "apache-flink",
+        "flink-streaming",
+        "confluent-platform"
+      ],
+      "author": "Maya Hazem",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "What’s your opinion on remote Mac Mini setups for iOS development?",
+      "url": "https://stackoverflow.com/questions/80010966/what-s-your-opinion-on-remote-mac-mini-setups-for-ios-development",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "macos"
+      ],
+      "author": "Adriana",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Qt QPainter object implementation for visibility in the main window class",
+      "url": "https://stackoverflow.com/questions/80010964/qt-qpainter-object-implementation-for-visibility-in-the-main-window-class",
+      "summary": "",
+      "tags": [
+        "qt",
+        "qpainter"
+      ],
+      "author": "STOBX",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "C++ structures from mmap",
+      "url": "https://stackoverflow.com/questions/80010925/c-structures-from-mmap",
+      "summary": "",
+      "tags": [
+        "advice",
+        "c++",
+        "language-lawyer"
+      ],
+      "author": "user1770353",
+      "comments": 2,
+      "score": 4
+    },
+    {
+      "title": "How to create default list in Error case clause in Gleam?",
+      "url": "https://stackoverflow.com/questions/80010946/how-to-create-default-list-in-error-case-clause-in-gleam",
+      "summary": "",
+      "tags": [
+        "gleam"
+      ],
+      "author": "aggsol",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Android touchscreen barely responsive — how to enable USB file transfer / ADB debugging with minimal taps?",
+      "url": "https://stackoverflow.com/questions/80010952/android-touchscreen-barely-responsive-how-to-enable-usb-file-transfer-adb-de",
+      "summary": "",
+      "tags": [
+        "android",
+        "usb",
+        "adb",
+        "mtp"
+      ],
+      "author": "user26732695",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "What&#39;s the use of the blocking_map argument of clEnqueueMapBuffer?",
+      "url": "https://stackoverflow.com/questions/80010942/whats-the-use-of-the-blocking-map-argument-of-clenqueuemapbuffer",
+      "summary": "",
+      "tags": [
+        "events",
+        "opencl",
+        "memory-mapping"
+      ],
+      "author": "einpoklum",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Why does an int variable that multiplies by a double still type as an int?",
+      "url": "https://stackoverflow.com/questions/80010829/why-does-an-int-variable-that-multiplies-by-a-double-still-type-as-an-int",
+      "summary": "",
+      "tags": [
+        "c++",
+        "types"
+      ],
+      "author": "sky",
+      "comments": 3,
+      "score": -3
+    },
+    {
+      "title": "ExpressionChangedAfterItHasBeenCheckedError occurs in Angular by accessing properties of DOM elements",
+      "url": "https://stackoverflow.com/questions/80010912/expressionchangedafterithasbeencheckederror-occurs-in-angular-by-accessing-prope",
+      "summary": "",
+      "tags": [
+        "angular"
+      ],
+      "author": "deemon",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How do I compute operating thresholds for FAR=0% when evaluating biometric match scores in Python/MATLAB?",
+      "url": "https://stackoverflow.com/questions/80010900/how-do-i-compute-operating-thresholds-for-far-0-when-evaluating-biometric-match",
+      "summary": "",
+      "tags": [
+        "python",
+        "numpy",
+        "computer-vision",
+        "biometrics",
+        "pattern-recognition"
+      ],
+      "author": "Idrab",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Deeplinking for LinkedIn Mobile app when sharing a post",
+      "url": "https://stackoverflow.com/questions/80010913/deeplinking-for-linkedin-mobile-app-when-sharing-a-post",
+      "summary": "",
+      "tags": [
+        "ios",
+        "linkedin-api",
+        "deep-linking",
+        "ipados"
+      ],
+      "author": "Hoan Le",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Nasm : how do I get rid of segmentation fault (core dumped)?",
+      "url": "https://stackoverflow.com/questions/80010878/nasm-how-do-i-get-rid-of-segmentation-fault-core-dumped",
+      "summary": "",
+      "tags": [
+        "assembly",
+        "x86-64",
+        "nasm"
+      ],
+      "author": "Muhammad Zeeshan",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "Create HTML file via rmd with custom CSS",
+      "url": "https://stackoverflow.com/questions/80010862/create-html-file-via-rmd-with-custom-css",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "r"
+      ],
+      "author": "averlon",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to safely manipulate or inspect stack frames in C++ using inline assembly without triggering Undefined Behavior?",
+      "url": "https://stackoverflow.com/questions/80010774/how-to-safely-manipulate-or-inspect-stack-frames-in-c-using-inline-assembly-wi",
+      "summary": "",
+      "tags": [
+        "c++",
+        "assembly",
+        "x86-64",
+        "undefined-behavior",
+        "stack-frame"
+      ],
+      "author": "skatd",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Can manually closing a page inside Puppeteer Cluster cause TargetCloseError with Firefox BiDi?",
+      "url": "https://stackoverflow.com/questions/80010858/can-manually-closing-a-page-inside-puppeteer-cluster-cause-targetcloseerror-with",
+      "summary": "",
+      "tags": [
+        "linux",
+        "oracle-database",
+        "automation",
+        "cluster-computing"
+      ],
+      "author": "Michael S",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How to keep Tabs when applying .tabViewStyle(.page)?",
+      "url": "https://stackoverflow.com/questions/80010879/how-to-keep-tabs-when-applying-tabviewstyle-page",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "swiftui",
+        "swiftui-tabview"
+      ],
+      "author": "Иса Мэлсов",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why does Xcelium throw a hierarchical name error on a module parameter?",
+      "url": "https://stackoverflow.com/questions/80010865/why-does-xcelium-throw-a-hierarchical-name-error-on-a-module-parameter",
+      "summary": "",
+      "tags": [
+        "verilog",
+        "system-verilog",
+        "test-bench",
+        "questasim",
+        "synopsys-vcs"
+      ],
+      "author": "Tigran Unjyan ",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Publish package for distribution via vcpkg fails due to missing debug/share",
+      "url": "https://stackoverflow.com/questions/80010870/publish-package-for-distribution-via-vcpkg-fails-due-to-missing-debug-share",
+      "summary": "",
+      "tags": [
+        "c++",
+        "cmake",
+        "vcpkg"
+      ],
+      "author": "Natan Camargos",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Three-body solver using RK45 produces incorrect &quot;shifted&quot; plot",
+      "url": "https://stackoverflow.com/questions/80010831/three-body-solver-using-rk45-produces-incorrect-shifted-plot",
+      "summary": "",
+      "tags": [
+        "python",
+        "physics",
+        "numerical-methods",
+        "astronomy",
+        "runge-kutta"
+      ],
+      "author": "Joe_Hudson",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "iPhone Duo: tab bar briefly moves right after dismissing a fullScreen modal",
+      "url": "https://stackoverflow.com/questions/80010788/iphone-duo-tab-bar-briefly-moves-right-after-dismissing-a-fullscreen-modal",
+      "summary": "",
+      "tags": [
+        "ios",
+        "swift",
+        "uikit",
+        "uinavigationcontroller",
+        "uitabbarcontroller"
+      ],
+      "author": "luckysmg",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How can I format a large number so that it contains a comma (group separator) only between the 100s and 1000s digits in a currency string?",
+      "url": "https://stackoverflow.com/questions/80010749/how-can-i-format-a-large-number-so-that-it-contains-a-comma-group-separator-on",
+      "summary": "",
+      "tags": [
+        "c#",
+        ".net",
+        "numbers",
+        "number-formatting"
+      ],
+      "author": "Agili Dt",
+      "comments": 2,
+      "score": -2
+    },
+    {
+      "title": "Creating a Kotlin project without the standard library",
+      "url": "https://stackoverflow.com/questions/80010805/creating-a-kotlin-project-without-the-standard-library",
+      "summary": "",
+      "tags": [
+        "java",
+        "kotlin",
+        "standard-library",
+        "kotlin-stdlib"
+      ],
+      "author": "user33096679",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "What are the limitations of AI-generated Java code when implementing complex business logic in Spring Boot?",
+      "url": "https://stackoverflow.com/questions/80010846/what-are-the-limitations-of-ai-generated-java-code-when-implementing-complex-bus",
+      "summary": "",
+      "tags": [
+        "advice",
+        "java",
+        "spring"
+      ],
+      "author": "Chan Myae Aung",
+      "comments": 0,
+      "score": -12
+    }
+  ]
+}

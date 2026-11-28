@@ -1,0 +1,436 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T09:08:53.562868+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "A DATE inspection field advertises java.sql.Date but getObject returns String",
+      "url": "https://stackoverflow.com/questions/80017137/a-date-inspection-field-advertises-java-sql-date-but-getobject-returns-string",
+      "summary": "",
+      "tags": [
+        "jdbc",
+        "apache-iotdb"
+      ],
+      "author": "Alex Chen",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Google reCAPTCHA v2 intermittently does not trigger /api2/userverify request with geolocation override",
+      "url": "https://stackoverflow.com/questions/80017143/google-recaptcha-v2-intermittently-does-not-trigger-api2-userverify-request-wit",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "recaptcha"
+      ],
+      "author": "Balasuresh Asaithambi",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Add caching to a Python @property while preventing setting and deleting the attribute",
+      "url": "https://stackoverflow.com/questions/80017124/add-caching-to-a-python-property-while-preventing-setting-and-deleting-the-attr",
+      "summary": "",
+      "tags": [
+        "python",
+        "caching"
+      ],
+      "author": "JadenV15",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to Handle Real-Time Form Editing When Multiple Users Access the Same Account?",
+      "url": "https://stackoverflow.com/questions/80017134/how-to-handle-real-time-form-editing-when-multiple-users-access-the-same-account",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "angular",
+        "backend"
+      ],
+      "author": "neel upadhyay",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Github Login issue ( not showing number or letting me enter neither sending sms in linked number)",
+      "url": "https://stackoverflow.com/questions/80017132/github-login-issue-not-showing-number-or-letting-me-enter-neither-sending-sms",
+      "summary": "",
+      "tags": [
+        "authentication",
+        "github"
+      ],
+      "author": "kundan kumar",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "What do I use when my project gets too big?",
+      "url": "https://stackoverflow.com/questions/80017123/what-do-i-use-when-my-project-gets-too-big",
+      "summary": "",
+      "tags": [
+        "git",
+        "github",
+        "repository"
+      ],
+      "author": "Roy Bebee",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Finding the index of the closest element to a target in a sorted array using binary search in Java",
+      "url": "https://stackoverflow.com/questions/80017114/finding-the-index-of-the-closest-element-to-a-target-in-a-sorted-array-using-bin",
+      "summary": "",
+      "tags": [
+        "java",
+        "algorithm",
+        "binary-search"
+      ],
+      "author": "MANOJ KUMAR PATRA",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Dynamic equivalent to the import statement in Python 3.15+",
+      "url": "https://stackoverflow.com/questions/80017098/dynamic-equivalent-to-the-import-statement-in-python-3-15",
+      "summary": "",
+      "tags": [
+        "python",
+        "python-import",
+        "lazy-loading",
+        "python-importlib",
+        "python-3.15"
+      ],
+      "author": "JadenV15",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "Apple Metal C++ Bindings Memory Leak in Hello World Program",
+      "url": "https://stackoverflow.com/questions/80017096/apple-metal-c-bindings-memory-leak-in-hello-world-program",
+      "summary": "",
+      "tags": [
+        "c++",
+        "macos",
+        "memory-leaks",
+        "metal"
+      ],
+      "author": "ZacharyyK",
+      "comments": 1,
+      "score": 3
+    },
+    {
+      "title": "C++14-era std::experimental::optional vs C++17&#39;s std::optional",
+      "url": "https://stackoverflow.com/questions/80017076/c14-era-stdexperimentaloptional-vs-c17s-stdoptional",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++17",
+        "c++14",
+        "compatibility",
+        "stdoptional"
+      ],
+      "author": "einpoklum",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "What is the practical advantage of _BitInt(10) over int16_t when both have the same sizeof?",
+      "url": "https://stackoverflow.com/questions/80017070/what-is-the-practical-advantage-of-bitint10-over-int16-t-when-both-have-the-s",
+      "summary": "",
+      "tags": [
+        "c",
+        "c23",
+        "bitint"
+      ],
+      "author": "Mahdi Hosseini",
+      "comments": 2,
+      "score": 5
+    },
+    {
+      "title": "How can I build a dynamic WHERE clause efficiently?",
+      "url": "https://stackoverflow.com/questions/80017097/how-can-i-build-a-dynamic-where-clause-efficiently",
+      "summary": "",
+      "tags": [
+        "sql",
+        "dolphindb"
+      ],
+      "author": "Caleb",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Configure PLOTLY within Jupyterlab Notebook",
+      "url": "https://stackoverflow.com/questions/80017095/configure-plotly-within-jupyterlab-notebook",
+      "summary": "",
+      "tags": [
+        "jupyter-notebook",
+        "plotly"
+      ],
+      "author": "Birdman",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Nayax Spark Remote Start: can Settlement be lower than the pre-authorised amount, and how long can an authorisation stay open?",
+      "url": "https://stackoverflow.com/questions/80017090/nayax-spark-remote-start-can-settlement-be-lower-than-the-pre-authorised-amount",
+      "summary": "",
+      "tags": [
+        "advice",
+        "apache-spark",
+        "reset",
+        "payment-processing",
+        "pre-authentication"
+      ],
+      "author": "Bhavsagar",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Upgraded Blazor web app to .NET 11 - app launch fails",
+      "url": "https://stackoverflow.com/questions/80017018/upgraded-blazor-web-app-to-net-11-app-launch-fails",
+      "summary": "",
+      "tags": [
+        ".net",
+        "linux",
+        "asp.net-core",
+        "blazor",
+        ".net-11.0"
+      ],
+      "author": "Skippy VonDrake",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How to export/dump a database from MySQL Workbench?2026",
+      "url": "https://stackoverflow.com/questions/80017062/how-to-export-dump-a-database-from-mysql-workbench2026",
+      "summary": "",
+      "tags": [
+        "mysql-workbench"
+      ],
+      "author": "galactikuh",
+      "comments": 0,
+      "score": -10
+    },
+    {
+      "title": "How do I remove PrimeNG v21 popover arrow in Angular v21?",
+      "url": "https://stackoverflow.com/questions/80017009/how-do-i-remove-primeng-v21-popover-arrow-in-angular-v21",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "css",
+        "angular",
+        "primeng"
+      ],
+      "author": "Deoxys_0",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "How do I help pacman find my installed libraries when installing mingw-w64-webkitgtk?",
+      "url": "https://stackoverflow.com/questions/80017085/how-do-i-help-pacman-find-my-installed-libraries-when-installing-mingw-w64-webki",
+      "summary": "",
+      "tags": [
+        "mingw",
+        "mingw-w64",
+        "msys2",
+        "libsoup"
+      ],
+      "author": "Oliver Cox",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Confusing results creating a TFS branch in VS2019",
+      "url": "https://stackoverflow.com/questions/80017079/confusing-results-creating-a-tfs-branch-in-vs2019",
+      "summary": "",
+      "tags": [
+        "visual-studio-2019",
+        "azure-devops-server"
+      ],
+      "author": "T.E.D.",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Installing perl module failed",
+      "url": "https://stackoverflow.com/questions/80016968/installing-perl-module-failed",
+      "summary": "",
+      "tags": [
+        "perl",
+        "cpan"
+      ],
+      "author": "albert",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "go channels syntax and timing",
+      "url": "https://stackoverflow.com/questions/80017051/go-channels-syntax-and-timing",
+      "summary": "",
+      "tags": [
+        "go",
+        "channel"
+      ],
+      "author": "user3665510",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How do I get the guests.trips scope for the Uber Guest Rides API on an approved Uber for Business account?",
+      "url": "https://stackoverflow.com/questions/80017074/how-do-i-get-the-guests-trips-scope-for-the-uber-guest-rides-api-on-an-approved",
+      "summary": "",
+      "tags": [
+        "oauth-2.0",
+        "uber-api"
+      ],
+      "author": "Farid Handal",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "PowerShell and command line boolean operators",
+      "url": "https://stackoverflow.com/questions/80017041/powershell-and-command-line-boolean-operators",
+      "summary": "",
+      "tags": [
+        "powershell"
+      ],
+      "author": "Daniel Goguen",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "GDB TUI Resizing Problems",
+      "url": "https://stackoverflow.com/questions/80017056/gdb-tui-resizing-problems",
+      "summary": "",
+      "tags": [
+        "python",
+        "gdb",
+        "resize",
+        "tui"
+      ],
+      "author": "Farmer Jones",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Confused by a compiler&#39;s finding of ambiguity among constructors",
+      "url": "https://stackoverflow.com/questions/80016971/confused-by-a-compilers-finding-of-ambiguity-among-constructors",
+      "summary": "",
+      "tags": [
+        "c++",
+        "c++17",
+        "ambiguity",
+        "constructor-overloading",
+        "stdoptional"
+      ],
+      "author": "einpoklum",
+      "comments": 2,
+      "score": 4
+    },
+    {
+      "title": "How to write a wildcard .htaccess rule to 301 redirect url parameters to a static file?",
+      "url": "https://stackoverflow.com/questions/80017043/how-to-write-a-wildcard-htaccess-rule-to-301-redirect-url-parameters-to-a-stati",
+      "summary": "",
+      "tags": [
+        "apache",
+        ".htaccess"
+      ],
+      "author": "SS64",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "Unexpected Output when i`m trying to solve a problem in codeforces",
+      "url": "https://stackoverflow.com/questions/80017028/unexpected-output-when-im-trying-to-solve-a-problem-in-codeforces",
+      "summary": "",
+      "tags": [
+        "c++",
+        "variables",
+        "local"
+      ],
+      "author": "Shehab Helmi",
+      "comments": 1,
+      "score": -5
+    },
+    {
+      "title": "Why does the same REVERSE expression work in table model but look for an unregistered UDF in tree model?",
+      "url": "https://stackoverflow.com/questions/80017059/why-does-the-same-reverse-expression-work-in-table-model-but-look-for-an-unregis",
+      "summary": "",
+      "tags": [
+        "time-series",
+        "apache-iotdb"
+      ],
+      "author": "Aibee Tang",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Nifi: How to create Oauth2 access token provider as a controller service when Http request body wants Raw JSON?",
+      "url": "https://stackoverflow.com/questions/80017055/nifi-how-to-create-oauth2-access-token-provider-as-a-controller-service-when-ht",
+      "summary": "",
+      "tags": [
+        "oauth-2.0",
+        "oauth",
+        "httprequest",
+        "apache-nifi"
+      ],
+      "author": "mveen",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Read-only proxy for nested tables in Lua 5.1 that still works with pairs, ipairs and #",
+      "url": "https://stackoverflow.com/questions/80016969/read-only-proxy-for-nested-tables-in-lua-5-1-that-still-works-with-pairs-ipairs",
+      "summary": "",
+      "tags": [
+        "lua",
+        "sandbox",
+        "lua-table",
+        "metatable"
+      ],
+      "author": "Yessen A",
+      "comments": 2,
+      "score": 4
+    }
+  ]
+}

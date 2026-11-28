@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T13:55:42.554476+00:00",
+  "source": "github",
+  "count": 12,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "总星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    },
+    {
+      "name": "今日星数",
+      "key": "today_stars",
+      "type": "metric",
+      "icon": "TrendingUp"
+    }
+  ],
+  "items": [
+    {
+      "title": "PrimeIntellect-ai/prime-agent",
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "summary": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 7820,
+      "today_stars": 2483
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "summary": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 84247,
+      "today_stars": 778
+    },
+    {
+      "title": "TapXWorld/ChinaTextbook",
+      "repo": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "summary": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars": 77718,
+      "today_stars": 591
+    },
+    {
+      "title": "google/skills",
+      "repo": "google/skills",
+      "url": "https://github.com/google/skills",
+      "summary": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 16494,
+      "today_stars": 481
+    },
+    {
+      "title": "mattpocock/skills",
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 209528,
+      "today_stars": 1354
+    },
+    {
+      "title": "goauthentik/authentik",
+      "repo": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "summary": "The authentication glue you need.",
+      "language": "Python",
+      "stars": 23839,
+      "today_stars": 467
+    },
+    {
+      "title": "TauricResearch/TradingAgents",
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 96187,
+      "today_stars": 126
+    },
+    {
+      "title": "google/guava",
+      "repo": "google/guava",
+      "url": "https://github.com/google/guava",
+      "summary": "Google core libraries for Java",
+      "language": "Java",
+      "stars": 51801,
+      "today_stars": 93
+    },
+    {
+      "title": "LadybirdBrowser/ladybird",
+      "repo": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "summary": "Truly independent web browser",
+      "language": "C++",
+      "stars": 64872,
+      "today_stars": 42
+    },
+    {
+      "title": "denoland/celld",
+      "repo": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "summary": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars": 2401,
+      "today_stars": 432
+    },
+    {
+      "title": "litu54/DevOps-Interview-Guide",
+      "repo": "litu54/DevOps-Interview-Guide",
+      "url": "https://github.com/litu54/DevOps-Interview-Guide",
+      "summary": "DevOps Interview Guide",
+      "language": "",
+      "stars": 600,
+      "today_stars": 59
+    },
+    {
+      "title": "bannedbook/fanqiang",
+      "repo": "bannedbook/fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "summary": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars": 49729,
+      "today_stars": 140
+    }
+  ]
+}

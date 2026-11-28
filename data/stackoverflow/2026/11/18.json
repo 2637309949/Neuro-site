@@ -1,0 +1,430 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T08:29:50.174203+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to route HAProxy by subdomain?",
+      "url": "https://stackoverflow.com/questions/80017358/how-to-route-haproxy-by-subdomain",
+      "summary": "",
+      "tags": [
+        "routes",
+        "configuration",
+        "haproxy"
+      ],
+      "author": "MarcT",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How is internal silicon testing performed on SWD-only MCUs (like ATSAMC21N18A) if JTAG pins are absent?",
+      "url": "https://stackoverflow.com/questions/80017340/how-is-internal-silicon-testing-performed-on-swd-only-mcus-like-atsamc21n18a-i",
+      "summary": "",
+      "tags": [
+        "arm",
+        "embedded",
+        "microcontroller",
+        "jtag",
+        "swd"
+      ],
+      "author": "ViZe",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How can I replace the spaces in the output of a bash command",
+      "url": "https://stackoverflow.com/questions/80017322/how-can-i-replace-the-spaces-in-the-output-of-a-bash-command",
+      "summary": "",
+      "tags": [
+        "bash"
+      ],
+      "author": "Furkan Karaduman",
+      "comments": 2,
+      "score": -2
+    },
+    {
+      "title": "Started my first internship as a QA Intern, but my career goal is Software Engineering. Will this affect my future SE career?",
+      "url": "https://stackoverflow.com/questions/80017334/started-my-first-internship-as-a-qa-intern-but-my-career-goal-is-software-engin",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Sathurshna Uthayakumar",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Sitecore solr search is not working ja-jp language version but it works fine with all other languages",
+      "url": "https://stackoverflow.com/questions/80017337/sitecore-solr-search-is-not-working-ja-jp-language-version-but-it-works-fine-wit",
+      "summary": "",
+      "tags": [
+        "search",
+        "solr",
+        "sitecore"
+      ],
+      "author": "user3368165",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Why does createAsofJoinEngine produce fewer matches when delayedTime is omitted?",
+      "url": "https://stackoverflow.com/questions/80017324/why-does-createasofjoinengine-produce-fewer-matches-when-delayedtime-is-omitted",
+      "summary": "",
+      "tags": [
+        "time-series",
+        "streaming",
+        "dolphindb"
+      ],
+      "author": "Ethan",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Is dereferencing a null pointer undefined behavior?",
+      "url": "https://stackoverflow.com/questions/80017311/is-dereferencing-a-null-pointer-undefined-behavior",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "c++23"
+      ],
+      "author": "Stack Exchange Broke The Law",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Best approach to handling missing levels in a multi-level LOB hierarchy for financial exposure reporting?",
+      "url": "https://stackoverflow.com/questions/80017320/best-approach-to-handling-missing-levels-in-a-multi-level-lob-hierarchy-for-fina",
+      "summary": "",
+      "tags": [
+        "analytics",
+        "data-analysis",
+        "finance",
+        "lob"
+      ],
+      "author": "SQL_starter_learner",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Elementor Text Edit issue",
+      "url": "https://stackoverflow.com/questions/80017323/elementor-text-edit-issue",
+      "summary": "",
+      "tags": [
+        "wordpress",
+        "elementor"
+      ],
+      "author": "Shiv Singh Keer",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "Supply conditional statement as function argument",
+      "url": "https://stackoverflow.com/questions/80017187/supply-conditional-statement-as-function-argument",
+      "summary": "",
+      "tags": [
+        "r"
+      ],
+      "author": "AkselA",
+      "comments": 3,
+      "score": 2
+    },
+    {
+      "title": "Database Search with many search codes vs full text",
+      "url": "https://stackoverflow.com/questions/80017271/database-search-with-many-search-codes-vs-full-text",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "php",
+        "mysql",
+        "search"
+      ],
+      "author": "user1121575",
+      "comments": 2,
+      "score": -3
+    },
+    {
+      "title": "I would like to know how to tween a float from 0 to 1",
+      "url": "https://stackoverflow.com/questions/80017309/i-would-like-to-know-how-to-tween-a-float-from-0-to-1",
+      "summary": "",
+      "tags": [
+        "godot"
+      ],
+      "author": "darkfenix",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "std::exception_ptr and catching and re-throwing exceptions",
+      "url": "https://stackoverflow.com/questions/80017291/stdexception-ptr-and-catching-and-re-throwing-exceptions",
+      "summary": "",
+      "tags": [
+        "c++",
+        "exception",
+        "try-catch"
+      ],
+      "author": "SU3",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "VS 2026 C# WinForms - Trying to save forms return the error popup: &quot;Value cannot be null. Parameter name: value.&quot;",
+      "url": "https://stackoverflow.com/questions/80017305/vs-2026-c-winforms-trying-to-save-forms-return-the-error-popup-value-cannot",
+      "summary": "",
+      "tags": [
+        "c#",
+        "winforms",
+        "visual-studio-2026"
+      ],
+      "author": "Richard B. Sorensen",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Getting Combination Permutations of Several Lists, With Segments of Length N",
+      "url": "https://stackoverflow.com/questions/80017292/getting-combination-permutations-of-several-lists-with-segments-of-length-n",
+      "summary": "",
+      "tags": [
+        "python",
+        "list",
+        "permutation"
+      ],
+      "author": "VivianHeart",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Monaco failing to load web worker from CDN",
+      "url": "https://stackoverflow.com/questions/80017295/monaco-failing-to-load-web-worker-from-cdn",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "cdn",
+        "web-worker",
+        "monaco-editor",
+        "dynamic-import"
+      ],
+      "author": "Twineee The JavaScript Wizard",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Can CMake macros be undefined/removed/deleted?",
+      "url": "https://stackoverflow.com/questions/80017229/can-cmake-macros-be-undefined-removed-deleted",
+      "summary": "",
+      "tags": [
+        "cmake"
+      ],
+      "author": "Ti Strga",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How can I find the maximum element in an array in C?",
+      "url": "https://stackoverflow.com/questions/80017217/how-can-i-find-the-maximum-element-in-an-array-in-c",
+      "summary": "",
+      "tags": [
+        "arrays",
+        "c",
+        "for-loop",
+        "max"
+      ],
+      "author": "Selva",
+      "comments": 3,
+      "score": -2
+    },
+    {
+      "title": "QR code to fill username and password fields for RFgen",
+      "url": "https://stackoverflow.com/questions/80017286/qr-code-to-fill-username-and-password-fields-for-rfgen",
+      "summary": "",
+      "tags": [
+        "python",
+        "qr-code"
+      ],
+      "author": "mnickey",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "iOS 26: bars don&#39;t follow vertical ScrollViews inside a horizontal paging ScrollView (hairline at rest, no soft edge)",
+      "url": "https://stackoverflow.com/questions/80017303/ios-26-bars-dont-follow-vertical-scrollviews-inside-a-horizontal-paging-scroll",
+      "summary": "",
+      "tags": [
+        "swiftui",
+        "uiscrollview",
+        "swiftui-scrollview",
+        "liquid-glass"
+      ],
+      "author": "Andriy Gordiychuk",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Can I git commit and push in the Agents Window in VS Code?",
+      "url": "https://stackoverflow.com/questions/80017287/can-i-git-commit-and-push-in-the-agents-window-in-vs-code",
+      "summary": "",
+      "tags": [
+        "git",
+        "vs-code"
+      ],
+      "author": "Daniel Guenther",
+      "comments": 0,
+      "score": -7
+    },
+    {
+      "title": "scipy.solve_ivp TypeError: float() argument must be a string or a real number, not &#39;function&#39;",
+      "url": "https://stackoverflow.com/questions/80017270/scipy-solve-ivp-typeerror-float-argument-must-be-a-string-or-a-real-number-n",
+      "summary": "",
+      "tags": [
+        "scipy",
+        "ode",
+        "lambdify"
+      ],
+      "author": "tmm",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "Copilot Studio shows “No connections available” although connections are created and visible in Power Apps",
+      "url": "https://stackoverflow.com/questions/80017293/copilot-studio-shows-no-connections-available-although-connections-are-created",
+      "summary": "",
+      "tags": [
+        "powerapps",
+        "microsoft-copilot-studio"
+      ],
+      "author": "Luis Roberto Franco",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Deriv R package fails to compile on Alpine Linux",
+      "url": "https://stackoverflow.com/questions/80017149/deriv-r-package-fails-to-compile-on-alpine-linux",
+      "summary": "",
+      "tags": [
+        "r",
+        "linux",
+        "alpine-linux",
+        "musl"
+      ],
+      "author": "Serge",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "How to enable an Oracle db user to access package variables?",
+      "url": "https://stackoverflow.com/questions/80017276/how-to-enable-an-oracle-db-user-to-access-package-variables",
+      "summary": "",
+      "tags": [
+        "oracle-database",
+        "oracle12c"
+      ],
+      "author": "DaveKub",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "How do I resize a background image to height: 100%;?",
+      "url": "https://stackoverflow.com/questions/80017239/how-do-i-resize-a-background-image-to-height-100",
+      "summary": "",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "author": "JacaneU",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "onStartShouldSetPanResponder vs onStartShouldSetPanResponderCapture in react native",
+      "url": "https://stackoverflow.com/questions/80017226/onstartshouldsetpanresponder-vs-onstartshouldsetpanrespondercapture-in-react-nat",
+      "summary": "",
+      "tags": [
+        "react-native",
+        "gesture",
+        "panresponder"
+      ],
+      "author": "Abhinandan Kushwaha",
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "title": "Can a defaulted comparison operator have parameters of types `const A` and `A`?",
+      "url": "https://stackoverflow.com/questions/80017253/can-a-defaulted-comparison-operator-have-parameters-of-types-const-a-and-a",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "c++20",
+        "comparison-operators",
+        "equality-operator"
+      ],
+      "author": "Fedor",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "How to check if a function reference parameter is a specific variable in Powershell 7.7?",
+      "url": "https://stackoverflow.com/questions/80017179/how-to-check-if-a-function-reference-parameter-is-a-specific-variable-in-powersh",
+      "summary": "",
+      "tags": [
+        "powershell"
+      ],
+      "author": "Symfony-Wonderer",
+      "comments": 2,
+      "score": -5
+    },
+    {
+      "title": "Problems defining derivative of a function",
+      "url": "https://stackoverflow.com/questions/80017237/problems-defining-derivative-of-a-function",
+      "summary": "",
+      "tags": [
+        "python",
+        "plot",
+        "scipy",
+        "derivative"
+      ],
+      "author": "user32986171",
+      "comments": 1,
+      "score": 3
+    }
+  ]
+}

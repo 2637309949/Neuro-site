@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T08:55:51.166011+00:00",
+  "source": "oschina",
+  "count": 20,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "概要",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "评论数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    }
+  ],
+  "items": [
+    {
+      "title": "AI 让“自托管”又变得好玩了",
+      "url": "https://www.oschina.net/news/503872/ai-made-self-hosting-fun-again",
+      "summary": "一个玩了十几年“自托管了”的极客，最近写了篇博客说，自己对这件事的热情又回来了。 jlelse 的说法是他从没真正停下来过，只是懒得折腾新东西了，...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "微信开源 WeMM-Ecom：多模态基础模型家族、基于真实电商需求驱动",
+      "url": "https://www.oschina.net/news/503871",
+      "summary": "一袋 500g 装的咖啡豆，和两袋 250g 的组合装，外观相似、总重一样，但它们不是一个 SKU。这种差别，通用多模态模型基本看不出来。 这正是腾讯微信...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "🔥🔥开源接口平台 v6.5.3 发布",
+      "url": "https://www.oschina.net/news/503870",
+      "summary": "ApiGo 是一款在线接口开发和管理平台，多数据库插件化数据源框架、SQL2API 。支持 WorkBuddy、千问办公、Trea Work、豆包等 AI 办公平台 MCP 接入...",
+      "author": "鲨鱼不刷牙",
+      "comments": 0
+    },
+    {
+      "title": "🔥 拾趣 Magpie v0.2.1 发布：多项功能细节优化",
+      "url": "https://www.oschina.net/news/503869",
+      "summary": "🔥 拾趣 Magpie v0.2.1 发布：多项功能细节优化 拾趣 (Magpie)是一款跨平台沉浸式自定义AI 划词桌面工具 划选或双击，浮动条随即弹出：翻译、解释...",
+      "author": "anziguoer",
+      "comments": 0
+    },
+    {
+      "title": "【AI 智能运维平台】本周更新：编排中心支持将智能体生成的文件发送IM群webhook",
+      "url": "https://www.oschina.net/news/503868",
+      "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。...",
+      "author": "bklitecanway",
+      "comments": 0
+    },
+    {
+      "title": "mybatis之:fire: xbatis 1.10.15发版，最好用最简单最方便的ORM !",
+      "url": "https://www.oschina.net/news/503866",
+      "summary": "推荐理由： 强、强、强 ，单表？连表？不想连表？让你直接少写 1/3 甚至 2/3 的持久层代码；API 简单 快捷 优雅 简洁 构建 SQL 非常强！用过的 没用...",
+      "author": "Ai东",
+      "comments": 0
+    },
+    {
+      "title": "VS Code 1.148 加了个功能：agent 干活时别让电脑睡着",
+      "url": "https://www.oschina.net/news/503865/visual-studio-code-v1-148",
+      "summary": "刚刚发布的 VS Code 1.148 新增了一项功能，听起来很像段子：让电脑别睡着。 它是给 agent 用的。微软的说法是，支持的 Agent Host 在 agent 干活的...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "qData 主数据平台开源版 v1.0.2 发布：聚焦功能细节，完善数据展示与服务授权体验",
+      "url": "https://www.oschina.net/news/503864",
+      "summary": "本次更新以问题修复和功能细节优化为主，涉及多源融合、数据质量、数据分发及授权管理四个模块，重点完善来源数据展示、合并结果展示、质量任务列表...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "qData 数据中台开源版 v1.6.9 发布：修复数据集成任务克隆问题，优化数据查询提示保护",
+      "url": "https://www.oschina.net/news/503863",
+      "summary": "qData 数据中台开源版 v1.6.9 正式发布。 本次更新围绕数据集成、数据查询和任务管理，对任务克隆、SQL 查询异常及任务操作确认等问题进行了修复与...",
+      "author": "千桐科技",
+      "comments": 0
+    },
+    {
+      "title": "国产数据迁移同步工具 CloudCanal 新版本，支持自定义消息解析，优化 Binlog 同步性能",
+      "url": "https://www.oschina.net/news/503862",
+      "summary": "CloudCanal 免费社区版 是 ClouGence 公司推出的一款全自研、可视化、自动化数据迁移同步工具，具备 结构迁移、数据迁移、数据同步、数据校验...",
+      "author": "ClouGence",
+      "comments": 0
+    },
+    {
+      "title": "GTA 6 的 PC 移植刚跑起来，主创宣布退出了",
+      "url": "https://www.oschina.net/news/503861/gta-6-pc-port-shutdown-rockstar-leonida-recomp",
+      "summary": "11 月 23 日，知名泄密者 Cyberleek 放出了 GTA 6 Xbox 版游戏的主可执行文件。Leonida 项目的 Discord 社群随即更新：「游戏快要启动了，目前是黑...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "DeepSeek 正在灰度测试“对话消耗额度”",
+      "url": "https://www.oschina.net/news/503859",
+      "summary": "DeepSeek 网页端和 App 里，多了一个小图标。点开，是这一轮对话的账单。 11 月 26 日起，部分用户发现回答下方出现「本轮消耗额度」入口，里面列出...",
+      "author": "局",
+      "comments": 0
+    },
+    {
+      "title": "迁移批次不只影响进度：还改变三年成本",
+      "url": "https://www.oschina.net/news/503858",
+      "summary": "金融行业 VMware 替代项目，常把技术路线与预算分开讨论：技术团队计算怎样迁移，采购团队比较软件价格，业务部门最后确认窗口。到了实施阶段，三者...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "容器管应用、CMP 管治理：采购边界怎么划",
+      "url": "https://www.oschina.net/news/503857",
+      "summary": "企业同时运行虚拟机、容器和公有云服务以后，常会收到两类建设建议：增加容器平台，或引入多云管理平台。两者都可能提供统一界面，却解决不同的问题...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "GPUWorks 26.12.0 发布：接入 K8s 与 Slurm，解锁更多 GPU 资源接入",
+      "url": "https://www.oschina.net/news/503855",
+      "summary": "大家好！GPUWorks 首个开源版本发布至今已有 24 天。感谢社区伙伴们的关注、试用与反馈！过去这段时间，我们连续发布了 4 个 Bug 修复版本，也在大...",
+      "author": "ZStack社区版",
+      "comments": 0
+    },
+    {
+      "title": "能迁移不等于能用：替代还要补运维证据",
+      "url": "https://www.oschina.net/news/503854",
+      "summary": "VMware 替代方案的比较，往往从“能否迁移”开始，却应延伸到“迁移后谁来维护”。源端业务能够复制到目标环境，只完成了一部分工作。系统驱动、备...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "🔥 Jync v2.4.8 · AI 助手增强、会话超时与元数据库容错",
+      "url": "https://www.oschina.net/news/503853",
+      "summary": "本版概要 v2.4.8 是 2.4.7 之后的稳定性与运维体验版本：补齐 AI 助手的日志/实例检索与空回复兜底， 新增登录会话超时管理，并让 H2 元数据库异常...",
+      "author": "沐编程",
+      "comments": 0
+    },
+    {
+      "title": "不想用付费 Jira、禅道太重，我们自研了一套轻量化开源项目管理软件",
+      "url": "https://www.oschina.net/news/503851",
+      "summary": "做过软件研发的朋友，应该都经历过这样的场景： 项目刚开始的时候，大家靠微信群、Excel 和会议沟通，事情不多，似乎也能运转。 但随着项目越来越...",
+      "author": "小易管家",
+      "comments": 0
+    },
+    {
+      "title": "AI优化云存储市场数据出炉：2026H1腾讯云增速、增量双第一",
+      "url": "https://www.oschina.net/news/503849",
+      "summary": "11 月 23 日，国际数据公司（IDC）发布《中国智算云服务市场（2026上半年）跟踪》报告。数据显示，在整体 AI 云存储市场中，腾讯云营收同比增长 29...",
+      "author": "开源科技",
+      "comments": 0
+    },
+    {
+      "title": "神州控股科捷亮相第四届电子产业供应链大会，具身智能实战引关注",
+      "url": "https://www.oschina.net/news/503848",
+      "summary": "11月26日，2026第四届电子产业供应链大会在深圳举行。大会以“智链重构·芯引未来”为主题，由中国物流与采购联合会主办、中物联电子产业供应链分会...",
+      "author": "开源科技",
+      "comments": 0
+    }
+  ]
+}

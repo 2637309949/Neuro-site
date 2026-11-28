@@ -1,0 +1,279 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T15:52:13.451400+00:00",
+  "source": "mcp",
+  "count": 30,
+  "columns": [
+    {
+      "name": "项目名",
+      "key": "repo",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "描述",
+      "key": "summary",
+      "type": "text"
+    },
+    {
+      "name": "语言",
+      "key": "language",
+      "type": "text",
+      "placement": "title"
+    },
+    {
+      "name": "星数",
+      "key": "stars",
+      "type": "metric",
+      "icon": "Star"
+    }
+  ],
+  "items": [
+    {
+      "title": "n8n：AI原生工作流自动化平台",
+      "repo": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "summary": "n8n 是一款 fair‑code 工作流自动化平台，支持可视化搭建与 JavaScript、Python 等代码混合，兼容 OpenAI、Anthropic、Google 等模型，提供 1500+ 集成和 9000+ 模板，可自托管或云部署，具备角色访问、审计等企业级安全。",
+      "language": "TypeScript",
+      "stars": 196281
+    },
+    {
+      "title": "Google发布Gemini CLI：开源终端AI代理",
+      "repo": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "summary": "Google推出开源AI终端工具Gemini CLI，支持Gemini模型直接调用，提供搜索、文件操作等内置工具，兼容多种安装方式，采用Apache 2.0协议。",
+      "language": "TypeScript",
+      "stars": 105958
+    },
+    {
+      "title": "Scrapling：自适应网页抓取框架",
+      "repo": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "summary": "Scrapling 是一款自适应网页抓取框架，解析器可学习页面变动并自动定位元素；内置 StealthyFetcher 可绕过 Cloudflare Turnstile 等反爬；Spider 支持并发多会话爬取、暂停/恢复及自动代理轮换；提供实时统计与流式输出，几行 Python 代码即可完成从单请求到全规模爬虫。",
+      "language": "Python",
+      "stars": 69370
+    },
+    {
+      "title": "Ruflo：Claude Code 与 Codex 的代理元框架",
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "summary": "Ruflo 为 Claude Code 与 Codex 提供执行层，内置 100+ 专业代理、协同群体、自学习记忆、跨机器安全通信及企业防护。通过 `npx ruflo init` 即可启动，自动路由任务、学习模式、协调代理，无需掌握大量 MCP 工具。",
+      "language": "TypeScript",
+      "stars": 64279
+    },
+    {
+      "title": "World Monitor 实时全球情报仪表盘",
+      "repo": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "summary": "World Monitor 是实时全球情报平台，提供500+新闻源（15类）经AI合成摘要，双地图引擎（3D globe 与 WebGL 平面图）含56层；支持军经灾害等跨流关联、31国不稳定指数、29交易所金融雷达；本地AI运行无需API键，六种站点变体和跨平台桌面客户端（Tauri2），支持25语言。",
+      "language": "TypeScript",
+      "stars": 61799
+    },
+    {
+      "title": "TrendRadar：AI 驱动的多平台舆情监控工具",
+      "repo": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "summary": "AI 驱动舆情监控，聚合多平台热点与 RSS，支持关键词筛选、AI 翻译与简报。可通过 Docker 本地或云端部署，接入 MCP 实现情感洞察与趋势预测。支持微信、飞书、钉钉、Telegram、邮件等多渠道推送。",
+      "language": "Python",
+      "stars": 60524
+    },
+    {
+      "title": "Context7 平台：为 LLM 提供最新代码文档",
+      "repo": "upstash/context7",
+      "url": "https://github.com/upstash/context7",
+      "summary": "Context7 能实时获取库的最新、对应版本的文档和代码示例，直接注入 LLM 提示。提供 CLI+Skill 与 MCP 两种接入方式，支持 OAuth 生成 API Key，Node18+ 环境一键安装，适配多代理。",
+      "language": "TypeScript",
+      "stars": 59039
+    },
+    {
+      "title": "Chrome DevTools MCP",
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "summary": "Chrome DevTools MCP 让 AI 编码助手（如 Antigravity、Claude、Cursor、Copilot）通过 MCP 服务器控制并检查实时 Chrome 浏览器，提供 CLI、性能追踪、网络请求分析、截图、控制台源码映射、基于 puppeteer 的可靠自动化等功能，支持 Chrome 与 Chrome for Testing，可选 CrUX 性能数据，收集使用统计提升可靠性。",
+      "language": "TypeScript",
+      "stars": 46837
+    },
+    {
+      "title": "字节跳动 UI‑TARS 桌面版开源多模态 AI 代理",
+      "repo": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "summary": "UI‑TARS Desktop 基于 UI‑TARS 模型的本地桌面应用，提供远程电脑和浏览器操作，一键远程控制。配套的 Agent TARS 包含 CLI 与 Web UI，支持多工具流式调用、运行时统计、事件流查看，融合 GUI 与视觉能力，实现类人任务完成。",
+      "language": "TypeScript",
+      "stars": 37958
+    },
+    {
+      "title": "GitHub 官方 MCP 服务器",
+      "repo": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "summary": "GitHub MCP 服务器让 AI 工具可通过自然语言读取仓库、管理 Issue/PR、监控 CI/CD、分析代码并协作，支持远程托管及 VS Code 一键安装。",
+      "language": "Go",
+      "stars": 31403
+    },
+    {
+      "title": "DeusData发布高效代码智能MCP服务器",
+      "repo": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "summary": "该MCP服务器可在毫秒级完成代码库全索引，支持158种语言，查询亚毫秒，生成持久知识图谱，单二进制文件零依赖，跨平台本地安全处理。",
+      "language": "C",
+      "stars": 30979
+    },
+    {
+      "title": "...",
+      "repo": "assafelovic/gpt-researcher",
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "summary": "...",
+      "language": "Python",
+      "stars": 28287
+    },
+    {
+      "title": "Serena：基于MCP的代码语义编辑与检索工具包",
+      "repo": "oraios/serena",
+      "url": "https://github.com/oraios/serena",
+      "summary": "Serena提供语义级代码检索、编辑和重构工具，基于符号关系结构实现IDE级功能。通过MCP协议集成代理系统，支持复杂代码库的高效操作。实测显示其可将跨文件操作步骤从8-12步压缩为1步，提升开发效率。",
+      "language": "Python",
+      "stars": 26402
+    },
+    {
+      "title": "Activepieces 开源 AI 自动化平台",
+      "repo": "activepieces/activepieces",
+      "url": "https://github.com/activepieces/activepieces",
+      "summary": "Activepieces 基于 TypeScript，提供 280+ 可作为 MCP 服务器的组件，支持无代码构建、分支循环、自动重试等功能，集成 AI 代理，可自托管并具备安全控制，兼容 Claude Desktop、Cursor 等工具。",
+      "language": "TypeScript",
+      "stars": 23251
+    },
+    {
+      "title": "n8n-MCP：为 AI 助手提供 n8n 节点全量访问的模型上下文协议",
+      "repo": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "summary": "该服务器在数分钟内部署，向 Claude 等 AI 提供对 2150 个 n8n 节点（826 核心、1324 社区）属性、操作和文档的结构化访问，覆盖率超 90%，并提供每日 100 次免费调用、即时模板库等功能，建议在非生产环境先行测试。",
+      "language": "TypeScript",
+      "stars": 22270
+    },
+    {
+      "title": "1Panel-dev/MaxKB",
+      "repo": "1Panel-dev/MaxKB",
+      "url": "https://github.com/1Panel-dev/MaxKB",
+      "summary": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。",
+      "language": "Python",
+      "stars": 22077
+    },
+    {
+      "title": "FunASR：工业级语音识别工具",
+      "repo": "modelscope/FunASR",
+      "url": "https://github.com/modelscope/FunASR",
+      "summary": "工业级语音识别工具，实时速度最高340倍，支持50余种语言，提供说话人分离、情感检测、流式识别，一次API调用完成VAD、转写、标点。提供GPU加速模型Fun‑ASR‑Nano及CPU版SenseVoice。",
+      "language": "Python",
+      "stars": 19201
+    },
+    {
+      "title": "Context Mode：AI 编码代理的上下文优化方案",
+      "repo": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "将沙盒工具输出从315KB压缩至5.4KB，减量98%；使用SQLite记录编辑、git、任务等会话信息，并通过FTS5+BM25检索恢复相关上下文；支持17个平台，采用代码生成而非数据处理，大幅降低上下文消耗。",
+      "language": "TypeScript",
+      "stars": 18885
+    },
+    {
+      "title": "Nuclear：开源免广告音乐播放器",
+      "repo": "nukeop/nuclear",
+      "url": "https://github.com/nukeop/nuclear",
+      "summary": "免费开源音乐播放器Nuclear，支持Windows、macOS、Linux，提供搜索、播放列表、主题、插件系统及内置MCP服务器，可让AI代理控制播放，具备自动更新、快捷键等功能。",
+      "language": "TypeScript",
+      "stars": 18037
+    },
+    {
+      "title": "微软面向初学者的模型上下文协议教程",
+      "repo": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "summary": "该开源课程通过 .NET、Java、TypeScript、JavaScript、Rust、Python 等语言的实战示例，讲解模型上下文协议（MCP）的基本概念、会话设置、服务编排等，提供多语言文档并支持 GitHub Action 自动更新。",
+      "language": "Jupyter Notebook",
+      "stars": 16745
+    },
+    {
+      "title": "Trigger.dev：全托管 AI 代理与工作流平台",
+      "repo": "triggerdotdev/trigger.dev",
+      "url": "https://github.com/triggerdotdev/trigger.dev",
+      "summary": "Trigger.dev 是基于 TypeScript 的开源平台，提供无超时的长时任务、持久化重试、队列、弹性伸缩。支持系统包自定义、人工审批、实时流式响应、完整追踪日志，并提供 JS/TS SDK、Cron、React Hook、批量触发等扩展功能。",
+      "language": "TypeScript",
+      "stars": 15635
+    },
+    {
+      "title": "xiaohongshu-mcp：AI 助手访问小红书数据的工具",
+      "repo": "xpzouying/xiaohongshu-mcp",
+      "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+      "summary": "提供 Openclaw 深度集成版（Docker 部署）和 x-mcp 浏览器插件版（免配置）两种接入方式。支持登录、发布图文/视频、关键词搜索、获取首页推荐、获取帖子详情及互动数据、发表评论、获取用户主页等功能，适配本地图片/视频路径并自动处理格式转换。",
+      "language": "Go",
+      "stars": 14653
+    },
+    {
+      "title": "OpenMetadata 开源数据与AI上下文平台",
+      "repo": "open-metadata/OpenMetadata",
+      "url": "https://github.com/open-metadata/OpenMetadata",
+      "summary": "OpenMetadata 是最大、增长最快的开源项目，提供数据目录、元数据管理和 AI 上下文层。通过130+连接器、统一的元数据知识图谱、语义搜索、API 与 SDK，提供数据存在、含义、所有权、血缘、质量、业务语义等全链路治理，帮助 AI 与用户获取可信上下文。",
+      "language": "TypeScript",
+      "stars": 14465
+    },
+    {
+      "title": "Skill Seekers：将文档转为AI技能的统一数据层",
+      "repo": "yusufkaraaslan/Skill_Seekers",
+      "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+      "summary": "Skill Seekers 将文档站点、GitHub 仓库、PDF、视频、笔记本等10余种源转换为结构化知识资产，可一键导出为 Claude、Gemini、OpenAI 技能或 LangChain、LlamaIndex、Cursor 等 RAG 与编码助手使用，提供 24+ 预设配置和多仓库生态。",
+      "language": "Python",
+      "stars": 14451
+    },
+    {
+      "title": "ARIS：Markdown技能实现自主ML研究与审计",
+      "repo": "wanshuiyin/Auto-claude-code-research-in-sleep",
+      "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "summary": "ARIS是一套基于Markdown的轻量技能，可在Claude Code、Codex、OpenClaw等LLM代理中实现跨模型评审、创意发现、实验自动化；内置自审机制，检测61种完整性风险；支持多模态电影脚本生成和方法图绘制；提供AI招聘面试资料。",
+      "language": "Python",
+      "stars": 13356
+    },
+    {
+      "title": "FastAPI-MCP：将FastAPI端点转换为MCP工具",
+      "repo": "tadata-org/fastapi_mcp",
+      "url": "https://github.com/tadata-org/fastapi_mcp",
+      "summary": "FastAPI-MCP支持原生集成FastAPI端点，提供内置认证、保留请求/响应模式及文档，通过ASGI传输实现高效通信，支持灵活部署方案。",
+      "language": "Python",
+      "stars": 11941
+    },
+    {
+      "title": "XHS-Downloader：小红书链接提取与作品下载工具",
+      "repo": "JoeanAmier/XHS-Downloader",
+      "url": "https://github.com/JoeanAmier/XHS-Downloader",
+      "summary": "该工具可提取小红书账号发布、收藏、点赞、专辑及搜索结果的作品链接，获取信息和下载地址，支持文件及livePhoto下载、断点续传、剪贴板监听、命令行、API/MCP调用，并可自定义命名与存储，提供跨平台可执行文件或源码。",
+      "language": "Python",
+      "stars": 11937
+    },
+    {
+      "title": "nginx-ui：Nginx 可视化管理界面",
+      "repo": "0xJacky/nginx-ui",
+      "url": "https://github.com/0xJacky/nginx-ui",
+      "summary": "nginx-ui 是基于 Web 的 Nginx 管理界面，提供 CPU、内存、负载、磁盘等实时监控；配置修改自动备份并支持版本对比恢复；支持多节点集群镜像管理；可导出加密配置用于快速部署；内置多模型 ChatGPT 助手辅助优化配置。",
+      "language": "Go",
+      "stars": 11298
+    },
+    {
+      "title": "HexStrike AI MCP Agents 6.0 版本",
+      "repo": "0x4m4/hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "summary": "HexStrike AI MCP Agents 6.0 基于多代理架构，集成Claude、GPT、Copilot等AI，内置150+网络、Web、云、二进制等安全工具，提供智能决策、工具选择、参数优化、攻击链发现等功能，拥有12+自主AI代理（漏洞情报、赏金、CTF等）和实时可视化仪表盘。",
+      "language": "Python",
+      "stars": 10289
+    },
+    {
+      "title": "mcp-use：全栈MCP框架，构建ChatGPT/Claude应用",
+      "repo": "mcp-use/mcp-use",
+      "url": "https://github.com/mcp-use/mcp-use",
+      "summary": "mcp-use提供TS/Python SDK，可快速创建MCP服务器和应用，支持在线Inspector调试，支持在Manufacturing MCP Cloud部署并提供监控、日志等功能；可为Claude、ChatGPT等客户端构建交互式小部件，实现一次编写、跨平台运行。",
+      "language": "TypeScript",
+      "stars": 10284
+    }
+  ]
+}

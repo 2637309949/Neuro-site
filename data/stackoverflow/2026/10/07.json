@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T07:11:56.241445+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "Building AI in Arduino",
+      "url": "https://stackoverflow.com/questions/80008378/building-ai-in-arduino",
+      "summary": "",
+      "tags": [
+        "c++",
+        "neural-network",
+        "arduino"
+      ],
+      "author": "Root Groves",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to run a PHP system in github page website?",
+      "url": "https://stackoverflow.com/questions/80008382/how-to-run-a-php-system-in-github-page-website",
+      "summary": "",
+      "tags": [
+        "php",
+        "github",
+        "supabase"
+      ],
+      "author": "Jazmin Landicho",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Namespace Registry Link Namespace fails with error=invalid_request&amp;error_description=missing required code challenge",
+      "url": "https://stackoverflow.com/questions/80008387/namespace-registry-link-namespace-fails-with-error-invalid-requesterror-descrip",
+      "summary": "",
+      "tags": [
+        "salesforce-lightning",
+        "salesforce-developer"
+      ],
+      "author": "Saurabh Pratap singh",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Configure Unity Gateway rate limits for system.ai model services",
+      "url": "https://stackoverflow.com/questions/80008385/configure-unity-gateway-rate-limits-for-system-ai-model-services",
+      "summary": "",
+      "tags": [
+        "artificial-intelligence",
+        "databricks",
+        "databricks-unity-catalog"
+      ],
+      "author": "AdhiHari",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Take a full-page screenshot using a Chromium-based driver?",
+      "url": "https://stackoverflow.com/questions/80008379/take-a-full-page-screenshot-using-a-chromium-based-driver",
+      "summary": "",
+      "tags": [
+        "selenium-webdriver"
+      ],
+      "author": "Saikiran Biradar",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "VBA macro ms word - change photo caption based on reference within file name",
+      "url": "https://stackoverflow.com/questions/80008361/vba-macro-ms-word-change-photo-caption-based-on-reference-within-file-name",
+      "summary": "",
+      "tags": [
+        "vba",
+        "ms-word",
+        "caption",
+        "fig",
+        "figcaption"
+      ],
+      "author": "Aosyd",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "How to convert a UUID to an unsigned long?",
+      "url": "https://stackoverflow.com/questions/80008360/how-to-convert-a-uuid-to-an-unsigned-long",
+      "summary": "",
+      "tags": [
+        "c++",
+        "uuid"
+      ],
+      "author": "Natan Camargos",
+      "comments": 1,
+      "score": 1
+    },
+    {
+      "title": "What are the differences between CGI and ASP?",
+      "url": "https://stackoverflow.com/questions/80008376/what-are-the-differences-between-cgi-and-asp",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Prabhath Nishantha",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Secure Code Warrior Server side formula injection via CSV",
+      "url": "https://stackoverflow.com/questions/80008374/secure-code-warrior-server-side-formula-injection-via-csv",
+      "summary": "",
+      "tags": [
+        "advice"
+      ],
+      "author": "Corey Prater",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "How to read two elements of an array using operator&gt;&gt; in C++?",
+      "url": "https://stackoverflow.com/questions/80008335/how-to-read-two-elements-of-an-array-using-operator-in-c",
+      "summary": "",
+      "tags": [
+        "c++",
+        "arrays"
+      ],
+      "author": "Carlos Barbosa",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "Why is git-filter not permanently deleting files from my repository?",
+      "url": "https://stackoverflow.com/questions/80008362/why-is-git-filter-not-permanently-deleting-files-from-my-repository",
+      "summary": "",
+      "tags": [
+        "python",
+        "git",
+        "gitignore"
+      ],
+      "author": "ATL_DEV",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "C++ has pointers, smart pointers and references for indirect access, so what is std::indirect?",
+      "url": "https://stackoverflow.com/questions/80008249/c-has-pointers-smart-pointers-and-references-for-indirect-access-so-what-is",
+      "summary": "",
+      "tags": [
+        "c++",
+        "smart-pointers",
+        "value-type",
+        "reference-type",
+        "c++26"
+      ],
+      "author": "einpoklum",
+      "comments": 3,
+      "score": 4
+    },
+    {
+      "title": "BAT file doesn&#39;t seem to run, but code works on command line",
+      "url": "https://stackoverflow.com/questions/80008290/bat-file-doesnt-seem-to-run-but-code-works-on-command-line",
+      "summary": "",
+      "tags": [
+        "batch-file",
+        "cmd"
+      ],
+      "author": "Eliezer",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "MCPJam Playground never renders a tool&#39;s _meta.ui.resourceUri widget (MCP Apps / ui:// resource) even though resources/read succeeds",
+      "url": "https://stackoverflow.com/questions/80008341/mcpjam-playground-never-renders-a-tools-meta-ui-resourceuri-widget-mcp-apps",
+      "summary": "",
+      "tags": [
+        "large-language-model",
+        "model-context-protocol",
+        "mcp-server"
+      ],
+      "author": "stefisha",
+      "comments": 0,
+      "score": -1
+    },
+    {
+      "title": "Why chmod command is not permitted in WSL Ubuntu on a Windows 11 system?",
+      "url": "https://stackoverflow.com/questions/80008300/why-chmod-command-is-not-permitted-in-wsl-ubuntu-on-a-windows-11-system",
+      "summary": "",
+      "tags": [
+        "advice",
+        "unix",
+        "windows-subsystem-for-linux",
+        "chmod"
+      ],
+      "author": "user85",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "Regex replace group reference and Unicode escape conflict",
+      "url": "https://stackoverflow.com/questions/80008271/regex-replace-group-reference-and-unicode-escape-conflict",
+      "summary": "",
+      "tags": [
+        "python",
+        "regex",
+        "unicode"
+      ],
+      "author": "jjmeric",
+      "comments": 2,
+      "score": 1
+    },
+    {
+      "title": "&quot;ng add @angular/material&quot; command fails with &quot;Error: ERR_PNPM_ADDING_TO_ROOT&quot;",
+      "url": "https://stackoverflow.com/questions/80008328/ng-add-angular-material-command-fails-with-error-err-pnpm-adding-to-root",
+      "summary": "",
+      "tags": [
+        "angular",
+        "npm",
+        "pnpm"
+      ],
+      "author": "Greg Burghardt",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How do I get all hosts on my Mininet custom topology to respond to ping using pingall?",
+      "url": "https://stackoverflow.com/questions/80008174/how-do-i-get-all-hosts-on-my-mininet-custom-topology-to-respond-to-ping-using-pi",
+      "summary": "",
+      "tags": [
+        "python",
+        "mininet"
+      ],
+      "author": "user33185410",
+      "comments": 1,
+      "score": 0
+    },
+    {
+      "title": "How to get SendAs emails from Account in Outlook VSTO C# code?",
+      "url": "https://stackoverflow.com/questions/80008310/how-to-get-sendas-emails-from-account-in-outlook-vsto-c-code",
+      "summary": "",
+      "tags": [
+        "c#",
+        "email",
+        "outlook",
+        "vsto"
+      ],
+      "author": "Dmitry Kosovets",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Problems with Webview - Kotlin Android development",
+      "url": "https://stackoverflow.com/questions/80008303/problems-with-webview-kotlin-android-development",
+      "summary": "",
+      "tags": [
+        "android",
+        "kotlin"
+      ],
+      "author": "Guesser",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "trying to configure apparmor for mariadb",
+      "url": "https://stackoverflow.com/questions/80008325/trying-to-configure-apparmor-for-mariadb",
+      "summary": "",
+      "tags": [
+        "ubuntu",
+        "mariadb",
+        "apparmor",
+        "mysqld-multi"
+      ],
+      "author": "raphael75",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Sorting Objects by Numerical Value Not Working For Two Sets?",
+      "url": "https://stackoverflow.com/questions/80008318/sorting-objects-by-numerical-value-not-working-for-two-sets",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "arrays",
+        "sorting",
+        "integer"
+      ],
+      "author": "DoNotPutMeInABox",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "MinGW g++ result of std::source_location is a relative path. Should it be absolute?",
+      "url": "https://stackoverflow.com/questions/80008235/mingw-g-result-of-stdsource-location-is-a-relative-path-should-it-be-absolu",
+      "summary": "",
+      "tags": [
+        "c++",
+        "mingw"
+      ],
+      "author": "pptaszni",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "Converting vector&lt;vector&lt;int&gt;&gt; to int",
+      "url": "https://stackoverflow.com/questions/80008150/converting-vectorvectorint-to-int",
+      "summary": "",
+      "tags": [
+        "c++",
+        "iterator",
+        "stdvector",
+        "dereference"
+      ],
+      "author": "Nikhil Borawat",
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "title": "Why doesn&#39;t Dump() seem to work inside my Linq query?",
+      "url": "https://stackoverflow.com/questions/80008324/why-doesnt-dump-seem-to-work-inside-my-linq-query",
+      "summary": "",
+      "tags": [
+        "c#",
+        "linqpad"
+      ],
+      "author": "Dan Schnau",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Faceboook Marketing API - Pagination cursors",
+      "url": "https://stackoverflow.com/questions/80008287/faceboook-marketing-api-pagination-cursors",
+      "summary": "",
+      "tags": [
+        "facebook-graph-api",
+        "facebook-marketing-api"
+      ],
+      "author": "Daniel Arevalo",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "How do I write a function that takes a matrix and a vector as inputs, loops through it column-wise, and outputs a vector?",
+      "url": "https://stackoverflow.com/questions/80008172/how-do-i-write-a-function-that-takes-a-matrix-and-a-vector-as-inputs-loops-thro",
+      "summary": "",
+      "tags": [
+        "r",
+        "matrix",
+        "vector",
+        "statistics",
+        "apply"
+      ],
+      "author": "oddonein",
+      "comments": 2,
+      "score": 0
+    },
+    {
+      "title": "how to enable IPv6 on ONU Huawei HG8010H?",
+      "url": "https://stackoverflow.com/questions/80008296/how-to-enable-ipv6-on-onu-huawei-hg8010h",
+      "summary": "",
+      "tags": [
+        "huawei-mobile-services"
+      ],
+      "author": "Scotti",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Automation API - Maximum number of versions is 100",
+      "url": "https://stackoverflow.com/questions/80008279/automation-api-maximum-number-of-versions-is-100",
+      "summary": "",
+      "tags": [
+        "autodesk-forge",
+        "autodesk-designautomation"
+      ],
+      "author": "jh_dempsey",
+      "comments": 0,
+      "score": -2
+    },
+    {
+      "title": "Can&#39;t debug MSIX WPF application",
+      "url": "https://stackoverflow.com/questions/80008277/cant-debug-msix-wpf-application",
+      "summary": "",
+      "tags": [
+        "wpf",
+        "msix"
+      ],
+      "author": "Shaitan",
+      "comments": 0,
+      "score": -4
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T08:43:32.118920+00:00",
+  "source": "stackoverflow",
+  "count": 30,
+  "columns": [
+    {
+      "name": "标题",
+      "key": "title",
+      "type": "link",
+      "hrefKey": "url"
+    },
+    {
+      "name": "标签",
+      "key": "tags",
+      "type": "taglist",
+      "placement": "title"
+    },
+    {
+      "name": "作者",
+      "key": "author",
+      "type": "text",
+      "hide": true
+    },
+    {
+      "name": "回答数",
+      "key": "comments",
+      "type": "metric",
+      "icon": "MessageSquare"
+    },
+    {
+      "name": "赞数",
+      "key": "score",
+      "type": "metric",
+      "icon": "TrendingUp"
+    },
+    {
+      "name": "摘要",
+      "key": "summary",
+      "type": "text",
+      "optional": true
+    }
+  ],
+  "items": [
+    {
+      "title": "How to Feed Fresh, Specific Website Data to an AI Chatbot in Real Time Without Building a Web Scraping Pipeline?",
+      "url": "https://stackoverflow.com/questions/80017585/how-to-feed-fresh-specific-website-data-to-an-ai-chatbot-in-real-time-without-b",
+      "summary": "",
+      "tags": [
+        "best-practices"
+      ],
+      "author": "Muhammad Hamza",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Why does upsert generate a new primary key when allow_insert_auto_id is enabled?",
+      "url": "https://stackoverflow.com/questions/80017570/why-does-upsert-generate-a-new-primary-key-when-allow-insert-auto-id-is-enabled",
+      "summary": "",
+      "tags": [
+        "python",
+        "primary-key",
+        "auto-increment",
+        "upsert",
+        "milvus"
+      ],
+      "author": "Civic Fiction",
+      "comments": 0,
+      "score": 1
+    },
+    {
+      "title": "Google Maps AdvancedMarkerElement not displaying markers with the new Maps JavaScript API",
+      "url": "https://stackoverflow.com/questions/80017573/google-maps-advancedmarkerelement-not-displaying-markers-with-the-new-maps-javas",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "google-maps",
+        "google-maps-api-3",
+        "google-maps-markers"
+      ],
+      "author": "ritualdev",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Google AdSense application rejected with only generic “meet program policies” message — no Policy Center or site-level details",
+      "url": "https://stackoverflow.com/questions/80017580/google-adsense-application-rejected-with-only-generic-meet-program-policies-me",
+      "summary": "",
+      "tags": [
+        "advice",
+        "adsense",
+        "google-search",
+        "google-search-console"
+      ],
+      "author": "Prateek Gupta",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Is there an official API to programmatically export a user&#39;s own WhatsApp chat history (including groups)?",
+      "url": "https://stackoverflow.com/questions/80017545/is-there-an-official-api-to-programmatically-export-a-users-own-whatsapp-chat-h",
+      "summary": "",
+      "tags": [
+        "whatsapp",
+        "whatsapp-cloud-api",
+        "model-context-protocol"
+      ],
+      "author": "Akhil Manikandan",
+      "comments": 0,
+      "score": -6
+    },
+    {
+      "title": "Generate matrix indexed by combinations",
+      "url": "https://stackoverflow.com/questions/80017539/generate-matrix-indexed-by-combinations",
+      "summary": "",
+      "tags": [
+        "python",
+        "matrix",
+        "linear-algebra"
+      ],
+      "author": "Chris1828",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Which is the reliable Backend for Node.js (plain javascript / javascript with typescript)?",
+      "url": "https://stackoverflow.com/questions/80017557/which-is-the-reliable-backend-for-node-js-plain-javascript-javascript-with-ty",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        "javascript",
+        "node.js",
+        "typescript",
+        "server"
+      ],
+      "author": "Alagu sundaram",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Command failed with EACCES",
+      "url": "https://stackoverflow.com/questions/80017554/command-failed-with-eacces",
+      "summary": "",
+      "tags": [
+        "reactjs",
+        "react-native",
+        "macos"
+      ],
+      "author": "Anny",
+      "comments": 1,
+      "score": -4
+    },
+    {
+      "title": "Populating values outside the App() function with current location(latitude and longitude) values to use to output the temperatures at that location",
+      "url": "https://stackoverflow.com/questions/80017543/populating-values-outside-the-app-function-with-current-locationlatitude-and",
+      "summary": "",
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "author": "Nash-Dev",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "How to determine number of epochs and batch size for YOLOv11 training",
+      "url": "https://stackoverflow.com/questions/80017542/how-to-determine-number-of-epochs-and-batch-size-for-yolov11-training",
+      "summary": "",
+      "tags": [
+        "computer-vision"
+      ],
+      "author": "Hafiz Rayyan Alam",
+      "comments": 1,
+      "score": -2
+    },
+    {
+      "title": "Can&#39;t clone GitHub repository for unknown reason",
+      "url": "https://stackoverflow.com/questions/80017533/cant-clone-github-repository-for-unknown-reason",
+      "summary": "",
+      "tags": [
+        "python",
+        "git",
+        "github",
+        "raspberry-pi-os"
+      ],
+      "author": "TXpy890",
+      "comments": 0,
+      "score": -8
+    },
+    {
+      "title": "GCC accepts ambiguous overloaded call to empty initializer list while Clang and MSVC rejects",
+      "url": "https://stackoverflow.com/questions/80017425/gcc-accepts-ambiguous-overloaded-call-to-empty-initializer-list-while-clang-and",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "initializer-list",
+        "overload-resolution"
+      ],
+      "author": "Anoop Rana",
+      "comments": 1,
+      "score": 2
+    },
+    {
+      "title": "How do I format and align buttons in Excel 2007 VBA?",
+      "url": "https://stackoverflow.com/questions/80017518/how-do-i-format-and-align-buttons-in-excel-2007-vba",
+      "summary": "",
+      "tags": [
+        "vba"
+      ],
+      "author": "David Goins",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Getting a map to work with the current google map API",
+      "url": "https://stackoverflow.com/questions/80017511/getting-a-map-to-work-with-the-current-google-map-api",
+      "summary": "",
+      "tags": [
+        "google-maps"
+      ],
+      "author": "Gary Dale",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Group-Object - enumerate only one property and not type or hash table",
+      "url": "https://stackoverflow.com/questions/80017470/group-object-enumerate-only-one-property-and-not-type-or-hash-table",
+      "summary": "",
+      "tags": [
+        "powershell",
+        "grouping",
+        "powershell-5.1"
+      ],
+      "author": "D&#225;vid Laczk&#243;",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "Set a prior for bernouilli GLM to restrain model&#39;s predicted occurrence for a specific value of a predictor",
+      "url": "https://stackoverflow.com/questions/80017513/set-a-prior-for-bernouilli-glm-to-restrain-models-predicted-occurrence-for-a-sp",
+      "summary": "",
+      "tags": [
+        "advice",
+        "r",
+        "glm",
+        "stan",
+        "brms"
+      ],
+      "author": "Mag",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Is this type-inference trick using undocumented/unspecified Rust semantics or is it fine?",
+      "url": "https://stackoverflow.com/questions/80017493/is-this-type-inference-trick-using-undocumented-unspecified-rust-semantics-or-is",
+      "summary": "",
+      "tags": [
+        "rust",
+        "type-inference"
+      ],
+      "author": "Lukas Kalbertodt",
+      "comments": 0,
+      "score": 4
+    },
+    {
+      "title": "How to get the right font size drawing the text?",
+      "url": "https://stackoverflow.com/questions/80017422/how-to-get-the-right-font-size-drawing-the-text",
+      "summary": "",
+      "tags": [
+        "android",
+        "fonts"
+      ],
+      "author": "Angella Yu",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "How to create PBKDF2-HMAC-SHA1 hash of a string with OpenSSL?",
+      "url": "https://stackoverflow.com/questions/80017482/how-to-create-pbkdf2-hmac-sha1-hash-of-a-string-with-openssl",
+      "summary": "",
+      "tags": [
+        "linux",
+        "openssl",
+        "pbkdf2",
+        "hmacsha1"
+      ],
+      "author": "stackerist",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "g-ir-scanner ignores rpath in shared libraries a target depends on?",
+      "url": "https://stackoverflow.com/questions/80017517/g-ir-scanner-ignores-rpath-in-shared-libraries-a-target-depends-on",
+      "summary": "",
+      "tags": [
+        "linker-errors",
+        "gnome",
+        "rpath",
+        "gobject-introspection"
+      ],
+      "author": "RJVB",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "How can I replace the spaces in the output of a bash command",
+      "url": "https://stackoverflow.com/questions/80017322/how-can-i-replace-the-spaces-in-the-output-of-a-bash-command",
+      "summary": "",
+      "tags": [
+        "bash"
+      ],
+      "author": "Furkan Karaduman",
+      "comments": 1,
+      "score": -3
+    },
+    {
+      "title": "Azure Functions Flex Consumption (Linux, .NET 10): Net.IBM.Data.Db2-lnx throws SQL0902 / AESEncryptADONET in DB2Connection constructor",
+      "url": "https://stackoverflow.com/questions/80017496/azure-functions-flex-consumption-linux-net-10-net-ibm-data-db2-lnx-throws-s",
+      "summary": "",
+      "tags": [
+        "best-practices",
+        ".net",
+        "azure",
+        "azure-functions",
+        "db2"
+      ],
+      "author": "BipinR",
+      "comments": 0,
+      "score": -3
+    },
+    {
+      "title": "Is dereferencing a null pointer undefined behavior in C++23?",
+      "url": "https://stackoverflow.com/questions/80017311/is-dereferencing-a-null-pointer-undefined-behavior-in-c23",
+      "summary": "",
+      "tags": [
+        "c++",
+        "language-lawyer",
+        "c++23"
+      ],
+      "author": "Stack Exchange Broke The Law",
+      "comments": 1,
+      "score": -6
+    },
+    {
+      "title": "Why don&#39;t my POSTs work in Django in PythonAnywhere?",
+      "url": "https://stackoverflow.com/questions/80017469/why-dont-my-posts-work-in-django-in-pythonanywhere",
+      "summary": "",
+      "tags": [
+        "django",
+        "post",
+        "pythonanywhere"
+      ],
+      "author": "Duncan Marshall",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "std::exception_ptr and catching and re-throwing exceptions",
+      "url": "https://stackoverflow.com/questions/80017291/stdexception-ptr-and-catching-and-re-throwing-exceptions",
+      "summary": "",
+      "tags": [
+        "c++",
+        "exception",
+        "try-catch"
+      ],
+      "author": "SU3",
+      "comments": 2,
+      "score": 3
+    },
+    {
+      "title": "What is the practical advantage of _BitInt(10) over int16_t when both have the same sizeof?",
+      "url": "https://stackoverflow.com/questions/80017070/what-is-the-practical-advantage-of-bitint10-over-int16-t-when-both-have-the-s",
+      "summary": "",
+      "tags": [
+        "c",
+        "types",
+        "c23",
+        "bitint"
+      ],
+      "author": "Mahdi Hosseini",
+      "comments": 3,
+      "score": 10
+    },
+    {
+      "title": "Why is my div class stuck at the bottom of my page?",
+      "url": "https://stackoverflow.com/questions/80017449/why-is-my-div-class-stuck-at-the-bottom-of-my-page",
+      "summary": "",
+      "tags": [
+        "html",
+        "css",
+        "flexbox",
+        "css-position"
+      ],
+      "author": "The Church Of Skibidi",
+      "comments": 0,
+      "score": -4
+    },
+    {
+      "title": "Which VCS for Unity projects sharing a 100–300+ GB asset library?",
+      "url": "https://stackoverflow.com/questions/80017458/which-vcs-for-unity-projects-sharing-a-100-300-gb-asset-library",
+      "summary": "",
+      "tags": [
+        "tooling-recommendation",
+        "version-control",
+        "web-hosting"
+      ],
+      "author": "Denis Rebrov",
+      "comments": 0,
+      "score": -5
+    },
+    {
+      "title": "How should I handle an unresolved high-severity picomatch vulnerability in Vite 8",
+      "url": "https://stackoverflow.com/questions/80017439/how-should-i-handle-an-unresolved-high-severity-picomatch-vulnerability-in-vite",
+      "summary": "",
+      "tags": [
+        "npm",
+        "vite"
+      ],
+      "author": "ayo",
+      "comments": 0,
+      "score": 0
+    },
+    {
+      "title": "Why does filtering an INT64 field named iso fail in MilvusClient.query()?",
+      "url": "https://stackoverflow.com/questions/80017366/why-does-filtering-an-int64-field-named-iso-fail-in-milvusclient-query",
+      "summary": "",
+      "tags": [
+        "python",
+        "database",
+        "vector",
+        "vector-database",
+        "int64"
+      ],
+      "author": "William Chole",
+      "comments": 1,
+      "score": 0
+    }
+  ]
+}
